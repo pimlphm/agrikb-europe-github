@@ -1,0 +1,130 @@
+{
+  "record_id": "market:seed:草莓苗_0e2ff007:20260524_211024:112b277ad3",
+  "created_at": "2026-05-24T21:10:24",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:seed:草莓苗_0e2ff007:20260524_211024:112b277ad3",
+    "@type": "agri:SeedMarketObservation",
+    "ontology_class": {
+      "class": "agri:SeedMarketObservation",
+      "broader": "agri:SeedAndSeedling",
+      "label": "种子种苗"
+    },
+    "product": {
+      "@id": "agri:product_草莓苗_0e2ff007",
+      "name": "草莓苗",
+      "broader": "agri:SeedAndSeedling"
+    },
+    "category": {
+      "@id": "agri:category_seed_92713d47",
+      "id": "seed",
+      "name": "种子种苗"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-24 21:10:24",
+    "decision": "草莓苗暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。",
+    "price_rows": [],
+    "sources": [
+      {
+        "title": "全国农产品批发市场价格信息系统 全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "1 day ago · 首页 价格 指数 价格行情 价格 报送 分析报告 新闻资讯 市场简介 农产品展示",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "cmmiao 草莓苗批发采购_草莓苗供应_草莓苗价格_草莓苗批发网 [第1页] - 惠农...",
+        "url": "https://www.cnhnb.com/p/cmmiao/",
+        "snippet": "惠农网 草莓苗 频道为您提供最新与优质的 草莓苗 批发 采购 供应商，为您优先提供在线询价，线上交易等服务。精选优质的 草莓苗 供应商，尽在惠农网 草莓苗 批发 采购 频道。",
+        "source": "cnhnb.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "154 种子价格查询_今日种子批发价格行情 _ 一亩田",
+        "url": "https://www.ymt.com/hangqing-154",
+        "snippet": "热门推荐 品类 地区 价格 集团简介 天机农业大数据 一亩田APP 豆牛代卖 客服电话：400-898-3008 豆牛代卖咨询：400-888-0664 客服时间：9:00-18:00 商务合作：bd@ 媒体咨询：oulianwei@",
+        "source": "ymt.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "B2DDDDAEC3E7C5FAB7A2 草莓苗批发-草莓苗批发价格、图片、排行 - 阿里巴巴",
+        "url": "https://www.1688.com/market/-B2DDDDAEC3E7C5FAB7A2.html",
+        "snippet": "草莓 苗 批发品牌/图片/ 价格 - 草莓 苗 批发 品牌精选大全，品质商家，实力商家，进口商家，微商微店一件代发，阿里巴巴为您找到3,458个有实力的 草莓 苗 批发品牌厂家，还包括 价格 ，高清大图，成交记录，可以选择旺旺在线，如实描述的店铺，支持支付宝付款。",
+        "source": "1688",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "0-13141 草莓苗批发价格_草莓苗供应_一手便宜货源 _ 一亩田",
+        "url": "https://www.ymt.com/supplylist/search-0-13141",
+        "snippet": "¥ 0.45 /棵 草莓 苗 带花带果带土带盆奶油草莓四季结果南北方种植室内阳台 3人买过 江苏丰县 ¥ 8 /棵 四季 草莓 苗 正宗甜查理红颜草莓脱毒草莓红颜四季结果阳台种植 1人买过",
+        "source": "ymt.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "aa2df4c130d55c081563023 精品草莓苗-精品草莓苗促销价格、精品草莓苗品牌 - 淘宝",
+        "url": "https://www.taobao.com/chanpin/aa2df4c130d55c081563023facaa36e6.html",
+        "snippet": "淘宝为你找到精品 草莓 苗 相关商品让你挑选，并提供了最新的折扣 价格 、详尽的产品规格参数、多样化的尺寸选项以及各相关品牌信息，助您以更优惠的价格选购到称心如意的商品。",
+        "source": "taobao.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "草莓苗暂无稳定价格表，已找到公开来源线索，适合先询价再决策。",
+      "advice": [
+        "至少比三家报价",
+        "核对品牌规格和批号",
+        "优先选择可开票渠道"
+      ],
+      "risk": "农资采购要核对登记证、有效期、售后和配送范围，避免只比单价。",
+      "action": "今天先把种子种苗的规格和用量列清。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "草莓苗暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_草莓苗_0e2ff007",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_seed_92713d47"
+      },
+      {
+        "subject": "market:seed:草莓苗_0e2ff007:20260524_211024:112b277ad3",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_草莓苗_0e2ff007"
+      },
+      {
+        "subject": "market:seed:草莓苗_0e2ff007:20260524_211024:112b277ad3",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:seed:草莓苗_0e2ff007:20260524_211024:112b277ad3",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:seed:草莓苗_0e2ff007:20260524_211024:112b277ad3",
+        "predicate": "agri:hasDecision",
+        "object": "草莓苗暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+      }
+    ]
+  }
+}

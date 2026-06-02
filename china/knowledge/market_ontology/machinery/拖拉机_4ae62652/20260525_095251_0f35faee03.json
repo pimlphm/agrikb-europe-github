@@ -1,0 +1,162 @@
+{
+  "record_id": "market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03",
+  "created_at": "2026-05-25T09:52:51",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03",
+    "@type": "agri:MachineryMarketObservation",
+    "ontology_class": {
+      "class": "agri:MachineryMarketObservation",
+      "broader": "agri:AgriculturalMachinery",
+      "label": "农机装备"
+    },
+    "product": {
+      "@id": "agri:product_拖拉机_4ae62652",
+      "name": "拖拉机",
+      "broader": "agri:AgriculturalMachinery"
+    },
+    "category": {
+      "@id": "agri:category_machinery_47e69de3",
+      "id": "machinery",
+      "name": "农机装备"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-25 09:52:51",
+    "decision": "拖拉机已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。",
+    "price_rows": [
+      {
+        "name": "拖拉机",
+        "market": "农机装备",
+        "avg_price": "91400",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/台",
+        "date": "来源页实时信息",
+        "source": "item.nongji360.com",
+        "source_url": "https://item.nongji360.com/d/52536",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      }
+    ],
+    "sources": [
+      {
+        "title": "江苏拖拉机经销商报价-农机通",
+        "url": "https://www.nongjitong.com/dealer/499983.html",
+        "snippet": "拖拉机公开报价来源，打开来源页核实规格、地区和报价时间。",
+        "source": "nongjitong.com",
+        "date": "",
+        "source_type": "direct_price_source",
+        "page_text": ""
+      },
+      {
+        "title": "江苏常发拖拉机报价-农机360",
+        "url": "https://item.nongji360.com/d/52536",
+        "snippet": "常发CFG854轮式拖拉机-常发轮式拖拉机-报价、补贴和图片_农机360网 如皋市现代农业机械有限公司 易售宝17年 商铺访问：52222次 产品访问：51857次 商铺询价：次 本店产品 全站企业产品 全站产品报价 全站商铺 首页 全部产品 公司介绍 营销网络 视频图集 用户留言 公司动态 产品知识 联系我们 询价量： 暂无询价 关注度： 411 分类： 动力机械>拖拉机>轮式拖拉机 CFG854轮式拖拉机 在线询价 收藏该产品 卖点信息： 生产厂家： 品 牌： 常发 型号： CFG854 补贴： 补贴查询 ¥91400.00 价格说明 询价 产品介绍 用户询价 用户评论 查看二手信息 --",
+        "source": "item.nongji360.com",
+        "date": "",
+        "source_type": "direct_price_source",
+        "page_text": "常发CFG854轮式拖拉机-常发轮式拖拉机-报价、补贴和图片_农机360网 如皋市现代农业机械有限公司 易售宝17年 商铺访问：52222次 产品访问：51857次 商铺询价：次 本店产品 全站企业产品 全站产品报价 全站商铺 首页 全部产品 公司介绍 营销网络 视频图集 用户留言 公司动态 产品知识 联系我们 询价量： 暂无询价 关注度： 411 分类： 动力机械>拖拉机>轮式拖拉机 CFG854轮式拖拉机 在线询价 收藏该产品 卖点信息： 生产厂家： 品 牌： 常发 型号： CFG854 补贴： 补贴查询 ¥91400.00 价格说明 询价 产品介绍 用户询价 用户评论 查看二手信息 --> 如皋市现代农业机械有限公司经销江苏常发农业装备股份有限公司生产的CFG854轮式拖拉机，在江苏省销售价格为91400元，欢迎洽购。 选择购机地点 关闭 国家 省份 地级市 市、县级市、县 O2O模式 线上选购 线下交付 特色服务 金融支持 保险保障 品类齐全 产品丰富 轻松购机 正品保障 品牌精选 贴心服务 移动商城 新手指南 注册流程 购机流程 支付帮助 特色服务 贷款产品 保险产品 解决方案 购机保障 支付款安全有保障 没有提机随时退款 经销商负责提车服务 客服全程购机指导 支付方式 到店支付 在线支付全款 在线支付订金 帮助中心 常见问题 客户服务 售后帮助 旗下业务： 农机360网 | 农机商城 | 农机贷款 | 农机保险 | 京ICP备18042209号-7 农机360网 www.nongji360.com 京公网安备11010802020671号"
+      },
+      {
+        "title": "农机购置与应用补贴信息公开专栏",
+        "url": "https://www.nj.agri.cn/",
+        "snippet": "可查询拖拉机等农机补贴、生产企业和购置补贴信息，实际价格需结合经销商报价核实。",
+        "source": "农机补贴公开信息",
+        "date": "",
+        "source_type": "curated_public_source"
+      },
+      {
+        "title": "农机1688网 - 农业机械,拖拉机,收割机专业导购b2b网站",
+        "url": "https://nongji1688.com/",
+        "snippet": "",
+        "source": "1688",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "农机产品-农机通 - nongjitong.com",
+        "url": "https://www.nongjitong.com/product/",
+        "snippet": "",
+        "source": "nongjitong.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "拖拉机价格-最新拖拉机价格、批发报价、价格大全 - 阿里巴巴",
+        "url": "https://www.1688.com/jiage/-CDCFC0ADBBFA.html",
+        "snippet": "",
+        "source": "1688",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "截至12月8日，江苏10大拖拉机补贴销量与价格-中国农业机械化信息网",
+        "url": "http://www.amic.agri.cn/secondLevelPage/info/83/196157",
+        "snippet": "由于各省区拖拉机需求不太一样，拖拉机品牌众多，各地畅销品牌也大不相同。6月份曾介绍过主销省区拖拉机主销品牌补贴销量与价格，半年过去了，市场有变化，为此跟进介绍主销省区1-11月拖拉机的主要品牌补贴销量与价格，为购买拖拉机的农民朋友提供参考。以下是江苏拖拉机的市场情况。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "截至12月8日，江苏10大拖拉机补贴销量与价格 | 农机新闻网",
+        "url": "https://www.nongji1958.com/node/83014",
+        "snippet": "由于各省区拖拉机需求不太一样，拖拉机品牌众多，各地畅销品牌也大不相同。6月份曾介绍过主销省区拖拉机主销品牌补贴销量与价格，半年过去了，市场有变化，为此跟进介绍主销省区1-11月拖拉机的主要品牌补贴销量与价格，为购买拖拉机的农民朋友提供参考。以下是江苏拖拉机的市场情况 ...",
+        "source": "nongji1958.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "拖拉机当前可见报价约91400元/台到91400元/台，以农机装备为主要参考。",
+      "advice": [
+        "核对补贴目录",
+        "比较整机和售后成本",
+        "确认本地维修网点"
+      ],
+      "risk": "农机报价受配置、补贴、运输和售后影响，不能只看网页标价。",
+      "action": "今天先核实拖拉机是否在补贴范围内。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "拖拉机已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_拖拉机_4ae62652",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_machinery_47e69de3"
+      },
+      {
+        "subject": "market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_拖拉机_4ae62652"
+      },
+      {
+        "subject": "market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03",
+        "predicate": "agri:hasDecision",
+        "object": "拖拉机已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+      }
+    ]
+  }
+}

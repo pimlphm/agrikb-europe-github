@@ -1,0 +1,585 @@
+{
+  "session_id": "qa_smoke_1779695485",
+  "created_at": "2026-05-25T09:51:26",
+  "updated_at": "2026-05-25T09:51:26",
+  "title": "江苏句容草莓今天采收、销售和天气风险怎么判断？",
+  "summary": "2026-05-25T09:51:26 用户关注：江苏句容草莓今天采收、销售和天气风险怎么判断？；系统结论：一句话建议：先围绕江苏句容草莓今天采收小批量试行，再核对本地政策、天气和收购口径。 今日先做 1. 把“江苏句容草莓今天采收”对应的作物、数量、上市时间、目标市场和联系人先确认清楚。 2. 若涉及销售，先问清分级、包装、结算和运输要求，再决定是否放量。 3. 若涉及补贴或申报，先核对主体资格、材料清单、窗口部门和截止时间。 为什么这样判断 系统已召回到相关...",
+  "temporary_memory": [
+    {
+      "id": "mem_fdf10198a8",
+      "text": "本轮关注 江苏句容草莓今天、采收、销售和天气风险怎、么判断",
+      "created_at": "2026-05-25T09:51:26",
+      "updated_at": "2026-05-25T09:51:26",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q_e25bf57e2459",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "江苏句容草莓今天采收、销售和天气风险怎么判断？",
+      "source_type": "query",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:ent_1",
+      "type": "entity",
+      "label": "江苏句容草莓今天采收",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:ent_2",
+      "type": "entity",
+      "label": "销售和天气风险怎么判断",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:doc_1",
+      "type": "document",
+      "label": "54_江苏_句容_草莓产业推介活动举行.md",
+      "detail": "54_江苏_句容_草莓产业推介活动举行.md",
+      "source_type": "document",
+      "doc_id": "54_江苏_句容_草莓产业推介活动举行",
+      "file_name": "54_江苏_句容_草莓产业推介活动举行.md",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:ev_1",
+      "type": "retrieved_chunk",
+      "label": "54_江苏_句容_草莓产业推介活动举行.md",
+      "detail": "# 江苏（句容）草莓产业推介活动举行 - 类型: 江苏句容本地农业产业报道 - 栏目: 今日句容 - 来源: 市融媒体中心 - 日期: 2024-12-31 08:38 - 原文链接: https://www.jurong.gov.cn/jurong/jrjr/202412/ea2c800ef2654fef95d7cdb46514ec28.",
+      "evidence_id": "E1",
+      "doc_name": "54_江苏_句容_草莓产业推介活动举行.md",
+      "file_name": "54_江苏_句容_草莓产业推介活动举行.md",
+      "doc_id": "54_江苏_句容_草莓产业推介活动举行",
+      "chunk_id": "54_江苏_句容_草莓产业推介活动举行_0001",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "# 江苏（句容）草莓产业推介活动举行 - 类型: 江苏句容本地农业产业报道 - 栏目: 今日句容 - 来源: 市融媒体中心 - 日期: 2024-12-31 08:38 - 原文链接: https://www.jurong.gov.cn/jurong/jrjr/202412/ea2c800ef2654fef95d7cdb46514ec28.",
+      "score": 1.2564,
+      "source_type": "document",
+      "entities": [
+        "江苏句容草莓今天采收"
+      ],
+      "snippet": "# 江苏（句容）草莓产业推介活动举行 - 类型: 江苏句容本地农业产业报道 - 栏目: 今日句容 - 来源: 市融媒体中心 - 日期: 2024-12-31 08:38 - 原文链接: https://www.jurong.gov.cn/jurong/jrjr/202412/ea2c800ef2654fef95d7cdb46514ec28.",
+      "supports": "提供evidence类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "54_江苏_句容_草莓产业推介活动举行_0001",
+        "doc_id": "54_江苏_句容_草莓产业推介活动举行",
+        "chunk_id": "54_江苏_句容_草莓产业推介活动举行_0001",
+        "file_name": "54_江苏_句容_草莓产业推介活动举行.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.2564,
+        "confidence": 1.2564,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:doc_2",
+      "type": "document",
+      "label": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路.md",
+      "detail": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路.md",
+      "source_type": "document",
+      "doc_id": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路",
+      "file_name": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路.md",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:ev_2",
+      "type": "retrieved_chunk",
+      "label": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路.md",
+      "detail": "# 江苏句容华阳街道：“三驾马车”驰骋乡村振兴路 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 句容市华阳街道办事处 - 日期: 2024-11-27 10:44 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202412/e286fe8a45624634b588285b4311ac4e.",
+      "evidence_id": "E2",
+      "doc_name": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路.md",
+      "file_name": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路.md",
+      "doc_id": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路",
+      "chunk_id": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路_0001",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "# 江苏句容华阳街道：“三驾马车”驰骋乡村振兴路 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 句容市华阳街道办事处 - 日期: 2024-11-27 10:44 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202412/e286fe8a45624634b588285b4311ac4e.",
+      "score": 1.1188,
+      "source_type": "document",
+      "entities": [
+        "江苏句容草莓今天采收"
+      ],
+      "snippet": "# 江苏句容华阳街道：“三驾马车”驰骋乡村振兴路 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 句容市华阳街道办事处 - 日期: 2024-11-27 10:44 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202412/e286fe8a45624634b588285b4311ac4e.",
+      "supports": "提供evidence类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路_0001",
+        "doc_id": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路",
+        "chunk_id": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路_0001",
+        "file_name": "07_江苏句容华阳街道_三驾马车_驰骋乡村振兴路.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.1188,
+        "confidence": 1.1188,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:doc_3",
+      "type": "document",
+      "label": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "detail": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "source_type": "document",
+      "doc_id": "51_科技Buff叠满_白兔草莓御寒稳丰收",
+      "file_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:ev_3",
+      "type": "retrieved_chunk",
+      "label": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "detail": "# 科技Buff叠满 白兔草莓御寒稳丰收 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 市融媒体中心 - 日期: 2026-01-21 08:43 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202601/7aebe90470a147d29125b354655b7eb1.",
+      "evidence_id": "E3",
+      "doc_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "file_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "doc_id": "51_科技Buff叠满_白兔草莓御寒稳丰收",
+      "chunk_id": "51_科技Buff叠满_白兔草莓御寒稳丰收_0001",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "# 科技Buff叠满 白兔草莓御寒稳丰收 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 市融媒体中心 - 日期: 2026-01-21 08:43 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202601/7aebe90470a147d29125b354655b7eb1.",
+      "score": 1.0118,
+      "source_type": "document",
+      "entities": [
+        "江苏句容草莓今天采收"
+      ],
+      "snippet": "# 科技Buff叠满 白兔草莓御寒稳丰收 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 市融媒体中心 - 日期: 2026-01-21 08:43 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202601/7aebe90470a147d29125b354655b7eb1.",
+      "supports": "提供evidence类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "51_科技Buff叠满_白兔草莓御寒稳丰收_0001",
+        "doc_id": "51_科技Buff叠满_白兔草莓御寒稳丰收",
+        "chunk_id": "51_科技Buff叠满_白兔草莓御寒稳丰收_0001",
+        "file_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.0118,
+        "confidence": 1.0118,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_d230b7bff9",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "一句话建议：先围绕江苏句容草莓今天采收小批量试行，再核对本地政策、天气和收购口径。",
+      "text": "一句话建议：先围绕江苏句容草莓今天采收小批量试行，再核对本地政策、天气和收购口径。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_d230b7bff9_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_16e5dec6e9",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "今日先做",
+      "text": "今日先做",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_16e5dec6e9_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_c1cbbdcb46",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_c1cbbdcb46_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_a72bf34181",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "把“江苏句容草莓今天采收”对应的作物、数量、上市时间、目标市场和联系人先确认清楚。",
+      "text": "把“江苏句容草莓今天采收”对应的作物、数量、上市时间、目标市场和联系人先确认清楚。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_a72bf34181_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_db57335761",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_db57335761_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_9e3571a6f5",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "若涉及销售，先问清分级、包装、结算和运输要求，再决定是否放量。",
+      "text": "若涉及销售，先问清分级、包装、结算和运输要求，再决定是否放量。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_9e3571a6f5_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_aaae2a6172",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "3.",
+      "text": "3.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_aaae2a6172_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_3d1de4c9f2",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "若涉及补贴或申报，先核对主体资格、材料清单、窗口部门和截止时间。",
+      "text": "若涉及补贴或申报，先核对主体资格、材料清单、窗口部门和截止时间。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:51:25"
+      },
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    },
+    {
+      "id": "q_e25bf57e2459:claim_3d1de4c9f2_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e25bf57e2459",
+      "session_id": "qa_smoke_1779695485"
+    }
+  ],
+  "edges": [
+    {
+      "id": "q_e25bf57e2459:mentions:q_e25bf57e2459->q_e25bf57e2459:ent_1",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e25bf57e2459:mentions:q_e25bf57e2459->q_e25bf57e2459:ent_2",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e25bf57e2459:contains:q_e25bf57e2459:doc_1->q_e25bf57e2459:ev_1",
+      "source": "q_e25bf57e2459:doc_1",
+      "target": "q_e25bf57e2459:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_e25bf57e2459:retrieves:q_e25bf57e2459:ent_1->q_e25bf57e2459:ev_1",
+      "source": "q_e25bf57e2459:ent_1",
+      "target": "q_e25bf57e2459:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e25bf57e2459:contains:q_e25bf57e2459:doc_2->q_e25bf57e2459:ev_2",
+      "source": "q_e25bf57e2459:doc_2",
+      "target": "q_e25bf57e2459:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_e25bf57e2459:retrieves:q_e25bf57e2459:ent_1->q_e25bf57e2459:ev_2",
+      "source": "q_e25bf57e2459:ent_1",
+      "target": "q_e25bf57e2459:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e25bf57e2459:contains:q_e25bf57e2459:doc_3->q_e25bf57e2459:ev_3",
+      "source": "q_e25bf57e2459:doc_3",
+      "target": "q_e25bf57e2459:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_e25bf57e2459:retrieves:q_e25bf57e2459:ent_1->q_e25bf57e2459:ev_3",
+      "source": "q_e25bf57e2459:ent_1",
+      "target": "q_e25bf57e2459:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_d230b7bff9_prior->q_e25bf57e2459:claim_d230b7bff9",
+      "source": "q_e25bf57e2459:claim_d230b7bff9_prior",
+      "target": "q_e25bf57e2459:claim_d230b7bff9",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_d230b7bff9",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_d230b7bff9",
+      "type": "answers"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_16e5dec6e9_prior->q_e25bf57e2459:claim_16e5dec6e9",
+      "source": "q_e25bf57e2459:claim_16e5dec6e9_prior",
+      "target": "q_e25bf57e2459:claim_16e5dec6e9",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_16e5dec6e9",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_16e5dec6e9",
+      "type": "answers"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_c1cbbdcb46_prior->q_e25bf57e2459:claim_c1cbbdcb46",
+      "source": "q_e25bf57e2459:claim_c1cbbdcb46_prior",
+      "target": "q_e25bf57e2459:claim_c1cbbdcb46",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_c1cbbdcb46",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_c1cbbdcb46",
+      "type": "answers"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_a72bf34181_prior->q_e25bf57e2459:claim_a72bf34181",
+      "source": "q_e25bf57e2459:claim_a72bf34181_prior",
+      "target": "q_e25bf57e2459:claim_a72bf34181",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_a72bf34181",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_a72bf34181",
+      "type": "answers"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_db57335761_prior->q_e25bf57e2459:claim_db57335761",
+      "source": "q_e25bf57e2459:claim_db57335761_prior",
+      "target": "q_e25bf57e2459:claim_db57335761",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_db57335761",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_db57335761",
+      "type": "answers"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_9e3571a6f5_prior->q_e25bf57e2459:claim_9e3571a6f5",
+      "source": "q_e25bf57e2459:claim_9e3571a6f5_prior",
+      "target": "q_e25bf57e2459:claim_9e3571a6f5",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_9e3571a6f5",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_9e3571a6f5",
+      "type": "answers"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_aaae2a6172_prior->q_e25bf57e2459:claim_aaae2a6172",
+      "source": "q_e25bf57e2459:claim_aaae2a6172_prior",
+      "target": "q_e25bf57e2459:claim_aaae2a6172",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_aaae2a6172",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_aaae2a6172",
+      "type": "answers"
+    },
+    {
+      "id": "q_e25bf57e2459:qualifies:q_e25bf57e2459:claim_3d1de4c9f2_prior->q_e25bf57e2459:claim_3d1de4c9f2",
+      "source": "q_e25bf57e2459:claim_3d1de4c9f2_prior",
+      "target": "q_e25bf57e2459:claim_3d1de4c9f2",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e25bf57e2459:answers:q_e25bf57e2459->q_e25bf57e2459:claim_3d1de4c9f2",
+      "source": "q_e25bf57e2459",
+      "target": "q_e25bf57e2459:claim_3d1de4c9f2",
+      "type": "answers"
+    }
+  ],
+  "turns": [
+    {
+      "query_id": "q_e25bf57e2459",
+      "query": "江苏句容草莓今天采收、销售和天气风险怎么判断？",
+      "answer": "一句话建议：先围绕江苏句容草莓今天采收小批量试行，再核对本地政策、天气和收购口径。\n\n今日先做\n\n1. 把“江苏句容草莓今天采收”对应的作物、数量、上市时间、目标市场和联系人先确认清楚。\n2. 若涉及销售，先问清分级、包装、结算和运输要求，再决定是否放量。\n3. 若涉及补贴或申报，先核对主体资格、材料清单、窗口部门和截止时间。\n\n为什么这样判断\n\n系统已召回到相关资料，主要指向：提供evidence类证据，可用于支撑回答中的事实依据；提供evidence类证据，可用于支撑回答中的事实依据；\n提供evidence类证据，可用于支撑回答中的事实依据。\n\n市场与渠道\n\n先走小批量询价和试单，不要一次性把成熟货全部压到单一渠道。能对接合作社、批发市场、电商助农或企业收购时，要同时比较到手价、回款速度和损耗风险。\n\n风险提醒\n\n当前结论来自知识库召回和实时聚合材料，仍要核对最新政策原文、当天气象、实际品质和采购方口径。病虫害、防灾减灾、农资使用和合同条款需要现场专业人员复核。\n\n下一步\n\n1. 点开右侧政策、行情、天气或收购信息继续核验。\n2. 上传最新通知、报价单、合同或田间记录后再追问一次。\n3. 需要正式执行时，保留截图、来源链接和沟通记录。",
+      "created_at": "2026-05-25T09:51:26",
+      "claim_ids": [
+        "q_e25bf57e2459:claim_d230b7bff9",
+        "q_e25bf57e2459:claim_16e5dec6e9",
+        "q_e25bf57e2459:claim_c1cbbdcb46",
+        "q_e25bf57e2459:claim_a72bf34181",
+        "q_e25bf57e2459:claim_db57335761",
+        "q_e25bf57e2459:claim_9e3571a6f5",
+        "q_e25bf57e2459:claim_aaae2a6172",
+        "q_e25bf57e2459:claim_3d1de4c9f2"
+      ]
+    }
+  ],
+  "last_anchor_id": "q_e25bf57e2459:claim_3d1de4c9f2",
+  "source_types": {
+    "document": "来自当前知识库文档 chunk 的证据",
+    "web_search": "来自真实联网搜索结果；未配置搜索时不会伪造",
+    "model_prior": "来自模型内置知识或通用推理，不是文档证据",
+    "inferred": "由多个文档证据综合推理得到",
+    "unsupported": "没有可靠证据支持或证据不足"
+  }
+}

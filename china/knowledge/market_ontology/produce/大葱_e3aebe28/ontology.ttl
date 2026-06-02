@@ -1,0 +1,80 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> a agri:ProduceMarketObservation ;
+  agri:observesProduct <agri:product_大葱_e3aebe28> ;
+  agri:hasMarketCategory <agri:category_produce_432f62c7> ;
+  agri:observedAt "2026-05-25 09:52:22" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "大葱监测价上涨，先问清目标市场到货价，成熟货可优先锁单。" .
+
+<agri:product_大葱_e3aebe28> a agri:AgriculturalThing ;
+  schema:name "大葱" .
+
+<agri:category_produce_432f62c7> a agri:MarketCategory ;
+  schema:name "农产品行情" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:1> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "3.3746" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:2> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "3.41" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "武山县蔬菜产业发展中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:3> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "3.63" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "武山县蔬菜产业发展中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:4> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "2.0" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "宁夏海吉星" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:5> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "2.8" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "宁夏海吉星" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:6> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "11.5" ;
+  agri:priceUnit "元/斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "青岛市城阳蔬菜水产品批发市场" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:7> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "15" ;
+  agri:priceUnit "元/斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "青岛市城阳蔬菜水产品批发市场" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:大葱_e3aebe28:20260525_095222:f98e28b484:price:8> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:大葱_e3aebe28:20260525_095222:f98e28b484> ;
+  agri:priceValue "0.73" ;
+  agri:priceUnit "元/斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "ymt.com" ;
+  agri:sourceUrl "https://www.ymt.com/hangqing/juhe-7298" .

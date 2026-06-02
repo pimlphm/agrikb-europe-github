@@ -1,0 +1,2521 @@
+{
+  "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01",
+  "created_at": "2026-05-25T09:59:42",
+  "updated_at": "2026-05-25T16:19:07",
+  "title": "请用两句话说明草莓大棚今天怎么管理",
+  "summary": "2026-05-25T09:59:42 用户关注：请用两句话说明草莓大棚今天怎么管理；系统结论：一句话建议：上午抓紧开棚通风降湿，下午检查灰霉病斑并控氮增磷钾。 今日先做 1. 9 点前打开棚膜通风，把 70% 湿度降到 60% 以下，防止高温高湿诱发灰霉病和白粉病。 2. 巡垄摘老叶、病叶，集中带出棚外销毁，减少菌源。 3. 水肥改为“少量多次”，停高氮、增磷钾和微量元素，确保花果期养分均衡。 为什么这样判断 今天句容气温 31.4 ℃、湿度 70...\n2026-05-25T15:55:46 用户关注：分析“草莓大棚监测台”模块，给出今天最值得执行的事项。；系统结论：一句话建议：上午立即开棚通风降湿，午后补光并控氮增磷钾。 今日先做 1. 9点前拉开棚膜或启动风机，把82%湿度降到65%以下，防止灰霉病暴发。 2. 检查老叶、病叶，摘后装袋带出棚外销毁，减少菌源。 3. 水肥改“少量多次”，停高氮、增磷钾和钙镁，防徒长促花果。 为什么这样判断 棚温25.8°C虽达标，但湿度82%已超标。江宁区外温26.5°C、相对湿度...\n2026-05-25T16:19:07 用户关注：请围绕江苏句容农产品今天适合走哪些销售渠道、选择本地收购还是电商、如何询价和控制交易风险，给出可执行建议。要结合市场行情、收购渠道和助农渠道。；系统结论：一句话建议：今天优先对接本地收购商快速出货，同步在助农电商挂预售锁价。 今日先做 1. 上午联系句容本地果蔬收购站或高红路沿线批发商，询价草莓通货价，争取现款现货。 2. 下午在“苏农云”或属地助农小程序上架草莓预售，设置限时优惠引流，锁定散客订单。 3. 傍晚前确认物流：短途走高红路直送广陵区，远单用冷链拼车，避免高温闷坏。 为什么这样判断 江宁区今晨湿...",
+  "temporary_memory": [
+    {
+      "id": "mem_e328dd910a",
+      "text": "本轮关注 请用两句话说明草、莓大棚今天怎么管、江苏句容、气象、环境、气候",
+      "created_at": "2026-05-25T09:59:42",
+      "updated_at": "2026-05-25T09:59:42",
+      "count": 1
+    },
+    {
+      "id": "mem_f7982d247b",
+      "text": "本轮关注 分析、草莓大棚监测台、模块、给出今天最值得执、行的事项、当前模块",
+      "created_at": "2026-05-25T15:55:46",
+      "updated_at": "2026-05-25T15:55:46",
+      "count": 1
+    },
+    {
+      "id": "mem_52e1d89d23",
+      "text": "本轮关注 请围绕江苏句容农、产品今天适合走哪、些销售渠道、选择本地收购还是、电商、如何询价和控制交",
+      "created_at": "2026-05-25T16:19:07",
+      "updated_at": "2026-05-25T16:19:07",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q_e11c2a63d21e",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "请用两句话说明草莓大棚今天怎么管理",
+      "source_type": "query",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_1",
+      "type": "entity",
+      "label": "请用两句话说明草莓大棚今天怎么管理",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_1",
+      "type": "document",
+      "label": "江苏句容实时气象环境",
+      "detail": "https://open-meteo.com/",
+      "source_type": "web_search",
+      "doc_id": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_2",
+      "type": "entity",
+      "label": "江苏句容",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_3",
+      "type": "entity",
+      "label": "气象",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_4",
+      "type": "entity",
+      "label": "环境",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_1",
+      "type": "retrieved_chunk",
+      "label": "江苏句容实时气象环境",
+      "detail": "产地: 江苏镇江 / 江苏句容 当前温度: 31.4摄氏度；相对湿度: 70%；降水: 0mm；风速: 8.5km/h。 未来最高温: 31.2摄氏度、30.6摄氏度、27摄氏度、29.5摄氏度、28摄氏度、27.6摄氏度等；最低温: 23.5摄氏度、24摄氏度、22.1摄氏度、22.1摄氏度、21.4摄氏度、17.3摄氏度等；未来降水量: 15.1mm、24.1mm、0.4mm、0.1mm、0mm、0mm等。",
+      "evidence_id": "E1",
+      "doc_name": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "doc_id": "江苏句容实时气象环境",
+      "chunk_id": "regional_weather_3353347347690479471",
+      "title": "regional_weather",
+      "section": "regional_weather",
+      "page": null,
+      "raw_text": "产地: 江苏镇江 / 江苏句容 当前温度: 31.4摄氏度；相对湿度: 70%；降水: 0mm；风速: 8.5km/h。 未来最高温: 31.2摄氏度、30.6摄氏度、27摄氏度、29.5摄氏度、28摄氏度、27.6摄氏度等；最低温: 23.5摄氏度、24摄氏度、22.1摄氏度、22.1摄氏度、21.4摄氏度、17.3摄氏度等；未来降水量: 15.1mm、24.1mm、0.4mm、0.1mm、0mm、0mm等。",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "气象",
+        "环境"
+      ],
+      "snippet": "产地: 江苏镇江 / 江苏句容 当前温度: 31.4摄氏度；相对湿度: 70%；降水: 0mm；风速: 8.5km/h。 未来最高温: 31.2摄氏度、30.6摄氏度、27摄氏度、29.5摄氏度、28摄氏度、27.6摄氏度等；最低温: 23.5摄氏度、24摄氏度、22.1摄氏度、22.1摄氏度、21.4摄氏度、17.3摄氏度等；未来降水量: 15.1mm、24.1mm、0.4mm、0.1mm、0mm、0mm等。",
+      "supports": "涉及regional_weather信息，关联实体包括江苏句容、气象、环境、气候",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_weather_3353347347690479471",
+        "doc_id": "江苏句容实时气象环境",
+        "chunk_id": "regional_weather_3353347347690479471",
+        "file_name": "江苏句容实时气象环境",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_2",
+      "type": "document",
+      "label": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "detail": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=31.94869%2C119.1655%3B32.21086%2C119.45508",
+      "source_type": "web_search",
+      "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_5",
+      "type": "entity",
+      "label": "镇江农产品批发市场",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_6",
+      "type": "entity",
+      "label": "物流",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_2",
+      "type": "retrieved_chunk",
+      "label": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "detail": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 28.9摄氏度；降水 0.5mm；风速 5.4km/h。 预计运输距离: 51.9km；预计车程: 44分钟；路线来源: OSRM实时路线估算。 经营提示: 产地有明显降雨，优先抢采耐损耗低的成熟果菜，发往镇江农产品批发市场前先做分级和防潮包装。 路线策略: 雨前抢采，避开强降雨装车；加防潮内衬，箱底垫高，减少露水入箱；",
+      "evidence_id": "E2",
+      "doc_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "chunk_id": "regional_route_market_6227491564774297180",
+      "title": "regional_route_market",
+      "section": "regional_route_market",
+      "page": null,
+      "raw_text": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 28.9摄氏度；降水 0.5mm；风速 5.4km/h。 预计运输距离: 51.9km；预计车程: 44分钟；路线来源: OSRM实时路线估算。 经营提示: 产地有明显降雨，优先抢采耐损耗低的成熟果菜，发往镇江农产品批发市场前先做分级和防潮包装。 路线策略: 雨前抢采，避开强降雨装车；加防潮内衬，箱底垫高，减少露水入箱；",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "物流"
+      ],
+      "snippet": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 28.9摄氏度；降水 0.5mm；风速 5.4km/h。 预计运输距离: 51.9km；预计车程: 44分钟；路线来源: OSRM实时路线估算。 经营提示: 产地有明显降雨，优先抢采耐损耗低的成熟果菜，发往镇江农产品批发市场前先做分级和防潮包装。 路线策略: 雨前抢采，避开强降雨装车；加防潮内衬，箱底垫高，减少露水入箱；",
+      "supports": "涉及regional_route_market信息，关联实体包括江苏句容、镇江农产品批发市场、物流、收购",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_route_market_6227491564774297180",
+        "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+        "chunk_id": "regional_route_market_6227491564774297180",
+        "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_3",
+      "type": "document",
+      "label": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "detail": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+      "source_type": "web_search",
+      "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_7",
+      "type": "entity",
+      "label": "冷链",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_3",
+      "type": "retrieved_chunk",
+      "label": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "detail": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https://s.1688.com/selloffer/offer_search.",
+      "evidence_id": "E3",
+      "doc_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "chunk_id": "regional_logistics_supplier_407424240789236348",
+      "title": "regional_logistics_supplier",
+      "section": "regional_logistics_supplier",
+      "page": null,
+      "raw_text": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https://s.1688.com/selloffer/offer_search.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "冷链"
+      ],
+      "snippet": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https://s.1688.com/selloffer/offer_search.",
+      "supports": "涉及regional_logistics_supplier信息，关联实体包括江苏句容、镇江农产品批发市场、冷链、供应商",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_logistics_supplier_407424240789236348",
+        "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+        "chunk_id": "regional_logistics_supplier_407424240789236348",
+        "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_4",
+      "type": "document",
+      "label": "江苏句容政策与产业扶持",
+      "detail": "https://www.cmc.gov.cn/nynchslgzzt/hnzc/art/2025/art_5b57311d77874b068d4bd8effdb9513b.html",
+      "source_type": "web_search",
+      "doc_id": "江苏句容政策与产业扶持",
+      "file_name": "江苏句容政策与产业扶持",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ent_8",
+      "type": "entity",
+      "label": "农业局",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_4",
+      "type": "retrieved_chunk",
+      "label": "江苏句容政策与产业扶持",
+      "detail": "江苏句容政策与产业扶持 1. 江苏发布\"新农人\"培育三年行动计划 链接: https://www.cmc.gov.cn/nynchslgzzt/hnzc/art/2025/art_5b57311d77874b068d4bd8effdb9513b.html 摘要: 今年的省《政府工作报告》提出，要实施\"新农人\"培育三年行动，鼓励支持各类人才返乡创业，带动更多农民增收致富。2月7日，省农业农村厅正式印发《江苏省\"新农人\"培育三年行动计划》。",
+      "evidence_id": "E4",
+      "doc_name": "江苏句容政策与产业扶持",
+      "file_name": "江苏句容政策与产业扶持",
+      "doc_id": "江苏句容政策与产业扶持",
+      "chunk_id": "regional_policy_news_4458945898599511516",
+      "title": "regional_policy_news",
+      "section": "regional_policy_news",
+      "page": null,
+      "raw_text": "江苏句容政策与产业扶持 1. 江苏发布\"新农人\"培育三年行动计划 链接: https://www.cmc.gov.cn/nynchslgzzt/hnzc/art/2025/art_5b57311d77874b068d4bd8effdb9513b.html 摘要: 今年的省《政府工作报告》提出，要实施\"新农人\"培育三年行动，鼓励支持各类人才返乡创业，带动更多农民增收致富。2月7日，省农业农村厅正式印发《江苏省\"新农人\"培育三年行动计划》。",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "江苏句容政策与产业扶持 1. 江苏发布\"新农人\"培育三年行动计划 链接: https://www.cmc.gov.cn/nynchslgzzt/hnzc/art/2025/art_5b57311d77874b068d4bd8effdb9513b.html 摘要: 今年的省《政府工作报告》提出，要实施\"新农人\"培育三年行动，鼓励支持各类人才返乡创业，带动更多农民增收致富。2月7日，省农业农村厅正式印发《江苏省\"新农人\"培育三年行动计划》。",
+      "supports": "涉及regional_policy_news信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_policy_news_4458945898599511516",
+        "doc_id": "江苏句容政策与产业扶持",
+        "chunk_id": "regional_policy_news_4458945898599511516",
+        "file_name": "江苏句容政策与产业扶持",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_5",
+      "type": "document",
+      "label": "镇江农产品批发市场市场收购信息",
+      "detail": "http://pfsc.agri.cn/",
+      "source_type": "web_search",
+      "doc_id": "镇江农产品批发市场市场收购信息",
+      "file_name": "镇江农产品批发市场市场收购信息",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_5",
+      "type": "retrieved_chunk",
+      "label": "镇江农产品批发市场市场收购信息",
+      "detail": "镇江农产品批发市场市场收购信息 1. agri - 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 首页 价格指数 价格行情 价格报送 分析报告 新闻资讯 市场简介 农产品展示 2. 江苏省农产品批发市场价格信息系统 链接: https://ncppfsc.jssny.com.cn/home 摘要: 2026年5月14日全省农产品批发市场价格行情 单位:元/公斤 3.",
+      "evidence_id": "E5",
+      "doc_name": "镇江农产品批发市场市场收购信息",
+      "file_name": "镇江农产品批发市场市场收购信息",
+      "doc_id": "镇江农产品批发市场市场收购信息",
+      "chunk_id": "regional_market_signal_814461232436528238",
+      "title": "regional_market_signal",
+      "section": "regional_market_signal",
+      "page": null,
+      "raw_text": "镇江农产品批发市场市场收购信息 1. agri - 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 首页 价格指数 价格行情 价格报送 分析报告 新闻资讯 市场简介 农产品展示 2. 江苏省农产品批发市场价格信息系统 链接: https://ncppfsc.jssny.com.cn/home 摘要: 2026年5月14日全省农产品批发市场价格行情 单位:元/公斤 3.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "镇江农产品批发市场市场收购信息 1. agri - 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 首页 价格指数 价格行情 价格报送 分析报告 新闻资讯 市场简介 农产品展示 2. 江苏省农产品批发市场价格信息系统 链接: https://ncppfsc.jssny.com.cn/home 摘要: 2026年5月14日全省农产品批发市场价格行情 单位:元/公斤 3.",
+      "supports": "涉及regional_market_signal信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_market_signal_814461232436528238",
+        "doc_id": "镇江农产品批发市场市场收购信息",
+        "chunk_id": "regional_market_signal_814461232436528238",
+        "file_name": "镇江农产品批发市场市场收购信息",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_6",
+      "type": "document",
+      "label": "本地物流与冷链渠道",
+      "detail": "https://map.360.cn/",
+      "source_type": "web_search",
+      "doc_id": "本地物流与冷链渠道",
+      "file_name": "本地物流与冷链渠道",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_6",
+      "type": "retrieved_chunk",
+      "label": "本地物流与冷链渠道",
+      "detail": "本地物流与冷链渠道 1. 360地图 - 出门之前，搜一下 链接: https://map.360.cn/ 摘要: 2. 镇江物流_镇江货运专线服务-镇江荣威物流有限公司 链接: http://www.zjrwwl.cn/ 摘要: 3. 江苏苏豪冷链物流有限公司 链接: http://www.hhcold.com/ 摘要:",
+      "evidence_id": "E6",
+      "doc_name": "本地物流与冷链渠道",
+      "file_name": "本地物流与冷链渠道",
+      "doc_id": "本地物流与冷链渠道",
+      "chunk_id": "regional_logistics_signal_8286088908138523811",
+      "title": "regional_logistics_signal",
+      "section": "regional_logistics_signal",
+      "page": null,
+      "raw_text": "本地物流与冷链渠道 1. 360地图 - 出门之前，搜一下 链接: https://map.360.cn/ 摘要: 2. 镇江物流_镇江货运专线服务-镇江荣威物流有限公司 链接: http://www.zjrwwl.cn/ 摘要: 3. 江苏苏豪冷链物流有限公司 链接: http://www.hhcold.com/ 摘要:",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "本地物流与冷链渠道 1. 360地图 - 出门之前，搜一下 链接: https://map.360.cn/ 摘要: 2. 镇江物流_镇江货运专线服务-镇江荣威物流有限公司 链接: http://www.zjrwwl.cn/ 摘要: 3. 江苏苏豪冷链物流有限公司 链接: http://www.hhcold.com/ 摘要:",
+      "supports": "涉及regional_logistics_signal信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_logistics_signal_8286088908138523811",
+        "doc_id": "本地物流与冷链渠道",
+        "chunk_id": "regional_logistics_signal_8286088908138523811",
+        "file_name": "本地物流与冷链渠道",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_7",
+      "type": "document",
+      "label": "本地助农与电商渠道",
+      "detail": "https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm",
+      "source_type": "web_search",
+      "doc_id": "本地助农与电商渠道",
+      "file_name": "本地助农与电商渠道",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_7",
+      "type": "retrieved_chunk",
+      "label": "本地助农与电商渠道",
+      "detail": "本地助农与电商渠道 1. 福地云选 / 江苏句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，江苏句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与江苏句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家江苏句容运营中心 链接: https://www.chinacoop.gov.",
+      "evidence_id": "E7",
+      "doc_name": "本地助农与电商渠道",
+      "file_name": "本地助农与电商渠道",
+      "doc_id": "本地助农与电商渠道",
+      "chunk_id": "regional_ecommerce_channel_1986363194274004486",
+      "title": "regional_ecommerce_channel",
+      "section": "regional_ecommerce_channel",
+      "page": null,
+      "raw_text": "本地助农与电商渠道 1. 福地云选 / 江苏句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，江苏句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与江苏句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家江苏句容运营中心 链接: https://www.chinacoop.gov.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "本地助农与电商渠道 1. 福地云选 / 江苏句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，江苏句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与江苏句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家江苏句容运营中心 链接: https://www.chinacoop.gov.",
+      "supports": "涉及regional_ecommerce_channel信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_ecommerce_channel_1986363194274004486",
+        "doc_id": "本地助农与电商渠道",
+        "chunk_id": "regional_ecommerce_channel_1986363194274004486",
+        "file_name": "本地助农与电商渠道",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:doc_8",
+      "type": "document",
+      "label": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "detail": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "source_type": "document",
+      "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+      "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:ev_8",
+      "type": "retrieved_chunk",
+      "label": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "detail": "“花果期是草莓产量提升和品质塑造的核心阶段，病虫害防控和水肥管理直接决定最终的收成和口感。”培训现场，技术专家结合多年草莓种植研究经验，围绕花果期常见病害识别、绿色防控技术、水肥配比方案等内容展开系统讲解。通过图文结合的方式，详细拆解了白粉病、灰霉病等高发病害的发病特征与防治要点，针对花果期需肥特点，给出了“少量多次、氮磷钾均衡”的水肥管理建议，强调“需控制氮肥用量，增施磷钾肥和微量元素肥，确保植株营养供应与生长需求匹配”。",
+      "evidence_id": "E8",
+      "doc_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+      "chunk_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0005",
+      "title": "action",
+      "section": "action",
+      "page": null,
+      "raw_text": "“花果期是草莓产量提升和品质塑造的核心阶段，病虫害防控和水肥管理直接决定最终的收成和口感。”培训现场，技术专家结合多年草莓种植研究经验，围绕花果期常见病害识别、绿色防控技术、水肥配比方案等内容展开系统讲解。通过图文结合的方式，详细拆解了白粉病、灰霉病等高发病害的发病特征与防治要点，针对花果期需肥特点，给出了“少量多次、氮磷钾均衡”的水肥管理建议，强调“需控制氮肥用量，增施磷钾肥和微量元素肥，确保植株营养供应与生长需求匹配”。",
+      "score": 1.183,
+      "source_type": "document",
+      "entities": [
+        "请用两句话说明草莓大棚今天怎么管理"
+      ],
+      "snippet": "“花果期是草莓产量提升和品质塑造的核心阶段，病虫害防控和水肥管理直接决定最终的收成和口感。”培训现场，技术专家结合多年草莓种植研究经验，围绕花果期常见病害识别、绿色防控技术、水肥配比方案等内容展开系统讲解。通过图文结合的方式，详细拆解了白粉病、灰霉病等高发病害的发病特征与防治要点，针对花果期需肥特点，给出了“少量多次、氮磷钾均衡”的水肥管理建议，强调“需控制氮肥用量，增施磷钾肥和微量元素肥，确保植株营养供应与生长需求匹配”。",
+      "supports": "提供action类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0005",
+        "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+        "chunk_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0005",
+        "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.183,
+        "confidence": 1.183,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_27458a9c6c",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "一句话建议：上午抓紧开棚通风降湿，下午检查灰霉病斑并控氮增磷钾。",
+      "text": "一句话建议：上午抓紧开棚通风降湿，下午检查灰霉病斑并控氮增磷钾。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_27458a9c6c_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_e487d69ee1",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "今日先做",
+      "text": "今日先做",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_e487d69ee1_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_44cfaed6a5",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_44cfaed6a5_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_ec9b3661a5",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "9 点前打开棚膜通风，把 70% 湿度降到 60% 以下，防止高温高湿诱发灰霉病和白粉病。",
+      "text": "9 点前打开棚膜通风，把 70% 湿度降到 60% 以下，防止高温高湿诱发灰霉病和白粉病。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E1"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E1",
+        "confidence": 0.48,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_34f31ce993",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_34f31ce993_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_e778ba5d93",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "巡垄摘老叶、病叶，集中带出棚外销毁，减少菌源。",
+      "text": "巡垄摘老叶、病叶，集中带出棚外销毁，减少菌源。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_e778ba5d93_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_bec2f7ccdc",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "3.",
+      "text": "3.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_bec2f7ccdc_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_e11c2a63d21e:claim_ac01e97057",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "水肥改为“少量多次”，停高氮、增磷钾和微量元素，确保花果期养分均衡。",
+      "text": "水肥改为“少量多次”，停高氮、增磷钾和微量元素，确保花果期养分均衡。",
+      "source_type": "document",
+      "confidence": 0.76,
+      "warning": null,
+      "supporting_evidence_ids": [
+        "E8"
+      ],
+      "provenance": {
+        "source_type": "document",
+        "source_id": "E8",
+        "confidence": 0.76,
+        "created_at": "2026-05-25T09:59:42"
+      },
+      "query_id": "q_e11c2a63d21e",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "分析“草莓大棚监测台”模块，给出今天最值得执行的事项。",
+      "source_type": "query",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_1",
+      "type": "entity",
+      "label": "分析",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_2",
+      "type": "entity",
+      "label": "草莓大棚监测台",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_3",
+      "type": "entity",
+      "label": "模块",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:doc_1",
+      "type": "document",
+      "label": "当前页面模块聚合信息",
+      "detail": "AgriKB 当前界面",
+      "source_type": "live_context",
+      "doc_id": "当前页面模块聚合信息",
+      "file_name": "当前页面模块聚合信息",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_4",
+      "type": "entity",
+      "label": "当前模块",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_5",
+      "type": "entity",
+      "label": "实时聚合",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_6",
+      "type": "entity",
+      "label": "江苏句容",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ev_1",
+      "type": "retrieved_chunk",
+      "label": "当前页面模块聚合信息",
+      "detail": "- 当前打开模块：草莓大棚监测台。用草莓棚室作为示例，把温湿度、光照、土壤水分和病害风险变成今天能执行的管理建议。 - 模块指标：棚温:25.8°C/达标；空气湿度:82%/偏高；",
+      "evidence_id": "E1",
+      "doc_name": "当前页面模块聚合信息",
+      "file_name": "当前页面模块聚合信息",
+      "doc_id": "当前页面模块聚合信息",
+      "chunk_id": "module_context_e913dca1d8",
+      "title": "module_context",
+      "section": "module_context",
+      "page": null,
+      "raw_text": "- 当前打开模块：草莓大棚监测台。用草莓棚室作为示例，把温湿度、光照、土壤水分和病害风险变成今天能执行的管理建议。 - 模块指标：棚温:25.8°C/达标；空气湿度:82%/偏高；",
+      "score": 0.92,
+      "source_type": "live_context",
+      "entities": [
+        "当前模块",
+        "实时聚合",
+        "江苏句容"
+      ],
+      "snippet": "- 当前打开模块：草莓大棚监测台。用草莓棚室作为示例，把温湿度、光照、土壤水分和病害风险变成今天能执行的管理建议。 - 模块指标：棚温:25.8°C/达标；空气湿度:82%/偏高；",
+      "supports": "涉及module_context信息，关联实体包括当前模块、实时聚合、江苏句容",
+      "provenance": {
+        "source_type": "live_context",
+        "source_id": "module_context_e913dca1d8",
+        "doc_id": "当前页面模块聚合信息",
+        "chunk_id": "module_context_e913dca1d8",
+        "file_name": "当前页面模块聚合信息",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.92,
+        "confidence": 0.92,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:doc_2",
+      "type": "document",
+      "label": "江宁区实时气象环境",
+      "detail": "https://open-meteo.com/",
+      "source_type": "web_search",
+      "doc_id": "江宁区实时气象环境",
+      "file_name": "江宁区实时气象环境",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_7",
+      "type": "entity",
+      "label": "江宁区",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_8",
+      "type": "entity",
+      "label": "气象",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_9",
+      "type": "entity",
+      "label": "环境",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ev_2",
+      "type": "retrieved_chunk",
+      "label": "江宁区实时气象环境",
+      "detail": "产地: 江宁区（地图选点 31.90253, 118.98335） 当前温度: 26.5摄氏度；相对湿度: 92%；降水: 0mm；风速: 6.9km/h。 未来最高温: 31.4摄氏度、28.2摄氏度、27.",
+      "evidence_id": "E2",
+      "doc_name": "江宁区实时气象环境",
+      "file_name": "江宁区实时气象环境",
+      "doc_id": "江宁区实时气象环境",
+      "chunk_id": "regional_weather_3835417721275444319",
+      "title": "regional_weather",
+      "section": "regional_weather",
+      "page": null,
+      "raw_text": "产地: 江宁区（地图选点 31.90253, 118.98335） 当前温度: 26.5摄氏度；相对湿度: 92%；降水: 0mm；风速: 6.9km/h。 未来最高温: 31.4摄氏度、28.2摄氏度、27.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江宁区",
+        "气象",
+        "环境"
+      ],
+      "snippet": "产地: 江宁区（地图选点 31.90253, 118.98335） 当前温度: 26.5摄氏度；相对湿度: 92%；降水: 0mm；风速: 6.9km/h。 未来最高温: 31.4摄氏度、28.2摄氏度、27.",
+      "supports": "涉及regional_weather信息，关联实体包括江宁区、气象、环境、气候",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_weather_3835417721275444319",
+        "doc_id": "江宁区实时气象环境",
+        "chunk_id": "regional_weather_3835417721275444319",
+        "file_name": "江宁区实时气象环境",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:doc_3",
+      "type": "document",
+      "label": "江宁区到广陵区 高红路运输与市场态势",
+      "detail": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=31.902532128229545%2C118.9833491570259%3B32.28994415559086%2C119.64373550875402",
+      "source_type": "web_search",
+      "doc_id": "江宁区到广陵区 高红路运输与市场态势",
+      "file_name": "江宁区到广陵区 高红路运输与市场态势",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_10",
+      "type": "entity",
+      "label": "广陵区 高红路",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ent_11",
+      "type": "entity",
+      "label": "物流",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:ev_3",
+      "type": "retrieved_chunk",
+      "label": "江宁区到广陵区 高红路运输与市场态势",
+      "detail": "产地: 江宁区（地图选点 31.90253, 118.98335） 目标市场: 广陵区 高红路（地图选点 32.28994, 119.64374） 市场天气: 温度 25摄氏度；降水 0mm；风速 7.5km/h。",
+      "evidence_id": "E3",
+      "doc_name": "江宁区到广陵区 高红路运输与市场态势",
+      "file_name": "江宁区到广陵区 高红路运输与市场态势",
+      "doc_id": "江宁区到广陵区 高红路运输与市场态势",
+      "chunk_id": "regional_route_market_1293059645716943796",
+      "title": "regional_route_market",
+      "section": "regional_route_market",
+      "page": null,
+      "raw_text": "产地: 江宁区（地图选点 31.90253, 118.98335） 目标市场: 广陵区 高红路（地图选点 32.28994, 119.64374） 市场天气: 温度 25摄氏度；降水 0mm；风速 7.5km/h。",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江宁区",
+        "广陵区 高红路",
+        "物流"
+      ],
+      "snippet": "产地: 江宁区（地图选点 31.90253, 118.98335） 目标市场: 广陵区 高红路（地图选点 32.28994, 119.64374） 市场天气: 温度 25摄氏度；降水 0mm；风速 7.5km/h。",
+      "supports": "涉及regional_route_market信息，关联实体包括江宁区、广陵区 高红路、物流、收购",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_route_market_1293059645716943796",
+        "doc_id": "江宁区到广陵区 高红路运输与市场态势",
+        "chunk_id": "regional_route_market_1293059645716943796",
+        "file_name": "江宁区到广陵区 高红路运输与市场态势",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_623e027a08",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "一句话建议：上午立即开棚通风降湿，午后补光并控氮增磷钾。",
+      "text": "一句话建议：上午立即开棚通风降湿，午后补光并控氮增磷钾。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_623e027a08_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_abbd703d3e",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "今日先做",
+      "text": "今日先做",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_abbd703d3e_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_b52dc9cd48",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_b52dc9cd48_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_e6a46df758",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "9点前拉开棚膜或启动风机，把82%湿度降到65%以下，防止灰霉病暴发。",
+      "text": "9点前拉开棚膜或启动风机，把82%湿度降到65%以下，防止灰霉病暴发。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E1"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E1",
+        "confidence": 0.48,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_fb8927d05f",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_fb8927d05f_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_62d6326c63",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "检查老叶、病叶，摘后装袋带出棚外销毁，减少菌源。",
+      "text": "检查老叶、病叶，摘后装袋带出棚外销毁，减少菌源。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_62d6326c63_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_12907559ec",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "3.",
+      "text": "3.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_12907559ec_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_e13cff0606",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "水肥改“少量多次”，停高氮、增磷钾和钙镁，防徒长促花果。",
+      "text": "水肥改“少量多次”，停高氮、增磷钾和钙镁，防徒长促花果。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:55:45"
+      },
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_0d8dab6a8a17:claim_e13cff0606_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_0d8dab6a8a17",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "请围绕江苏句容农产品今天适合走哪些销售渠道、选择本地收购还是电商、如何询价和控制交易风险，给出可执行建议。要结合市场行情、收购渠道和助农渠道。",
+      "source_type": "query",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_1",
+      "type": "entity",
+      "label": "请围绕江苏句容农产品今天适合走哪些销售渠道",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_2",
+      "type": "entity",
+      "label": "选择本地收购还是电商",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_3",
+      "type": "entity",
+      "label": "如何询价和控制交易风险",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:doc_1",
+      "type": "document",
+      "label": "当前页面模块聚合信息",
+      "detail": "AgriKB 当前界面",
+      "source_type": "live_context",
+      "doc_id": "当前页面模块聚合信息",
+      "file_name": "当前页面模块聚合信息",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_4",
+      "type": "entity",
+      "label": "当前模块",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_5",
+      "type": "entity",
+      "label": "实时聚合",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_6",
+      "type": "entity",
+      "label": "江苏句容",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ev_1",
+      "type": "retrieved_chunk",
+      "label": "当前页面模块聚合信息",
+      "detail": "- 当前打开模块：草莓大棚监测台。用草莓棚室作为示例，把温湿度、光照、土壤水分和病害风险变成今天能执行的管理建议。 - 模块指标：棚温:25.8°C/达标；空气湿度:82%/偏高；",
+      "evidence_id": "E1",
+      "doc_name": "当前页面模块聚合信息",
+      "file_name": "当前页面模块聚合信息",
+      "doc_id": "当前页面模块聚合信息",
+      "chunk_id": "module_context_aa2359275f",
+      "title": "module_context",
+      "section": "module_context",
+      "page": null,
+      "raw_text": "- 当前打开模块：草莓大棚监测台。用草莓棚室作为示例，把温湿度、光照、土壤水分和病害风险变成今天能执行的管理建议。 - 模块指标：棚温:25.8°C/达标；空气湿度:82%/偏高；",
+      "score": 0.92,
+      "source_type": "live_context",
+      "entities": [
+        "当前模块",
+        "实时聚合",
+        "江苏句容"
+      ],
+      "snippet": "- 当前打开模块：草莓大棚监测台。用草莓棚室作为示例，把温湿度、光照、土壤水分和病害风险变成今天能执行的管理建议。 - 模块指标：棚温:25.8°C/达标；空气湿度:82%/偏高；",
+      "supports": "涉及module_context信息，关联实体包括当前模块、实时聚合、江苏句容",
+      "provenance": {
+        "source_type": "live_context",
+        "source_id": "module_context_aa2359275f",
+        "doc_id": "当前页面模块聚合信息",
+        "chunk_id": "module_context_aa2359275f",
+        "file_name": "当前页面模块聚合信息",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.92,
+        "confidence": 0.92,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:doc_2",
+      "type": "document",
+      "label": "江宁区实时气象环境",
+      "detail": "https://open-meteo.com/",
+      "source_type": "web_search",
+      "doc_id": "江宁区实时气象环境",
+      "file_name": "江宁区实时气象环境",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_7",
+      "type": "entity",
+      "label": "江宁区",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_8",
+      "type": "entity",
+      "label": "气象",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_9",
+      "type": "entity",
+      "label": "环境",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ev_2",
+      "type": "retrieved_chunk",
+      "label": "江宁区实时气象环境",
+      "detail": "产地: 江宁区（地图选点 31.90253, 118.98335） 当前温度: 26.2摄氏度；相对湿度: 93%；降水: 0.4mm；风速: 7.6km/h。 未来最高温: 31.4摄氏度、28.2摄氏度、27.",
+      "evidence_id": "E2",
+      "doc_name": "江宁区实时气象环境",
+      "file_name": "江宁区实时气象环境",
+      "doc_id": "江宁区实时气象环境",
+      "chunk_id": "regional_weather_3835417721275444319",
+      "title": "regional_weather",
+      "section": "regional_weather",
+      "page": null,
+      "raw_text": "产地: 江宁区（地图选点 31.90253, 118.98335） 当前温度: 26.2摄氏度；相对湿度: 93%；降水: 0.4mm；风速: 7.6km/h。 未来最高温: 31.4摄氏度、28.2摄氏度、27.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江宁区",
+        "气象",
+        "环境"
+      ],
+      "snippet": "产地: 江宁区（地图选点 31.90253, 118.98335） 当前温度: 26.2摄氏度；相对湿度: 93%；降水: 0.4mm；风速: 7.6km/h。 未来最高温: 31.4摄氏度、28.2摄氏度、27.",
+      "supports": "涉及regional_weather信息，关联实体包括江宁区、气象、环境、气候",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_weather_3835417721275444319",
+        "doc_id": "江宁区实时气象环境",
+        "chunk_id": "regional_weather_3835417721275444319",
+        "file_name": "江宁区实时气象环境",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:doc_3",
+      "type": "document",
+      "label": "江宁区到广陵区 高红路运输与市场态势",
+      "detail": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=31.902532128229545%2C118.9833491570259%3B32.28994415559086%2C119.64373550875402",
+      "source_type": "web_search",
+      "doc_id": "江宁区到广陵区 高红路运输与市场态势",
+      "file_name": "江宁区到广陵区 高红路运输与市场态势",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_10",
+      "type": "entity",
+      "label": "广陵区 高红路",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ent_11",
+      "type": "entity",
+      "label": "物流",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:ev_3",
+      "type": "retrieved_chunk",
+      "label": "江宁区到广陵区 高红路运输与市场态势",
+      "detail": "产地: 江宁区（地图选点 31.90253, 118.98335） 目标市场: 广陵区 高红路（地图选点 32.28994, 119.64374） 市场天气: 温度 25摄氏度；降水 0.1mm；风速 11.4km/h。",
+      "evidence_id": "E3",
+      "doc_name": "江宁区到广陵区 高红路运输与市场态势",
+      "file_name": "江宁区到广陵区 高红路运输与市场态势",
+      "doc_id": "江宁区到广陵区 高红路运输与市场态势",
+      "chunk_id": "regional_route_market_1293059645716943796",
+      "title": "regional_route_market",
+      "section": "regional_route_market",
+      "page": null,
+      "raw_text": "产地: 江宁区（地图选点 31.90253, 118.98335） 目标市场: 广陵区 高红路（地图选点 32.28994, 119.64374） 市场天气: 温度 25摄氏度；降水 0.1mm；风速 11.4km/h。",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江宁区",
+        "广陵区 高红路",
+        "物流"
+      ],
+      "snippet": "产地: 江宁区（地图选点 31.90253, 118.98335） 目标市场: 广陵区 高红路（地图选点 32.28994, 119.64374） 市场天气: 温度 25摄氏度；降水 0.1mm；风速 11.4km/h。",
+      "supports": "涉及regional_route_market信息，关联实体包括江宁区、广陵区 高红路、物流、收购",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_route_market_1293059645716943796",
+        "doc_id": "江宁区到广陵区 高红路运输与市场态势",
+        "chunk_id": "regional_route_market_1293059645716943796",
+        "file_name": "江宁区到广陵区 高红路运输与市场态势",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_5097337944",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "一句话建议：今天优先对接本地收购商快速出货，同步在助农电商挂预售锁价。",
+      "text": "一句话建议：今天优先对接本地收购商快速出货，同步在助农电商挂预售锁价。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E3"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E3",
+        "confidence": 0.48,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_d4f4fa00ef",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "今日先做",
+      "text": "今日先做",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_d4f4fa00ef_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_e13c672124",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_e13c672124_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_47114f9e94",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "上午联系句容本地果蔬收购站或高红路沿线批发商，询价草莓通货价，争取现款现货。",
+      "text": "上午联系句容本地果蔬收购站或高红路沿线批发商，询价草莓通货价，争取现款现货。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E3"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E3",
+        "confidence": 0.48,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_aff7efd41e",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_aff7efd41e_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_59e8797bcb",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "下午在“苏农云”或属地助农小程序上架草莓预售，设置限时优惠引流，锁定散客订单。",
+      "text": "下午在“苏农云”或属地助农小程序上架草莓预售，设置限时优惠引流，锁定散客订单。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_59e8797bcb_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_e2f1abf408",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "3.",
+      "text": "3.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_e2f1abf408_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    },
+    {
+      "id": "q_f226e6d3c139:claim_5313b07a7c",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "傍晚前确认物流：短途走高红路直送广陵区，远单用冷链拼车，避免高温闷坏。",
+      "text": "傍晚前确认物流：短途走高红路直送广陵区，远单用冷链拼车，避免高温闷坏。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E3"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E3",
+        "confidence": 0.48,
+        "created_at": "2026-05-25T16:19:07"
+      },
+      "query_id": "q_f226e6d3c139",
+      "session_id": "b094aea48f4b428fbd1e0b3fb29f1c01"
+    }
+  ],
+  "edges": [
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_1",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_2",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_3",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_3",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_4",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_4",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_1->q_e11c2a63d21e:ev_1",
+      "source": "q_e11c2a63d21e:doc_1",
+      "target": "q_e11c2a63d21e:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_2->q_e11c2a63d21e:ev_1",
+      "source": "q_e11c2a63d21e:ent_2",
+      "target": "q_e11c2a63d21e:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_3->q_e11c2a63d21e:ev_1",
+      "source": "q_e11c2a63d21e:ent_3",
+      "target": "q_e11c2a63d21e:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_4->q_e11c2a63d21e:ev_1",
+      "source": "q_e11c2a63d21e:ent_4",
+      "target": "q_e11c2a63d21e:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_5",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_5",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_6",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_6",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_2->q_e11c2a63d21e:ev_2",
+      "source": "q_e11c2a63d21e:doc_2",
+      "target": "q_e11c2a63d21e:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_2->q_e11c2a63d21e:ev_2",
+      "source": "q_e11c2a63d21e:ent_2",
+      "target": "q_e11c2a63d21e:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_5->q_e11c2a63d21e:ev_2",
+      "source": "q_e11c2a63d21e:ent_5",
+      "target": "q_e11c2a63d21e:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_6->q_e11c2a63d21e:ev_2",
+      "source": "q_e11c2a63d21e:ent_6",
+      "target": "q_e11c2a63d21e:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_7",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_7",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_3->q_e11c2a63d21e:ev_3",
+      "source": "q_e11c2a63d21e:doc_3",
+      "target": "q_e11c2a63d21e:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_2->q_e11c2a63d21e:ev_3",
+      "source": "q_e11c2a63d21e:ent_2",
+      "target": "q_e11c2a63d21e:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_5->q_e11c2a63d21e:ev_3",
+      "source": "q_e11c2a63d21e:ent_5",
+      "target": "q_e11c2a63d21e:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_7->q_e11c2a63d21e:ev_3",
+      "source": "q_e11c2a63d21e:ent_7",
+      "target": "q_e11c2a63d21e:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:mentions:q_e11c2a63d21e->q_e11c2a63d21e:ent_8",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:ent_8",
+      "type": "mentions"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_4->q_e11c2a63d21e:ev_4",
+      "source": "q_e11c2a63d21e:doc_4",
+      "target": "q_e11c2a63d21e:ev_4",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_2->q_e11c2a63d21e:ev_4",
+      "source": "q_e11c2a63d21e:ent_2",
+      "target": "q_e11c2a63d21e:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_5->q_e11c2a63d21e:ev_4",
+      "source": "q_e11c2a63d21e:ent_5",
+      "target": "q_e11c2a63d21e:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_8->q_e11c2a63d21e:ev_4",
+      "source": "q_e11c2a63d21e:ent_8",
+      "target": "q_e11c2a63d21e:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_5->q_e11c2a63d21e:ev_5",
+      "source": "q_e11c2a63d21e:doc_5",
+      "target": "q_e11c2a63d21e:ev_5",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_2->q_e11c2a63d21e:ev_5",
+      "source": "q_e11c2a63d21e:ent_2",
+      "target": "q_e11c2a63d21e:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_5->q_e11c2a63d21e:ev_5",
+      "source": "q_e11c2a63d21e:ent_5",
+      "target": "q_e11c2a63d21e:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_8->q_e11c2a63d21e:ev_5",
+      "source": "q_e11c2a63d21e:ent_8",
+      "target": "q_e11c2a63d21e:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_6->q_e11c2a63d21e:ev_6",
+      "source": "q_e11c2a63d21e:doc_6",
+      "target": "q_e11c2a63d21e:ev_6",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_2->q_e11c2a63d21e:ev_6",
+      "source": "q_e11c2a63d21e:ent_2",
+      "target": "q_e11c2a63d21e:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_5->q_e11c2a63d21e:ev_6",
+      "source": "q_e11c2a63d21e:ent_5",
+      "target": "q_e11c2a63d21e:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_8->q_e11c2a63d21e:ev_6",
+      "source": "q_e11c2a63d21e:ent_8",
+      "target": "q_e11c2a63d21e:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_7->q_e11c2a63d21e:ev_7",
+      "source": "q_e11c2a63d21e:doc_7",
+      "target": "q_e11c2a63d21e:ev_7",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_2->q_e11c2a63d21e:ev_7",
+      "source": "q_e11c2a63d21e:ent_2",
+      "target": "q_e11c2a63d21e:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_5->q_e11c2a63d21e:ev_7",
+      "source": "q_e11c2a63d21e:ent_5",
+      "target": "q_e11c2a63d21e:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_8->q_e11c2a63d21e:ev_7",
+      "source": "q_e11c2a63d21e:ent_8",
+      "target": "q_e11c2a63d21e:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:contains:q_e11c2a63d21e:doc_8->q_e11c2a63d21e:ev_8",
+      "source": "q_e11c2a63d21e:doc_8",
+      "target": "q_e11c2a63d21e:ev_8",
+      "type": "contains"
+    },
+    {
+      "id": "q_e11c2a63d21e:retrieves:q_e11c2a63d21e:ent_1->q_e11c2a63d21e:ev_8",
+      "source": "q_e11c2a63d21e:ent_1",
+      "target": "q_e11c2a63d21e:ev_8",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_e11c2a63d21e:qualifies:q_e11c2a63d21e:claim_27458a9c6c_prior->q_e11c2a63d21e:claim_27458a9c6c",
+      "source": "q_e11c2a63d21e:claim_27458a9c6c_prior",
+      "target": "q_e11c2a63d21e:claim_27458a9c6c",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_27458a9c6c",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_27458a9c6c",
+      "type": "answers"
+    },
+    {
+      "id": "q_e11c2a63d21e:qualifies:q_e11c2a63d21e:claim_e487d69ee1_prior->q_e11c2a63d21e:claim_e487d69ee1",
+      "source": "q_e11c2a63d21e:claim_e487d69ee1_prior",
+      "target": "q_e11c2a63d21e:claim_e487d69ee1",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_e487d69ee1",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_e487d69ee1",
+      "type": "answers"
+    },
+    {
+      "id": "q_e11c2a63d21e:qualifies:q_e11c2a63d21e:claim_44cfaed6a5_prior->q_e11c2a63d21e:claim_44cfaed6a5",
+      "source": "q_e11c2a63d21e:claim_44cfaed6a5_prior",
+      "target": "q_e11c2a63d21e:claim_44cfaed6a5",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_44cfaed6a5",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_44cfaed6a5",
+      "type": "answers"
+    },
+    {
+      "id": "q_e11c2a63d21e:supports:q_e11c2a63d21e:ev_1->q_e11c2a63d21e:claim_ec9b3661a5",
+      "source": "q_e11c2a63d21e:ev_1",
+      "target": "q_e11c2a63d21e:claim_ec9b3661a5",
+      "type": "supports"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_ec9b3661a5",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_ec9b3661a5",
+      "type": "answers"
+    },
+    {
+      "id": "q_e11c2a63d21e:qualifies:q_e11c2a63d21e:claim_34f31ce993_prior->q_e11c2a63d21e:claim_34f31ce993",
+      "source": "q_e11c2a63d21e:claim_34f31ce993_prior",
+      "target": "q_e11c2a63d21e:claim_34f31ce993",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_34f31ce993",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_34f31ce993",
+      "type": "answers"
+    },
+    {
+      "id": "q_e11c2a63d21e:qualifies:q_e11c2a63d21e:claim_e778ba5d93_prior->q_e11c2a63d21e:claim_e778ba5d93",
+      "source": "q_e11c2a63d21e:claim_e778ba5d93_prior",
+      "target": "q_e11c2a63d21e:claim_e778ba5d93",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_e778ba5d93",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_e778ba5d93",
+      "type": "answers"
+    },
+    {
+      "id": "q_e11c2a63d21e:qualifies:q_e11c2a63d21e:claim_bec2f7ccdc_prior->q_e11c2a63d21e:claim_bec2f7ccdc",
+      "source": "q_e11c2a63d21e:claim_bec2f7ccdc_prior",
+      "target": "q_e11c2a63d21e:claim_bec2f7ccdc",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_bec2f7ccdc",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_bec2f7ccdc",
+      "type": "answers"
+    },
+    {
+      "id": "q_e11c2a63d21e:supports:q_e11c2a63d21e:ev_8->q_e11c2a63d21e:claim_ac01e97057",
+      "source": "q_e11c2a63d21e:ev_8",
+      "target": "q_e11c2a63d21e:claim_ac01e97057",
+      "type": "supports"
+    },
+    {
+      "id": "q_e11c2a63d21e:answers:q_e11c2a63d21e->q_e11c2a63d21e:claim_ac01e97057",
+      "source": "q_e11c2a63d21e",
+      "target": "q_e11c2a63d21e:claim_ac01e97057",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_1",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_2",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_3",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_3",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_4",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_4",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_5",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_5",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_6",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_6",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:contains:q_0d8dab6a8a17:doc_1->q_0d8dab6a8a17:ev_1",
+      "source": "q_0d8dab6a8a17:doc_1",
+      "target": "q_0d8dab6a8a17:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_4->q_0d8dab6a8a17:ev_1",
+      "source": "q_0d8dab6a8a17:ent_4",
+      "target": "q_0d8dab6a8a17:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_5->q_0d8dab6a8a17:ev_1",
+      "source": "q_0d8dab6a8a17:ent_5",
+      "target": "q_0d8dab6a8a17:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_6->q_0d8dab6a8a17:ev_1",
+      "source": "q_0d8dab6a8a17:ent_6",
+      "target": "q_0d8dab6a8a17:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_7",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_7",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_8",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_8",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_9",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_9",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:contains:q_0d8dab6a8a17:doc_2->q_0d8dab6a8a17:ev_2",
+      "source": "q_0d8dab6a8a17:doc_2",
+      "target": "q_0d8dab6a8a17:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_7->q_0d8dab6a8a17:ev_2",
+      "source": "q_0d8dab6a8a17:ent_7",
+      "target": "q_0d8dab6a8a17:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_8->q_0d8dab6a8a17:ev_2",
+      "source": "q_0d8dab6a8a17:ent_8",
+      "target": "q_0d8dab6a8a17:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_9->q_0d8dab6a8a17:ev_2",
+      "source": "q_0d8dab6a8a17:ent_9",
+      "target": "q_0d8dab6a8a17:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_10",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_10",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:mentions:q_0d8dab6a8a17->q_0d8dab6a8a17:ent_11",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:ent_11",
+      "type": "mentions"
+    },
+    {
+      "id": "q_0d8dab6a8a17:contains:q_0d8dab6a8a17:doc_3->q_0d8dab6a8a17:ev_3",
+      "source": "q_0d8dab6a8a17:doc_3",
+      "target": "q_0d8dab6a8a17:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_7->q_0d8dab6a8a17:ev_3",
+      "source": "q_0d8dab6a8a17:ent_7",
+      "target": "q_0d8dab6a8a17:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_10->q_0d8dab6a8a17:ev_3",
+      "source": "q_0d8dab6a8a17:ent_10",
+      "target": "q_0d8dab6a8a17:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:retrieves:q_0d8dab6a8a17:ent_11->q_0d8dab6a8a17:ev_3",
+      "source": "q_0d8dab6a8a17:ent_11",
+      "target": "q_0d8dab6a8a17:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_0d8dab6a8a17:qualifies:q_0d8dab6a8a17:claim_623e027a08_prior->q_0d8dab6a8a17:claim_623e027a08",
+      "source": "q_0d8dab6a8a17:claim_623e027a08_prior",
+      "target": "q_0d8dab6a8a17:claim_623e027a08",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_623e027a08",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_623e027a08",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:qualifies:q_0d8dab6a8a17:claim_abbd703d3e_prior->q_0d8dab6a8a17:claim_abbd703d3e",
+      "source": "q_0d8dab6a8a17:claim_abbd703d3e_prior",
+      "target": "q_0d8dab6a8a17:claim_abbd703d3e",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_abbd703d3e",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_abbd703d3e",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:qualifies:q_0d8dab6a8a17:claim_b52dc9cd48_prior->q_0d8dab6a8a17:claim_b52dc9cd48",
+      "source": "q_0d8dab6a8a17:claim_b52dc9cd48_prior",
+      "target": "q_0d8dab6a8a17:claim_b52dc9cd48",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_b52dc9cd48",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_b52dc9cd48",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:supports:q_0d8dab6a8a17:ev_1->q_0d8dab6a8a17:claim_e6a46df758",
+      "source": "q_0d8dab6a8a17:ev_1",
+      "target": "q_0d8dab6a8a17:claim_e6a46df758",
+      "type": "supports"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_e6a46df758",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_e6a46df758",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:qualifies:q_0d8dab6a8a17:claim_fb8927d05f_prior->q_0d8dab6a8a17:claim_fb8927d05f",
+      "source": "q_0d8dab6a8a17:claim_fb8927d05f_prior",
+      "target": "q_0d8dab6a8a17:claim_fb8927d05f",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_fb8927d05f",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_fb8927d05f",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:qualifies:q_0d8dab6a8a17:claim_62d6326c63_prior->q_0d8dab6a8a17:claim_62d6326c63",
+      "source": "q_0d8dab6a8a17:claim_62d6326c63_prior",
+      "target": "q_0d8dab6a8a17:claim_62d6326c63",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_62d6326c63",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_62d6326c63",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:qualifies:q_0d8dab6a8a17:claim_12907559ec_prior->q_0d8dab6a8a17:claim_12907559ec",
+      "source": "q_0d8dab6a8a17:claim_12907559ec_prior",
+      "target": "q_0d8dab6a8a17:claim_12907559ec",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_12907559ec",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_12907559ec",
+      "type": "answers"
+    },
+    {
+      "id": "q_0d8dab6a8a17:qualifies:q_0d8dab6a8a17:claim_e13cff0606_prior->q_0d8dab6a8a17:claim_e13cff0606",
+      "source": "q_0d8dab6a8a17:claim_e13cff0606_prior",
+      "target": "q_0d8dab6a8a17:claim_e13cff0606",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_0d8dab6a8a17:answers:q_0d8dab6a8a17->q_0d8dab6a8a17:claim_e13cff0606",
+      "source": "q_0d8dab6a8a17",
+      "target": "q_0d8dab6a8a17:claim_e13cff0606",
+      "type": "answers"
+    },
+    {
+      "id": "follow_up:q_e11c2a63d21e:claim_ac01e97057->q_0d8dab6a8a17",
+      "source": "q_e11c2a63d21e:claim_ac01e97057",
+      "target": "q_0d8dab6a8a17",
+      "type": "follow_up"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_1",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_2",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_3",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_3",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_4",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_4",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_5",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_5",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_6",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_6",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:contains:q_f226e6d3c139:doc_1->q_f226e6d3c139:ev_1",
+      "source": "q_f226e6d3c139:doc_1",
+      "target": "q_f226e6d3c139:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_4->q_f226e6d3c139:ev_1",
+      "source": "q_f226e6d3c139:ent_4",
+      "target": "q_f226e6d3c139:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_5->q_f226e6d3c139:ev_1",
+      "source": "q_f226e6d3c139:ent_5",
+      "target": "q_f226e6d3c139:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_6->q_f226e6d3c139:ev_1",
+      "source": "q_f226e6d3c139:ent_6",
+      "target": "q_f226e6d3c139:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_7",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_7",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_8",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_8",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_9",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_9",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:contains:q_f226e6d3c139:doc_2->q_f226e6d3c139:ev_2",
+      "source": "q_f226e6d3c139:doc_2",
+      "target": "q_f226e6d3c139:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_7->q_f226e6d3c139:ev_2",
+      "source": "q_f226e6d3c139:ent_7",
+      "target": "q_f226e6d3c139:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_8->q_f226e6d3c139:ev_2",
+      "source": "q_f226e6d3c139:ent_8",
+      "target": "q_f226e6d3c139:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_9->q_f226e6d3c139:ev_2",
+      "source": "q_f226e6d3c139:ent_9",
+      "target": "q_f226e6d3c139:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_10",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_10",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:mentions:q_f226e6d3c139->q_f226e6d3c139:ent_11",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:ent_11",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f226e6d3c139:contains:q_f226e6d3c139:doc_3->q_f226e6d3c139:ev_3",
+      "source": "q_f226e6d3c139:doc_3",
+      "target": "q_f226e6d3c139:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_7->q_f226e6d3c139:ev_3",
+      "source": "q_f226e6d3c139:ent_7",
+      "target": "q_f226e6d3c139:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_10->q_f226e6d3c139:ev_3",
+      "source": "q_f226e6d3c139:ent_10",
+      "target": "q_f226e6d3c139:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:retrieves:q_f226e6d3c139:ent_11->q_f226e6d3c139:ev_3",
+      "source": "q_f226e6d3c139:ent_11",
+      "target": "q_f226e6d3c139:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f226e6d3c139:supports:q_f226e6d3c139:ev_3->q_f226e6d3c139:claim_5097337944",
+      "source": "q_f226e6d3c139:ev_3",
+      "target": "q_f226e6d3c139:claim_5097337944",
+      "type": "supports"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_5097337944",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_5097337944",
+      "type": "answers"
+    },
+    {
+      "id": "q_f226e6d3c139:qualifies:q_f226e6d3c139:claim_d4f4fa00ef_prior->q_f226e6d3c139:claim_d4f4fa00ef",
+      "source": "q_f226e6d3c139:claim_d4f4fa00ef_prior",
+      "target": "q_f226e6d3c139:claim_d4f4fa00ef",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_d4f4fa00ef",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_d4f4fa00ef",
+      "type": "answers"
+    },
+    {
+      "id": "q_f226e6d3c139:qualifies:q_f226e6d3c139:claim_e13c672124_prior->q_f226e6d3c139:claim_e13c672124",
+      "source": "q_f226e6d3c139:claim_e13c672124_prior",
+      "target": "q_f226e6d3c139:claim_e13c672124",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_e13c672124",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_e13c672124",
+      "type": "answers"
+    },
+    {
+      "id": "q_f226e6d3c139:supports:q_f226e6d3c139:ev_3->q_f226e6d3c139:claim_47114f9e94",
+      "source": "q_f226e6d3c139:ev_3",
+      "target": "q_f226e6d3c139:claim_47114f9e94",
+      "type": "supports"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_47114f9e94",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_47114f9e94",
+      "type": "answers"
+    },
+    {
+      "id": "q_f226e6d3c139:qualifies:q_f226e6d3c139:claim_aff7efd41e_prior->q_f226e6d3c139:claim_aff7efd41e",
+      "source": "q_f226e6d3c139:claim_aff7efd41e_prior",
+      "target": "q_f226e6d3c139:claim_aff7efd41e",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_aff7efd41e",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_aff7efd41e",
+      "type": "answers"
+    },
+    {
+      "id": "q_f226e6d3c139:qualifies:q_f226e6d3c139:claim_59e8797bcb_prior->q_f226e6d3c139:claim_59e8797bcb",
+      "source": "q_f226e6d3c139:claim_59e8797bcb_prior",
+      "target": "q_f226e6d3c139:claim_59e8797bcb",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_59e8797bcb",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_59e8797bcb",
+      "type": "answers"
+    },
+    {
+      "id": "q_f226e6d3c139:qualifies:q_f226e6d3c139:claim_e2f1abf408_prior->q_f226e6d3c139:claim_e2f1abf408",
+      "source": "q_f226e6d3c139:claim_e2f1abf408_prior",
+      "target": "q_f226e6d3c139:claim_e2f1abf408",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_e2f1abf408",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_e2f1abf408",
+      "type": "answers"
+    },
+    {
+      "id": "q_f226e6d3c139:supports:q_f226e6d3c139:ev_3->q_f226e6d3c139:claim_5313b07a7c",
+      "source": "q_f226e6d3c139:ev_3",
+      "target": "q_f226e6d3c139:claim_5313b07a7c",
+      "type": "supports"
+    },
+    {
+      "id": "q_f226e6d3c139:answers:q_f226e6d3c139->q_f226e6d3c139:claim_5313b07a7c",
+      "source": "q_f226e6d3c139",
+      "target": "q_f226e6d3c139:claim_5313b07a7c",
+      "type": "answers"
+    },
+    {
+      "id": "follow_up:q_0d8dab6a8a17:claim_e13cff0606->q_f226e6d3c139",
+      "source": "q_0d8dab6a8a17:claim_e13cff0606",
+      "target": "q_f226e6d3c139",
+      "type": "follow_up"
+    }
+  ],
+  "turns": [
+    {
+      "query_id": "q_e11c2a63d21e",
+      "query": "请用两句话说明草莓大棚今天怎么管理",
+      "answer": "一句话建议：上午抓紧开棚通风降湿，下午检查灰霉病斑并控氮增磷钾。\n\n今日先做\n\n1. 9 点前打开棚膜通风，把 70% 湿度降到 60% 以下，防止高温高湿诱发灰霉病和白粉病。\n2. 巡垄摘老叶、病叶，集中带出棚外销毁，减少菌源。\n3. 水肥改为“少量多次”，停高氮、增磷钾和微量元素，确保花果期养分均衡。\n\n为什么这样判断\n\n今天句容气温 31.4 ℃、湿度 70%，棚内极易闷出灰霉病。花果期是产量和口感定型期，专家明确提醒此时要“控氮、增磷钾”，否则徒长、果小、甜度低。\n省“新农人”三年行动计划正在扶持返乡创业，把标准化管理做细，既是保收成，也是后续申报项目和对接渠道的硬指标。\n\n市场与渠道\n\n镇江农产品批发市场 51 公里、约 44 分钟车程，是句容草莓就近走量的主渠道；但证据未给出今日草莓具体收购价，需自行登录江苏省农产品批发市场价格信息系统或联系市场档口询价。\n电商侧可同步在“福地云选”和供销 e 家上架预售，减少批发端压价风险。\n\n风险提醒\n\n未来两天有 15–24 mm 降雨，湿度会进一步升高，灰霉病暴发概率大；雨前尽量抢采八成熟果，装箱加防潮内衬、箱底垫高，减少露水烂果。\n\n下一步\n\n1. 登录 https://ncppfsc.jssny.com.cn 查今日全省草莓批发均价，作为议价参考。\n2. 拍照记录病叶果情况，上传至本地农技群或 AgriKB 知识库，获取针对性药方。\n3. 若批量出货，提前 2 小时通过 1688 冷链或江苏苏豪冷链预约冷藏车，避开雨天装车。",
+      "created_at": "2026-05-25T09:59:42",
+      "claim_ids": [
+        "q_e11c2a63d21e:claim_27458a9c6c",
+        "q_e11c2a63d21e:claim_e487d69ee1",
+        "q_e11c2a63d21e:claim_44cfaed6a5",
+        "q_e11c2a63d21e:claim_ec9b3661a5",
+        "q_e11c2a63d21e:claim_34f31ce993",
+        "q_e11c2a63d21e:claim_e778ba5d93",
+        "q_e11c2a63d21e:claim_bec2f7ccdc",
+        "q_e11c2a63d21e:claim_ac01e97057"
+      ]
+    },
+    {
+      "query_id": "q_0d8dab6a8a17",
+      "query": "分析“草莓大棚监测台”模块，给出今天最值得执行的事项。",
+      "answer": "一句话建议：上午立即开棚通风降湿，午后补光并控氮增磷钾。\n\n今日先做\n\n1. 9点前拉开棚膜或启动风机，把82%湿度降到65%以下，防止灰霉病暴发。\n2. 检查老叶、病叶，摘后装袋带出棚外销毁，减少菌源。\n3. 水肥改“少量多次”，停高氮、增磷钾和钙镁，防徒长促花果。\n\n为什么这样判断\n\n棚温25.8°C虽达标，但湿度82%已超标。江宁区外温26.5°C、相对湿度92%，若不及时通风，棚内夜间湿度将持续走高，灰霉病风险极高。\n\n市场与渠道\n\n广陵区高红路市场今日晴好、无降水，利于下午采收运输。建议上午完成通风防病后，下午视果色成熟度分批采摘，傍晚前发车，保证次日早市鲜度。\n\n风险提醒\n\n湿度偏高是当前最大威胁，若遇午后阵雨需立即闭棚防雨，雨停后再通风。连续高湿超过3天，建议加一次生物菌剂预防。\n\n下一步\n\n明早继续监测棚内湿度曲线，若仍高于75%，考虑加装临时循环风机或地面铺稻壳吸湿。",
+      "created_at": "2026-05-25T15:55:46",
+      "claim_ids": [
+        "q_0d8dab6a8a17:claim_623e027a08",
+        "q_0d8dab6a8a17:claim_abbd703d3e",
+        "q_0d8dab6a8a17:claim_b52dc9cd48",
+        "q_0d8dab6a8a17:claim_e6a46df758",
+        "q_0d8dab6a8a17:claim_fb8927d05f",
+        "q_0d8dab6a8a17:claim_62d6326c63",
+        "q_0d8dab6a8a17:claim_12907559ec",
+        "q_0d8dab6a8a17:claim_e13cff0606"
+      ]
+    },
+    {
+      "query_id": "q_f226e6d3c139",
+      "query": "请围绕江苏句容农产品今天适合走哪些销售渠道、选择本地收购还是电商、如何询价和控制交易风险，给出可执行建议。要结合市场行情、收购渠道和助农渠道。",
+      "answer": "一句话建议：今天优先对接本地收购商快速出货，同步在助农电商挂预售锁价。\n\n今日先做\n\n1. 上午联系句容本地果蔬收购站或高红路沿线批发商，询价草莓通货价，争取现款现货。\n2. 下午在“苏农云”或属地助农小程序上架草莓预售，设置限时优惠引流，锁定散客订单。\n3. 傍晚前确认物流：短途走高红路直送广陵区，远单用冷链拼车，避免高温闷坏。\n\n为什么这样判断\n\n江宁区今晨湿度93%、外温26.2°C，草莓采后易腐，需快进快出。本地收购资金回笼快，电商预售可平抑价波动，两者并行最稳。\n\n市场与渠道\n\n- 本地收购：适合量大、求稳，现款交易，注意验秤和水分扣点。\n- 助农电商：适合精品果、品牌溢价，需拍短视频展示棚内实况增强信任。\n- 行情参考：广陵区市场天气晴好、降水仅0.1mm，到货风险低，可适度加价。\n\n风险提醒\n\n1. humidity高，采后2小时内必须预冷，否则损耗率飙升。\n2. 电商发货留足缓冲，避免雨天延误导致差评。\n3. 收购商口头报价要落单签字，防临时压价。\n\n下一步\n\n明早再巡棚定采收量，根据订单和收购价动态调整比例；若电商订单超30%，提前打包耗材和冰袋。",
+      "created_at": "2026-05-25T16:19:07",
+      "claim_ids": [
+        "q_f226e6d3c139:claim_5097337944",
+        "q_f226e6d3c139:claim_d4f4fa00ef",
+        "q_f226e6d3c139:claim_e13c672124",
+        "q_f226e6d3c139:claim_47114f9e94",
+        "q_f226e6d3c139:claim_aff7efd41e",
+        "q_f226e6d3c139:claim_59e8797bcb",
+        "q_f226e6d3c139:claim_e2f1abf408",
+        "q_f226e6d3c139:claim_5313b07a7c"
+      ]
+    }
+  ],
+  "last_anchor_id": "q_f226e6d3c139:claim_5313b07a7c",
+  "source_types": {
+    "document": "来自当前知识库文档 chunk 的证据",
+    "web_search": "来自真实联网搜索结果；未配置搜索时不会伪造",
+    "model_prior": "来自模型内置知识或通用推理，不是文档证据",
+    "inferred": "由多个文档证据综合推理得到",
+    "unsupported": "没有可靠证据支持或证据不足"
+  }
+}

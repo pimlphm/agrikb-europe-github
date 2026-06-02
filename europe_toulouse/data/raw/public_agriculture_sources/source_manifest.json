@@ -1,0 +1,533 @@
+[
+  {
+    "url": "https://chatgpt.com/share/6a11b7aa-d9b0-83ec-88d4-26e0cc66e50a",
+    "file": "data\\raw\\public_agriculture_sources\\chatgpt_share\\chatgpt_share.html",
+    "ok": true,
+    "error": "",
+    "bytes": 636237,
+    "sha256": "554a3cc0b501e2a57b8000cfa811cecfeed08a6432b2357db81494fd54f1f720",
+    "downloaded_at": "2026-05-23T16:29:24"
+  },
+  {
+    "url": "https://data.gov.tw/en/datasets/49444",
+    "file": "data\\raw\\public_agriculture_sources\\source_pages\\taiwan_data_gov_49444.html",
+    "ok": true,
+    "error": "",
+    "bytes": 425431,
+    "sha256": "a121360803e89dbd955312de556b588b5d5ca3b023b55616ce4d7d3145c45b5e",
+    "downloaded_at": "2026-05-23T16:29:26"
+  },
+  {
+    "url": "https://data.moa.gov.tw/Service/OpenData/Traceability/TraceabilityOrganic.aspx?IsTransData=1&UnitId=D45",
+    "file": "data\\raw\\public_agriculture_sources\\taiwan_open_data\\taiwan_organic_agriculture_information.json",
+    "ok": true,
+    "error": "",
+    "bytes": 7841311,
+    "sha256": "b50c9b95da539ded9114a43d3cb140d5d367c531a8855b32a654bc9d51359062",
+    "downloaded_at": "2026-05-23T16:38:31"
+  },
+  {
+    "url": "https://data.moa.gov.tw/Service/OpenData/Traceability/TraceabilityOrganic.aspx?FOTT=CSV&IsTransData=1&UnitId=D45",
+    "file": "data\\raw\\public_agriculture_sources\\taiwan_open_data\\taiwan_organic_agriculture_information.csv",
+    "ok": true,
+    "error": "",
+    "bytes": 5123533,
+    "sha256": "95f579333be3e8bd1f83fe60ced3659a675a1ad7e5b9c3156af52f548ad2218e",
+    "downloaded_at": "2026-05-23T16:38:31"
+  },
+  {
+    "url": "https://data.moa.gov.tw/Service/OpenData/Traceability/TraceabilityOrganic.aspx?FOTT=Xml&IsTransData=1&UnitId=D45",
+    "file": "data\\raw\\public_agriculture_sources\\taiwan_open_data\\taiwan_organic_agriculture_information.xml",
+    "ok": true,
+    "error": "",
+    "bytes": 8643534,
+    "sha256": "e2d1e375fd9f3fc6bb2eb6cd9ab08629d2ffc86218b33e6c7530d32a9446bc21",
+    "downloaded_at": "2026-05-23T16:38:31"
+  },
+  {
+    "url": "https://interoperable-europe.ec.europa.eu/collection/eu-semantic-interoperability-catalogue/solution/agrovoc-thesaurus",
+    "file": "data\\raw\\public_agriculture_sources\\source_pages\\interoperable_europe_agrovoc.html",
+    "ok": true,
+    "error": "",
+    "bytes": 94227,
+    "sha256": "a8e929024a99e8a4d788e398260104440f2f7c9cae0fb81ad276f78b84e40207",
+    "downloaded_at": "2026-05-23T16:29:29"
+  },
+  {
+    "url": "https://interoperable-europe.ec.europa.eu/collection/eu-semantic-interoperability-catalogue/solution/agrovoc-thesaurus/rdf-export",
+    "file": "data\\raw\\public_agriculture_sources\\agrovoc\\interoperable_europe_agrovoc_rdf_export.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 47136,
+    "sha256": "9a2608234a2920bedb75f5a5229658e01279291d5db4a4416507689a33019d05",
+    "downloaded_at": "2026-05-23T16:29:30"
+  },
+  {
+    "url": "https://agrovoc.fao.org/latestAgrovoc/agrovoc_core.rdf.zip",
+    "file": "data\\raw\\public_agriculture_sources\\agrovoc\\agrovoc_core.rdf.zip",
+    "ok": true,
+    "error": "",
+    "bytes": 72543190,
+    "sha256": "4e4f0896c7276b16246d1331f2ff1c7fad69d86b368635cc3938e8b545e78987",
+    "downloaded_at": "2026-05-23T16:29:34"
+  },
+  {
+    "url": "https://cropontology.org/",
+    "file": "data\\raw\\public_agriculture_sources\\source_pages\\cropontology_home.html",
+    "ok": true,
+    "error": "",
+    "bytes": 72351,
+    "sha256": "cfd1e9baa697372d710db3f726e73276ca98217060a341d9e8dc36b4cb522a8d",
+    "downloaded_at": "2026-05-23T16:29:40"
+  },
+  {
+    "url": "https://cropontology.org/api_help",
+    "file": "data\\raw\\public_agriculture_sources\\source_pages\\cropontology_api_help.html",
+    "ok": true,
+    "error": "",
+    "bytes": 15355,
+    "sha256": "07667fd0cd59d799a1a30e15f1d2337f41df6e37dff6a735ec302de576b07922",
+    "downloaded_at": "2026-05-23T16:29:40"
+  },
+  {
+    "url": "https://cropontology.org/metadata",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\metadata.yaml",
+    "ok": true,
+    "error": "",
+    "bytes": 29256,
+    "sha256": "db71803f6846f0c93914bee05318ff4073e55bb86b1c46e53792e4a959e6ccc6",
+    "downloaded_at": "2026-05-23T16:29:40"
+  },
+  {
+    "url": "https://cropontology.org/ontos_stats",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\ontos_stats.json",
+    "ok": true,
+    "error": "",
+    "bytes": 12359,
+    "sha256": "2419c29429f5d08499f11e71702fd2654d612704542135401f4df74a541b784b",
+    "downloaded_at": "2026-05-23T16:30:05"
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits.json",
+    "ok": false,
+    "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables.json",
+    "ok": false,
+    "error": "HTTPError: HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/tags/agriculture?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\earth_engine_agriculture_tag_zh_cn.html",
+    "ok": true,
+    "error": "",
+    "bytes": 176792,
+    "sha256": "7670c2b2f550217f044686cc3a564755cf9aa93673c506bc9c27d9fb8ef7e41b",
+    "downloaded_at": "2026-05-23T16:30:07"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_320/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\rice_CO_320.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 1472721,
+    "sha256": "fadd11d7d41648040836a5a02606a2a6872f1bc686af643be7699e355b9a17b0",
+    "downloaded_at": "2026-05-23T16:30:09"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_321/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\wheat_CO_321.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 1409838,
+    "sha256": "1b9ded265c3628bc8044d325df4d5726ca6fd558129043ff0413cc0cf285da5d",
+    "downloaded_at": "2026-05-23T16:30:12"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_322/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\maize_CO_322.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 953924,
+    "sha256": "a9093c91e580065140f154b4a6dc00f8357ace409e46a6fb85883623ff22ce66",
+    "downloaded_at": "2026-05-23T16:30:15"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_334/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\cassava_CO_334.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 1254174,
+    "sha256": "5fa5e57a9c84c2160b29cbd8b278444cec2c8874a0b350a162f2528767f78fb8",
+    "downloaded_at": "2026-05-23T16:30:18"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_330/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\potato_CO_330.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 1223077,
+    "sha256": "a4a4768784d7955437309d6a939cb6a9711e2dd0d9e6cb86554a57062ff9063e",
+    "downloaded_at": "2026-05-23T16:30:20"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_336/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\soybean_CO_336.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 309495,
+    "sha256": "7d8e8ce7ca22210f7364a94ac65805a6c2838b19b5b3464be35ef512e918e290",
+    "downloaded_at": "2026-05-23T16:30:21"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_358/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\cotton_CO_358.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 823011,
+    "sha256": "2623016d4dcf89fc17318791e296beccf494a2bfee019993cb1e8c314f2795d4",
+    "downloaded_at": "2026-05-23T16:30:23"
+  },
+  {
+    "url": "https://cropontology.org/ontology/CO_359/rdf",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\sunflower_CO_359.rdf",
+    "ok": true,
+    "error": "",
+    "bytes": 1001297,
+    "sha256": "c0ce45b8e1dcd9a1f8eee25975b56e52870261b703e55c5f1121d3164d4e89c5",
+    "downloaded_at": "2026-05-23T16:30:25"
+  },
+  {
+    "url": "derived://developers.google.com/earth-engine/datasets/tags/agriculture",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\earth_engine_agriculture_catalog_links.csv",
+    "ok": true,
+    "bytes": 5812,
+    "sha256": "c539eb65ae5704d0e3815a8b5918aca3bf0a9ea1d7225425f8083618e7193bf9",
+    "downloaded_at": "2026-05-23T16:30:25"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/TERN_AET_CMRSET_LANDSAT_V2_2?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\TERN_AET_CMRSET_LANDSAT_V2_2.html",
+    "ok": true,
+    "error": "",
+    "bytes": 95960,
+    "sha256": "6d326690fef9f7a4de3d550e3406c30fe97288ca89c36f130fa5bf00eec49666",
+    "downloaded_at": "2026-05-23T16:30:26"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/AAFC_ACI?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\AAFC_ACI.html",
+    "ok": true,
+    "error": "",
+    "bytes": 104089,
+    "sha256": "d37758c05894ea4c8bf448464c704ed3c4806211d765ffd144cdfc1758c5ffac",
+    "downloaded_at": "2026-05-23T16:30:28"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/projects_forestdatapartnership_assets_cocoa_model_2025a?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\projects_forestdatapartnership_assets_cocoa_model_2025a.html",
+    "ok": true,
+    "error": "",
+    "bytes": 99077,
+    "sha256": "663966c7c99e2f11f4d0ecc20b9b66d1dfac52dc1e7f7beccec13201c7420a83",
+    "downloaded_at": "2026-05-23T16:30:29"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/projects_forestdatapartnership_assets_cocoa_model_2025b?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\projects_forestdatapartnership_assets_cocoa_model_2025b.html",
+    "ok": true,
+    "error": "",
+    "bytes": 98213,
+    "sha256": "4c21c3767dea791943c12930e1b8811f9447a30ab5c4912258a5b8658ee335d4",
+    "downloaded_at": "2026-05-23T16:30:30"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/projects_forestdatapartnership_assets_coffee_model_2025a?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\projects_forestdatapartnership_assets_coffee_model_2025a.html",
+    "ok": true,
+    "error": "",
+    "bytes": 99515,
+    "sha256": "9e067dd05ffdd9300fa68f91b2d320baf32ace60d9c5992050a42b546e0b8478",
+    "downloaded_at": "2026-05-23T16:30:31"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/projects_forestdatapartnership_assets_coffee_model_2025b?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\projects_forestdatapartnership_assets_coffee_model_2025b.html",
+    "ok": true,
+    "error": "",
+    "bytes": 98532,
+    "sha256": "9bd416e18c7881d8925bb80e8179f302e2830345115ecc5bc23bed045d430fd4",
+    "downloaded_at": "2026-05-23T16:30:32"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/Tsinghua_DESS_ChinaTerraceMap_v1?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\Tsinghua_DESS_ChinaTerraceMap_v1.html",
+    "ok": true,
+    "error": "",
+    "bytes": 92479,
+    "sha256": "c3b2beb7ae05b241818c1a7ebc5dbb92a4da62e30ddb082a77353dcd14eeec3a",
+    "downloaded_at": "2026-05-23T16:30:33"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/FAO_GHG_1_DROSE_A?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\FAO_GHG_1_DROSE_A.html",
+    "ok": true,
+    "error": "",
+    "bytes": 94700,
+    "sha256": "b26a9db0da29c256d5410072feed1187f30cea989fe16d5a5d6ba66ad29e87b3",
+    "downloaded_at": "2026-05-23T16:30:34"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCereal_2021_MODELS_v100?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\ESA_WorldCereal_2021_MODELS_v100.html",
+    "ok": true,
+    "error": "",
+    "bytes": 108143,
+    "sha256": "3d3d66d0a65686405d8355bcc4ab059359475de96ae520e2c946a0f9e3787da7",
+    "downloaded_at": "2026-05-23T16:30:36"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCereal_AEZ_v100?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\ESA_WorldCereal_AEZ_v100.html",
+    "ok": true,
+    "error": "",
+    "bytes": 102695,
+    "sha256": "5ed02917f6d611e54ea0fa8af2b65fa833ad35aa845ef9bdcc1051920613bc7c",
+    "downloaded_at": "2026-05-23T16:30:37"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCereal_2021_MARKERS_v100?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\ESA_WorldCereal_2021_MARKERS_v100.html",
+    "ok": true,
+    "error": "",
+    "bytes": 98596,
+    "sha256": "71d68147e89e15ba259cb9deead7f55fd1ac269fc54baf320033624d202ce9e2",
+    "downloaded_at": "2026-05-23T16:30:38"
+  },
+  {
+    "url": "https://developers.google.com/earth-engine/datasets/catalog/JRC_D5_EUCROPMAP_V1?hl=zh-cn",
+    "file": "data\\raw\\public_agriculture_sources\\google_earth_engine\\dataset_pages\\JRC_D5_EUCROPMAP_V1.html",
+    "ok": true,
+    "error": "",
+    "bytes": 96315,
+    "sha256": "abc67dcb8f01cfbb25e4da6a51fc6cb3b06c8406e317e2f45f67784a6ed40f29",
+    "downloaded_at": "2026-05-23T16:30:39"
+  },
+  {
+    "url": "zip://agrovoc_core.rdf.zip!/agrovoc_core.rdf",
+    "file": "data\\raw\\public_agriculture_sources\\agrovoc\\agrovoc_core.rdf",
+    "ok": true,
+    "bytes": 1238025191,
+    "sha256": "b9f9200ded1bcedf81879f692c1927f3f69bf4f2b117959d9e2d6799c6f0efbf",
+    "downloaded_at": "2026-05-23T16:30:47"
+  },
+  {
+    "url": "derived://cropontology.org/metadata summary",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\crop_ontology_metadata_summary.csv",
+    "ok": true,
+    "bytes": 5982,
+    "sha256": "4ee8f031e127520d10fb6bff482b3d6125e32dfe7e8d7afd033b990661698dff",
+    "downloaded_at": "2026-05-23T16:31:50"
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/320",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_320.json",
+    "ok": true,
+    "bytes": 3095,
+    "sha256": "3796a035ba341bd5ffb728240ceaaf9668c601eec81264b8e135fa38481a03e2",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/321",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_321.json",
+    "ok": true,
+    "bytes": 3252,
+    "sha256": "e62ecd03864e374f6a15263b5ef2c7fde4428f9bae483850608dd993c1dada80",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/322",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_322.json",
+    "ok": true,
+    "bytes": 3263,
+    "sha256": "6006f4f6e89926c49ffc249d21b19d0163b5adcaa9ad1de59696a8c84bd13f1a",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/330",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_330.json",
+    "ok": true,
+    "bytes": 2934,
+    "sha256": "8499e4cc4ab3ed6cd7307c0b2dab575eb4c57396637b80444f5e3e8aa36175f7",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/334",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_334.json",
+    "ok": true,
+    "bytes": 3319,
+    "sha256": "ae420e51f7e9a3cff9a91bab4b7ee57066313e1daed1c31614036a71b8a8797d",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/336",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_336.json",
+    "ok": true,
+    "bytes": 2888,
+    "sha256": "720c2749cbf28b6ed13bdb2f493f265fe01af2f0d7e2507ab033194150af11a3",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/358",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_358.json",
+    "ok": true,
+    "bytes": 3802,
+    "sha256": "b0a942b3a3b47d9ecc1f26355247f52293636941826a8436fa388d99246643d1",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/traits/359",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_traits_CO_359.json",
+    "ok": true,
+    "bytes": 3199,
+    "sha256": "e4a37426a7b14ba3535b604692aa5f8ed3948dd1b728acddfce7b355474f6e01",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/320",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_320.json",
+    "ok": true,
+    "bytes": 22290,
+    "sha256": "85f955779de10de78f9007378c8d3e086a52237705caefdfd708bf4b11479127",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/321",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_321.json",
+    "ok": true,
+    "bytes": 20387,
+    "sha256": "a1ca8cfc99784ec8e292d26599a4b476ea005df9a5faba8bd8874b2aac60a848",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/322",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_322.json",
+    "ok": true,
+    "bytes": 23060,
+    "sha256": "a68fb36bfea7447987a05c29c7896dd5b2c42374e6816ecec57a019bca324f8d",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/330",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_330.json",
+    "ok": true,
+    "bytes": 22407,
+    "sha256": "a83ad7fc198270eaa7eb5070146c296d1d9f7f7103ad4da2b75ae32e5fcef3a9",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/334",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_334.json",
+    "ok": true,
+    "bytes": 19379,
+    "sha256": "4789b828762053f496cd548a6dd09dc4a7eb843a2f5df16d891b8f11fe88cc37",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/336",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_336.json",
+    "ok": true,
+    "bytes": 21440,
+    "sha256": "7ecb1f4cc1c8b6320a40c986fd0ce39c2aebe566b607082778ad338e3e3d50cc",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/358",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_358.json",
+    "ok": true,
+    "bytes": 19924,
+    "sha256": "5072f8003c0329ba624f07530095dff274c6370ded2b56926152bd252d0f8a72",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "https://cropontology.org/brapi/v1/variables/359",
+    "file": "data\\raw\\public_agriculture_sources\\crop_ontology\\brapi_variables_CO_359.json",
+    "ok": true,
+    "bytes": 24011,
+    "sha256": "e9b50a6ec499dee5432f9cae1ee25b66005863228870c07d124a0424715d12d3",
+    "downloaded_at": "2026-05-23T16:38:31",
+    "error": ""
+  },
+  {
+    "url": "derived://agrovoc_core.rdf concept label sample",
+    "file": "data\\raw\\public_agriculture_sources\\agrovoc\\agrovoc_concept_sample.csv",
+    "ok": true,
+    "bytes": 261153,
+    "sha256": "0243e2d9d5fb4b8faeed3ab9414d0e8f183fbd96a083672300a59caadb07ccb5",
+    "downloaded_at": "2026-05-23T16:39:01",
+    "error": ""
+  },
+  {
+    "url": "derived://01_taiwan_organic_agriculture_data.md",
+    "file": "data\\raw\\public_agriculture_sources\\docs_for_ingest\\01_taiwan_organic_agriculture_data.md",
+    "ok": true,
+    "bytes": 4256,
+    "sha256": "3e6e8870af0c69012cdff4bf877c4b66d1d22e33c30e2772d50315bde0927071",
+    "downloaded_at": "2026-05-23T16:39:01",
+    "error": ""
+  },
+  {
+    "url": "derived://02_agrovoc_thesaurus_profile.md",
+    "file": "data\\raw\\public_agriculture_sources\\docs_for_ingest\\02_agrovoc_thesaurus_profile.md",
+    "ok": true,
+    "bytes": 10356,
+    "sha256": "b67ca160c3ed0838f87dc9269a2839decf80ca351998d03160c3774354cc309d",
+    "downloaded_at": "2026-05-23T16:39:01",
+    "error": ""
+  },
+  {
+    "url": "derived://03_crop_ontology_profile.md",
+    "file": "data\\raw\\public_agriculture_sources\\docs_for_ingest\\03_crop_ontology_profile.md",
+    "ok": true,
+    "bytes": 8960,
+    "sha256": "763f2dcf41589233ea2c7b1a0bca88182fb2be5acc7f3c03268f4cb920ff1a23",
+    "downloaded_at": "2026-05-23T16:39:01",
+    "error": ""
+  },
+  {
+    "url": "derived://00_public_agri_sources_overview.md",
+    "file": "data\\raw\\public_agriculture_sources\\docs_for_ingest\\00_public_agri_sources_overview.md",
+    "ok": true,
+    "bytes": 1788,
+    "sha256": "eadc3daf6efacf49a64ab647d6eeec38e0757aac340686a528ab95b753c04ba8",
+    "downloaded_at": "2026-05-23T16:39:01",
+    "error": ""
+  },
+  {
+    "url": "user-file://D:/微信存储/.../COA_OpenData.csv",
+    "file": "data\\raw\\public_agriculture_sources\\user_supplied\\COA_OpenData.csv",
+    "ok": true,
+    "bytes": 5123533,
+    "sha256": "95f579333be3e8bd1f83fe60ced3659a675a1ad7e5b9c3156af52f548ad2218e",
+    "downloaded_at": "2026-05-23T16:56:28",
+    "note": "User supplied file; hash matches data.gov.tw dataset 49444 CSV."
+  }
+]

@@ -1,0 +1,514 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 465,
+            "totalPages": 47
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_321:0001702",
+            "name": "AGBMNitr_M_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": null,
+            "contextOfUse": "Research-intensive characterization",
+            "growthStage": "After harvest",
+            "status": null,
+            "xref": null,
+            "institution": "JIC",
+            "scientist": "Luzie U Wingen",
+            "date": "2020-07-24 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0001662",
+                "name": "Above ground biomass nitrogen content",
+                "class": "Physiological",
+                "description": "Nitrogen content of the above ground biomass.",
+                "synonyms": null,
+                "mainAbbreviation": "BMNitr",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Nitrogen content",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0001682",
+                "name": "BM NIRS Computation",
+                "class": "Computation",
+                "description": "Calculated as sum of straw Nitrogen content and grain Nitrogen content according to the biomass partition into straw and grain.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001046",
+            "name": "AntDmg_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": "ANTDMG_pct",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": "After the event",
+            "status": null,
+            "xref": "BMS_29013",
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2014-09-23 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000084",
+                "name": "Ant damage",
+                "class": "Biotic stress",
+                "description": "The plant damage caused by ants.",
+                "synonyms": null,
+                "mainAbbreviation": "AntDmg",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Ant damage",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0000305",
+                "name": "AntDmg Estimation",
+                "class": "Estimation",
+                "description": "Standard method for ant damage.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001482",
+            "name": "AnthExt_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": null,
+            "contextOfUse": "Nursery/Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Bhoja Basnet, Rosemary Shrestha, Julian Pietragalla",
+            "date": "2016-01-05 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000982",
+                "name": "Anther extrusion",
+                "class": "Agronomic",
+                "description": "Extrusion of anthers.",
+                "synonyms": null,
+                "mainAbbreviation": "AnthExt",
+                "alternativeAbbreviations": null,
+                "entity": "Anther",
+                "attribute": "Anther extrusion",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0001011",
+                "name": "AnthExt Estimation",
+                "class": "Estimation",
+                "description": "Standard method for anther extrusion.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001049",
+            "name": "AphDmg_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": "APHDMG_pct",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": "After the event",
+            "status": null,
+            "xref": "BMS_22924",
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2015-10-25 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000085",
+                "name": "Aphid damage",
+                "class": "Biotic stress",
+                "description": "The plant damage caused by various species of aphids.",
+                "synonyms": "DMGAPH",
+                "mainAbbreviation": "AphDmg",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Aphid damage",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0000306",
+                "name": "AphDmg Estimation",
+                "class": "Estimation",
+                "description": "Standard method for aphid damage.",
+                "formula": null,
+                "reference": "Duveiller et al., 2012"
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001051",
+            "name": "ArmyWDmg_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": "ARMDMG_pct",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": "After the event",
+            "status": null,
+            "xref": "BMS_29014",
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2014-09-23 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000086",
+                "name": "Armyworm damage",
+                "class": "Biotic stress",
+                "description": "The plant damage caused by armyworm.",
+                "synonyms": null,
+                "mainAbbreviation": "ArmyWDmg",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Armyworm damage",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0000307",
+                "name": "ArmyWDmg Estimation",
+                "class": "Estimation",
+                "description": "Standard method for armyworm damage.",
+                "formula": null,
+                "reference": "Duveiller et al., 2012"
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001438",
+            "name": "BLBSev_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": null,
+            "contextOfUse": "Nursery/Trial evaluation",
+            "growthStage": "Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2014-09-23 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000932",
+                "name": "Bacterial leaf blight severity",
+                "class": "Biotic stress",
+                "description": "Wheat bacterial leaf blight severity in the plants caused by the agent Pseudomonas syringae pv. syringae. symptoms: small (less than 0.04 inches) water-soaked lesions expand and eventually coalesce. initial lesions become necrotic and turn from gray-green to tan-white. Entire leaves may become necrotic, but heads and glumes are typically symptomless.",
+                "synonyms": "BLB, PSYRI",
+                "mainAbbreviation": "BLBSev",
+                "alternativeAbbreviations": null,
+                "entity": "Leaf",
+                "attribute": "Bacterial leaf blight severity",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0000964",
+                "name": "BLBSev Estimation",
+                "class": "Estimation",
+                "description": "Standard method for wheat bacterial leaf blight severity.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001057",
+            "name": "HgramInc_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": "HGRAM_pct",
+            "contextOfUse": "Nursery/Trial evaluation",
+            "growthStage": "Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.",
+            "status": null,
+            "xref": "BMS_22836",
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2015-10-25 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000933",
+                "name": "Barley Helminthosporium leaf stripe incidence",
+                "class": "Biotic stress",
+                "description": "Barley helminthosporium leaf stripe incidence in the plants caused by the agent Drechslera graminea (helminthosporium gramineum).",
+                "synonyms": null,
+                "mainAbbreviation": "HgramInc",
+                "alternativeAbbreviations": null,
+                "entity": "Leaf",
+                "attribute": "Barley Helminthosporium leaf stripe incidence",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0000691",
+                "name": "HgramInc Estimation",
+                "class": "Estimation",
+                "description": "Standard method for Barley Helminthosporium leaf stripe incidence.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001059",
+            "name": "PhordCI_Calc_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": "PHORD_pct__CI",
+            "contextOfUse": "Nursery/Trial evaluation",
+            "growthStage": "Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.",
+            "status": null,
+            "xref": "BMS_23042",
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2015-10-25 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000692",
+                "name": "Barley leaf rust coefficient of infection",
+                "class": "Biotic stress",
+                "description": "Barley leaf rust incidence/severity/response in the plants caused by the agent Puccinia hordei.",
+                "synonyms": "Barley leaf rust CI",
+                "mainAbbreviation": "PhordCI",
+                "alternativeAbbreviations": null,
+                "entity": "Leaf",
+                "attribute": "Barley leaf rust coefficient of infection",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0001026",
+                "name": "Rust Coefficient of infection Computation",
+                "class": "Computation",
+                "description": "Coefficient of infection (CI) calculated by multiplying the severity times a constant for host response: where immune = 0.0, R=0.2, MR =0.4, MS =0.8, and S=1.0.",
+                "formula": "xxxx",
+                "reference": "Roelfs et al., 1992"
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001061",
+            "name": "PhordSev_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": "PHORD_pct__SEV",
+            "contextOfUse": "Nursery/Trial evaluation",
+            "growthStage": "Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.",
+            "status": null,
+            "xref": "BMS_29135",
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2015-10-25 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000647",
+                "name": "Barley leaf rust severity",
+                "class": "Biotic stress",
+                "description": "Barley leaf rust severity in the plants caused by the agent Puccinia hordei.",
+                "synonyms": null,
+                "mainAbbreviation": "PhordSev",
+                "alternativeAbbreviations": null,
+                "entity": "Leaf",
+                "attribute": "Barley leaf rust severity",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0000693",
+                "name": "Rust severity Estimation",
+                "class": "Estimation",
+                "description": "Severity of rust is recorded as a percentage, according to the modified Cobb scale. As this relies upon observation it cannot be absolutely accurate. Thus it is common to use the following intervals: 0, 5, 10, 20, 40, 60, and 100 percent infection.",
+                "formula": null,
+                "reference": "Peterson et al., 1948, Roelfs et al., 1992, McIntosh et al., 1995"
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_321:0001439",
+            "name": "RsecaSev_E_pct",
+            "ontologyDbId": "CO_321",
+            "ontologyName": "Wheat",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": "Disease assessment is conducted through the growing season starting with the onset of the disease. Mainly from DS61.",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha, Julian Pietragalla",
+            "date": "2014-09-23 00:00:00",
+            "language": "EN",
+            "crop": "Wheat",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_321:0000710",
+                "name": "Barley scald severity",
+                "class": "Biotic stress",
+                "description": "Barley scald severity in the plants caused by the agent Rhynchosporium secalis.",
+                "synonyms": null,
+                "mainAbbreviation": "RsecaSev",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Barley scald severity",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_321:0000965",
+                "name": "RsecaSev Estimation",
+                "class": "Estimation",
+                "description": "Standard method for barley scald blight severity.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_321:0000410",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> a agri:ProduceMarketObservation ;
+  agri:observesProduct <agri:product_水蜜桃_dbbcbba1> ;
+  agri:hasMarketCategory <agri:category_produce_432f62c7> ;
+  agri:observedAt "2026-05-25 09:52:32" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "暂未筛到水蜜桃的官方当日精确价，先看同类品种和来源页，再向目标市场询价。" .
+
+<agri:product_水蜜桃_dbbcbba1> a agri:AgriculturalThing ;
+  schema:name "水蜜桃" .
+
+<agri:category_produce_432f62c7> a agri:MarketCategory ;
+  schema:name "农产品行情" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:1> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "2.8795" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:2> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "1.7454" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:3> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "5.619" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:4> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "1.4073" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:5> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "15.1815" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:6> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "4.0079" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:7> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "19.1844" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550:price:8> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:水蜜桃_dbbcbba1:20260525_095232:5b2d8a5550> ;
+  agri:priceValue "3.9407" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .

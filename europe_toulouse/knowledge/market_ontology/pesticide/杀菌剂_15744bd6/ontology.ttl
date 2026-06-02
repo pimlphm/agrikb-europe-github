@@ -1,0 +1,16 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:pesticide:杀菌剂_15744bd6:20260525_095301:8a920935df> a agri:PesticideMarketObservation ;
+  agri:observesProduct <agri:product_杀菌剂_15744bd6> ;
+  agri:hasMarketCategory <agri:category_pesticide_4489926a> ;
+  agri:observedAt "2026-05-25 09:53:01" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "杀菌剂暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。" .
+
+<agri:product_杀菌剂_15744bd6> a agri:AgriculturalThing ;
+  schema:name "杀菌剂" .
+
+<agri:category_pesticide_4489926a> a agri:MarketCategory ;
+  schema:name "农药植保" .

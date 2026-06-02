@@ -1,0 +1,130 @@
+{
+  "record_id": "market:pesticide:杀菌剂_15744bd6:20260524_211034:b00593be4a",
+  "created_at": "2026-05-24T21:10:34",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:pesticide:杀菌剂_15744bd6:20260524_211034:b00593be4a",
+    "@type": "agri:PesticideMarketObservation",
+    "ontology_class": {
+      "class": "agri:PesticideMarketObservation",
+      "broader": "agri:PlantProtectionInput",
+      "label": "农药植保"
+    },
+    "product": {
+      "@id": "agri:product_杀菌剂_15744bd6",
+      "name": "杀菌剂",
+      "broader": "agri:PlantProtectionInput"
+    },
+    "category": {
+      "@id": "agri:category_pesticide_4489926a",
+      "id": "pesticide",
+      "name": "农药植保"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-24 21:10:34",
+    "decision": "杀菌剂暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。",
+    "price_rows": [],
+    "sources": [
+      {
+        "title": "惠农网 惠农网-买卖农产品，就上惠农网",
+        "url": "https://www.cnhnb.com/",
+        "snippet": "2026年第18周热搜农产品 行情 ：榴莲热度增长3连冠，蒜苔 价格 震荡下跌，荔枝行情好于去年 湖北省农担公司赴惠农网考察交流 共推农业产业与金融服务数字化转型 每周精选 从田间到云端：武廷6年“在线问诊”，让上万菜农产量翻倍",
+        "source": "cnhnb.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "fungicide 【杀菌剂】杀菌剂价格行情_最新价格_价格走势_市场报价 - 卓创资讯",
+        "url": "https://agrimat.sci99.com/product/fungicide",
+        "snippet": "【卓创资讯 杀菌 剂 品目】提供今日 杀菌 剂 价格 、 杀菌 剂 报价、 杀菌 剂 市场 价格 、 杀菌 剂 价格行情 、 杀菌 剂 最新 价格 、 杀菌 剂 价格 走势等，帮助您全面了解市场动态，洞悉市场变化，明确发展趋势，为您提供决策参考和依据。",
+        "source": "agrimat.sci99.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "江苏剑牌农化股份有限公司--杀菌剂|杀虫剂|植物生长调节剂|除草剂|原...",
+        "url": "https://www.swordchem.com/",
+        "snippet": "江苏剑牌农化股份有限公司是专业从事低毒、高效、低残留农药原药、中间体和农药制剂等产品的研发、生产和销售的民营科技型企业。公司拥有四大类型、一百多个系列的农药产品，功能覆盖杀菌、杀虫、除草和植物生长调节等方面，被广泛应用于粮食、蔬菜、瓜果等农作物生产领域。",
+        "source": "swordchem.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "全国农产品批发市场价格信息系统 全国农产品批发市场价格信息系统",
+        "url": "https://pfsc.agri.cn/",
+        "snippet": "05-15 5月14日：“农产品批发 价格 200指数”比昨天下降0.04个点。 05-14 5月13日：“农产品批发 价格 200指数”比昨天下降0.17个点。 05-13 5月12日：“农产品批发价格200指数”比昨天下降0.04个点。 05-12 5月11日：“农产品批发 价格 200指数”比上周六下降0.35个点。 05-11 更多",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "609068906835 凯润250克/升吡唑醚菌酯杀菌剂8g-阿里巴巴",
+        "url": "https://detail.1688.com/offer/609068906835.html",
+        "snippet": "产品名称:凯润250克/升吡唑醚菌酯，生产厂家:巴斯夫植物保护（ 江苏 ）有限公司，有效成分含量:25（%），品牌:巴斯夫，类别:有机 农药 ，功能:叶斑病 黑星病 白粉病 杀菌 剂 ，用途:治疗菌病，剂型:乳油，是否危险化学品:否， 农药 登记证号:PD20152385，产地: 江苏 ...",
+        "source": "1688",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "pdetail34350561 杀菌剂品牌：润丰江苏包装规格:25KG/桶含量0-99-盖德化工网",
+        "url": "https://china.guidechem.com/trade/pdetail34350561.html",
+        "snippet": "2. 商家发布 价格 指该商品的参考价格，并非最终交易价，该 价格 可能随着市场变化，也可能您购买数量不同或所选规格不同而发生变化。 最终成交价格，请咨询商家确认。 立即询价 致：南通润丰石油化工有限公司 曹海燕",
+        "source": "china.guidechem.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "杀菌剂暂无稳定价格表，已找到公开来源线索，适合先询价再决策。",
+      "advice": [
+        "至少比三家报价",
+        "核对品牌规格和批号",
+        "优先选择可开票渠道"
+      ],
+      "risk": "农资采购要核对登记证、有效期、售后和配送范围，避免只比单价。",
+      "action": "今天先把农药植保的规格和用量列清。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "杀菌剂暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_杀菌剂_15744bd6",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_pesticide_4489926a"
+      },
+      {
+        "subject": "market:pesticide:杀菌剂_15744bd6:20260524_211034:b00593be4a",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_杀菌剂_15744bd6"
+      },
+      {
+        "subject": "market:pesticide:杀菌剂_15744bd6:20260524_211034:b00593be4a",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:pesticide:杀菌剂_15744bd6:20260524_211034:b00593be4a",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:pesticide:杀菌剂_15744bd6:20260524_211034:b00593be4a",
+        "predicate": "agri:hasDecision",
+        "object": "杀菌剂暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+      }
+    ]
+  }
+}

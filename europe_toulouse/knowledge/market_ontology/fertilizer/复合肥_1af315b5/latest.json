@@ -1,0 +1,152 @@
+{
+  "record_id": "market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1",
+  "created_at": "2026-05-25T09:52:42",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1",
+    "@type": "agri:FertilizerMarketObservation",
+    "ontology_class": {
+      "class": "agri:FertilizerMarketObservation",
+      "broader": "agri:AgriculturalInput",
+      "label": "肥料农资"
+    },
+    "product": {
+      "@id": "agri:product_复合肥_1af315b5",
+      "name": "复合肥",
+      "broader": "agri:AgriculturalInput"
+    },
+    "category": {
+      "@id": "agri:category_fertilizer_2fa688b4",
+      "id": "fertilizer",
+      "name": "肥料农资"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-25 09:52:42",
+    "decision": "复合肥已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。",
+    "price_rows": [
+      {
+        "name": "复合肥",
+        "market": "肥料农资",
+        "avg_price": "60",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "来源页实时信息",
+        "source": "enongzi.com",
+        "source_url": "https://www.enongzi.com/news/details?id=15c8693f-2e88-4e36-be25-0c8fe6205618",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      }
+    ],
+    "sources": [
+      {
+        "title": "肥料价格与农资行情公开检索",
+        "url": "https://www.moa.gov.cn/",
+        "snippet": "复合肥价格受原料、运输、季节备肥影响较大，建议对比本地农资门店、供销社和公开行情。",
+        "source": "公开农资信息",
+        "date": "",
+        "source_type": "curated_public_source"
+      },
+      {
+        "title": "最新复合肥价格行情（9月16日） -农资与市场官网",
+        "url": "https://www.enongzi.com/news/details?id=15c8693f-2e88-4e36-be25-0c8fe6205618",
+        "snippet": "成本端支撑减弱，尿素持续跌价，磷酸一铵和氯化钾价格也有小幅下滑，导致复合肥定价承压，部分区域产品实际成交价格明稳暗降，华北地区高氮肥价格下调30-6 秋季用肥旺季到来，复合肥市场购销活跃度明显提升。",
+        "source": "enongzi.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "江苏复合肥价格_江苏复合肥行情_江苏复合肥批发价格查询-惠农网",
+        "url": "https://www.cnhnb.com/hangqing/cdlist-2003282-0-10-0-0-1/",
+        "snippet": "品种 不限 15-15-15复合肥 17-17-17复合肥 二铵 复混肥 腐殖酸钾 高氮型 高钾型 高磷型 钙镁磷肥 硫酸钾 农用硫酸亚铁 硝酸铵钙 硝酸钙镁 更多",
+        "source": "cnhnb.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "最新复合肥、磷肥、钾肥价格行情!",
+        "url": "https://www.fuwu.com/articles/858",
+        "snippet": "2025-09-03 摘要：复合肥市场价格整体稳定，主流企业以执行前期订单为主，秋季肥市场推进仍显缓慢。 原料方面，尿素市场稳中震荡，一铵、钾肥价格持稳，复合肥成本整体波动有限，对价格形成支撑。 下游采购按需跟进，谨慎观望。",
+        "source": "fuwu.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "2025年下半年受进出口国内因素影响，我国复合肥价格行情走势分析! - 知乎",
+        "url": "https://zhuanlan.zhihu.com/p/1952309590692729365",
+        "snippet": "一、供应端产能扩张利用率承压，月度走势呈N型波动 2025年下半年，复合肥圈子里最热闹的话题是啥？——新厂子、新装置、新产能呼呼往外冒，整整360万吨，一水儿的高塔、水溶肥、脲甲醛、硝基肥，全赶在这半年扎堆…",
+        "source": "zhuanlan.zhihu.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "中国复合肥网 — 专业农资化肥行业门户，汇集肥料、机械各种优质产品，提供行业资讯、展会、价格、农业技术等信息。",
+        "url": "https://cnfhf.com/",
+        "snippet": "复合肥 MORE 云南复合肥价格行情2025年7月10日 复合肥价格行情稳定2024年12月22日 山东地区复合肥报价2024年12月14日 江苏地区复合肥价格行情2024年12月14日 复合肥最新行情2024年7月20日 2024年7月15日复合肥价格行情 复合肥价格行情走势2024年4月14日",
+        "source": "cnfhf.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "江苏肥料批发采购_江苏肥料供应_江苏肥料价格_江苏肥料批发网 [第1页] - 惠农网",
+        "url": "https://www.cnhnb.com/p/feiliao-0-10-0-0-1/",
+        "snippet": "惠农网江苏肥料频道为您提供最新与优质的江苏肥料批发采购供应商，为您优先提供在线询价，线上交易等服务。精选优质的江苏肥料供应商，尽在惠农网江苏肥料批发采购频道。",
+        "source": "cnhnb.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "复合肥当前可见报价约60元/吨到60元/吨，以肥料农资为主要参考。",
+      "advice": [
+        "至少比三家报价",
+        "核对品牌规格和批号",
+        "优先选择可开票渠道"
+      ],
+      "risk": "农资采购要核对登记证、有效期、售后和配送范围，避免只比单价。",
+      "action": "今天先把肥料农资的规格和用量列清。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "复合肥已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_复合肥_1af315b5",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_fertilizer_2fa688b4"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_复合肥_1af315b5"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1",
+        "predicate": "agri:hasDecision",
+        "object": "复合肥已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+      }
+    ]
+  }
+}

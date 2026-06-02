@@ -1,0 +1,695 @@
+{
+  "session_id": "74dda22471a747cc82fc6f8380d99116",
+  "created_at": "2026-05-25T15:14:05",
+  "updated_at": "2026-05-25T15:14:05",
+  "title": "?????????????????",
+  "summary": "2026-05-25T15:14:05 用户关注：?????????????????；系统结论：一句话建议：今日湿度100%，优先检查田间排水与病害，暂缓出货。 今日先做 1. 立即巡田，疏通沟渠，防止积水诱发病害。 2. 检查大棚通风设备，降低棚内湿度。 3. 暂停叶面喷药，待湿度下降后再补防。 为什么这样判断 句容当前温度24.5℃，湿度已达100%，未来三天最高温31℃左右。高湿闷热环境极易引发霜霉病、灰霉病等真菌病害，排水降湿是当务之急。 市...",
+  "temporary_memory": [
+    {
+      "id": "mem_2e02c74975",
+      "text": "本轮关注 江苏句容、气象、环境、气候、镇江农产品批发市、物流",
+      "created_at": "2026-05-25T15:14:05",
+      "updated_at": "2026-05-25T15:14:05",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q_ff850659bfe8",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "?????????????????",
+      "source_type": "query",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ent_1",
+      "type": "entity",
+      "label": "问题关键词",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:doc_1",
+      "type": "document",
+      "label": "江苏句容实时气象环境",
+      "detail": "https://open-meteo.com/",
+      "source_type": "web_search",
+      "doc_id": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ent_2",
+      "type": "entity",
+      "label": "江苏句容",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ent_3",
+      "type": "entity",
+      "label": "气象",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ent_4",
+      "type": "entity",
+      "label": "环境",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ev_1",
+      "type": "retrieved_chunk",
+      "label": "江苏句容实时气象环境",
+      "detail": "产地: 江苏镇江 / 江苏句容 当前温度: 24.5摄氏度；相对湿度: 100%；降水: 0mm；风速: 7.9km/h。 未来最高温: 31.2摄氏度、30.6摄氏度、27摄氏度、29.5摄氏度、28摄氏度、27.",
+      "evidence_id": "E1",
+      "doc_name": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "doc_id": "江苏句容实时气象环境",
+      "chunk_id": "regional_weather_3852595732711611167",
+      "title": "regional_weather",
+      "section": "regional_weather",
+      "page": null,
+      "raw_text": "产地: 江苏镇江 / 江苏句容 当前温度: 24.5摄氏度；相对湿度: 100%；降水: 0mm；风速: 7.9km/h。 未来最高温: 31.2摄氏度、30.6摄氏度、27摄氏度、29.5摄氏度、28摄氏度、27.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "气象",
+        "环境"
+      ],
+      "snippet": "产地: 江苏镇江 / 江苏句容 当前温度: 24.5摄氏度；相对湿度: 100%；降水: 0mm；风速: 7.9km/h。 未来最高温: 31.2摄氏度、30.6摄氏度、27摄氏度、29.5摄氏度、28摄氏度、27.",
+      "supports": "涉及regional_weather信息，关联实体包括江苏句容、气象、环境、气候",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_weather_3852595732711611167",
+        "doc_id": "江苏句容实时气象环境",
+        "chunk_id": "regional_weather_3852595732711611167",
+        "file_name": "江苏句容实时气象环境",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:doc_2",
+      "type": "document",
+      "label": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "detail": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=31.94869%2C119.1655%3B32.21086%2C119.45508",
+      "source_type": "web_search",
+      "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ent_5",
+      "type": "entity",
+      "label": "镇江农产品批发市场",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ent_6",
+      "type": "entity",
+      "label": "物流",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ev_2",
+      "type": "retrieved_chunk",
+      "label": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "detail": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 24.4摄氏度；降水 0mm；风速 7.7km/h。 预计运输距离: 51.9km；预计车程: 44分钟；",
+      "evidence_id": "E2",
+      "doc_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "chunk_id": "regional_route_market_3314997278947003654",
+      "title": "regional_route_market",
+      "section": "regional_route_market",
+      "page": null,
+      "raw_text": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 24.4摄氏度；降水 0mm；风速 7.7km/h。 预计运输距离: 51.9km；预计车程: 44分钟；",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "物流"
+      ],
+      "snippet": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 24.4摄氏度；降水 0mm；风速 7.7km/h。 预计运输距离: 51.9km；预计车程: 44分钟；",
+      "supports": "涉及regional_route_market信息，关联实体包括江苏句容、镇江农产品批发市场、物流、收购",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_route_market_3314997278947003654",
+        "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+        "chunk_id": "regional_route_market_3314997278947003654",
+        "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:doc_3",
+      "type": "document",
+      "label": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "detail": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+      "source_type": "web_search",
+      "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ent_7",
+      "type": "entity",
+      "label": "冷链",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:ev_3",
+      "type": "retrieved_chunk",
+      "label": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "detail": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https...",
+      "evidence_id": "E3",
+      "doc_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "chunk_id": "regional_logistics_supplier_7953286754918316432",
+      "title": "regional_logistics_supplier",
+      "section": "regional_logistics_supplier",
+      "page": null,
+      "raw_text": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https...",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "冷链"
+      ],
+      "snippet": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https...",
+      "supports": "涉及regional_logistics_supplier信息，关联实体包括江苏句容、镇江农产品批发市场、冷链、供应商",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_logistics_supplier_7953286754918316432",
+        "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+        "chunk_id": "regional_logistics_supplier_7953286754918316432",
+        "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_8f0a81aab1",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "一句话建议：今日湿度100%，优先检查田间排水与病害，暂缓出货。",
+      "text": "一句话建议：今日湿度100%，优先检查田间排水与病害，暂缓出货。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E1"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E1",
+        "confidence": 0.48,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_ceb2ba4303",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "今日先做",
+      "text": "今日先做",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_ceb2ba4303_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_7206b7f2d0",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_7206b7f2d0_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_2beee31bc2",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "立即巡田，疏通沟渠，防止积水诱发病害。",
+      "text": "立即巡田，疏通沟渠，防止积水诱发病害。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_2beee31bc2_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_8bebca8dc0",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_8bebca8dc0_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_1c32f4ae9b",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "检查大棚通风设备，降低棚内湿度。",
+      "text": "检查大棚通风设备，降低棚内湿度。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_1c32f4ae9b_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_1e94b09a1f",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "3.",
+      "text": "3.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_1e94b09a1f_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_a27ecb338d",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "暂停叶面喷药，待湿度下降后再补防。",
+      "text": "暂停叶面喷药，待湿度下降后再补防。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T15:14:05"
+      },
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    },
+    {
+      "id": "q_ff850659bfe8:claim_a27ecb338d_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_ff850659bfe8",
+      "session_id": "74dda22471a747cc82fc6f8380d99116"
+    }
+  ],
+  "edges": [
+    {
+      "id": "q_ff850659bfe8:mentions:q_ff850659bfe8->q_ff850659bfe8:ent_1",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_ff850659bfe8:mentions:q_ff850659bfe8->q_ff850659bfe8:ent_2",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_ff850659bfe8:mentions:q_ff850659bfe8->q_ff850659bfe8:ent_3",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:ent_3",
+      "type": "mentions"
+    },
+    {
+      "id": "q_ff850659bfe8:mentions:q_ff850659bfe8->q_ff850659bfe8:ent_4",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:ent_4",
+      "type": "mentions"
+    },
+    {
+      "id": "q_ff850659bfe8:contains:q_ff850659bfe8:doc_1->q_ff850659bfe8:ev_1",
+      "source": "q_ff850659bfe8:doc_1",
+      "target": "q_ff850659bfe8:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_2->q_ff850659bfe8:ev_1",
+      "source": "q_ff850659bfe8:ent_2",
+      "target": "q_ff850659bfe8:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_3->q_ff850659bfe8:ev_1",
+      "source": "q_ff850659bfe8:ent_3",
+      "target": "q_ff850659bfe8:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_4->q_ff850659bfe8:ev_1",
+      "source": "q_ff850659bfe8:ent_4",
+      "target": "q_ff850659bfe8:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:mentions:q_ff850659bfe8->q_ff850659bfe8:ent_5",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:ent_5",
+      "type": "mentions"
+    },
+    {
+      "id": "q_ff850659bfe8:mentions:q_ff850659bfe8->q_ff850659bfe8:ent_6",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:ent_6",
+      "type": "mentions"
+    },
+    {
+      "id": "q_ff850659bfe8:contains:q_ff850659bfe8:doc_2->q_ff850659bfe8:ev_2",
+      "source": "q_ff850659bfe8:doc_2",
+      "target": "q_ff850659bfe8:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_2->q_ff850659bfe8:ev_2",
+      "source": "q_ff850659bfe8:ent_2",
+      "target": "q_ff850659bfe8:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_5->q_ff850659bfe8:ev_2",
+      "source": "q_ff850659bfe8:ent_5",
+      "target": "q_ff850659bfe8:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_6->q_ff850659bfe8:ev_2",
+      "source": "q_ff850659bfe8:ent_6",
+      "target": "q_ff850659bfe8:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:mentions:q_ff850659bfe8->q_ff850659bfe8:ent_7",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:ent_7",
+      "type": "mentions"
+    },
+    {
+      "id": "q_ff850659bfe8:contains:q_ff850659bfe8:doc_3->q_ff850659bfe8:ev_3",
+      "source": "q_ff850659bfe8:doc_3",
+      "target": "q_ff850659bfe8:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_2->q_ff850659bfe8:ev_3",
+      "source": "q_ff850659bfe8:ent_2",
+      "target": "q_ff850659bfe8:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_5->q_ff850659bfe8:ev_3",
+      "source": "q_ff850659bfe8:ent_5",
+      "target": "q_ff850659bfe8:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:retrieves:q_ff850659bfe8:ent_7->q_ff850659bfe8:ev_3",
+      "source": "q_ff850659bfe8:ent_7",
+      "target": "q_ff850659bfe8:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_ff850659bfe8:supports:q_ff850659bfe8:ev_1->q_ff850659bfe8:claim_8f0a81aab1",
+      "source": "q_ff850659bfe8:ev_1",
+      "target": "q_ff850659bfe8:claim_8f0a81aab1",
+      "type": "supports"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_8f0a81aab1",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_8f0a81aab1",
+      "type": "answers"
+    },
+    {
+      "id": "q_ff850659bfe8:qualifies:q_ff850659bfe8:claim_ceb2ba4303_prior->q_ff850659bfe8:claim_ceb2ba4303",
+      "source": "q_ff850659bfe8:claim_ceb2ba4303_prior",
+      "target": "q_ff850659bfe8:claim_ceb2ba4303",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_ceb2ba4303",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_ceb2ba4303",
+      "type": "answers"
+    },
+    {
+      "id": "q_ff850659bfe8:qualifies:q_ff850659bfe8:claim_7206b7f2d0_prior->q_ff850659bfe8:claim_7206b7f2d0",
+      "source": "q_ff850659bfe8:claim_7206b7f2d0_prior",
+      "target": "q_ff850659bfe8:claim_7206b7f2d0",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_7206b7f2d0",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_7206b7f2d0",
+      "type": "answers"
+    },
+    {
+      "id": "q_ff850659bfe8:qualifies:q_ff850659bfe8:claim_2beee31bc2_prior->q_ff850659bfe8:claim_2beee31bc2",
+      "source": "q_ff850659bfe8:claim_2beee31bc2_prior",
+      "target": "q_ff850659bfe8:claim_2beee31bc2",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_2beee31bc2",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_2beee31bc2",
+      "type": "answers"
+    },
+    {
+      "id": "q_ff850659bfe8:qualifies:q_ff850659bfe8:claim_8bebca8dc0_prior->q_ff850659bfe8:claim_8bebca8dc0",
+      "source": "q_ff850659bfe8:claim_8bebca8dc0_prior",
+      "target": "q_ff850659bfe8:claim_8bebca8dc0",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_8bebca8dc0",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_8bebca8dc0",
+      "type": "answers"
+    },
+    {
+      "id": "q_ff850659bfe8:qualifies:q_ff850659bfe8:claim_1c32f4ae9b_prior->q_ff850659bfe8:claim_1c32f4ae9b",
+      "source": "q_ff850659bfe8:claim_1c32f4ae9b_prior",
+      "target": "q_ff850659bfe8:claim_1c32f4ae9b",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_1c32f4ae9b",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_1c32f4ae9b",
+      "type": "answers"
+    },
+    {
+      "id": "q_ff850659bfe8:qualifies:q_ff850659bfe8:claim_1e94b09a1f_prior->q_ff850659bfe8:claim_1e94b09a1f",
+      "source": "q_ff850659bfe8:claim_1e94b09a1f_prior",
+      "target": "q_ff850659bfe8:claim_1e94b09a1f",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_1e94b09a1f",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_1e94b09a1f",
+      "type": "answers"
+    },
+    {
+      "id": "q_ff850659bfe8:qualifies:q_ff850659bfe8:claim_a27ecb338d_prior->q_ff850659bfe8:claim_a27ecb338d",
+      "source": "q_ff850659bfe8:claim_a27ecb338d_prior",
+      "target": "q_ff850659bfe8:claim_a27ecb338d",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_ff850659bfe8:answers:q_ff850659bfe8->q_ff850659bfe8:claim_a27ecb338d",
+      "source": "q_ff850659bfe8",
+      "target": "q_ff850659bfe8:claim_a27ecb338d",
+      "type": "answers"
+    }
+  ],
+  "turns": [
+    {
+      "query_id": "q_ff850659bfe8",
+      "query": "?????????????????",
+      "answer": "一句话建议：今日湿度100%，优先检查田间排水与病害，暂缓出货。\n\n今日先做\n\n1. 立即巡田，疏通沟渠，防止积水诱发病害。\n2. 检查大棚通风设备，降低棚内湿度。\n3. 暂停叶面喷药，待湿度下降后再补防。\n\n为什么这样判断\n\n句容当前温度24.5℃，湿度已达100%，未来三天最高温31℃左右。高湿闷热环境极易引发霜霉病、灰霉病等真菌病害，排水降湿是当务之急。\n\n市场与渠道\n\n镇江批发市场天气与句容相近，运输距离52公里、车程约44分钟。今日路况正常，但高湿天气下果蔬易腐，建议待田间处理后，明日清晨采摘即装冷链发车，缩短田间滞留。\n\n风险提醒\n\n1. 湿度100%时采收，果实表面带水，储运腐烂风险大增。\n2. 若未来三天持续高温高湿，需加密疫病监测频次。\n\n下一步\n\n1. 明早5点前完成采收，衔接冷链直发镇江。\n2. 通过1688平台询价句容至镇江冷链服务商，锁定运力。\n3. 关注未来48小时降水预报，提前调整采摘计划。",
+      "created_at": "2026-05-25T15:14:05",
+      "claim_ids": [
+        "q_ff850659bfe8:claim_8f0a81aab1",
+        "q_ff850659bfe8:claim_ceb2ba4303",
+        "q_ff850659bfe8:claim_7206b7f2d0",
+        "q_ff850659bfe8:claim_2beee31bc2",
+        "q_ff850659bfe8:claim_8bebca8dc0",
+        "q_ff850659bfe8:claim_1c32f4ae9b",
+        "q_ff850659bfe8:claim_1e94b09a1f",
+        "q_ff850659bfe8:claim_a27ecb338d"
+      ]
+    }
+  ],
+  "last_anchor_id": "q_ff850659bfe8:claim_a27ecb338d",
+  "source_types": {
+    "document": "来自当前知识库文档 chunk 的证据",
+    "web_search": "来自真实联网搜索结果；未配置搜索时不会伪造",
+    "model_prior": "来自模型内置知识或通用推理，不是文档证据",
+    "inferred": "由多个文档证据综合推理得到",
+    "unsupported": "没有可靠证据支持或证据不足"
+  }
+}

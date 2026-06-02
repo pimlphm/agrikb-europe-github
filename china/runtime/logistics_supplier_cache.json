@@ -1,0 +1,1237 @@
+{
+  "20260524-kimi-logistics-v6|江苏句容|镇江农产品批发市场|解释草莓营销策略，结合江苏句容天气、市场渠道和政策机会": {
+    "saved_at": 1779690668.3065596,
+    "suppliers": [
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、冷冻、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、生鲜",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "4009318558 / 400-931-8558",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷冻、生鲜、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      }
+    ],
+    "pending_kimi": true
+  },
+  "20260524-kimi-logistics-v6|江苏句容|镇江农产品批发市场|江苏句容 江苏句容 镇江农产品批发市场 农业 天气 气温 收购 政策 新闻 物流": {
+    "saved_at": 1779716721.8828347,
+    "suppliers": [
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "句容至镇江农产品批发市场冷链配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "镇江本地冷链企业，有公开电话",
+        "action": "致电15950502625，询句容至镇江农批冷链运力",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "句容至镇江农产品批发市场冷链运输",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "专注农产品恒温保鲜冷链运输",
+        "action": "致电18115709090或发邮件询线路报价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "句容至镇江农产品批发市场生鲜冷链",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "全国冷链网络，生鲜履约能力强",
+        "action": "拨打400-152-5656询镇江区域覆盖",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "句容至镇江农产品批发市场冷链配送比价",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "1688平台可在线比价、筛选本地服务商",
+        "action": "打开链接，按句容-镇江线路筛选并在线询价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江苏区域农产品冷链、冷藏车配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "平台聚合江苏冷链资源，便于比价",
+        "action": "打开链接，筛选镇江/句容区域店铺在线询价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "sc 冷运整车|顺丰冷运服务 - 顺丰速运",
+        "platform": "公开网页",
+        "url": "https://www.sf-express.com/chn/sc/express/cold/cold-ftl",
+        "snippet": "客户类型：个人客户、月结客户 托寄物内容： 1.初级 农产品 ：蔬菜、水果、畜禽肉、禽蛋、水产品等 2.加工食品：速冻食品、畜禽肉制品、禽蛋制品、水产等半成品或制成品、奶制品、餐饮原料等 3. 其他：新鲜花卉等 客户资质要求：根据托寄物的内容，需要提供相应的资质，详情请咨询顺丰客户 ...",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "句容至镇江农产品批发市场冷运整车",
+        "service_tags": [
+          "农产品"
+        ],
+        "source_type": "web_search",
+        "reliability": "高",
+        "reason": "顺丰品牌，农产品冷运整车成熟",
+        "action": "访问官网或顺丰小程序，询冷运整车线路与报价",
+        "selected_by": "kimi"
+      }
+    ],
+    "pending_kimi": false
+  },
+  "20260524-kimi-logistics-v6|江宁区|广陵区 高红路|江苏句容 江宁区 广陵区 高红路 农业 天气 气温 收购 政策 新闻 物流": {
+    "saved_at": 1779717366.5443077,
+    "suppliers": [
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "江宁区至广陵区高红路农产品冷链/干线运输",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "长三角冷链企业，有公开电话和农产品冷链能力",
+        "action": "致电15950502625，询江宁-广陵高红路冷链报价与时效",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "江宁区至广陵区高红路农产品冷链/恒温保鲜",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "专注农产品运输与冷藏鲜运，有公开联系方式",
+        "action": "致电18115709090或发邮件9040416@qq.com询价线路",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "江宁区至广陵区高红路跨区域生鲜冷链",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "全国冷链网络，400客服可快速核实覆盖",
+        "action": "拨打400-152-5656，询南京江宁至扬州广陵配送能力",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E5%AE%81%E5%8C%BA+%E5%B9%BF%E9%99%B5%E5%8C%BA+%E9%AB%98%E7%BA%A2%E8%B7%AF+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江宁区至广陵区高红路农产品冷链/同城配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "平台内可按路线筛选，支持在线比价询价",
+        "action": "打开链接，按地区筛选后通过旺旺/询价单联系商家",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江苏省内农产品冷链/冷藏车配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "省内冷链服务商集中，可比价冷藏车资源",
+        "action": "进入链接，筛选南京/扬州区域服务商并发起询价",
+        "selected_by": "kimi"
+      }
+    ],
+    "pending_kimi": false
+  },
+  "20260524-kimi-logistics-v6|江宁区|广陵区 高红路|草莓的营销要怎么做": {
+    "saved_at": 1779693731.1460278,
+    "suppliers": [
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E5%AE%81%E5%8C%BA+%E5%B9%BF%E9%99%B5%E5%8C%BA+%E9%AB%98%E7%BA%A2%E8%B7%AF+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江宁区至广陵区 高红路，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江宁区至广陵区 高红路，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "需核实是否覆盖江宁区至广陵区 高红路，服务关键词：冷链、冷藏、冷冻、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "需核实是否覆盖江宁区至广陵区 高红路，服务关键词：冷链、冷藏、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "需核实是否覆盖江宁区至广陵区 高红路，服务关键词：冷链、生鲜",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "4009318558 / 400-931-8558",
+        "service_scope": "需核实是否覆盖江宁区至广陵区 高红路，服务关键词：冷链、冷冻、生鲜、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      }
+    ],
+    "pending_kimi": true
+  },
+  "20260524-kimi-logistics-v6|江苏句容|镇江农产品批发市场|江苏句容 农业 天气 政策 市场 收购 冷链": {
+    "saved_at": 1779695220.2841132,
+    "suppliers": [
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、冷冻、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、生鲜",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "4009318558 / 400-931-8558",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷冻、生鲜、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      }
+    ],
+    "pending_kimi": true
+  },
+  "20260524-kimi-logistics-v6|江苏句容|镇江农产品批发市场|江苏句容 到 镇江农产品批发市场 农产品销售": {
+    "saved_at": 1779695252.415846,
+    "suppliers": [
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、冷冻、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、生鲜",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "4009318558 / 400-931-8558",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷冻、生鲜、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      }
+    ],
+    "pending_kimi": true
+  },
+  "20260524-kimi-logistics-v6|江苏句容|镇江农产品批发市场|请用两句话说明草莓大棚今天怎么管理": {
+    "saved_at": 1779695974.936247,
+    "suppliers": [
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "镇江本地冷链仓储、保鲜仓储、农产品冷链、长三角配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "镇江本地冷链企业，有公开电话",
+        "action": "直接致电15950502625询价句容至镇江线路",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "农产品运输、恒温保鲜、冷藏鲜运输、普通物流货运",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "专注农产品冷链，有公开电话",
+        "action": "致电18115709090或发邮件询价句容至镇江",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "生鲜、农牧、食材冷链、园区运营",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "全国冷链网络，可覆盖跨区域",
+        "action": "拨打400-152-5656咨询镇江线路覆盖",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "400-931-8558",
+        "service_scope": "生鲜冷链、仓配一体、全程可视",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "农产品集团冷链，仓配一体",
+        "action": "拨打400-931-8558咨询句容至镇江配送",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "句容至镇江农产品批发市场冷链物流、冷藏车、保温箱、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "1688平台可筛选本地线路",
+        "action": "在1688站内按关键词筛选并在线询价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江苏冷链物流、农产品配送、冷藏车、保温服务",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "可比价多家江苏冷链服务商",
+        "action": "在1688站内筛选句容镇江线路并在线询价",
+        "selected_by": "kimi"
+      }
+    ],
+    "pending_kimi": false
+  },
+  "20260524-kimi-logistics-v6|江苏句容|镇江农产品批发市场|?????????????????": {
+    "saved_at": 1779714829.7420146,
+    "suppliers": [
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、冷冻、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、生鲜、农产品",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、生鲜",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "4009318558 / 400-931-8558",
+        "service_scope": "需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷冻、生鲜、农产品、配送",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "中",
+        "reason": "公开来源匹配冷链或配送关键词",
+        "action": "打开来源页核实资质、线路、温控和报价",
+        "selected_by": "kimi_pending"
+      }
+    ],
+    "pending_kimi": true
+  },
+  "20260524-kimi-logistics-v6|江宁区|广陵区 高红路|分析“草莓大棚监测台”模块，给出今天最值得执行的事项。": {
+    "saved_at": 1779717346.7826712,
+    "suppliers": [
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "江宁区至广陵区高红路农产品冷链、冷藏、冷冻、生鲜配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "镇江本地冷链企业，有公开电话和农产品冷链能力",
+        "action": "致电15950502625，说明江宁区到广陵区高红路农产品冷链需求并询价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "江宁区至广陵区高红路农产品运输、恒温保鲜、冷藏鲜运输",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "明确提供农产品运输和冷藏鲜运输服务",
+        "action": "致电18115709090或发邮件至9040416@qq.com询价线路与报价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "江宁区至广陵区高红路生鲜、农牧、食材冷链配送",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "全国冷链履约网络，覆盖生鲜农牧食材场景",
+        "action": "拨打400-152-5656或发邮件至fresh-callcenter@newhope.cn咨询线路覆盖",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "400-931-8558",
+        "service_scope": "江宁区至广陵区高红路生鲜冷链、仓配一体、农产品配送",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "农产品集团冷链板块，生鲜冷链仓配一体",
+        "action": "拨打400-931-8558，说明江宁区到广陵区高红路农产品冷链配送需求",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E5%AE%81%E5%8C%BA+%E5%B9%BF%E9%99%B5%E5%8C%BA+%E9%AB%98%E7%BA%A2%E8%B7%AF+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江宁区至广陵区高红路冷链物流、冷藏车、农产品配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "可按本地路线筛选冷链物流和农产品配送服务商",
+        "action": "打开1688检索页面，按路线筛选服务商并在线联系询价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江苏区域农产品冷链、冷藏车、配送服务",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "可比价江苏冷链物流和冷藏车服务",
+        "action": "打开1688检索页面，筛选江苏冷链服务商并在线联系询价",
+        "selected_by": "kimi"
+      }
+    ],
+    "pending_kimi": false
+  },
+  "20260524-kimi-logistics-v6|江宁区|广陵区 高红路|请围绕江苏句容农产品今天适合走哪些销售渠道、选择本地收购还是电商、如何询价和控制交易风险，给出可执行建议。要结合市场行情、收购渠道和助农渠道。": {
+    "saved_at": 1779718726.0894668,
+    "suppliers": [
+      {
+        "name": "江苏苏豪冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "http://www.hhcold.com/",
+        "snippet": "镇江本地冷链企业公开网站，适合核实低温仓储、保鲜仓储、农产品冷链和长三角配送能力；联系方式以来源页公开信息为准。",
+        "contact": "15950502625 / 18251918932 / 15861824903",
+        "contact_method": "15950502625 / 18251918932 / 15861824903",
+        "service_scope": "江宁区至广陵区高红路农产品冷链、冷藏、冷冻、生鲜配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "冷冻",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "镇江本地冷链企业，有公开电话和农产品冷链能力",
+        "action": "致电15950502625，说明江宁区到广陵区高红路农产品冷链需求并询价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "冷运侠冷链物流平台",
+        "platform": "企业官网",
+        "url": "https://www.lengyunxia.com/",
+        "snippet": "公开网站显示提供农产品运输、恒温保鲜、冷藏鲜运输和普通物流货运服务，可用于农产品冷链询价和线路核实。",
+        "contact": "18115709090 / 9040416@qq.com",
+        "contact_method": "18115709090 / 9040416@qq.com",
+        "service_scope": "江宁区至广陵区高红路农产品运输、恒温保鲜、冷藏鲜运输",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "生鲜",
+          "农产品"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "明确提供农产品运输和冷藏鲜运输服务",
+        "action": "致电18115709090或发邮件至9040416@qq.com询价线路与报价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "鲜生活冷链物流有限公司",
+        "platform": "企业官网",
+        "url": "https://www.fresh-scm.cn/",
+        "snippet": "全国冷链履约网络公开网站，覆盖生鲜、农牧、食材和园区运营等场景，可作为跨区域备选冷链服务商来源。",
+        "contact": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "contact_method": "400-152-5656 / fresh-callcenter@newhope.cn",
+        "service_scope": "江宁区至广陵区高红路生鲜、农牧、食材冷链配送",
+        "service_tags": [
+          "冷链",
+          "生鲜"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "全国冷链履约网络，覆盖生鲜农牧食材场景",
+        "action": "拨打400-152-5656或发邮件至fresh-callcenter@newhope.cn咨询线路覆盖",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "宏鸿农产品集团冷链物流",
+        "platform": "企业官网",
+        "url": "https://www.szhonghong.com/Product/chain.html",
+        "snippet": "农产品集团公开冷链板块，强调生鲜冷链、仓配一体和全程可视，可作为规模化农产品冷链服务参考。",
+        "contact": "4009318558 / 400-931-8558",
+        "contact_method": "400-931-8558",
+        "service_scope": "江宁区至广陵区高红路生鲜冷链、仓配一体、农产品配送",
+        "service_tags": [
+          "冷链",
+          "冷冻",
+          "生鲜",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_public_source",
+        "reliability": "高",
+        "reason": "农产品集团冷链板块，生鲜冷链仓配一体",
+        "action": "拨打400-931-8558，说明江宁区到广陵区高红路农产品冷链配送需求",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688冷链物流服务商公开检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E5%AE%81%E5%8C%BA+%E5%B9%BF%E9%99%B5%E5%8C%BA+%E9%AB%98%E7%BA%A2%E8%B7%AF+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+        "snippet": "阿里巴巴1688站内检索入口，可按本地路线筛选冷链物流、冷藏车、保温箱、农产品配送服务商，并通过平台在线联系或询价。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江宁区至广陵区高红路冷链物流、冷藏车、农产品配送",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "可按本地路线筛选冷链物流和农产品配送服务商",
+        "action": "打开1688检索页面，按路线筛选服务商并在线联系询价",
+        "selected_by": "kimi"
+      },
+      {
+        "name": "1688江苏农产品冷链服务商检索",
+        "platform": "1688",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81+%E5%86%B7%E8%97%8F%E8%BD%A6",
+        "snippet": "阿里巴巴1688公开检索入口，适合比价江苏冷链物流、农产品配送、冷藏车与包装保温服务；联系方式以平台店铺公开信息为准。",
+        "contact": "",
+        "contact_method": "平台在线联系/询价",
+        "service_scope": "江苏区域农产品冷链、冷藏车、配送服务",
+        "service_tags": [
+          "冷链",
+          "冷藏",
+          "农产品",
+          "配送"
+        ],
+        "source_type": "curated_platform_entry",
+        "reliability": "中",
+        "reason": "可比价江苏冷链物流和冷藏车服务",
+        "action": "打开1688检索页面，筛选江苏冷链服务商并在线联系询价",
+        "selected_by": "kimi"
+      }
+    ],
+    "pending_kimi": false
+  }
+}

@@ -1,0 +1,550 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 360,
+            "totalPages": 36
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_322:0000650",
+            "name": "AleuCol_E_1to5",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Germplasm characterization",
+            "growthStage": "Physiological maturity (R6 stage)",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000190",
+                "name": "Aleurone color",
+                "class": "Morphological",
+                "description": "Color of the aleurone.",
+                "synonyms": null,
+                "mainAbbreviation": "AleuCol",
+                "alternativeAbbreviations": null,
+                "entity": "Aleurone",
+                "attribute": "color",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000364",
+                "name": "AleuCol - Estimation",
+                "class": "Estimation",
+                "description": "Observe the aleurone color, when applicable, on at least 20 representative plants per accession.",
+                "formula": null,
+                "reference": "IBPGR, 1991. Descriptors for maize. International Maize and Wheat Improvement Center, Mexico City/International Board for Plant Genetic Resources, Rome. ISBN 9290431891. http://www.bioversityinternational.org/fileadmin/bioversity/publications/pdfs/104.pdf?cache=1328202180"
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000486",
+                "name": "1-5 Aleurone color scale",
+                "dataType": "Nominal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= colorless",
+                        "2= bronze",
+                        "3= red",
+                        "4= purple",
+                        "5= other"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000653",
+            "name": "AntAnCol_E_1to5",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "42353",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000651",
+                "name": "Anther Anthocyanin coloration",
+                "class": "Morphological",
+                "description": "Anthocyanin coloration of anthers.",
+                "synonyms": null,
+                "mainAbbreviation": "AntCol",
+                "alternativeAbbreviations": null,
+                "entity": "Anther",
+                "attribute": "Anthocyanin coloration",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000652",
+                "name": "AntAnCol - Estimation",
+                "class": "Estimation",
+                "description": "Standard method for tassel anthers Anthocyanin coloration. The observation should be made in the middle third of the main branch on fresh anthers.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000642",
+                "name": "1-5 Anthocyanin coloration scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= absent",
+                        "2= weak",
+                        "3= medium",
+                        "4= strong",
+                        "5= very strong"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000654",
+            "name": "AflavERSev_E_1to5",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": "At harvest",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000072",
+                "name": "Aspergillus flavus ear rot severity",
+                "class": "Biotic stress",
+                "description": "Aspergillus flavus ear rot severity.",
+                "synonyms": null,
+                "mainAbbreviation": "AflavERSev",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "Aspergillus flavus ear rot severity",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000251",
+                "name": "AflavERSev - Estimation",
+                "class": "Estimation",
+                "description": "Observe aspergillus flavus ear rot severity on the harvested ears per plot based on degree of infection (relative or absolute area of plant tissue affected by disease).",
+                "formula": null,
+                "reference": "IMIS (International Maize Information System; http://imis.cimmyt.org/) Database, CIMMYT. Magorokosho C., Vivek, B., MacRobert, J., and Tarekegne, A. 2010. Characterization of maize germplasm grown in eastern and southern Africa: Results of the 2009 regional trials coordinated by CIMMYT. Harare, Zimbabwe. CIMMYT."
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000234",
+                "name": "1-5 disease scoring scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= highly resistant, clean no (%) infection",
+                        "2= resistant, disease symptoms covering up to 20%",
+                        "3= moderately susceptible, disease symptoms covering up to 50%",
+                        "4= susceptible, disease symptoms covering upto 70%",
+                        "5= highly susceptible, disease symptoms covering >80%"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000655",
+            "name": "AspERSev_E_1to5",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": "At harvest",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000520",
+                "name": "Aspergillus ear rot severity",
+                "class": "Biotic stress",
+                "description": "Aspergillus ear rot severity.",
+                "synonyms": null,
+                "mainAbbreviation": "AspERSev",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "Aspergillus ear rot severity",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000521",
+                "name": "AspERSev - Estimation",
+                "class": "Estimation",
+                "description": "Observe aspergillus ear rot severity on the harvested ears per plot based on degree of infection (relative or absolute area of plant tissue affected by disease).",
+                "formula": null,
+                "reference": "IMIS (International Maize Information System; http://imis.cimmyt.org/) Database, CIMMYT. Magorokosho C., Vivek, B., MacRobert, J., and Tarekegne, A. 2010. Characterization of maize germplasm grown in eastern and southern Africa: Results of the 2009 regional trials coordinated by CIMMYT. Harare, Zimbabwe. CIMMYT."
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000234",
+                "name": "1-5 disease scoring scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= highly resistant, clean no (%) infection",
+                        "2= resistant, disease symptoms covering up to 20%",
+                        "3= moderately susceptible, disease symptoms covering up to 50%",
+                        "4= susceptible, disease symptoms covering upto 70%",
+                        "5= highly susceptible, disease symptoms covering >80%"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000656",
+            "name": "BHskCovInc_Cmp_pct",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000150",
+                "name": "Ear bad husk cover incidence",
+                "class": "Agronomic",
+                "description": "Ears bad husk cover incidence.",
+                "synonyms": null,
+                "mainAbbreviation": "BHskCovInc",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "bad husk cover incidence",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000555",
+                "name": "BHskCovInc - Computation",
+                "class": "Computation",
+                "description": "Divide the total number of ears with bad husk cover by the total number of ears harvested.",
+                "formula": "100 * #Bad Hsk / #ears hvst",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000350",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000657",
+            "name": "BHskCovInc_Ct_plntPlot",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000150",
+                "name": "Ear bad husk cover incidence",
+                "class": "Agronomic",
+                "description": "Ears bad husk cover incidence.",
+                "synonyms": null,
+                "mainAbbreviation": "BHskCovInc",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "bad husk cover incidence",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000207",
+                "name": "BHskCovInc - Counting",
+                "class": "Counting",
+                "description": "Count the total number of ears with bad husk cover.",
+                "formula": null,
+                "reference": "IMIS (International Maize Information System; http://imis.cimmyt.org/) Database, CIMMYT."
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000354",
+                "name": "plant/plot",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000659",
+            "name": "BHskCovInc_E_pct",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000150",
+                "name": "Ear bad husk cover incidence",
+                "class": "Agronomic",
+                "description": "Ears bad husk cover incidence.",
+                "synonyms": null,
+                "mainAbbreviation": "BHskCovInc",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "bad husk cover incidence",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000658",
+                "name": "BHskCovInc - Estimation",
+                "class": "Estimation",
+                "description": "Observation of ears with bad husk cover.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000350",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000660",
+            "name": "CSmutSev_E_1to5",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": "After anthesis",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000082",
+                "name": "Common smut severity",
+                "class": "Biotic stress",
+                "description": "Common smut (Ustilago maydis, syn. U. zeae) severity.",
+                "synonyms": null,
+                "mainAbbreviation": "CSmutSev",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "Common smut severity",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000267",
+                "name": "CSmutSev - Estimation",
+                "class": "Estimation",
+                "description": "Observe common smut severity on the plants per plot based on degree of infection (relative or absolute area of plant tissue affected by disease).",
+                "formula": null,
+                "reference": "IMIS (International Maize Information System; http://imis.cimmyt.org/) Database, CIMMYT. Magorokosho C., Vivek, B., MacRobert, J., and Tarekegne, A. 2010. Characterization of maize germplasm grown in eastern and southern Africa: Results of the 2009 regional trials coordinated by CIMMYT. Harare, Zimbabwe. CIMMYT."
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000477",
+                "name": "1-5 damage scoring scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= clean, no damage",
+                        "2= slightly (20%) damaged",
+                        "3= moderately (50% ) damaged",
+                        "4= Significantly (70%) damaged",
+                        "5= highly (>80%) damaged"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000661",
+            "name": "EAsp_E_1to5",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": "Physiological maturity (R6 stage)",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000018",
+                "name": "Ear aspect",
+                "class": "Agronomic",
+                "description": "Observation of harvested ears based on some morphological and agronomical characters such as ear size, total numbers of ear harvested per plot, ear damaged caused by insects or/and diseases.",
+                "synonyms": null,
+                "mainAbbreviation": "EAsp",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "aspect",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000199",
+                "name": "EAsp - Estimation",
+                "class": "Estimation",
+                "description": "Harvest ears per plot (eliminate first and last plants to avoid border effects) and score ear aspect combining several ear-associated traits. Note: Combination of traits usually differs from one breeder to another depending on type of study.",
+                "formula": null,
+                "reference": "IMIS (International Maize Information System; http://imis.cimmyt.org/) Database, CIMMYT."
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000396",
+                "name": "1-5 rating scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= excellent",
+                        "2= good",
+                        "3= intermediate",
+                        "4= poor",
+                        "5= very poor"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_322:0000662",
+            "name": "EDia_M_cm",
+            "ontologyDbId": "CO_322",
+            "ontologyName": "MAIZE",
+            "synonyms": null,
+            "contextOfUse": "Pedigree nurseries/trials",
+            "growthStage": "Physiological maturity (R6 stage)",
+            "status": null,
+            "xref": null,
+            "institution": "CIMMYT",
+            "scientist": "Rosemary Shrestha; Julian Pietragalla",
+            "date": "40899",
+            "language": "EN",
+            "crop": "MAIZE",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_322:0000170",
+                "name": "Ear diameter",
+                "class": "Morphological",
+                "description": "Ear diameter measured at the central part of uppermost ear.",
+                "synonyms": null,
+                "mainAbbreviation": "EDia",
+                "alternativeAbbreviations": null,
+                "entity": "Ear",
+                "attribute": "diameter",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_322:0000347",
+                "name": "EDia - Measurement",
+                "class": "Measurement",
+                "description": "Measure, when applicable, ear diameter at the central part of uppermost ears of at least 20 representative plants per accession.",
+                "formula": null,
+                "reference": "IBPGR, 1991. Descriptors for maize. International Maize and Wheat Improvement Center, Mexico City/International Board for Plant Genetic Resources, Rome. ISBN 9290431891. http://www.bioversityinternational.org/fileadmin/bioversity/publications/pdfs/104.pdf?cache=1328202180"
+            },
+            "scale": {
+                "scaleDbId": "CO_322:0000348",
+                "name": "cm",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        }
+    ]
+}

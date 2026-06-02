@@ -1,0 +1,39 @@
+﻿id,title,description
+CO_370,Apple ontology,"Apple (Malus domestica) defines crop traits and variables to support the standardisation of apple breeding databases providing description of agronomic, morphological, physiological, quality traits, its methods and scales."
+CO_366,Bambara groundnut ontology,version Dec 2019
+CO_325,Banana ontology,Banana Trait Dictionary in template 5 - Bioversity & IITA - April 2019
+CO_323,Barley ontology,ICARDA - TDv5 - Sept 2018
+CO_333,Beet Ontology ontology,"This ontology was built as part of the AKER project. It describes variables used in beet phenotyping (experimental properties and measurement scale) for each institution (INRAE, Geves, ITB) and breeding companies (Florimond Desprez). Curator: Dorothee Charruaud (ADRINORD - URGI) Daphne Verdelet (Florimond Desprez) - First submission in November 2017."
+CO_371,Blueberry ontology,"Blueberry (Vaccinium) ontology defines crop traits and variables to support the standardization of phenotypic data collection for blueberry breeding programs in the USA. The ontology provides a description of agronomic, biochemical, morphological, phenological, physiological, quality, abiotic and biotic stress traits with their methods and scales used for each trait."
+CO_345,Brachiaria ontology,Brachiaria (forages) ontology TD v5 - Version Oct 2016
+CO_348,Brassica ontology,"Brassica Trait Ontology (BRaTO) hosts trait information to describe brassica crop data. Terms are collected from various projects including OREGIN, RIPR (UK) and Rapsodyn (France). BRATO development is conducted by Earlham Institute (UK), Southern Cross University (Australia) and INRA (France)."
+CO_334,Cassava ontology,"Cassava Trait Dictionary in template 5 - IITA - July 2015, updated in February 2016, and in 2023 for the traits from on farm trials"
+CO_347,Castor bean ontology,March 2017 version
+CO_338,Chickpea ontology,Chickpea Trait Dictionary in template v5 - ICRISAT - July 2015
+CO_326,Coconut ontology,"Coconut Ontology v1.0 - Coconut trait dictionary started by CIRAD, based on the ""Guidelines for collecting coconut germplasm characterisation data during prospecting missions"", COGENT (to be published); the ""Descriptors for Coconut, (Cocos nucifera L.)"", IPGRI (1995); and the ""Manual on standardized research techniques in coconut breeding"", IPGRI (1996)."
+CO_335,Common bean ontology,"CIAT Common bean trait dictionary - Updated version Nov. 2023, with the traits and variables for on farm comparative ranking of varieties"
+CO_358,Cotton ontology,Cotton ontology from CottonGen database - June 2019
+CO_340,Cowpea ontology,Cowpea Trait Dictionary - IITA - August 2015 - Updated Nov 2023 with the traits and variables for on farm comparative ranking of varieties
+CO_365,Fababean ontology,developed by ICARDA - Dec 2018
+CO_337,Groundnut ontology,Groundnut Trait Dictionary in template v5 - ICRISAT/ISRA/DARS - Sept 2015 -Updated Nov 2023 with traits from the on farm trials for the comparative ranking of varieties
+CO_339,Lentil ontology,Lentil Trait Dictionary in template v5 - ICARDA - July 2015
+CO_322,Maize ontology,Maize Trait Dictionary in template 5 - CIMMYT- September 2016- Updated nov 2023 Updated Nov 2023 with the traits and variables for on farm comparative ranking of varieties
+CO_346,Mungbean ontology,oct 2016
+CO_350,Oat ontology,Oat trait dictionary started by Oat Global (http://oatglobal.org/) and improved by NIAB and PepsiCo
+CO_327,Pearl millet ontology,"Pearl millet Trait Dictionary in template 5 - ICRISAT/INERA - April 2016 - Updated with onfarm trial traits from 1000Farms project, 2024"
+CO_341,Pigeonpea ontology,Pigeonpea Trait Dictionary in template v5 - ICRISAT - July 2015
+CO_330,Potato ontology,CIP - potato ontology - december 2018
+CO_367,Quinoa Ontology ontology,Curator name: Clara S. Stanschewski; Curator Affiliation: King Abdullah University of Science and Technology; Contributing Scientists or Crop expert group: The Salt Lab and the Quinoa Phenotyping Consortium Creation Date: 23.05.2021
+CO_374,Red clover ontology,"This red clover (Trifolium pratense) onthology defines variables and traits to support the standardization of phenotypic data collected in the framework of breeding. The ontology describes agronomic traits, productivity traits, traits related to flowering and seed production, and disease and insect pest resistance traits, together with their methods and scales for each traits."
+CO_320,Rice ontology,"Rice Trait Dictionary in template v 5.0 - IRRI - March 2016 - Based on SES, RD, UPOV variables and on variables used by CIAT, FLAR and the GRISP Phenotyping Network variables"
+CO_369,Sainfoin ontology,"This ontology describes a standard trait lexicon used in phenotyping the forage and pulse crop, Sainfoin (Onobrychis viciifolia), with the intention of increasing trait consistency across different breeding programs. Submitted on behalf of the Sainfoin Consortium on November 3rd, 2022. Version 1.0."
+CO_324,Sorghum ontology,Sorghum TDv5 - Oct 2019- Updated January 2024 with the Traits of 1000Farms project trials using comparative ranking by farmers method
+CO_336,Soybean ontology,Soybean Trait Dictionary in template v5 - IITA - July 2015
+CO_372,Strawberry ontology,"Strawberry trait ontology by USDA, GDR, 24 June 2024"
+CO_360,Sugar Kelp trait ontology,Sugar Kelp trait ontology
+CO_359,Sunflower ontology,December 2019
+CO_331,Sweet Potato ontology,Sweetpotato Trait Dictionary in template v5 - CIP - November 2019
+CO_356,Vitis ontology,Grape Ontology including OIV and bioversity descriptors. INRA July 2017
+CO_321,Wheat ontology,July 2018
+CO_357,Woody Plant Ontology ontology,This ontology lists all variables used for woody plant observations. Terms are collected from various sources (past and ongoing projects at national and international levels). Curators: Celia Michotey (INRAE) & Ines Chaves (ITQB NOVA/IBET) - Version 2 submitted on Jun 2020 by INRAE.
+CO_343,Yam ontology,version 2019 - pvs

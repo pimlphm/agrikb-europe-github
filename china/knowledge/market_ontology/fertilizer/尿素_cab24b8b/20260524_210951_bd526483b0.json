@@ -1,0 +1,304 @@
+{
+  "record_id": "market:fertilizer:尿素_cab24b8b:20260524_210951:bd526483b0",
+  "created_at": "2026-05-24T21:09:51",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:fertilizer:尿素_cab24b8b:20260524_210951:bd526483b0",
+    "@type": "agri:FertilizerMarketObservation",
+    "ontology_class": {
+      "class": "agri:FertilizerMarketObservation",
+      "broader": "agri:AgriculturalInput",
+      "label": "肥料农资"
+    },
+    "product": {
+      "@id": "agri:product_尿素_cab24b8b",
+      "name": "尿素",
+      "broader": "agri:AgriculturalInput"
+    },
+    "category": {
+      "@id": "agri:category_fertilizer_2fa688b4",
+      "id": "fertilizer",
+      "name": "肥料农资"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-24 21:09:51",
+    "decision": "尿素已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。",
+    "price_rows": [
+      {
+        "name": "尿素",
+        "market": "福建",
+        "avg_price": "2000.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "2026-05-23",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "用途:农业用;品级:优等品;粒度:中小颗粒;"
+      },
+      {
+        "name": "尿素",
+        "market": "广东",
+        "avg_price": "1750.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "2026-05-22",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "用途:农业用;品级:优等品;粒度:中小颗粒;"
+      },
+      {
+        "name": "尿素",
+        "market": "河南",
+        "avg_price": "2200.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "2026-05-23",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "46%"
+      },
+      {
+        "name": "尿素",
+        "market": "湖北",
+        "avg_price": "1650.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "2026-05-22",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "农业"
+      },
+      {
+        "name": "尿素",
+        "market": "江苏",
+        "avg_price": "2500.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "2026-05-22",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "车用 国标主含量46% min"
+      },
+      {
+        "name": "尿素",
+        "market": "山东",
+        "avg_price": "1850.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "2026-05-23",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "农业用 国标主含量46% min"
+      },
+      {
+        "name": "尿素",
+        "market": "上海",
+        "avg_price": "2000.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "2026-05-22",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "工业用 国标主含量46% min"
+      },
+      {
+        "name": "尿素",
+        "market": "肥料农资",
+        "avg_price": "2000.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "来源页实时信息",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "尿素",
+        "market": "肥料农资",
+        "avg_price": "1560.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "来源页实时信息",
+        "source": "m.chemicalbook.com",
+        "source_url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "尿素",
+        "market": "肥料农资",
+        "avg_price": "1600.00",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "来源页实时信息",
+        "source": "ymt.com",
+        "source_url": "https://www.ymt.com/hangqing/chandi_detail-486491-481402-200",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "尿素",
+        "market": "肥料农资",
+        "avg_price": "1730",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "来源页实时信息",
+        "source": "mysteel.com",
+        "source_url": "https://www.mysteel.com/oilchem/a/25082816/3AD1F9DA5B6AE515.html",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "尿素",
+        "market": "肥料农资",
+        "avg_price": "1690",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "来源页实时信息",
+        "source": "mysteel.com",
+        "source_url": "https://www.mysteel.com/oilchem/a/25082816/3AD1F9DA5B6AE515.html",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      }
+    ],
+    "sources": [
+      {
+        "title": "尿素价格行情-Chemicalbook",
+        "url": "https://m.chemicalbook.com/priceindex_cb5853861.htm",
+        "snippet": "尿素 价格行情-Chemicalbook 首页 个人中心 委托采购 采购清单 尿素价格 各省最新报价 日期 省份 价格 单位 2026-05-23 福建 2000.00 用途:农业用;品级:优等品;粒度:中小颗粒; 元/吨 2026-05-22 广东 1750.00 用途:农业用;品级:优等品;粒度:中小颗粒; 元/吨 2026-05-23 河南 2200.00 46% 元/吨 2026-05-22 湖北 1650.00 农业 元/吨 2026-05-22 江苏 2500.00 车用 国标主含量46% min 元/吨 2026-05-23 山东 1850.00 农业用 国标主含量46% min",
+        "source": "m.chemicalbook.com",
+        "date": "",
+        "source_type": "direct_price_source",
+        "page_text": "尿素 价格行情-Chemicalbook 首页 个人中心 委托采购 采购清单 尿素价格 各省最新报价 日期 省份 价格 单位 2026-05-23 福建 2000.00 用途:农业用;品级:优等品;粒度:中小颗粒; 元/吨 2026-05-22 广东 1750.00 用途:农业用;品级:优等品;粒度:中小颗粒; 元/吨 2026-05-23 河南 2200.00 46% 元/吨 2026-05-22 湖北 1650.00 农业 元/吨 2026-05-22 江苏 2500.00 车用 国标主含量46% min 元/吨 2026-05-23 山东 1850.00 农业用 国标主含量46% min 元/吨 2026-05-22 上海 2000.00 工业用 国标主含量46% min 元/吨 厂家最新报价 日期 交货地 厂家 价格 2026-05-23 福建 漳州市芗城三安化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：福建 2000.00元/吨 2026-05-23 河南 河南仟越星化工科技有限公司 尿素 规格：工业46% 品牌：国产 1560.00元/吨 2026-05-23 山东 潍坊呈信化工有限公司 尿素 规格：工业用 国标主含量46% min 品牌：国产 1800.00元/吨 2026-05-22 上海 上海实建实业有限公司 尿素 规格：总氮含量≥46% 规格：工业尿素、农业尿素 粒度：0.85-2.80(mm) 品牌：实建化学 2000.00元/吨 2026-05-22 湖北 湖北七八九化工有限公司 尿素 规格：农业 品牌：湖北七八九 1650.00元/吨 2026-05-22 江苏 苏州尚马化工科技有限公司 尿素 规格：车用 国标主含量46% min 品牌：国产 2500.00元/吨 2026-05-22 广东 广州市天悦化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：陕西华山 1750.00元/吨 2026-05-18 甘肃 甘肃涌升源贸易有限责任公司 尿素 规格：农业用 国标主含量46% min 品牌：国产 1850.00元/吨 2026-05-18 四川 成都荣嘉欣化工产品有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：四川美丰 2100.00元/吨 2026-04-16 福建 漳州市芗城三安化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：福建 2100.00元/吨 2026-04-16 广东 广州市天悦化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：陕西华山 1750.00元/吨 2026-04-16 河南 河南仟越星化工科技有限公司 尿素 规格：工业46% 品牌：国产 1520.00元/吨 2026-04-16 湖北 湖北七八九化工有限公司 尿素 规格：农业 品牌：湖北七八九 1650.00元/吨 2026-04-16 江苏 苏州尚马化工科技有限公司 尿素 规格：车用 国标主含量46% min 品牌：国产 2200.00元/吨 2026-04-16 山东 潍坊呈信化工有限公司 尿素 规格：工业用 国标主含量46% min 品牌：国产 1800.00元/吨 2026-04-16 山东 济南金昊化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：国产 1700.00元/吨 2026-04-16 上海 上海实建实业有限公司 尿素 规格：总氮含量≥46% 规格：工业尿素、农业尿素 粒度：0.85-2.80(mm) 品牌：实建化学 2050.00元/吨 2026-04-15 甘肃 甘肃涌升源贸易有限责任公司 尿素 规格：农业用 国标主含量46% min 品牌：国产 1830.00元/吨 2026-04-13 四川 成都荣嘉欣化工产品有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：四川美丰 1950.00元/吨 2025-08-31 广东 广州市天悦化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：陕西华山 1800.00元/吨 2025-08-31 河南 河南汇亿海环保科技有限公司 尿素 规格：工业级一等品 品牌：汇亿海 1800.00元/吨 2025-08-31 山东 山东宏洋化学有限公司 尿素 规格：30% 品牌：国产 1800.00元/吨 2025-08-30 四川 成都荣嘉欣化工产品有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：四川美丰 2600.00元/吨 2025-08-30 广东 广州市天悦化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：陕西华山 1800.00元/吨 2025-08-30 河南 河南汇亿海环保科技有限公司 尿素 规格：工业级一等品 品牌：汇亿海 1800.00元/吨 2025-08-30 山东 山东金生润化工有限公司 尿素 规格：工业级一等品 品牌：国产 1800.00元/吨 2025-08-30 四川 成都荣嘉欣化工产品有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：四川美丰 2600.00元/吨 2025-08-29 上海 上海实建实业有限公司 尿素 规格：总氮含量≥46% 规格：工业尿素、农业尿素 粒度：0.85-2.80(mm) 品牌：实建化学 2050.00元/吨 2025-08-29 福建 漳州市芗城三安化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：福建 2000.00元/吨 2025-08-29 湖北 湖北七八九化工有限公司 尿素 规格：农业 品牌：湖北七八九 2100.00元/吨 2025-08-29 江苏 常州蓝亚新材料科技有限公司 尿素 规格：农业用 国标主含量46% min 品牌：国产 2050.00元/吨 2025-08-29 广东 广州市天悦化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：陕西华山 1800.00元/吨 2025-08-29 河南 河南汇亿海环保科技有限公司 尿素 规格：工业级一等品 品牌：汇亿海 1800.00元/吨 2025-08-29 河南 河南仟越星化工科技有限公司 尿素 规格：工业46% 品牌：国产 1550.00元/吨 2025-08-29 湖北 湖北七八九化工有限公司 尿素 规格：农业 品牌：湖北七八九 2100.00元/吨 2025-08-29 江苏 常州蓝亚新材料科技有限公司 尿素 规格：工业用 国标主含量46% min 品牌：国产 2050.00元/吨 2025-08-29 山东 山东富盛永商贸有限公司 尿素 规格：小颗粒尿素，农业用 品牌：山东 1800.00元/吨 2025-08-29 山东 山东富盛永商贸有限公司 尿素 规格：工业级一等品 品牌：国产 1650.00元/吨 2025-08-29 上海 上海果壳电子商务有限公司 尿素 规格：工业用 国标主含量46% min 品牌：江苏 2050.00元/吨 2025-08-29 四川 成都荣嘉欣化工产品有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：四川美丰 2600.00元/吨 2025-08-29 福建 漳州市芗城三安化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：福建 2000.00元/吨 2025-08-29 福建 漳州市芗城三安化工有限公司 尿素 规格：用途:农业用;品级:优等品;粒度:中小颗粒; 品牌：福建 2000.00元/吨 2025-08-29 上海 上海实建实业有限公司 尿素 规格：总氮含量≥46% 规格：工业尿素、农业尿素 粒度：0.85-2.80(mm) 品牌：实建化学 2050.00元/吨 2025-08-29 湖北 湖北七八九化工有限公司 尿素 规格：农业 品牌：湖北七八九 2100.00元/吨 2025-08-29 江苏 常州蓝亚新材料科技有限公司 尿素 规格：农业用 国标主含量46% min 品牌：国产 2050.00元/吨 2025-08-24 甘肃 甘肃涌升源贸易有限责任公司 尿素 规格：农业用 国标主含量46% min 品牌：国产 1670.00元/吨 2025-08-24 甘肃 甘肃涌升源贸易有限责任公司 尿素 规格：农业用 国标主含量46% min 品牌：国产 1670.00元/吨 尿素价格走势 均价（元/吨） 1-5号 6-10号 11-15号 16-20号 21-25号 26-31号 26年5月 1840.00 1808.00 1806.00 1870.00 1900.00 - 26年4月 2054.00 1842.00 1826.00 1832.50 1978.00 1808.00 26年3月 - 1800.00 1810.00 1810.00 1700.00 1842.00 26年2月 1740.00 1760.00 1780.00 - 1770.00 1780.00 26年1月 1710.00 1727.50 - - - 1740.00 25年12月 1698.00 1703.33 1676.67 1680.00 1690.00 1700.00 25年11月 1563.33 1560.00 1595.00 1595.00 1600.00 1630.00 25年10月 - 1570.00 1557.50 1570.00 1555.00 1596.00 25年9月 1700.00 1680.00 1656.67 1640.00 1625.00 1607.50 25年8月 1775.00 1783.33 1728.00 1716.67 1740.00 1700.00 25年7月 1800.00 1800.00 1800.00 1793.33 1800.00 1762.50 以上信息仅做为参考，购买以实际为准。全国热线：010-86108875 丙二醇价格 查看报价 产品： 甲醇 CAS： 67-56-1 规格： 品牌： * 价格： 元 / 吨 * 省份： * 公司： 确认提价 暂时不报 MSDS | CAS | 常用CAS | 化工产品目录 | 新产品 联系我们 | 电脑版 Chemical Book"
+      },
+      {
+        "title": "肥料价格与农资行情公开检索",
+        "url": "https://www.moa.gov.cn/",
+        "snippet": "尿素价格受原料、运输、季节备肥影响较大，建议对比本地农资门店、供销社和公开行情。",
+        "source": "公开农资信息",
+        "date": "",
+        "source_type": "curated_public_source"
+      },
+      {
+        "title": "全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "重点农产品市场信息平台",
+        "url": "https://ncpscxx.moa.gov.cn/",
+        "snippet": "农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "中国价格信息网-农产品",
+        "url": "https://jgjc.ndrc.gov.cn/ncp/index.jhtml",
+        "snippet": "国家发展改革委价格监测相关公开信息入口，提供农产品价格参考。",
+        "source": "政府公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "农业农村部市场与信息化司",
+        "url": "http://www.moa.gov.cn/govpublic/SCYJJXXS/",
+        "snippet": "农业农村部市场与信息化司公开信息，适合查询市场、信息化和产业政策。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "BDADCBD5C4F2CBD8 江苏尿素价格-最新江苏尿素价格、批发报价、价格大全 - 阿里巴巴",
+        "url": "https://www.1688.com/jiage/-BDADCBD5C4F2CBD8.html",
+        "snippet": "阿里巴巴为您找到2,189个今日最新的 江苏 尿 素 价格 , 江苏 尿 素 批发 价格 等行情走势,您还可以找市场价格、批发价格等相关产品的价格信息。 阿里巴巴也提供相关 江苏 尿 素 供应商 的简介，主营产品，图片，销量等全方位信息，为您订购产品提供全方位的价格参考。",
+        "source": "1688",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "chandi_detail-486491/481402/200 江苏淮安尿素价格行情走势 - 一亩田",
+        "url": "https://www.ymt.com/hangqing/chandi_detail-486491-481402-200",
+        "snippet": "一亩田为您提供2026 江苏 淮安 尿素价格 行情，今日 江苏 淮安 尿素 最新 价格 1600.00元/吨，相比于昨日平稳0.0-还可查询全国 尿素价格 ...",
+        "source": "ymt.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "尿素当前可见报价约1560元/吨到2500元/吨，以福建为主要参考。",
+      "advice": [
+        "至少比三家报价",
+        "核对品牌规格和批号",
+        "优先选择可开票渠道"
+      ],
+      "risk": "农资采购要核对登记证、有效期、售后和配送范围，避免只比单价。",
+      "action": "今天先把肥料农资的规格和用量列清。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "尿素已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_尿素_cab24b8b",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_fertilizer_2fa688b4"
+      },
+      {
+        "subject": "market:fertilizer:尿素_cab24b8b:20260524_210951:bd526483b0",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_尿素_cab24b8b"
+      },
+      {
+        "subject": "market:fertilizer:尿素_cab24b8b:20260524_210951:bd526483b0",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:fertilizer:尿素_cab24b8b:20260524_210951:bd526483b0",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:fertilizer:尿素_cab24b8b:20260524_210951:bd526483b0",
+        "predicate": "agri:hasDecision",
+        "object": "尿素已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+      }
+    ]
+  }
+}

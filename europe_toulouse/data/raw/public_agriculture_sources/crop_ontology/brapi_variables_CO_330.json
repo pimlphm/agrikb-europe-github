@@ -1,0 +1,587 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 382,
+            "totalPages": 39
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_330:0000223",
+            "name": "PlGwht_Et_1to6",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "HABIT, PGH",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000000",
+                "name": "Plant growth habit",
+                "class": "Morphological",
+                "description": "The growth habit of the plant",
+                "synonyms": null,
+                "mainAbbreviation": "PlGwht",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "growth habit",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000001",
+                "name": "Visual estimation - Plant growth habit",
+                "class": "Estimation",
+                "description": "Observe the growth habit or shape of 10 individual plants and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000002",
+                "name": "PlGwht 6 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1 = Erect",
+                        "2 = Semi-erect",
+                        "3 = Decumbent",
+                        "4 = Prostrate",
+                        "5 = Semi-rosette",
+                        "6 = Rosette"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000224",
+            "name": "Flwdgr_Et_0to7",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "FLOWERING",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000003",
+                "name": "Flowering degree",
+                "class": "Morphological",
+                "description": "The degree of flowering",
+                "synonyms": null,
+                "mainAbbreviation": "Flwdgr",
+                "alternativeAbbreviations": null,
+                "entity": "Flower",
+                "attribute": "degree",
+                "status": "Recommended",
+                "xref": "De Haan et al. 2017"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000004",
+                "name": "Visual estimation - Flowering degree",
+                "class": "Estimation",
+                "description": "Observe the presence of flowers on the plant when it has reached maximum growth and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000005",
+                "name": "Flwdgr 5 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0 = Absent",
+                        "1 = Bud abortion",
+                        "3 = Flowering scarce",
+                        "5 = Flowering moderate",
+                        "7 = Flowering profuse"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000225",
+            "name": "CorSh_Et_1to9",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "CORSHAP",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000006",
+                "name": "Corolla shape",
+                "class": "Morphological",
+                "description": "The shape of the corolla",
+                "synonyms": null,
+                "mainAbbreviation": "CorSh",
+                "alternativeAbbreviations": null,
+                "entity": "Corolla",
+                "attribute": "shape",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000007",
+                "name": "Visual estimation - Corolla shape",
+                "class": "Estimation",
+                "description": "Observe the corolla shape in a fully open flower and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000008",
+                "name": "CorSh 5 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1 = Stellate",
+                        "3 = Semi-stellate",
+                        "5 = Pentagonal",
+                        "7 = Rotate",
+                        "9 = Very rotate"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000226",
+            "name": "FlwNIn_Et_0to7",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "NIPP",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000009",
+                "name": "Inflorescence number",
+                "class": "Morphological",
+                "description": "The number of inflorescences",
+                "synonyms": null,
+                "mainAbbreviation": "FlwNIn",
+                "alternativeAbbreviations": null,
+                "entity": "Inflorescence",
+                "attribute": "number",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000010",
+                "name": "Visual estimation - Inflorescence number",
+                "class": "Counting",
+                "description": "Count the total number of inflorescences per plant and record it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000011",
+                "name": "FlwNIn 5 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0 = Absent",
+                        "1 = 1 inflorescence",
+                        "3 = 2-4 inflorescences",
+                        "5 = 5-10 inflorescences",
+                        "7 = 11 or more inflorescences"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000227",
+            "name": "FlwNum_Et_1to9",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "NFWP",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000012",
+                "name": "Main inflorescence flower number",
+                "class": "Morphological",
+                "description": "The flower number of the main inflorescence",
+                "synonyms": null,
+                "mainAbbreviation": "FlwNum",
+                "alternativeAbbreviations": null,
+                "entity": "Main inflorescence",
+                "attribute": "flower",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000013",
+                "name": "Visual estimation - Main inflorescence flower number",
+                "class": "Counting",
+                "description": "Count the total number of flowers per main inflorescence at the time of flowering and record it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000014",
+                "name": "FlwNum 6 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0 = Absent",
+                        "1 = Single",
+                        "2 = Few (2 to 5)",
+                        "3 = Intermediate (6 to 10)",
+                        "4 = Abundant (11 to 20)",
+                        "5 = Very abundant (over 20)"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000228",
+            "name": "FlrAnP_Et_1to9",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "ANTPIG",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000015",
+                "name": "Anther pigmentation",
+                "class": "Morphological",
+                "description": "The pigmentation of the anther",
+                "synonyms": null,
+                "mainAbbreviation": "FlrAnP",
+                "alternativeAbbreviations": null,
+                "entity": "Anther",
+                "attribute": "pigmentation",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000016",
+                "name": "Visual estimation - Anther pigmentation",
+                "class": "Estimation",
+                "description": "Observe the pigmentation of the anther and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000017",
+                "name": "FlrAnP 5 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0 = Without anthocyanins",
+                        "1 = Sidebands pigmented",
+                        "2 = Spots on the apex",
+                        "3 = Apex and bands pigmented",
+                        "4 = Reddish-brown anthers"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000229",
+            "name": "FlrPPg_Et_0to8",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "PISP",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000018",
+                "name": "Pistil pigmentation",
+                "class": "Morphological",
+                "description": "The pigmentation of the pistil",
+                "synonyms": null,
+                "mainAbbreviation": "FlrPPg",
+                "alternativeAbbreviations": null,
+                "entity": "Pistil",
+                "attribute": "pigmentation",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000019",
+                "name": "Visual estimation - Pistil pigmentation",
+                "class": "Estimation",
+                "description": "Observe the pigmentation of the pistil and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000020",
+                "name": "FlrPPg 9 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0 = Without anthocyanins",
+                        "1 = Pigmented stigma(PS)",
+                        "2 = Pigmented ovary(PO)",
+                        "3 = Pigmented ovary inner wall (POW)",
+                        "4 = Pigmented stigma and ovary(PS+PO)",
+                        "5 = Pigmented stigma and ovary wall(PO+POW)",
+                        "6 = Pigmented ovary and ovary wall (PO+POW)",
+                        "7 = Pigmented stigma/ovary and ovary wall(PS+PO+POW)",
+                        "8 = Pigmented stile"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000230",
+            "name": "FrtShp_Et_1to7",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "FRUTSHP",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000021",
+                "name": "Fruit shape",
+                "class": "Morphological",
+                "description": "The shape of the fruit",
+                "synonyms": null,
+                "mainAbbreviation": "FrtShp",
+                "alternativeAbbreviations": null,
+                "entity": "Fruit",
+                "attribute": "shape",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000022",
+                "name": "Visual estimation - Fruit shape",
+                "class": "Estimation",
+                "description": "Observe the shape of the fruit and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000023",
+                "name": "FrtShp 7 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1 = Globose",
+                        "2 = Globose with terminal mucron",
+                        "3 = Ovoid",
+                        "4 = Ovoid with terminal mucron",
+                        "5 = Conical",
+                        "6 = Long conical",
+                        "7 = Pyriform"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000231",
+            "name": "FrtCol_Et_1to7",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "FRUIT",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000024",
+                "name": "Fruit color",
+                "class": "Morphological",
+                "description": "The color of the fruit",
+                "synonyms": null,
+                "mainAbbreviation": "FrtCol",
+                "alternativeAbbreviations": null,
+                "entity": "Fruit",
+                "attribute": "color",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000025",
+                "name": "Visual estimation - Fruit color",
+                "class": "Estimation",
+                "description": "Observe the color of the fruit and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000026",
+                "name": "FrtCol 7 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1 = Green",
+                        "2 = Green with few white spots",
+                        "3 = Green with white stripes",
+                        "4 = Green with abundant white spots",
+                        "5 = Green with purple spots",
+                        "6 = Green with purple stripes",
+                        "7 = Predominantly purple"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_330:0000232",
+            "name": "Pedcol_Et_1to8",
+            "ontologyDbId": "CO_330",
+            "ontologyName": "Potato",
+            "synonyms": "PEDPIG",
+            "contextOfUse": "Characterizing stocks",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "CIP",
+            "scientist": "Curator",
+            "date": "2016-04-04 00:00:00",
+            "language": "EN",
+            "crop": "Potato",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_330:0000027",
+                "name": "Pedicel color",
+                "class": "Morphological",
+                "description": "The color of the pedicel",
+                "synonyms": null,
+                "mainAbbreviation": "Pedcol",
+                "alternativeAbbreviations": null,
+                "entity": "Pedicel",
+                "attribute": "color",
+                "status": "Recommended",
+                "xref": "Gomez, R. 2004"
+            },
+            "method": {
+                "methodDbId": "CO_330:0000028",
+                "name": "Visual estimation - Pedicel color",
+                "class": "Estimation",
+                "description": "Observe the color of the pedicel and rate it",
+                "formula": null,
+                "reference": "Gomez, R. 2004"
+            },
+            "scale": {
+                "scaleDbId": "CO_330:0000029",
+                "name": "Pedcol 8 pt. scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": "Gomez, R. 2004",
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1 = Green",
+                        "2 = Pigmented articulation only",
+                        "3 = Slightly pigmented throughout",
+                        "4 = Slightly pigmented throughout and articulation",
+                        "5 = Pigmented above articulation",
+                        "6 = Pigmented below articulation",
+                        "7 = Mostly pigmented and green articulation",
+                        "8 = Completely pigmented"
+                    ]
+                }
+            }
+        }
+    ]
+}

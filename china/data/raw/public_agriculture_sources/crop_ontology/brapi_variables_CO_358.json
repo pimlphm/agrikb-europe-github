@@ -1,0 +1,514 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 279,
+            "totalPages": 28
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_358:0001067",
+            "name": "SKC_Cmp_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "SKC (%)",
+            "contextOfUse": "QTL evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000077",
+                "name": "Seed kernel content",
+                "class": "Agronomic",
+                "description": "The weight of kernel over weight of whole seed",
+                "synonyms": null,
+                "mainAbbreviation": "SKC",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Kernel content",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000078",
+                "name": "SKC - Computation",
+                "class": "Computation",
+                "description": "Weight of kernel over weight of whole seed",
+                "formula": "SKC=Weight of kernel over weight of whole seed",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001068",
+            "name": "SCP_Cmp_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "SCP (%)",
+            "contextOfUse": "QTL evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000080",
+                "name": "Seed coat percent",
+                "class": "Agronomic",
+                "description": "Weight of seed coat over weight of whole seed",
+                "synonyms": null,
+                "mainAbbreviation": "SCP",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Percent",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000081",
+                "name": "SCP - Computation",
+                "class": "Computation",
+                "description": "Weight of seed coat over weight of whole seed",
+                "formula": "Seed coat (%) = (coat dry weight / seed dry weight) \u00d7 100",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001069",
+            "name": "FEL_M_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "FEL (%)",
+            "contextOfUse": "QTL evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000009",
+                "name": "Fiber elongation",
+                "class": "Quality",
+                "description": "Elongation is the degree of extension of the fibers before a break occurs when measuring strength",
+                "synonyms": null,
+                "mainAbbreviation": "FEL",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Elongation",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000083",
+                "name": "FEL - (unknown method) Measurement",
+                "class": "Measurement",
+                "description": "Fiber elongation",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001070",
+            "name": "E1_M_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "E1 (%)",
+            "contextOfUse": "Variety test, Trial/Germplasm/QTL evaluation",
+            "growthStage": null,
+            "status": "Standard for NCVT, RBTN",
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000009",
+                "name": "Fiber elongation",
+                "class": "Quality",
+                "description": "Elongation is the degree of extension of the fibers before a break occurs when measuring strength",
+                "synonyms": null,
+                "mainAbbreviation": "FEL",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Elongation",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000085",
+                "name": "E1 - HVI Measurement",
+                "class": "Measurement",
+                "description": "E1 is an HVI standard measurement of percentage elongation at break of the center 1/8 inch of the fiber bundle measured for T1 strength on the Stelometer",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001071",
+            "name": "FMHVI_M_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "FM HVI (%)",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000013",
+                "name": "Fiber mature content",
+                "class": "Quality",
+                "description": "Arealometer M, the simple linear regression prediction of caustic soda percent maturity",
+                "synonyms": null,
+                "mainAbbreviation": "FM",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Maturity",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000089",
+                "name": "FM - HVI Measurement",
+                "class": "Measurement",
+                "description": "FM is the fiber maturity content measured by HVI",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001072",
+            "name": "QS-1-1-3-5_Cmp_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "QS (1,1,3,5)",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": "Standard for RBTN",
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000014",
+                "name": "Fiber quality score",
+                "class": "Quality",
+                "description": "Fiber quality score (Qscore), very similar to a selection index, adds the weighted values of selected fiber traits (length, mic, UI, strength) to provide a single measure (0-100) of desirable fiber qualities",
+                "synonyms": null,
+                "mainAbbreviation": "FQS",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Quality",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000091",
+                "name": "QS-1-1-3-5 - Computation",
+                "class": "Computation",
+                "description": "Fiber quality score calculated by weighting selected fiber traits as follows: fiber length (0.1), mic (0.1), UI (0.3), and strength (0.5)",
+                "formula": "QS-1-1-3-5 = 1*FL+1*MIC+3*UI+5*FS",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001073",
+            "name": "QS-2-1-4-3_Cmp_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "QS (2,1,4,3)",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": "Standard for RBTN",
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000014",
+                "name": "Fiber quality score",
+                "class": "Quality",
+                "description": "Fiber quality score (Qscore), very similar to a selection index, adds the weighted values of selected fiber traits (length, mic, UI, strength) to provide a single measure (0-100) of desirable fiber qualities",
+                "synonyms": null,
+                "mainAbbreviation": "FQS",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Quality",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000093",
+                "name": "QS-2-1-4-3 - Computation",
+                "class": "Computation",
+                "description": "Fiber quality score calculated by weighting selected fiber traits as follows: fiber length (0.2), mic (0.1), UI (0.4), and strength (0.3)",
+                "formula": "QS-2-1-4-3 = 2*FL+1*MIC+4*UI+3*FS",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001074",
+            "name": "QS-4.5-2.5-0-3_Cmp_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "QS (4.5,2.5,0,3)",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": "Standard for RBTN",
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000014",
+                "name": "Fiber quality score",
+                "class": "Quality",
+                "description": "Fiber quality score (Qscore), very similar to a selection index, adds the weighted values of selected fiber traits (length, mic, UI, strength) to provide a single measure (0-100) of desirable fiber qualities",
+                "synonyms": null,
+                "mainAbbreviation": "FQS",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Quality",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000095",
+                "name": "QS-4.5-2.5-0-3 - Computation",
+                "class": "Computation",
+                "description": "Fiber quality score calculated by weighting selected fiber traits as follows: fiber length (0.45), mic (0.25), UI (0.0), and strength (0.3)",
+                "formula": "QS-4.5-2.5-0-3 = 4.5*FL+2.5*MIC+0*UI+3*FS",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001075",
+            "name": "QS-5-2.5-1.5-1_Cmp_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "QS (5,2.5,1.5,1)",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": "Standard for RBTN",
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000014",
+                "name": "Fiber quality score",
+                "class": "Quality",
+                "description": "Fiber quality score (Qscore), very similar to a selection index, adds the weighted values of selected fiber traits (length, mic, UI, strength) to provide a single measure (0-100) of desirable fiber qualities",
+                "synonyms": null,
+                "mainAbbreviation": "FQS",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Quality",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000097",
+                "name": "QS-5-2.5-1.5-1 - Computation",
+                "class": "Computation",
+                "description": "Fiber quality score calculated by weighting selected fiber traits as follows: fiber length (0.5), mic (0.25), UI (0.15), and strength (0.10)",
+                "formula": "QS-5-2.5-1.5-1 = 5*FL+2.5*MIC+1.5*UI+1*FS",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_358:0001076",
+            "name": "QS-5-2.5-1-1.5_Cmp_pct",
+            "ontologyDbId": "CO_358",
+            "ontologyName": "Cotton",
+            "synonyms": "QS (5,2.5,1,1.5)",
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": "Standard for RBTN",
+            "xref": null,
+            "institution": "CottonGen",
+            "scientist": "Jing Yu",
+            "date": null,
+            "language": "EN",
+            "crop": "Cotton",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_358:0000014",
+                "name": "Fiber quality score",
+                "class": "Quality",
+                "description": "Fiber quality score (Qscore), very similar to a selection index, adds the weighted values of selected fiber traits (length, mic, UI, strength) to provide a single measure (0-100) of desirable fiber qualities",
+                "synonyms": null,
+                "mainAbbreviation": "FQS",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Quality",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_358:0000118",
+                "name": "QS-5-2.5-1-1.5 - Computation",
+                "class": "Computation",
+                "description": "Fiber quality score calculated by weighting selected fiber traits as follows: fiber length (0.5), mic (0.25), UI (0.10), and strength (0.15)",
+                "formula": "QS-5-2.5-1-1.5 = 5*FL+2.5*MIC+1*UI+1.5*FS",
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_358:0000054",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": "2.0",
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        }
+    ]
+}

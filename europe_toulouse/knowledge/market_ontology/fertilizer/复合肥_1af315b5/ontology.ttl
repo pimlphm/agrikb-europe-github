@@ -1,0 +1,24 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1> a agri:FertilizerMarketObservation ;
+  agri:observesProduct <agri:product_复合肥_1af315b5> ;
+  agri:hasMarketCategory <agri:category_fertilizer_2fa688b4> ;
+  agri:observedAt "2026-05-25 09:52:42" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "复合肥已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。" .
+
+<agri:product_复合肥_1af315b5> a agri:AgriculturalThing ;
+  schema:name "复合肥" .
+
+<agri:category_fertilizer_2fa688b4> a agri:MarketCategory ;
+  schema:name "肥料农资" .
+
+<market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1:price:1> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:复合肥_1af315b5:20260525_095242:e55280cca1> ;
+  agri:priceValue "60" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "肥料农资" ;
+  agri:sourceName "enongzi.com" ;
+  agri:sourceUrl "https://www.enongzi.com/news/details?id=15c8693f-2e88-4e36-be25-0c8fe6205618" .

@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 212,
+            "totalPages": 22
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_322:0000190",
+            "traitId": "CO_322:0000190",
+            "name": "Aleurone color",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000650"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000651",
+            "traitId": "CO_322:0000651",
+            "name": "Anther Anthocyanin coloration",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000653",
+                "CO_322:0001081",
+                "CO_322:0001082"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000072",
+            "traitId": "CO_322:0000072",
+            "name": "Aspergillus flavus ear rot severity",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000654",
+                "CO_322:0001021",
+                "CO_322:0001022"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000520",
+            "traitId": "CO_322:0000520",
+            "name": "Aspergillus ear rot severity",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000655",
+                "CO_322:0001019",
+                "CO_322:0001020"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000150",
+            "traitId": "CO_322:0000150",
+            "name": "Ear bad husk cover incidence",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000656",
+                "CO_322:0000657",
+                "CO_322:0000659"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000082",
+            "traitId": "CO_322:0000082",
+            "name": "Common smut severity",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000660",
+                "CO_322:0001032",
+                "CO_322:0001033"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000018",
+            "traitId": "CO_322:0000018",
+            "name": "Ear aspect",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000661"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000170",
+            "traitId": "CO_322:0000170",
+            "name": "Ear diameter",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000662"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000165",
+            "traitId": "CO_322:0000165",
+            "name": "Ear damage",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000663"
+            ]
+        },
+        {
+            "traitDbId": "CO_322:0000664",
+            "traitId": "CO_322:0000664",
+            "name": "Ear shape",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_322:0000667"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="chunk_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="kind" attr.type="string"/>
+<graph edgedefault="directed"><node id="A320neo_Engine_Control_Software_Spec_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="ECS-SRS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="DO-178C">
+  <data key="d0">entity</data>
+</node>
+<node id="ARP4754A">
+  <data key="d0">entity</data>
+</node>
+<node id="FAR">
+  <data key="d0">entity</data>
+</node>
+<node id="CFM">
+  <data key="d0">entity</data>
+</node>
+<node id="PW1100G">
+  <data key="d0">entity</data>
+</node>
+<node id="FADEC">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FADEC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="DAL">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FADEC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FADEC-003">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FADEC-004">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FADEC-005">
+  <data key="d0">entity</data>
+</node>
+<node id="EHM">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FADEC-006">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-FADEC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="PID">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-FADEC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-FADEC-003">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::178C">
+  <data key="d0">condition</data>
+  <data key="d2">178C</data>
+</node>
+<node id="condition::1A">
+  <data key="d0">condition</data>
+  <data key="d2">1A</data>
+</node>
+<node id="condition::温度/压力">
+  <data key="d0">condition</data>
+  <data key="d2">温度/压力</data>
+</node>
+<node id="condition::20ms">
+  <data key="d0">condition</data>
+  <data key="d2">20ms</data>
+</node>
+<node id="condition::10ms">
+  <data key="d0">condition</data>
+  <data key="d2">10ms</data>
+</node>
+<node id="A320neo_Engine_Control_Software_Spec_0017">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="MODULE-FADEC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="MISRA">
+  <data key="d0">entity</data>
+</node>
+<node id="MODULE-FADEC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="MODULE-FADEC-003">
+  <data key="d0">entity</data>
+</node>
+<node id="FUNC-FADEC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="FUNC-FADEC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-FADEC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-FADEC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-FADEC-003">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::转速监控和超转保护">
+  <data key="d0">condition</data>
+  <data key="d2">转速监控和超转保护</data>
+</node>
+<node id="condition::转速超限检测，三阈值判断(警告/燃油减少/燃油切断)">
+  <data key="d0">condition</data>
+  <data key="d2">转速超限检测，三阈值判断(警告/燃油减少/燃油切断)</data>
+</node>
+<node id="condition::运行中">
+  <data key="d0">condition</data>
+  <data key="d2">运行中</data>
+</node>
+<node id="A320neo_FBW_DO178C_Certification_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="DO-">
+  <data key="d0">entity</data>
+</node>
+<node id="FBW-CERT-002">
+  <data key="d0">entity</data>
+</node>
+<node id="ATA">
+  <data key="d0">entity</data>
+</node>
+<node id="CS">
+  <data key="d0">entity</data>
+</node>
+<node id="FBW">
+  <data key="d0">entity</data>
+</node>
+<node id="ELAC">
+  <data key="d0">entity</data>
+</node>
+<node id="SEC">
+  <data key="d0">entity</data>
+</node>
+<node id="FAC">
+  <data key="d0">entity</data>
+</node>
+<node id="SEC1">
+  <data key="d0">entity</data>
+</node>
+<node id="AREQ-27-001">
+  <data key="d0">entity</data>
+</node>
+<node id="A320neo_FBW_DO178C_Certification_0011">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="AREQ-27-002">
+  <data key="d0">entity</data>
+</node>
+<node id="AREQ-27-003">
+  <data key="d0">entity</data>
+</node>
+<node id="relation::A320neo_FBW_DO178C_Certification_0011::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="A320neo_FBW_DO178C_Certification_0012">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="AREQ-27-004">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-001">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-002">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-003">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-010">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-020">
+  <data key="d0">entity</data>
+</node>
+<node id="AOA">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-021">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-022">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-FBW-023">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-010">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-011">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-020">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-030">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-031">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-040">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-SAF-001">
+  <data key="d0">entity</data>
+</node>
+<node id="SO-FBW-001">
+  <data key="d0">entity</data>
+</node>
+<node id="COM">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-ELAC-SAF-002">
+  <data key="d0">entity</data>
+</node>
+<node id="SO-FBW-002">
+  <data key="d0">entity</data>
+</node>
+<node id="A320neo_FBW_DO178C_Certification_0015">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="LLR-ELAC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR-ELAC-010">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR-ELAC-020">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR-ELAC-031">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR-ELAC-SAF-001">
+  <data key="d0">entity</data>
+</node>
+<node id="ARINC">
+  <data key="d0">entity</data>
+</node>
+<node id="CONTROL">
+  <data key="d0">entity</data>
+</node>
+<node id="MONITOR">
+  <data key="d0">entity</data>
+</node>
+<node id="IO">
+  <data key="d0">entity</data>
+</node>
+<node id="BITE">
+  <data key="d0">entity</data>
+</node>
+<node id="CSC-ELAC-APP">
+  <data key="d0">entity</data>
+</node>
+<node id="CSC-CTRL">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-NLAW">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-ALAW">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-DLAW">
+  <data key="d0">entity</data>
+</node>
+<node id="CSC-MON">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-XMON">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-VOTE">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-SWITCH">
+  <data key="d0">entity</data>
+</node>
+<node id="CSC-IO">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-ADC">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-A429">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-DISC">
+  <data key="d0">entity</data>
+</node>
+<node id="CSC-BITE">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-PBIT">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-CBIT">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-IBIT">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::100ms">
+  <data key="d0">condition</data>
+  <data key="d2">100ms</data>
+</node>
+<node id="A320neo_FBW_DO178C_Certification_0020">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="TC-ELAC-NL-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-ELAC-NL-002">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-ELAC-NL-003">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-ELAC-NL-004">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-ELAC-SAF-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-ELAC-SAF-002">
+  <data key="d0">entity</data>
+</node>
+<node id="A320neo_FBW_DO178C_Certification_0023">
+  <data key="d0">chunk</data>
+  <data key="d1">symptom</data>
+</node>
+<node id="TC-ELAC-ROB-001">
+  <data key="d0">entity</data>
+</node>
+<node id="A320neo_FBW_DO178C_Certification_0024">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="SC-ELAC-MCDC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="MC">
+  <data key="d0">entity</data>
+</node>
+<node id="DC">
+  <data key="d0">entity</data>
+</node>
+<node id="SC-ELAC-MCDC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="SC-ELAC-MCDC-">
+  <data key="d0">entity</data>
+</node>
+<node id="ELAC-020">
+  <data key="d0">entity</data>
+</node>
+<node id="SOI">
+  <data key="d0">entity</data>
+</node>
+<node id="PSAC">
+  <data key="d0">entity</data>
+</node>
+<node id="SDP">
+  <data key="d0">entity</data>
+</node>
+<node id="SVP">
+  <data key="d0">entity</data>
+</node>
+<node id="SCMP">
+  <data key="d0">entity</data>
+</node>
+<node id="SRS">
+  <data key="d0">entity</data>
+</node>
+<node id="SDD">
+  <data key="d0">entity</data>
+</node>
+<node id="STD">
+  <data key="d0">entity</data>
+</node>
+<node id="STR">
+  <data key="d0">entity</data>
+</node>
+<node id="SAS">
+  <data key="d0">entity</data>
+</node>
+<node id="SCI">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="电机">
+  <data key="d0">entity</data>
+</node>
+<node id="EWIS">
+  <data key="d0">entity</data>
+</node>
+<node id="EWIS-SYS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="VF">
+  <data key="d0">entity</data>
+</node>
+<node id="CF">
+  <data key="d0">entity</data>
+</node>
+<node id="RAT">
+  <data key="d0">entity</data>
+</node>
+<node id="FAA">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::负载管理">
+  <data key="d0">condition</data>
+  <data key="d2">负载管理</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0009">
+  <data key="d0">chunk</data>
+  <data key="d1">symptom</data>
+</node>
+<node id="condition::负载脱落策略">
+  <data key="d0">condition</data>
+  <data key="d2">负载脱落策略</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0010">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="ARP4761">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-ID">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-24-001">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-24-002">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-24-003">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0014">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="FHA-24-004">
+  <data key="d0">entity</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0014::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0015">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="FHA-24-005">
+  <data key="d0">entity</data>
+</node>
+<node id="PSSA">
+  <data key="d0">entity</data>
+</node>
+<node id="AND">
+  <data key="d0">entity</data>
+</node>
+<node id="OR">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::负载脱落功能失效">
+  <data key="d0">condition</data>
+  <data key="d2">负载脱落功能失效</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0018">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0018::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0019">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0021">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0021::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0022">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="AFCB">
+  <data key="d0">entity</data>
+</node>
+<node id="GCU">
+  <data key="d0">entity</data>
+</node>
+<node id="BPCU">
+  <data key="d0">entity</data>
+</node>
+<node id="LMC">
+  <data key="d0">entity</data>
+</node>
+<node id="BCU">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::负载管理控制器(LMC)软件">
+  <data key="d0">condition</data>
+  <data key="d2">负载管理控制器(LMC)软件</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0027">
+  <data key="d0">chunk</data>
+  <data key="d1">action</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0027::mitigated_by">
+  <data key="d0">relation</data>
+  <data key="d2">mitigated_by</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0028">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="EWIS-CR-001">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0030">
+  <data key="d0">chunk</data>
+  <data key="d1">action</data>
+</node>
+<node id="EWIS-MRB-001">
+  <data key="d0">entity</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0030::mitigated_by">
+  <data key="d0">relation</data>
+  <data key="d2">mitigated_by</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0031">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="EWIS-SSA-001">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0032">
+  <data key="d0">chunk</data>
+  <data key="d1">action</data>
+</node>
+<node id="EWIS-INST-001">
+  <data key="d0">entity</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0032::mitigated_by">
+  <data key="d0">relation</data>
+  <data key="d2">mitigated_by</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0033">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="EWIS-TEST-001">
+  <data key="d0">entity</data>
+</node>
+<node id="EWIS-FP-001">
+  <data key="d0">entity</data>
+</node>
+<node id="ICD">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::50ms">
+  <data key="d0">condition</data>
+  <data key="d2">50ms</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0037">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0037::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0038">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0039">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="relation::A350_EWIS_Certification_ARP4754A_0039::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="A350_EWIS_Certification_ARP4754A_0040">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="CR-24-0156">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::负载需要确认不会误触发">
+  <data key="d0">condition</data>
+  <data key="d2">负载需要确认不会误触发</data>
+</node>
+<node id="A350_Flight_Control_System_Design_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="XWB">
+  <data key="d0">entity</data>
+</node>
+<node id="FCS-DD-001">
+  <data key="d0">entity</data>
+</node>
+<node id="DO-254">
+  <data key="d0">entity</data>
+</node>
+<node id="EUROCAE">
+  <data key="d0">entity</data>
+</node>
+<node id="ED-12C">
+  <data key="d0">entity</data>
+</node>
+<node id="AFDX">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FCS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FCS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FCS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::12C">
+  <data key="d0">condition</data>
+  <data key="d2">12C</data>
+</node>
+<node id="A350_Flight_Control_System_Design_0011">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="relation::A350_Flight_Control_System_Design_0011::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="A350_Flight_Control_System_Design_0012">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="传感器">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FCS-004">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FCS-005">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-FCS-006">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-FCS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-FCS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="ACE">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-FCS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="VL">
+  <data key="d0">entity</data>
+</node>
+<node id="BAG">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-FCS-004">
+  <data key="d0">entity</data>
+</node>
+<node id="MODULE-FCS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::40ms">
+  <data key="d0">condition</data>
+  <data key="d2">40ms</data>
+</node>
+<node id="condition::60ms">
+  <data key="d0">condition</data>
+  <data key="d2">60ms</data>
+</node>
+<node id="condition::80ms">
+  <data key="d0">condition</data>
+  <data key="d2">80ms</data>
+</node>
+<node id="A350_Flight_Control_System_Design_0023">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="MODULE-FCS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="MODULE-FCS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="FUNC-FCS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="FUNC-FCS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-FCS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-FCS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-FCS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-SW">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="MBSE-KE-001">
+  <data key="d0">entity</data>
+</node>
+<node id="AADL">
+  <data key="d0">entity</data>
+</node>
+<node id="IOF">
+  <data key="d0">entity</data>
+</node>
+<node id="SACM">
+  <data key="d0">entity</data>
+</node>
+<node id="MBSE">
+  <data key="d0">entity</data>
+</node>
+<node id="DOORS">
+  <data key="d0">entity</data>
+</node>
+<node id="IBM">
+  <data key="d0">entity</data>
+</node>
+<node id="CATIA">
+  <data key="d0">entity</data>
+</node>
+<node id="SCADE">
+  <data key="d0">entity</data>
+</node>
+<node id="INP">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0008">
+  <data key="d0">chunk</data>
+  <data key="d1">action</data>
+</node>
+<node id="relation::A350_MBSE_Knowledge_Engineering_0008::mitigated_by">
+  <data key="d0">relation</data>
+  <data key="d2">mitigated_by</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0009">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0012">
+  <data key="d0">chunk</data>
+  <data key="d1">action</data>
+</node>
+<node id="relation::A350_MBSE_Knowledge_Engineering_0012::mitigated_by">
+  <data key="d0">relation</data>
+  <data key="d2">mitigated_by</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0013">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="FMEA">
+  <data key="d0">entity</data>
+</node>
+<node id="SDR">
+  <data key="d0">entity</data>
+</node>
+<node id="MOR">
+  <data key="d0">entity</data>
+</node>
+<node id="CS-">
+  <data key="d0">entity</data>
+</node>
+<node id="PLM">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0017">
+  <data key="d0">chunk</data>
+  <data key="d1">rule</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0018">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="OBE">
+  <data key="d0">entity</data>
+</node>
+<node id="STEP">
+  <data key="d0">entity</data>
+</node>
+<node id="AP242">
+  <data key="d0">entity</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0023">
+  <data key="d0">chunk</data>
+  <data key="d1">rule</data>
+</node>
+<node id="A350_MBSE_Knowledge_Engineering_0024">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="OSLC">
+  <data key="d0">entity</data>
+</node>
+<node id="ASD">
+  <data key="d0">entity</data>
+</node>
+<node id="B777X_Composite_Wing_Structure_Analysis_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="CWS-REQ-001">
+  <data key="d0">entity</data>
+</node>
+<node id="AC">
+  <data key="d0">entity</data>
+</node>
+<node id="CMH-17">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-MAT-001">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-MAT-002">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-STR-001">
+  <data key="d0">entity</data>
+</node>
+<node id="LL">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-STR-002">
+  <data key="d0">entity</data>
+</node>
+<node id="BVID">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-STR-003">
+  <data key="d0">entity</data>
+</node>
+<node id="DSG">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-STR-004">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::温度范围-54°C至71°C">
+  <data key="d0">condition</data>
+  <data key="d2">温度范围-54°C至71°C</data>
+</node>
+<node id="B777X_Composite_Wing_Structure_Analysis_0015">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="DES-STR-001">
+  <data key="d0">entity</data>
+</node>
+<node id="AFP">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-STR-002">
+  <data key="d0">entity</data>
+</node>
+<node id="VCCT">
+  <data key="d0">entity</data>
+</node>
+<node id="CDM">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-STR-003">
+  <data key="d0">entity</data>
+</node>
+<node id="CODE-FEA-001">
+  <data key="d0">entity</data>
+</node>
+<node id="GFEM">
+  <data key="d0">entity</data>
+</node>
+<node id="CODE-CDM-001">
+  <data key="d0">entity</data>
+</node>
+<node id="UMAT">
+  <data key="d0">entity</data>
+</node>
+<node id="CODE-OPT-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-STR-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-STR-002">
+  <data key="d0">entity</data>
+</node>
+<node id="CAI">
+  <data key="d0">entity</data>
+</node>
+<node id="ASTM">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-STR-003">
+  <data key="d0">entity</data>
+</node>
+<node id="B777X_FCS_MBSE_Capella_Model_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="FCS-MBSE-001">
+  <data key="d0">entity</data>
+</node>
+<node id="OA">
+  <data key="d0">entity</data>
+</node>
+<node id="SA">
+  <data key="d0">entity</data>
+</node>
+<node id="LA">
+  <data key="d0">entity</data>
+</node>
+<node id="PA">
+  <data key="d0">entity</data>
+</node>
+<node id="OA-FCS-01">
+  <data key="d0">entity</data>
+</node>
+<node id="ATC">
+  <data key="d0">entity</data>
+</node>
+<node id="OA-FCS-02">
+  <data key="d0">entity</data>
+</node>
+<node id="OA-FCS-03">
+  <data key="d0">entity</data>
+</node>
+<node id="CAT">
+  <data key="d0">entity</data>
+</node>
+<node id="ILS">
+  <data key="d0">entity</data>
+</node>
+<node id="OA-FCS-04">
+  <data key="d0">entity</data>
+</node>
+<node id="OA-FCS-05">
+  <data key="d0">entity</data>
+</node>
+<node id="OA-FCS-06">
+  <data key="d0">entity</data>
+</node>
+<node id="OR-FCS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="OR-FCS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="OR-FCS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="DH">
+  <data key="d0">entity</data>
+</node>
+<node id="OR-FCS-004">
+  <data key="d0">entity</data>
+</node>
+<node id="B777X_FCS_MBSE_Capella_Model_0013">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="SF-FCS">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-FCS-PRI">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-PITCH">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-PITCH-CMD">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-PITCH-LAW">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-PITCH-ACT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-PITCH-TRIM">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-ROLL">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-ROLL-CMD">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-ROLL-LAW">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-ROLL-ACT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-YAW">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-YAW-CMD">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-YAW-DAMP">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-YAW-ACT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-FCS-SEC">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-FLAP">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-SLAT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-SPDBRK">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-FCS-PROT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-AOA-PROT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-SPD-PROT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-LOAD-PROT">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-GLA">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-FCS-MON">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-RECONFIG">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-BITE">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-MAINT">
+  <data key="d0">entity</data>
+</node>
+<node id="FC-PITCH-NORMAL">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-AOA-">
+  <data key="d0">entity</data>
+</node>
+<node id="B777X_FCS_MBSE_Capella_Model_0018">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="LC-PFC">
+  <data key="d0">entity</data>
+</node>
+<node id="LC-ACE">
+  <data key="d0">entity</data>
+</node>
+<node id="SF">
+  <data key="d0">entity</data>
+</node>
+<node id="ACT">
+  <data key="d0">entity</data>
+</node>
+<node id="LC-SFCC">
+  <data key="d0">entity</data>
+</node>
+<node id="LC-PROT">
+  <data key="d0">entity</data>
+</node>
+<node id="LC-RECONF">
+  <data key="d0">entity</data>
+</node>
+<node id="B777X_FCS_MBSE_Capella_Model_0022">
+  <data key="d0">chunk</data>
+  <data key="d1">rule</data>
+</node>
+<node id="IF-01">
+  <data key="d0">entity</data>
+</node>
+<node id="IF-02">
+  <data key="d0">entity</data>
+</node>
+<node id="ADC">
+  <data key="d0">entity</data>
+</node>
+<node id="IF-03">
+  <data key="d0">entity</data>
+</node>
+<node id="IRS">
+  <data key="d0">entity</data>
+</node>
+<node id="IF-04">
+  <data key="d0">entity</data>
+</node>
+<node id="IF-05">
+  <data key="d0">entity</data>
+</node>
+<node id="IF-06">
+  <data key="d0">entity</data>
+</node>
+<node id="LVDT">
+  <data key="d0">entity</data>
+</node>
+<node id="RVDT">
+  <data key="d0">entity</data>
+</node>
+<node id="B777X_FCS_MBSE_Capella_Model_0027">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="LRU">
+  <data key="d0">entity</data>
+</node>
+<node id="PFC-1">
+  <data key="d0">entity</data>
+</node>
+<node id="FC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="PFC-2">
+  <data key="d0">entity</data>
+</node>
+<node id="FC-002">
+  <data key="d0">entity</data>
+</node>
+<node id="ACE-1">
+  <data key="d0">entity</data>
+</node>
+<node id="SFCC-1">
+  <data key="d0">entity</data>
+</node>
+<node id="FCMC">
+  <data key="d0">entity</data>
+</node>
+<node id="FC-010">
+  <data key="d0">entity</data>
+</node>
+<node id="EHA">
+  <data key="d0">entity</data>
+</node>
+<node id="EBHA">
+  <data key="d0">entity</data>
+</node>
+<node id="SHA">
+  <data key="d0">entity</data>
+</node>
+<node id="SF-PROT">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-PFC-CAT3-001">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-PFC-CAT3-015">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-FCS-CATIII-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-FCS-CATIII-025">
+  <data key="d0">entity</data>
+</node>
+<node id="B777X_FCS_MBSE_Capella_Model_0034">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="HLR-GLA-001">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-GLA-008">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-GLA-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-GLA-012">
+  <data key="d0">entity</data>
+</node>
+<node id="DTS-GLA-001">
+  <data key="d0">entity</data>
+</node>
+<node id="B787_Digital_Thread_Ontology_Framework_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="DT-ONT-001">
+  <data key="d0">entity</data>
+</node>
+<node id="BFO">
+  <data key="d0">entity</data>
+</node>
+<node id="B787_Digital_Thread_Ontology_Framework_0007">
+  <data key="d0">chunk</data>
+  <data key="d1">rule</data>
+</node>
+<node id="B787_Digital_Thread_Ontology_Framework_0008">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="REQ-SAF-001">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-BMS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="MODULE-BMS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-WING-001">
+  <data key="d0">entity</data>
+</node>
+<node id="QAR">
+  <data key="d0">entity</data>
+</node>
+<node id="SHM">
+  <data key="d0">entity</data>
+</node>
+<node id="CBM">
+  <data key="d0">entity</data>
+</node>
+<node id="FCS">
+  <data key="d0">entity</data>
+</node>
+<node id="MIL-STD-704F">
+  <data key="d0">entity</data>
+</node>
+<node id="UTTOP">
+  <data key="d0">entity</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="ECS">
+  <data key="d0">entity</data>
+</node>
+<node id="ECS-SAR-001">
+  <data key="d0">entity</data>
+</node>
+<node id="CFR">
+  <data key="d0">entity</data>
+</node>
+<node id="CPC">
+  <data key="d0">entity</data>
+</node>
+<node id="OFV">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-001">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-002">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-003">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-004">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-005">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-006">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-007">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-008">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-009">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-010">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::温度调节、通风换气和空气质量控制。">
+  <data key="d0">condition</data>
+  <data key="d2">温度调节、通风换气和空气质量控制。</data>
+</node>
+<node id="condition::温度控制活门**:">
+  <data key="d0">condition</data>
+  <data key="d2">温度控制活门**:</data>
+</node>
+<node id="condition::温度调节">
+  <data key="d0">condition</data>
+  <data key="d2">温度调节</data>
+</node>
+<node id="condition::温度失控(过热&gt;60°C)">
+  <data key="d0">condition</data>
+  <data key="d2">温度失控(过热&gt;60°C)</data>
+</node>
+<node id="condition::温度失控(过冷&lt;5°C)">
+  <data key="d0">condition</data>
+  <data key="d2">温度失控(过冷&lt;5°C)</data>
+</node>
+<node id="condition::60°C">
+  <data key="d0">condition</data>
+  <data key="d2">60°C</data>
+</node>
+<node id="condition::5°C">
+  <data key="d0">condition</data>
+  <data key="d2">5°C</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0013">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0014">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="relation::B787_ECS_Safety_Assessment_FHA_PSSA_0014::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0015">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0016">
+  <data key="d0">chunk</data>
+  <data key="d1">cause</data>
+</node>
+<node id="relation::B787_ECS_Safety_Assessment_FHA_PSSA_0016::causes">
+  <data key="d0">relation</data>
+  <data key="d2">causes</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0017">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="FTA">
+  <data key="d0">entity</data>
+</node>
+<node id="OFV-">
+  <data key="d0">entity</data>
+</node>
+<node id="FHA-21-">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::温度控制活门">
+  <data key="d0">condition</data>
+  <data key="d2">温度控制活门</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0025">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="SO-ID">
+  <data key="d0">entity</data>
+</node>
+<node id="SO-21-001">
+  <data key="d0">entity</data>
+</node>
+<node id="SO-21-002">
+  <data key="d0">entity</data>
+</node>
+<node id="SO-21-003">
+  <data key="d0">entity</data>
+</node>
+<node id="SO-21-004">
+  <data key="d0">entity</data>
+</node>
+<node id="SO-21-005">
+  <data key="d0">entity</data>
+</node>
+<node id="CCA">
+  <data key="d0">entity</data>
+</node>
+<node id="ZSA">
+  <data key="d0">entity</data>
+</node>
+<node id="PRA">
+  <data key="d0">entity</data>
+</node>
+<node id="HIRF">
+  <data key="d0">entity</data>
+</node>
+<node id="CMA">
+  <data key="d0">entity</data>
+</node>
+<node id="SYSREQ-21-001">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-CPC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR-CPC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-ECS-FLOW-CTRL">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-CPC-001">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::转速控制算法">
+  <data key="d0">condition</data>
+  <data key="d2">转速控制算法</data>
+</node>
+<node id="B787_ECS_Safety_Assessment_FHA_PSSA_0039">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="SYSREQ-21-010">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-CPC-010">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR-CPC-010">
+  <data key="d0">entity</data>
+</node>
+<node id="CSU-ECS-PRESS-CTRL">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-CPC-010">
+  <data key="d0">entity</data>
+</node>
+<node id="DAL-A">
+  <data key="d0">entity</data>
+</node>
+<node id="HLR-CPC-SAF-001">
+  <data key="d0">entity</data>
+</node>
+<node id="LLR-CPC-SAF-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TC-CPC-SAF-001">
+  <data key="d0">entity</data>
+</node>
+<node id="B787_Electrical_Power_System_Requirements_0001">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="EPS-SRS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="B787_Electrical_Power_System_Requirements_0003">
+  <data key="d0">chunk</data>
+  <data key="d1">rule</data>
+</node>
+<node id="B787_Electrical_Power_System_Requirements_0004">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="MEA">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-EPS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-EPS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-EPS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="PMC">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-EPS-004">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-EPS-005">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-EPS-006">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-EPS-007">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-EPS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::负载，支持优先级卸载策略">
+  <data key="d0">condition</data>
+  <data key="d2">负载，支持优先级卸载策略</data>
+</node>
+<node id="condition::负载供电">
+  <data key="d0">condition</data>
+  <data key="d2">负载供电</data>
+</node>
+<node id="B787_Electrical_Power_System_Requirements_0019">
+  <data key="d0">chunk</data>
+  <data key="d1">evidence</data>
+</node>
+<node id="DES-EPS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="SSPC">
+  <data key="d0">entity</data>
+</node>
+<node id="DES-EPS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="BMS">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-SW-001">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-SW-002">
+  <data key="d0">entity</data>
+</node>
+<node id="REQ-SW-003">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-EPS-001">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-EPS-002">
+  <data key="d0">entity</data>
+</node>
+<node id="TEST-EPS-003">
+  <data key="d0">entity</data>
+</node>
+<node id="condition::温度监控精度:">
+  <data key="d0">condition</data>
+  <data key="d2">温度监控精度:</data>
+</node>
+<node id="condition::2°C">
+  <data key="d0">condition</data>
+  <data key="d2">2°C</data>
+</node>
+<node id="condition::负载测试">
+  <data key="d0">condition</data>
+  <data key="d2">负载测试</data>
+</node>
+<edge source="A320neo_Engine_Control_Software_Spec_0001" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_Engine_Control_Software_Spec_0001" target="condition::1A" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_Engine_Control_Software_Spec_0001" target="condition::温度/压力" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_Engine_Control_Software_Spec_0001" target="condition::20ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_Engine_Control_Software_Spec_0001" target="condition::10ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="ECS-SRS-001" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="B787_Digital_Thread_Ontology_Framework_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-178C" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="B787_Digital_Thread_Ontology_Framework_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4754A" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FAR" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FAR" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FAR" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FAR" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CFM" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PW1100G" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FADEC" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FADEC" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-001" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-001" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A350_EWIS_Certification_ARP4754A_0010" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-002" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-003" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-003" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-004" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-005" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EHM" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-006" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FADEC-006" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FADEC-001" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FADEC-001" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PID" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FADEC-002" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FADEC-002" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FADEC-003" target="A320neo_Engine_Control_Software_Spec_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FADEC-003" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A320neo_Engine_Control_Software_Spec_0017" target="condition::转速监控和超转保护" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_Engine_Control_Software_Spec_0017" target="condition::转速超限检测，三阈值判断(警告/燃油减少/燃油切断)" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_Engine_Control_Software_Spec_0017" target="condition::运行中" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="MODULE-FADEC-001" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MISRA" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MODULE-FADEC-002" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MODULE-FADEC-003" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FUNC-FADEC-001" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FUNC-FADEC-002" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-FADEC-001" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-FADEC-002" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-FADEC-003" target="A320neo_Engine_Control_Software_Spec_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FBW-CERT-002" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="A350_EWIS_Certification_ARP4754A_0033" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="A350_EWIS_Certification_ARP4754A_0038" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="A350_EWIS_Certification_ARP4754A_0040" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A320neo_FBW_DO178C_Certification_0011" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0028" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0030" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0031" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0032" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0033" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_EWIS_Certification_ARP4754A_0040" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FBW" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FBW" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ELAC" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ELAC" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SEC" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FAC" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SEC1" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AREQ-27-001" target="A320neo_FBW_DO178C_Certification_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AREQ-27-001" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A320neo_FBW_DO178C_Certification_0011" target="relation::A320neo_FBW_DO178C_Certification_0011::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="AREQ-27-002" target="A320neo_FBW_DO178C_Certification_0011" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AREQ-27-002" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AREQ-27-003" target="A320neo_FBW_DO178C_Certification_0011" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AREQ-27-003" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A320neo_FBW_DO178C_Certification_0012" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_FBW_DO178C_Certification_0012" target="condition::20ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="AREQ-27-004" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-001" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-002" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-003" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-010" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-020" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AOA" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-021" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-022" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-FBW-023" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-001" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-001" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-002" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-010" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-010" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-010" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-011" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-011" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-020" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-020" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-020" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-030" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-031" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-031" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-040" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-040" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-SAF-001" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-SAF-001" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-SAF-001" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-FBW-001" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="COM" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="COM" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="COM" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="COM" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-SAF-002" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-ELAC-SAF-002" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-FBW-002" target="A320neo_FBW_DO178C_Certification_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A320neo_FBW_DO178C_Certification_0015" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_FBW_DO178C_Certification_0015" target="condition::100ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_FBW_DO178C_Certification_0015" target="condition::20ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A320neo_FBW_DO178C_Certification_0015" target="condition::10ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="LLR-ELAC-001" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-001" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-010" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-020" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-020" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-031" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-031" target="A320neo_FBW_DO178C_Certification_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-031" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-ELAC-SAF-001" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="A350_MBSE_Knowledge_Engineering_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARINC" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CONTROL" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MONITOR" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IO" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="BITE" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSC-ELAC-APP" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSC-CTRL" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-NLAW" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-NLAW" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-ALAW" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-DLAW" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSC-MON" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-XMON" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-XMON" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-VOTE" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-SWITCH" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSC-IO" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-ADC" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-A429" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-DISC" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSC-BITE" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-PBIT" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-CBIT" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-IBIT" target="A320neo_FBW_DO178C_Certification_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-ELAC-NL-001" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-ELAC-NL-002" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-ELAC-NL-003" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-ELAC-NL-004" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-ELAC-SAF-001" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-ELAC-SAF-002" target="A320neo_FBW_DO178C_Certification_0020" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-ELAC-ROB-001" target="A320neo_FBW_DO178C_Certification_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SC-ELAC-MCDC-001" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MC" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MC" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MC" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MC" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DC" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SC-ELAC-MCDC-002" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SC-ELAC-MCDC-" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ELAC-020" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SOI" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SOI" target="A350_EWIS_Certification_ARP4754A_0040" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PSAC" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SDP" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SVP" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SCMP" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SRS" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SDD" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="STD" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="STR" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SAS" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SCI" target="A320neo_FBW_DO178C_Certification_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0001" target="condition::负载管理" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="电机" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="电机" target="A350_EWIS_Certification_ARP4754A_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="电机" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="电机" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="电机" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="电机" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EWIS" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EWIS" target="A350_EWIS_Certification_ARP4754A_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EWIS-SYS-003" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="VF" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CF" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="RAT" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FAA" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR" target="A350_EWIS_Certification_ARP4754A_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0009" target="condition::负载脱落策略" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="ARP4761" target="A350_EWIS_Certification_ARP4754A_0010" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4761" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ARP4761" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA" target="A350_EWIS_Certification_ARP4754A_0010" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-ID" target="A350_EWIS_Certification_ARP4754A_0010" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-ID" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-001" target="A350_EWIS_Certification_ARP4754A_0010" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-001" target="A350_EWIS_Certification_ARP4754A_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-001" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-002" target="A350_EWIS_Certification_ARP4754A_0010" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-003" target="A350_EWIS_Certification_ARP4754A_0010" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-003" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0014" target="relation::A350_EWIS_Certification_ARP4754A_0014::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="FHA-24-004" target="A350_EWIS_Certification_ARP4754A_0014" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-004" target="A350_EWIS_Certification_ARP4754A_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-004" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0015" target="condition::负载管理" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0015" target="condition::负载脱落功能失效" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="FHA-24-005" target="A350_EWIS_Certification_ARP4754A_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-24-005" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PSSA" target="A350_EWIS_Certification_ARP4754A_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PSSA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PSSA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AND" target="A350_EWIS_Certification_ARP4754A_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AND" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AND" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR" target="A350_EWIS_Certification_ARP4754A_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0018" target="relation::A350_EWIS_Certification_ARP4754A_0018::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0021" target="relation::A350_EWIS_Certification_ARP4754A_0021::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0022" target="condition::负载管理控制器(LMC)软件" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="AFCB" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="GCU" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="GCU" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="BPCU" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LMC" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="BCU" target="A350_EWIS_Certification_ARP4754A_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0027" target="relation::A350_EWIS_Certification_ARP4754A_0027::mitigated_by" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="EWIS-CR-001" target="A350_EWIS_Certification_ARP4754A_0028" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0030" target="relation::A350_EWIS_Certification_ARP4754A_0030::mitigated_by" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="EWIS-MRB-001" target="A350_EWIS_Certification_ARP4754A_0030" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EWIS-SSA-001" target="A350_EWIS_Certification_ARP4754A_0031" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0032" target="relation::A350_EWIS_Certification_ARP4754A_0032::mitigated_by" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="EWIS-INST-001" target="A350_EWIS_Certification_ARP4754A_0032" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0033" target="condition::50ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="EWIS-TEST-001" target="A350_EWIS_Certification_ARP4754A_0033" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EWIS-FP-001" target="A350_EWIS_Certification_ARP4754A_0033" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ICD" target="A350_EWIS_Certification_ARP4754A_0033" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ICD" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0037" target="relation::A350_EWIS_Certification_ARP4754A_0037::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0039" target="relation::A350_EWIS_Certification_ARP4754A_0039::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="A350_EWIS_Certification_ARP4754A_0040" target="condition::负载需要确认不会误触发" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="CR-24-0156" target="A350_EWIS_Certification_ARP4754A_0040" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0001" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0001" target="condition::12C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="XWB" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FCS-DD-001" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-254" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-254" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-254" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DO-254" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EUROCAE" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ED-12C" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ED-12C" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AFDX" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AFDX" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-001" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-001" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-001" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-002" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-002" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-002" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-003" target="A350_Flight_Control_System_Design_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-003" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-003" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0011" target="relation::A350_Flight_Control_System_Design_0011::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0012" target="condition::40ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0012" target="condition::60ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0012" target="condition::80ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0012" target="condition::10ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0012" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="传感器" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="传感器" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="传感器" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="传感器" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-004" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-004" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-005" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-FCS-006" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FCS-001" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FCS-001" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FCS-002" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ACE" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FCS-003" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="VL" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="BAG" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FCS-004" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-FCS-004" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MODULE-FCS-001" target="A350_Flight_Control_System_Design_0012" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0023" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="A350_Flight_Control_System_Design_0023" target="condition::12C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="MODULE-FCS-002" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MODULE-FCS-003" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FUNC-FCS-001" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FUNC-FCS-002" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-FCS-001" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-FCS-002" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-FCS-003" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-SW" target="A350_Flight_Control_System_Design_0023" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MBSE-KE-001" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AADL" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IOF" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IOF" target="B787_Digital_Thread_Ontology_Framework_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SACM" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MBSE" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MBSE" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DOORS" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DOORS" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IBM" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CATIA" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SCADE" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="INP" target="A350_MBSE_Knowledge_Engineering_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="INP" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="A350_MBSE_Knowledge_Engineering_0008" target="relation::A350_MBSE_Knowledge_Engineering_0008::mitigated_by" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="A350_MBSE_Knowledge_Engineering_0012" target="relation::A350_MBSE_Knowledge_Engineering_0012::mitigated_by" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="FMEA" target="A350_MBSE_Knowledge_Engineering_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SDR" target="A350_MBSE_Knowledge_Engineering_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MOR" target="A350_MBSE_Knowledge_Engineering_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CS-" target="A350_MBSE_Knowledge_Engineering_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PLM" target="A350_MBSE_Knowledge_Engineering_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OBE" target="A350_MBSE_Knowledge_Engineering_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="STEP" target="A350_MBSE_Knowledge_Engineering_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AP242" target="A350_MBSE_Knowledge_Engineering_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OSLC" target="A350_MBSE_Knowledge_Engineering_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ASD" target="A350_MBSE_Knowledge_Engineering_0024" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B777X_Composite_Wing_Structure_Analysis_0001" target="condition::温度范围-54°C至71°C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="CWS-REQ-001" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AC" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AC" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CMH-17" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-MAT-001" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-MAT-001" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-MAT-002" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-001" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-001" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LL" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-002" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-002" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="BVID" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-003" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DSG" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-004" target="B777X_Composite_Wing_Structure_Analysis_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-STR-004" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-STR-001" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-STR-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="AFP" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-STR-002" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="VCCT" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CDM" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-STR-003" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CODE-FEA-001" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CODE-FEA-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="GFEM" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CODE-CDM-001" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="UMAT" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CODE-OPT-001" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-STR-001" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-STR-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-STR-002" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CAI" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ASTM" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-STR-003" target="B777X_Composite_Wing_Structure_Analysis_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FCS-MBSE-001" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SA" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SA" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SA" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LA" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LA" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LA" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PA" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PA" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-01" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ATC" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-02" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-03" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-03" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CAT" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CAT" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ILS" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-04" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-05" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-05" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OA-FCS-06" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR-FCS-001" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR-FCS-002" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR-FCS-003" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR-FCS-003" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DH" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR-FCS-004" target="B777X_FCS_MBSE_Capella_Model_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OR-FCS-004" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-FCS" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-FCS-PRI" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PITCH" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PITCH-CMD" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PITCH-LAW" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PITCH-LAW" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PITCH-LAW" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PITCH-ACT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PITCH-TRIM" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-ROLL" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-ROLL-CMD" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-ROLL-LAW" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-ROLL-LAW" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-ROLL-LAW" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-ROLL-ACT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-YAW" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-YAW-CMD" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-YAW-DAMP" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-YAW-DAMP" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-YAW-ACT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-FCS-SEC" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-FLAP" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-FLAP" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-SLAT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-SLAT" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-SPDBRK" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-FCS-PROT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-AOA-PROT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-AOA-PROT" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-SPD-PROT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-SPD-PROT" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-LOAD-PROT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-LOAD-PROT" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-GLA" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-GLA" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-FCS-MON" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-RECONFIG" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-RECONFIG" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-BITE" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-MAINT" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FC-PITCH-NORMAL" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-AOA-" target="B777X_FCS_MBSE_Capella_Model_0013" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-PFC" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-PFC" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-PFC" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-PFC" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-ACE" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-ACE" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-ACE" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-ACE" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ACT" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-SFCC" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-SFCC" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-PROT" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-PROT" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-PROT" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-RECONF" target="B777X_FCS_MBSE_Capella_Model_0018" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LC-RECONF" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IF-01" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IF-02" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ADC" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IF-03" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IRS" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IF-04" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IF-05" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="IF-06" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LVDT" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="RVDT" target="B777X_FCS_MBSE_Capella_Model_0022" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LRU" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PFC-1" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PFC-1" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FC-001" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PFC-2" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FC-002" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ACE-1" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ACE-1" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SFCC-1" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FCMC" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FC-010" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EHA" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EBHA" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SHA" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SF-PROT" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-PFC-CAT3-001" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-PFC-CAT3-015" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-FCS-CATIII-001" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-FCS-CATIII-025" target="B777X_FCS_MBSE_Capella_Model_0027" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-GLA-001" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-GLA-008" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-GLA-001" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-GLA-012" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DTS-GLA-001" target="B777X_FCS_MBSE_Capella_Model_0034" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B787_Digital_Thread_Ontology_Framework_0001" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="DT-ONT-001" target="B787_Digital_Thread_Ontology_Framework_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="BFO" target="B787_Digital_Thread_Ontology_Framework_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B787_Digital_Thread_Ontology_Framework_0008" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="REQ-SAF-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-BMS-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MODULE-BMS-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-WING-001" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="QAR" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SHM" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CBM" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FCS" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MIL-STD-704F" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MIL-STD-704F" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="MIL-STD-704F" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="UTTOP" target="B787_Digital_Thread_Ontology_Framework_0008" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0001" target="condition::温度调节、通风换气和空气质量控制。" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0001" target="condition::温度控制活门**:" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0001" target="condition::温度调节" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0001" target="condition::温度失控(过热&gt;60°C)" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0001" target="condition::温度失控(过冷&lt;5°C)" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0001" target="condition::60°C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0001" target="condition::5°C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="ECS" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ECS-SAR-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CFR" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CFR" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CFR" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CPC" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CPC" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CPC" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OFV" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OFV" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0015" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-002" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-002" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-003" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-003" target="B787_ECS_Safety_Assessment_FHA_PSSA_0016" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-004" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-004" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-005" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-005" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-006" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-006" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-007" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-008" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-009" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-009" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-010" target="B787_ECS_Safety_Assessment_FHA_PSSA_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-010" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0014" target="relation::B787_ECS_Safety_Assessment_FHA_PSSA_0014::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0016" target="relation::B787_ECS_Safety_Assessment_FHA_PSSA_0016::causes" id="0">
+  <data key="d3">has_relation</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0017" target="condition::温度控制活门" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0017" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="FTA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="OFV-" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="FHA-21-" target="B787_ECS_Safety_Assessment_FHA_PSSA_0017" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B787_ECS_Safety_Assessment_FHA_PSSA_0025" target="condition::转速控制算法" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="SO-ID" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-21-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-21-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-21-002" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-21-003" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-21-004" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SO-21-005" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CCA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="ZSA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PRA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HIRF" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CMA" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-21-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-CPC-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-CPC-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-ECS-FLOW-CTRL" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-CPC-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0025" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SYSREQ-21-010" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-CPC-010" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-CPC-010" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="CSU-ECS-PRESS-CTRL" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-CPC-010" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DAL-A" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="HLR-CPC-SAF-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="LLR-CPC-SAF-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TC-CPC-SAF-001" target="B787_ECS_Safety_Assessment_FHA_PSSA_0039" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="EPS-SRS-001" target="B787_Electrical_Power_System_Requirements_0001" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0004" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0004" target="condition::负载，支持优先级卸载策略" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0004" target="condition::负载供电" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0004" target="condition::100ms" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="MEA" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-001" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-001" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-002" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-002" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-003" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-003" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="PMC" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-004" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-004" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-005" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-006" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-006" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-007" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-EPS-007" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-EPS-001" target="B787_Electrical_Power_System_Requirements_0004" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-EPS-001" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0019" target="condition::温度监控精度:" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0019" target="condition::2°C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0019" target="condition::178C" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="B787_Electrical_Power_System_Requirements_0019" target="condition::负载测试" id="0">
+  <data key="d3">occurs_in</data>
+</edge>
+<edge source="DES-EPS-002" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="SSPC" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="DES-EPS-003" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="BMS" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-SW-001" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-SW-002" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="REQ-SW-003" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-EPS-001" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-EPS-002" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+<edge source="TEST-EPS-003" target="B787_Electrical_Power_System_Requirements_0019" id="0">
+  <data key="d3">mentioned_in</data>
+</edge>
+</graph></graphml>

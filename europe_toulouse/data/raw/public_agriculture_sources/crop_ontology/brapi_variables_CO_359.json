@@ -1,0 +1,605 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 351,
+            "totalPages": 36
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_359:0000100",
+            "name": "ColdHard_E_1to9",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": "Standard",
+            "xref": null,
+            "institution": "ISU",
+            "scientist": "Laura Marek",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000097",
+                "name": "Plant hardiness",
+                "class": "Abiotic stress",
+                "description": "Cold hardiness",
+                "synonyms": null,
+                "mainAbbreviation": "ColdHard",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Cold hardiness",
+                "status": "Standard",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000098",
+                "name": "Cold hardiness susceptibility class",
+                "class": "Estimation",
+                "description": "Cold hardiness (1=resistant, 9=susceptible)",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000099",
+                "name": "ISU Cold hardiness susceptibility scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1 (1=resistant, 9=susceptible)",
+                        "2 (1=resistant, 9=susceptible)",
+                        "3 (1=resistant, 9=susceptible)",
+                        "4 (1=resistant, 9=susceptible)",
+                        "5 (1=resistant, 9=susceptible)",
+                        "6 (1=resistant, 9=susceptible)",
+                        "7 (1=resistant, 9=susceptible)",
+                        "8 (1=resistant, 9=susceptible)",
+                        "9 (1=resistant, 9=susceptible)"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000102",
+            "name": "SaltTol_E_cat",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": "Standard",
+            "xref": null,
+            "institution": "ISU",
+            "scientist": "Laura Marek",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000041",
+                "name": "Salinity tolerance",
+                "class": "Abiotic stress",
+                "description": "Determination of tolerance to soil salinity",
+                "synonyms": null,
+                "mainAbbreviation": "SaltSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Salinity susceptibility",
+                "status": "Standard",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000058",
+                "name": "Salinity tolerance class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry at the field presenting soil salinity and rate the tolerance.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000101",
+                "name": "ISU Salinity tolerance scale",
+                "dataType": "Nominal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "susceptible",
+                        "tolerant"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000104",
+            "name": "DroSus_E_0to9",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000014",
+                "name": "Drought susceptibility",
+                "class": "Abiotic stress",
+                "description": "Plant reaction to drought stress",
+                "synonyms": null,
+                "mainAbbreviation": "DroSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Drought susceptibility",
+                "status": "Standard",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000103",
+                "name": "Drought susceptibility  class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry under droughted condition and rate the susceptibility.",
+                "formula": null,
+                "reference": "IBPGR-Descriptors"
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000074",
+                "name": "IBPGR Susceptibility scale (0-9)",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very low or no visible sign of susceptibility",
+                        "2= Very low to low susceptibility",
+                        "3= Low susceptibility",
+                        "4= Low to intermediate susceptibility",
+                        "5= Intermediate susceptibility",
+                        "6= Intermediate to high susceptibility",
+                        "7= High susceptibility",
+                        "8= High to very high susceptibility",
+                        "9= Very high susceptibility"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000107",
+            "name": "SAcidSus_E_0to9",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000105",
+                "name": "High soil acidity susceptibility",
+                "class": "Abiotic stress",
+                "description": "Plants reaction or susceptibility to high soil acidity",
+                "synonyms": null,
+                "mainAbbreviation": "SAcidSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "High soil acidity susceptibility",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000106",
+                "name": "High soil acidity susceptibility class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry at high soil acidity conditions and rate the susceptibility.",
+                "formula": null,
+                "reference": "IBPGR-Descriptors"
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000074",
+                "name": "IBPGR Susceptibility scale (0-9)",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very low or no visible sign of susceptibility",
+                        "2= Very low to low susceptibility",
+                        "3= Low susceptibility",
+                        "4= Low to intermediate susceptibility",
+                        "5= Intermediate susceptibility",
+                        "6= Intermediate to high susceptibility",
+                        "7= High susceptibility",
+                        "8= High to very high susceptibility",
+                        "9= Very high susceptibility"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000110",
+            "name": "HiTmpSus_E_0to9",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000108",
+                "name": "High temperature susceptibility",
+                "class": "Abiotic stress",
+                "description": "Plants reaction or susceptibility to high temperature conditions",
+                "synonyms": null,
+                "mainAbbreviation": "HiTmpSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "High temperature susceptibility",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000109",
+                "name": "High temperature susceptibility class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry under heat condition and rate the susceptibility.",
+                "formula": null,
+                "reference": "IBPGR-Descriptors"
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000074",
+                "name": "IBPGR Susceptibility scale (0-9)",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very low or no visible sign of susceptibility",
+                        "2= Very low to low susceptibility",
+                        "3= Low susceptibility",
+                        "4= Low to intermediate susceptibility",
+                        "5= Intermediate susceptibility",
+                        "6= Intermediate to high susceptibility",
+                        "7= High susceptibility",
+                        "8= High to very high susceptibility",
+                        "9= Very high susceptibility"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000113",
+            "name": "LowTmpSus_E_0to9",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000111",
+                "name": "Low temperature susceptibility",
+                "class": "Abiotic stress",
+                "description": "Plant reaction to low temperature conditions",
+                "synonyms": null,
+                "mainAbbreviation": "LowTmpSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Low temperature susceptibility",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000112",
+                "name": "Low temperature susceptibility class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry under low temperature condition and rate the susceptibility.",
+                "formula": null,
+                "reference": "IBPGR-Descriptors"
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000074",
+                "name": "IBPGR Susceptibility scale (0-9)",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very low or no visible sign of susceptibility",
+                        "2= Very low to low susceptibility",
+                        "3= Low susceptibility",
+                        "4= Low to intermediate susceptibility",
+                        "5= Intermediate susceptibility",
+                        "6= Intermediate to high susceptibility",
+                        "7= High susceptibility",
+                        "8= High to very high susceptibility",
+                        "9= Very high susceptibility"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000115",
+            "name": "SaltTol_E_1to5",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000041",
+                "name": "Salinity tolerance",
+                "class": "Abiotic stress",
+                "description": "Determination of tolerance to soil salinity",
+                "synonyms": null,
+                "mainAbbreviation": "SaltSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Salinity susceptibility",
+                "status": "Standard",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000058",
+                "name": "Salinity tolerance class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry at the field presenting soil salinity and rate the tolerance.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000114",
+                "name": "IBP Tolerance scale (1-5)",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= highly susceptible",
+                        "2= susceptible",
+                        "3= intermediate",
+                        "4= tolerant",
+                        "5= highly tolerant"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000117",
+            "name": "SaltSus_E_0to9",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000041",
+                "name": "Salinity tolerance",
+                "class": "Abiotic stress",
+                "description": "Determination of tolerance to soil salinity",
+                "synonyms": null,
+                "mainAbbreviation": "SaltSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Salinity susceptibility",
+                "status": "Standard",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000116",
+                "name": "Salinity susceptibility class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry at the field presenting soil salinity and rate the susceptibility.",
+                "formula": null,
+                "reference": "IBPGR-Descriptors"
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000074",
+                "name": "IBPGR Susceptibility scale (0-9)",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very low or no visible sign of susceptibility",
+                        "2= Very low to low susceptibility",
+                        "3= Low susceptibility",
+                        "4= Low to intermediate susceptibility",
+                        "5= Intermediate susceptibility",
+                        "6= Intermediate to high susceptibility",
+                        "7= High susceptibility",
+                        "8= High to very high susceptibility",
+                        "9= Very high susceptibility"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000120",
+            "name": "WtrLogSus_E_0to9",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000118",
+                "name": "Waterlogging susceptibility",
+                "class": "Abiotic stress",
+                "description": "Susceptibility to waterlogging under high soil moisture conditions",
+                "synonyms": null,
+                "mainAbbreviation": "WtrLogSus",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Waterlogging susceptibility",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000119",
+                "name": "Waterlogging susceptibility class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry under high soil moisture condition and rate the susceptibility.",
+                "formula": null,
+                "reference": "IBPGR-Descriptors"
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000074",
+                "name": "IBPGR Susceptibility scale (0-9)",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very low or no visible sign of susceptibility",
+                        "2= Very low to low susceptibility",
+                        "3= Low susceptibility",
+                        "4= Low to intermediate susceptibility",
+                        "5= Intermediate susceptibility",
+                        "6= Intermediate to high susceptibility",
+                        "7= High susceptibility",
+                        "8= High to very high susceptibility",
+                        "9= Very high susceptibility"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_359:0000124",
+            "name": "WtrLogTol_E_1to5",
+            "ontologyDbId": "CO_359",
+            "ontologyName": "Sunflower",
+            "synonyms": null,
+            "contextOfUse": "Trial evaluation",
+            "growthStage": null,
+            "status": null,
+            "xref": null,
+            "institution": "IBP",
+            "scientist": "Julian Pietragalla",
+            "date": null,
+            "language": "EN",
+            "crop": "Sunflower",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_359:0000121",
+                "name": "Waterlogging tolerance",
+                "class": "Abiotic stress",
+                "description": "Plant tolerance to waterlogging",
+                "synonyms": null,
+                "mainAbbreviation": "WtrLogTol",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Waterlogging tolerance",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_359:0000122",
+                "name": "Waterlogging tolerance class",
+                "class": "Estimation",
+                "description": "Observe the growth of plants per plot/entry after a waterlogging event and rate the tolerance.",
+                "formula": null,
+                "reference": null
+            },
+            "scale": {
+                "scaleDbId": "CO_359:0000123",
+                "name": "1-5 Tolerance scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= highly susceptible",
+                        "2= susceptible",
+                        "3= intermediate",
+                        "4= tolerant",
+                        "5= highly tolerant"
+                    ]
+                }
+            }
+        }
+    ]
+}

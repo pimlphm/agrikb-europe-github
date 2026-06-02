@@ -1,0 +1,152 @@
+{
+  "record_id": "market:feed:玉米饲料_195dad43:20260524_211043:65d5e215ed",
+  "created_at": "2026-05-24T21:10:43",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:feed:玉米饲料_195dad43:20260524_211043:65d5e215ed",
+    "@type": "agri:FeedMarketObservation",
+    "ontology_class": {
+      "class": "agri:FeedMarketObservation",
+      "broader": "agri:FeedAndBreedingInput",
+      "label": "饲料养殖"
+    },
+    "product": {
+      "@id": "agri:product_玉米饲料_195dad43",
+      "name": "玉米饲料",
+      "broader": "agri:FeedAndBreedingInput"
+    },
+    "category": {
+      "@id": "agri:category_feed_65c3466e",
+      "id": "feed",
+      "name": "饲料养殖"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-24 21:10:43",
+    "decision": "玉米饲料已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。",
+    "price_rows": [
+      {
+        "name": "玉米饲料",
+        "market": "饲料养殖",
+        "avg_price": "2458",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/吨",
+        "date": "来源页实时信息",
+        "source": "100ppi.com",
+        "source_url": "https://www.100ppi.com/chanye/siliao.html",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      }
+    ],
+    "sources": [
+      {
+        "title": "全国农产品批发市场价格信息系统 全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "1 day ago · 首页 价格 指数 价格行情 价格 报送 分析报告 新闻资讯 市场简介 农产品展示",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "index 中国价格信息网-农产品",
+        "url": "https://jgjc.ndrc.gov.cn/ncp/index.jhtml",
+        "snippet": "国际市场 价格 更多 5月上旬全国成品 粮 出厂 价格行情 2026-05-14 5月的上旬全国成品粮零售 价格行情 2026-05-13 国内外重要商品 价格 一周综述 （12月16日~12月20日） 2024-12-20",
+        "source": "政府公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "yumi_daily 价格行情-饲料行业信息网",
+        "url": "https://www.feedtrade.com.cn/yumi/yumi_daily/index.html",
+        "snippet": "CFT5月13日南方销区 玉米 价格行情 [05-13] CFT5月12日国内 玉米 价格 略有调整 [05-12] CFT5月12日南北港口 玉米 价格行情 [05-12] CFT5月12日山东地区玉米 价格行情 [05-12] CFT5月12日华北地区玉米 价格行情 [05-12] CFT5月12日东北地区 玉米 价格行情 [05-12] CFT5月12日南方销区 玉米 价格 ...",
+        "source": "feedtrade.com.cn",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "default 汇易网-提供农产品大宗饲料原料价格与行情的综合性网站",
+        "url": "https://www.chinajci.com/default.aspx",
+        "snippet": "【 养殖 专栏】 近期国内禽类市场 行情 弱势震荡，终端市场需求阶段性疲态 （2026年第21周）05-22 【 养殖 专栏】 近期我国水产 料 价格 再拉升，南方对虾 价格 偏弱05-22 【 玉米 专栏】 2026年进口船期（十一）： 5月澳大麦和美高粱料继续唱主角05-22 【 玉米 专栏】",
+        "source": "chinajci.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "siliao 生意社饲料频道 - 饲料价格、饲料行情与饲料资讯服务平台",
+        "url": "https://www.100ppi.com/chanye/siliao.html",
+        "snippet": "生意社：近期菜粕震荡偏弱运行... 菜 粕市场 价格 走势图表 据生意社现货通数据显示：5月15日菜粕市场均价2458元/吨，5月22日菜粕市场均价244... [详细]",
+        "source": "100ppi.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "中华粮网",
+        "url": "https://www.cngrain.com/",
+        "snippet": "中华粮网为中国粮油仓储贸易企业、粮油生产加工企业、 饲料 原料贸易企业、 饲料 加工企业及畜牧 养殖 企业提供全面、及时的行业新闻、热点资讯、政策法规和准确的粮油 饲料 原料 价格 、行情、数据及分析预测信息、粮油峰会、粮油供求信息、产销衔接、会议 ...",
+        "source": "cngrain.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "1262355 江苏玉米价格_江苏玉米价格今日价格、行情走势、最新报价",
+        "url": "https://www.mysteel.com/hot/1262355.html",
+        "snippet": "Sep 18, 2025 · 江苏玉米价格 今日 价格 、最新 报价 、行情走势来自于我的钢铁网门户网站,为您提供 江苏玉米价格 产业资讯信息,包含最新的 江苏玉米价格 今日 价格 、 江苏玉米价格行情 走势、 江苏玉米价格 最新 报价 、行业分析等信息,为国内钢铁企业,钢材企业提供最新的 江苏玉米 ...",
+        "source": "mysteel.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "玉米饲料当前可见报价约2458元/吨到2458元/吨，以饲料养殖为主要参考。",
+      "advice": [
+        "至少比三家报价",
+        "核对品牌规格和批号",
+        "优先选择可开票渠道"
+      ],
+      "risk": "农资采购要核对登记证、有效期、售后和配送范围，避免只比单价。",
+      "action": "今天先把饲料养殖的规格和用量列清。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "玉米饲料已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_玉米饲料_195dad43",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_feed_65c3466e"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260524_211043:65d5e215ed",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_玉米饲料_195dad43"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260524_211043:65d5e215ed",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260524_211043:65d5e215ed",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260524_211043:65d5e215ed",
+        "predicate": "agri:hasDecision",
+        "object": "玉米饲料已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。"
+      }
+    ]
+  }
+}

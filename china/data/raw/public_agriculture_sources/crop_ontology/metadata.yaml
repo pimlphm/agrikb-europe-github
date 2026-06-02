@@ -1,0 +1,648 @@
+"@context":
+ontologies:
+ - id: CO_370
+   title: Apple ontology
+   uri: http://cropontology.org/rdf/CO_370.owl
+   description: "Apple (Malus domestica) defines crop traits and variables to support the standardisation of apple breeding databases providing description of agronomic, morphological, physiological, quality traits, its methods and scales."
+   homepage: http://cropontology.org/term/CO_370:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_370
+   ontology_purl : http://cropontology.org/rdf/CO_370.owl
+ - id: CO_366
+   title: Bambara groundnut ontology
+   uri: http://cropontology.org/rdf/CO_366.owl
+   description: "version Dec 2019"
+   homepage: http://cropontology.org/term/CO_366:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_366
+   ontology_purl : http://cropontology.org/rdf/CO_366.owl
+ - id: CO_325
+   title: Banana ontology
+   uri: http://cropontology.org/rdf/CO_325.owl
+   description: "Banana Trait Dictionary in template 5 - Bioversity & IITA - April 2019"
+   homepage: http://cropontology.org/term/CO_325:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_325
+   ontology_purl : http://cropontology.org/rdf/CO_325.owl
+ - id: CO_323
+   title: Barley ontology
+   uri: http://cropontology.org/rdf/CO_323.owl
+   description: "ICARDA - TDv5 - Sept 2018"
+   homepage: http://cropontology.org/term/CO_323:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_323
+   ontology_purl : http://cropontology.org/rdf/CO_323.owl
+ - id: CO_333
+   title: Beet Ontology ontology
+   uri: http://cropontology.org/rdf/CO_333.owl
+   description: "This ontology was built as part of the AKER project. It describes variables used in beet phenotyping (experimental properties and measurement scale) for each institution (INRAE, Geves, ITB) and breeding companies (Florimond Desprez). Curator: Dorothee Charruaud (ADRINORD - URGI) Daphne Verdelet (Florimond Desprez) - First submission in November 2017."
+   homepage: http://cropontology.org/term/CO_333:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_333
+   ontology_purl : http://cropontology.org/rdf/CO_333.owl
+ - id: CO_371
+   title: Blueberry ontology
+   uri: http://cropontology.org/rdf/CO_371.owl
+   description: "Blueberry (Vaccinium) ontology defines crop traits and variables to support the standardization of phenotypic data collection for blueberry breeding programs in the USA. The ontology provides a description of agronomic, biochemical, morphological, phenological, physiological, quality, abiotic and biotic stress traits with their methods and scales used for each trait."
+   homepage: http://cropontology.org/term/CO_371:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_371
+   ontology_purl : http://cropontology.org/rdf/CO_371.owl
+ - id: CO_345
+   title: Brachiaria ontology
+   uri: http://cropontology.org/rdf/CO_345.owl
+   description: "Brachiaria (forages) ontology TD v5 - Version Oct 2016"
+   homepage: http://cropontology.org/term/CO_345:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_345
+   ontology_purl : http://cropontology.org/rdf/CO_345.owl
+ - id: CO_348
+   title: Brassica ontology
+   uri: http://cropontology.org/rdf/CO_348.owl
+   description: "Brassica Trait Ontology (BRaTO) hosts trait information to describe brassica crop data. Terms are collected from various projects including OREGIN, RIPR (UK) and Rapsodyn (France). BRATO development is conducted by Earlham Institute (UK), Southern Cross University (Australia) and INRA (France)."
+   homepage: http://cropontology.org/term/CO_348:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_348
+   ontology_purl : http://cropontology.org/rdf/CO_348.owl
+ - id: CO_334
+   title: Cassava ontology
+   uri: http://cropontology.org/rdf/CO_334.owl
+   description: "Cassava Trait Dictionary in template 5 - IITA - July 2015, updated in February 2016,   and in 2023 for the traits from on farm trials"
+   homepage: http://cropontology.org/term/CO_334:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_334
+   ontology_purl : http://cropontology.org/rdf/CO_334.owl
+ - id: CO_347
+   title: Castor bean ontology
+   uri: http://cropontology.org/rdf/CO_347.owl
+   description: "March 2017 version "
+   homepage: http://cropontology.org/term/CO_347:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_347
+   ontology_purl : http://cropontology.org/rdf/CO_347.owl
+ - id: CO_338
+   title: Chickpea ontology
+   uri: http://cropontology.org/rdf/CO_338.owl
+   description: "Chickpea Trait Dictionary in template v5 - ICRISAT - July 2015"
+   homepage: http://cropontology.org/term/CO_338:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_338
+   ontology_purl : http://cropontology.org/rdf/CO_338.owl
+ - id: CO_326
+   title: Coconut ontology
+   uri: http://cropontology.org/rdf/CO_326.owl
+   description: "Coconut Ontology v1.0 - Coconut trait dictionary started by CIRAD, based on the "Guidelines for collecting coconut germplasm characterisation data during prospecting missions", COGENT (to be published); the "Descriptors for Coconut, (Cocos nucifera L.)", IPGRI (1995); and the "Manual on standardized research techniques in coconut breeding",  IPGRI (1996)."
+   homepage: http://cropontology.org/term/CO_326:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_326
+   ontology_purl : http://cropontology.org/rdf/CO_326.owl
+ - id: CO_335
+   title: Common bean ontology
+   uri: http://cropontology.org/rdf/CO_335.owl
+   description: "CIAT Common bean trait dictionary - Updated  version Nov. 2023,  with the traits and variables for on farm comparative ranking of varieties"
+   homepage: http://cropontology.org/term/CO_335:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_335
+   ontology_purl : http://cropontology.org/rdf/CO_335.owl
+ - id: CO_358
+   title: Cotton ontology
+   uri: http://cropontology.org/rdf/CO_358.owl
+   description: "Cotton ontology from CottonGen database - June 2019"
+   homepage: http://cropontology.org/term/CO_358:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_358
+   ontology_purl : http://cropontology.org/rdf/CO_358.owl
+ - id: CO_340
+   title: Cowpea ontology
+   uri: http://cropontology.org/rdf/CO_340.owl
+   description: "Cowpea Trait Dictionary - IITA - August 2015 - Updated Nov 2023 with the traits and variables for on farm comparative ranking of varieties"
+   homepage: http://cropontology.org/term/CO_340:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_340
+   ontology_purl : http://cropontology.org/rdf/CO_340.owl
+ - id: CO_365
+   title: Fababean ontology
+   uri: http://cropontology.org/rdf/CO_365.owl
+   description: "developed by ICARDA - Dec 2018"
+   homepage: http://cropontology.org/term/CO_365:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_365
+   ontology_purl : http://cropontology.org/rdf/CO_365.owl
+ - id: CO_337
+   title: Groundnut ontology
+   uri: http://cropontology.org/rdf/CO_337.owl
+   description: "Groundnut Trait Dictionary in template v5 - ICRISAT/ISRA/DARS - Sept 2015 -Updated Nov 2023 with traits from the on farm trials for the comparative ranking of varieties"
+   homepage: http://cropontology.org/term/CO_337:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_337
+   ontology_purl : http://cropontology.org/rdf/CO_337.owl
+ - id: CO_339
+   title: Lentil ontology
+   uri: http://cropontology.org/rdf/CO_339.owl
+   description: "Lentil Trait Dictionary in template v5 - ICARDA - July 2015"
+   homepage: http://cropontology.org/term/CO_339:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_339
+   ontology_purl : http://cropontology.org/rdf/CO_339.owl
+ - id: CO_322
+   title: Maize ontology
+   uri: http://cropontology.org/rdf/CO_322.owl
+   description: "Maize Trait Dictionary in template 5 - CIMMYT- September 2016- Updated nov 2023 Updated Nov 2023 with the traits and variables for on farm comparative ranking of varieties"
+   homepage: http://cropontology.org/term/CO_322:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_322
+   ontology_purl : http://cropontology.org/rdf/CO_322.owl
+ - id: CO_346
+   title: Mungbean ontology
+   uri: http://cropontology.org/rdf/CO_346.owl
+   description: "oct 2016"
+   homepage: http://cropontology.org/term/CO_346:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_346
+   ontology_purl : http://cropontology.org/rdf/CO_346.owl
+ - id: CO_350
+   title: Oat ontology
+   uri: http://cropontology.org/rdf/CO_350.owl
+   description: "Oat trait dictionary started by Oat Global (http://oatglobal.org/) and improved by NIAB and PepsiCo"
+   homepage: http://cropontology.org/term/CO_350:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_350
+   ontology_purl : http://cropontology.org/rdf/CO_350.owl
+ - id: CO_327
+   title: Pearl millet ontology
+   uri: http://cropontology.org/rdf/CO_327.owl
+   description: "Pearl millet Trait Dictionary in template 5 - ICRISAT/INERA - April 2016 - Updated with onfarm trial traits from 1000Farms project, 2024"
+   homepage: http://cropontology.org/term/CO_327:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_327
+   ontology_purl : http://cropontology.org/rdf/CO_327.owl
+ - id: CO_341
+   title: Pigeonpea ontology
+   uri: http://cropontology.org/rdf/CO_341.owl
+   description: "Pigeonpea Trait Dictionary in template v5 - ICRISAT - July 2015"
+   homepage: http://cropontology.org/term/CO_341:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_341
+   ontology_purl : http://cropontology.org/rdf/CO_341.owl
+ - id: CO_330
+   title: Potato ontology
+   uri: http://cropontology.org/rdf/CO_330.owl
+   description: "CIP - potato ontology - december 2018"
+   homepage: http://cropontology.org/term/CO_330:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_330
+   ontology_purl : http://cropontology.org/rdf/CO_330.owl
+ - id: CO_367
+   title: Quinoa Ontology ontology
+   uri: http://cropontology.org/rdf/CO_367.owl
+   description: "Curator name: Clara S. Stanschewski;  Curator Affiliation: King Abdullah University of Science and Technology;  Contributing Scientists or Crop expert group: The Salt Lab and the Quinoa Phenotyping Consortium Creation Date: 23.05.2021"
+   homepage: http://cropontology.org/term/CO_367:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_367
+   ontology_purl : http://cropontology.org/rdf/CO_367.owl
+ - id: CO_374
+   title: Red clover ontology
+   uri: http://cropontology.org/rdf/CO_374.owl
+   description: "This red clover (Trifolium pratense) onthology defines variables and traits to support the standardization of phenotypic data collected in the framework of breeding. The ontology describes agronomic traits, productivity traits, traits related to flowering and seed production, and disease and insect pest resistance traits, together with their methods and scales for each traits."
+   homepage: http://cropontology.org/term/CO_374:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_374
+   ontology_purl : http://cropontology.org/rdf/CO_374.owl
+ - id: CO_320
+   title: Rice ontology
+   uri: http://cropontology.org/rdf/CO_320.owl
+   description: "Rice Trait Dictionary in template v 5.0 - IRRI - March 2016 - Based on SES, RD, UPOV variables and on variables used by CIAT, FLAR and the GRISP Phenotyping Network variables"
+   homepage: http://cropontology.org/term/CO_320:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_320
+   ontology_purl : http://cropontology.org/rdf/CO_320.owl
+ - id: CO_369
+   title: Sainfoin ontology
+   uri: http://cropontology.org/rdf/CO_369.owl
+   description: "This ontology describes a standard trait lexicon used in phenotyping the forage and pulse crop, Sainfoin (Onobrychis viciifolia), with the intention of increasing trait consistency across different breeding programs. Submitted on behalf of the Sainfoin Consortium on November 3rd, 2022. Version 1.0."
+   homepage: http://cropontology.org/term/CO_369:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_369
+   ontology_purl : http://cropontology.org/rdf/CO_369.owl
+ - id: CO_324
+   title: Sorghum ontology
+   uri: http://cropontology.org/rdf/CO_324.owl
+   description: "Sorghum TDv5 - Oct 2019- Updated January 2024 with the Traits of 1000Farms project trials using comparative ranking by farmers method"
+   homepage: http://cropontology.org/term/CO_324:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_324
+   ontology_purl : http://cropontology.org/rdf/CO_324.owl
+ - id: CO_336
+   title: Soybean ontology
+   uri: http://cropontology.org/rdf/CO_336.owl
+   description: "Soybean Trait Dictionary in template v5 - IITA - July 2015"
+   homepage: http://cropontology.org/term/CO_336:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_336
+   ontology_purl : http://cropontology.org/rdf/CO_336.owl
+ - id: CO_372
+   title: Strawberry ontology
+   uri: http://cropontology.org/rdf/CO_372.owl
+   description: "Strawberry trait ontology by USDA, GDR, 24 June 2024"
+   homepage: http://cropontology.org/term/CO_372:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_372
+   ontology_purl : http://cropontology.org/rdf/CO_372.owl
+ - id: CO_360
+   title: Sugar Kelp trait ontology
+   uri: http://cropontology.org/rdf/CO_360.owl
+   description: "Sugar Kelp trait ontology"
+   homepage: http://cropontology.org/term/CO_360:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_360
+   ontology_purl : http://cropontology.org/rdf/CO_360.owl
+ - id: CO_359
+   title: Sunflower ontology
+   uri: http://cropontology.org/rdf/CO_359.owl
+   description: "December 2019"
+   homepage: http://cropontology.org/term/CO_359:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_359
+   ontology_purl : http://cropontology.org/rdf/CO_359.owl
+ - id: CO_331
+   title: Sweet Potato ontology
+   uri: http://cropontology.org/rdf/CO_331.owl
+   description: "Sweetpotato Trait Dictionary in template v5 - CIP - November 2019"
+   homepage: http://cropontology.org/term/CO_331:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_331
+   ontology_purl : http://cropontology.org/rdf/CO_331.owl
+ - id: CO_356
+   title: Vitis ontology
+   uri: http://cropontology.org/rdf/CO_356.owl
+   description: "Grape Ontology including OIV and bioversity descriptors. INRA July 2017"
+   homepage: http://cropontology.org/term/CO_356:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_356
+   ontology_purl : http://cropontology.org/rdf/CO_356.owl
+ - id: CO_321
+   title: Wheat ontology
+   uri: http://cropontology.org/rdf/CO_321.owl
+   description: "July 2018"
+   homepage: http://cropontology.org/term/CO_321:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_321
+   ontology_purl : http://cropontology.org/rdf/CO_321.owl
+ - id: CO_357
+   title: Woody Plant Ontology ontology
+   uri: http://cropontology.org/rdf/CO_357.owl
+   description: "This ontology lists all variables used for woody plant observations. Terms are collected from various sources (past and ongoing projects at national and international levels). Curators: Celia Michotey (INRAE) & Ines Chaves (ITQB NOVA/IBET) - Version 2 submitted on Jun 2020 by INRAE."
+   homepage: http://cropontology.org/term/CO_357:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_357
+   ontology_purl : http://cropontology.org/rdf/CO_357.owl
+ - id: CO_343
+   title: Yam ontology
+   uri: http://cropontology.org/rdf/CO_343.owl
+   description: "version 2019 - pvs"
+   homepage: http://cropontology.org/term/CO_343:ROOT
+   mailing_list: helpdesk@cropontology-curationtool.org
+   definition_property:
+     - http://www.w3.org/2004/02/skos/core#definition
+   synonym_property:
+     - http://www.w3.org/2004/02/skos/core#altLabel
+     - http://cropontology.org/rdf/acronym
+   hierarchical_property:
+     - http://cropontology.org/rdf/method_of
+     - http://cropontology.org/rdf/scale_of
+   base_uri:
+     - http://cropontology.org/rdf/CO_343
+   ontology_purl : http://cropontology.org/rdf/CO_343.owl

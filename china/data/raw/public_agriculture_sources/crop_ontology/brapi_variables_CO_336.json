@@ -1,0 +1,548 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 90,
+            "totalPages": 9
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_336:0000321",
+            "name": "ANTHR_Est_1to5",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Always",
+            "growthStage": "V1-R8",
+            "status": null,
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "04-May-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000204",
+                "name": "Soybean anthracnose",
+                "class": "Biotic stress",
+                "description": "Reaction of the plant or plant part to infection by Colletotrichum dematiu",
+                "synonyms": "Soybean anthracnose",
+                "mainAbbreviation": "ANTHRACNOSE",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Reaction to Soybean anthracnose",
+                "status": "Standard IITA",
+                "xref": "SOY:0001574"
+            },
+            "method": {
+                "methodDbId": "CO_336:0000205",
+                "name": "Anthracnose assessment",
+                "class": "Estimation",
+                "description": "How much or the plant or plant part has been affected by irregulary shaped brown areas and/or black fruiting bodies on infected areas",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000206",
+                "name": "1-5 infection score",
+                "dataType": "Nominal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1=(R) resistant",
+                        "2=(S) sensitive",
+                        "3=(PR) partially sensitive"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000268",
+            "name": "APHID_Est_Undefined",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Always",
+            "growthStage": "V1-V7",
+            "status": null,
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "25-Apr-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000054",
+                "name": "Reaction to Aphis glycines",
+                "class": "Biotic stress",
+                "description": "The reaction of the plant or plant part to damage caused by Aphis glycines feeding.",
+                "synonyms": "Soybean aphid",
+                "mainAbbreviation": "APHID",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Reaction to Aphis glycines",
+                "status": "Standard IITA",
+                "xref": "SOY:0001851"
+            },
+            "method": {
+                "methodDbId": "CO_336:0000055",
+                "name": "Aphid attack assessment",
+                "class": "Estimation",
+                "description": "Observe the plant parts that are yellowing and/or curling",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000056",
+                "name": "Percentage",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000292",
+            "name": "BAW_Est_1to5",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Always",
+            "growthStage": "R1-R8",
+            "status": null,
+            "xref": "SOY:0001440",
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "28-Apr-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000126",
+                "name": "Beet armyworm",
+                "class": "Biotic stress",
+                "description": "Foliar feeding damage caused by beet armyworm(Spodoptera exigua)",
+                "synonyms": "Beet armyworm",
+                "mainAbbreviation": "BAW",
+                "alternativeAbbreviations": null,
+                "entity": "Leaf",
+                "attribute": "Reaction to Beet armyworm",
+                "status": "Standard IITA",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_336:0000127",
+                "name": "Foliar feeding assessment",
+                "class": "Estimation",
+                "description": "Visual assessment on the percentage of leaves eaten up by beet armyworm on a scale of 1 to 5",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000128",
+                "name": "1 to 5 percentage scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1=0-20% defoliated",
+                        "2=21-40% defoliated",
+                        "3=41-60% defoliated",
+                        "4=61-80% defoliated",
+                        "5=81=100% defoliated"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000250",
+            "name": "BP_Est_1to5",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Always",
+            "growthStage": "R1-R6",
+            "status": null,
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "12-February-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000003",
+                "name": "Bacterial Pustule",
+                "class": "Biotic stress",
+                "description": "V-shaped chlorotic to necrotic foliar lesions,vascular blackening, Light colored, raised pustules which can coalesce into brown lesions, caused by Xanthomonas sp.",
+                "synonyms": "Bacterial Pustule",
+                "mainAbbreviation": "BP",
+                "alternativeAbbreviations": null,
+                "entity": "Leaf",
+                "attribute": "Bacterial Pustule",
+                "status": "Standard IITA",
+                "xref": "SOY:0001426"
+            },
+            "method": {
+                "methodDbId": "CO_336:0000004",
+                "name": "Bacterial pustle assessment",
+                "class": "Estimation",
+                "description": "Visual assessment of 1-5 affected plants with bacterial pustule",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000005",
+                "name": "1-5 infection score",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1=0% lesions on plants",
+                        "2=1-10% lesions on plants",
+                        "3= 10-25% lesions on the plants",
+                        "4=25-50% lesions on the plants",
+                        "5=>50% plants with lesions"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000305",
+            "name": "CanoHt_Est_cm",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Sometimes",
+            "growthStage": "R8",
+            "status": null,
+            "xref": "SOY:0001324",
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "28-April-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000162",
+                "name": "Canopy height",
+                "class": "Agronomic",
+                "description": "Distance from growing medium to the top leaves",
+                "synonyms": null,
+                "mainAbbreviation": "CANOPYHT",
+                "alternativeAbbreviations": null,
+                "entity": "Canopy",
+                "attribute": "Height",
+                "status": "Obsolete",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_336:0000163",
+                "name": "Height average of plants",
+                "class": "Estimation",
+                "description": "Wooden lath placed on each plot to measure average height above ground",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000164",
+                "name": "cm",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000334",
+            "name": "CercoLfS_Est_1to5",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Sometimes",
+            "growthStage": "V1-R8",
+            "status": null,
+            "xref": null,
+            "institution": "NCRI",
+            "scientist": "Ishaq Mohammed",
+            "date": "7-June-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000239",
+                "name": "Cercospora Leaf spot",
+                "class": "Biotic stress",
+                "description": "Reaction of the plant or plant part to infection by Cercopsora species.",
+                "synonyms": "Cercospora Leaf spot disease",
+                "mainAbbreviation": "CERCOSLEAFSPOT",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Reaction to Cercospora Leaf spot",
+                "status": "Standard NCRI",
+                "xref": "SOY:0001573"
+            },
+            "method": {
+                "methodDbId": "CO_336:0000243",
+                "name": "Leaf disease",
+                "class": "Estimation",
+                "description": "Number and density of spot on leaves",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000247",
+                "name": "1-5 infection score",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1=0% lesions on plants",
+                        "2=1-10% lesions on plants",
+                        "3= 10-25% lesions on the plants",
+                        "4=25-50% lesions on the plants",
+                        "5=>50% plants with lesions"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000275",
+            "name": "Chlorosis_Est_SPAD",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Sometimes",
+            "growthStage": "V1-R8",
+            "status": null,
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "25-April-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000075",
+                "name": "Chlorosis",
+                "class": "Abiotic stress",
+                "description": "Reduction in chlorophyll in a plant or plant part as a result of nutrient deficiency",
+                "synonyms": "Yellowing",
+                "mainAbbreviation": "CHLOROSIS",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Chlorosis",
+                "status": "Standard IITA",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_336:0000076",
+                "name": "Chlorophyll content measurement",
+                "class": "Estimation",
+                "description": "Measurement chlorophyll content using a SPAD meter and then compare to a reference",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000077",
+                "name": "SPAD unit",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000293",
+            "name": "DEFOL_Est_1to5",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Always",
+            "growthStage": "R1-R8",
+            "status": null,
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "28-April-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000129",
+                "name": "Defoliation",
+                "class": "Biotic stress",
+                "description": "Defoliation by chewing insects",
+                "synonyms": "Leaf chewing",
+                "mainAbbreviation": "DEFOL",
+                "alternativeAbbreviations": null,
+                "entity": "Leaf",
+                "attribute": "Reaction to chewing insects",
+                "status": "Standard IITA",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_336:0000130",
+                "name": "Defoliation assessment",
+                "class": "Estimation",
+                "description": "Visuall assessment of the leaves eaten up by chewing insects",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000131",
+                "name": "1 to 5 percentage scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1=0-20% defoliated",
+                        "2=21-40% defoliated",
+                        "3=41-60% defoliated",
+                        "4=61-80% defoliated",
+                        "5=81=100% defoliated"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000320",
+            "name": "DMildew_Est_Undefined",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Always",
+            "growthStage": "R1-R8",
+            "status": null,
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "04-May-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000201",
+                "name": "Downy mildew",
+                "class": "Biotic stress",
+                "description": "Reaction of the plant or plant part to Peronospora manchurica infection.",
+                "synonyms": "Downy mildew",
+                "mainAbbreviation": "DOWNYMILDEW",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Reaction to Downy mildew",
+                "status": "Standard IITA",
+                "xref": "SOY:0001580"
+            },
+            "method": {
+                "methodDbId": "CO_336:0000202",
+                "name": "Downy mildew assessment method",
+                "class": "Estimation",
+                "description": "Look at how much of the plant or plant part is covered with small, discrete, pale to bright yellow spots",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000203",
+                "name": "1-5 Iinfection score",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1=no disease",
+                        "2=1-10% of leaf area infected (light severity)",
+                        "3= 11-35% leaf area infected (light to moderate severity)",
+                        "4= 36-65% leaf area infected (Moderate to heavy severity)",
+                        "5= greater than 66% leaf area affected (Heavy)"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_336:0000276",
+            "name": "Drought_Est_undefined",
+            "ontologyDbId": "CO_336",
+            "ontologyName": "Soybean",
+            "synonyms": null,
+            "contextOfUse": "Often",
+            "growthStage": "V1-R8",
+            "status": null,
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Hesham Agrama",
+            "date": "25-Apr-2014",
+            "language": "EN",
+            "crop": "Soybean",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_336:0000078",
+                "name": "Drought Tolerance",
+                "class": "Abiotic stress",
+                "description": "Resistance to damage by water restriction.",
+                "synonyms": null,
+                "mainAbbreviation": "DROUGHT",
+                "alternativeAbbreviations": null,
+                "entity": "Plant",
+                "attribute": "Drought Tolerance",
+                "status": "Standard IITA",
+                "xref": "SOY:0001701"
+            },
+            "method": {
+                "methodDbId": "CO_336:0000079",
+                "name": "Drought reaction of plants observation",
+                "class": "Estimation",
+                "description": "Appearance of plants in response to limited water availability",
+                "formula": null,
+                "reference": "Soybean USDA description database, Soybase database, OboEdit"
+            },
+            "scale": {
+                "scaleDbId": "CO_336:0000080",
+                "name": "Percentage",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": "0.0",
+                    "max": null,
+                    "categories": []
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1323 @@
+﻿{
+  "session_id": "a8b34f6eeca544c698f78ad5af7aeefc",
+  "created_at": "2026-05-24T04:08:06",
+  "updated_at": "2026-05-24T04:08:06",
+  "title": "请给江苏句容农户说明今天草莓怎么卖，要带政策、天气和渠道判断。",
+  "summary": "2026-05-24T04:08:06 用户关注：请给江苏句容农户说明今天草莓怎么卖，要带政策、天气和渠道判断。；系统结论：**先干什么** 今天湿度大、后面三天连雨，上午把熟果抢着摘完，按大小分三级。特级果立刻上\"福地云选\"和供销e家发南京；小果联系本地电商做社区团购。下午把明天要发的货全部预冷打包，雨大了物流会慢。 **政策与产业扶持** 句容市政府正推进\"电子商务进农村综合示范\"，市农业农村局持续公开惠农政策。2026年\"福地青年英才\"创业大赛（福地\"句\"才，共创\"容\"光...",
+  "temporary_memory": [
+    {
+      "id": "mem_20c760dd49",
+      "text": "本轮关注 请给江苏句容农户、说明今天草莓怎么、要带政策、天气和渠道判断、江苏句容、气象",
+      "created_at": "2026-05-24T04:08:06",
+      "updated_at": "2026-05-24T04:08:06",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q_f2c01686da02",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "请给江苏句容农户说明今天草莓怎么卖，要带政策、天气和渠道判断。",
+      "source_type": "query",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_1",
+      "type": "entity",
+      "label": "请给江苏句容农户说明今天草莓怎么卖",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_2",
+      "type": "entity",
+      "label": "要带政策",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_3",
+      "type": "entity",
+      "label": "天气和渠道判断",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_1",
+      "type": "document",
+      "label": "江苏句容实时气象环境",
+      "detail": "https://open-meteo.com/",
+      "source_type": "web_search",
+      "doc_id": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_4",
+      "type": "entity",
+      "label": "江苏句容",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_5",
+      "type": "entity",
+      "label": "气象",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_6",
+      "type": "entity",
+      "label": "环境",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_1",
+      "type": "retrieved_chunk",
+      "label": "江苏句容实时气象环境",
+      "detail": "区域: 江苏镇江 / 江苏句容 当前温度: 26.5 摄氏度；相对湿度: 84%；降水: 0.1 mm；风速: 13.3 km/h。 未来最高温: [29.2, 29.5, 29.7]；最低温: [23.1, 24.2, 24.6]；未来降水量: [29.9, 12.5, 22.4] mm。 该气象信息来自 Open-Meteo 实时接口，用于生产、采收、物流和病虫害风险提醒。",
+      "evidence_id": "E1",
+      "doc_name": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "doc_id": "江苏句容实时气象环境",
+      "chunk_id": "regional_weather_5848367566694135390",
+      "title": "regional_weather",
+      "section": "regional_weather",
+      "page": null,
+      "raw_text": "区域: 江苏镇江 / 江苏句容 当前温度: 26.5 摄氏度；相对湿度: 84%；降水: 0.1 mm；风速: 13.3 km/h。 未来最高温: [29.2, 29.5, 29.7]；最低温: [23.1, 24.2, 24.6]；未来降水量: [29.9, 12.5, 22.4] mm。 该气象信息来自 Open-Meteo 实时接口，用于生产、采收、物流和病虫害风险提醒。",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "气象",
+        "环境"
+      ],
+      "snippet": "区域: 江苏镇江 / 江苏句容 当前温度: 26.5 摄氏度；相对湿度: 84%；降水: 0.1 mm；风速: 13.3 km/h。 未来最高温: [29.2, 29.5, 29.7]；最低温: [23.1, 24.2, 24.6]；未来降水量: [29.9, 12.5, 22.4] mm。 该气象信息来自 Open-Meteo 实时接口，用于生产、采收、物流和病虫害风险提醒。",
+      "supports": "涉及regional_weather信息，关联实体包括江苏句容、气象、环境、气候",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_weather_5848367566694135390",
+        "doc_id": "江苏句容实时气象环境",
+        "chunk_id": "regional_weather_5848367566694135390",
+        "file_name": "江苏句容实时气象环境",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_2",
+      "type": "document",
+      "label": "江苏句容政策新闻",
+      "detail": "https://nyncj.nanjing.gov.cn/",
+      "source_type": "web_search",
+      "doc_id": "江苏句容政策新闻",
+      "file_name": "江苏句容政策新闻",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_7",
+      "type": "entity",
+      "label": "南京",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_8",
+      "type": "entity",
+      "label": "句容",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_9",
+      "type": "entity",
+      "label": "农业局",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_2",
+      "type": "retrieved_chunk",
+      "label": "江苏句容政策新闻",
+      "detail": "江苏句容政策新闻 1. Nanjing - 南京市农业农村局 链接: https://nyncj.nanjing.gov.cn/ 摘要: 主办单位：南京市农业农村局 支持单位：南京市城市数字治理中心 苏ICP备05004952号-7 网站标识码：3201000026 苏公网安备 32010502010282号 您是本站第 3102997 位访客 2. 法定主动公开内容 | 句容市农业农村局 链接: https://www.jurong.",
+      "evidence_id": "E2",
+      "doc_name": "江苏句容政策新闻",
+      "file_name": "江苏句容政策新闻",
+      "doc_id": "江苏句容政策新闻",
+      "chunk_id": "regional_policy_news_4105117478694636616",
+      "title": "regional_policy_news",
+      "section": "regional_policy_news",
+      "page": null,
+      "raw_text": "江苏句容政策新闻 1. Nanjing - 南京市农业农村局 链接: https://nyncj.nanjing.gov.cn/ 摘要: 主办单位：南京市农业农村局 支持单位：南京市城市数字治理中心 苏ICP备05004952号-7 网站标识码：3201000026 苏公网安备 32010502010282号 您是本站第 3102997 位访客 2. 法定主动公开内容 | 句容市农业农村局 链接: https://www.jurong.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "南京",
+        "句容",
+        "农业局"
+      ],
+      "snippet": "江苏句容政策新闻 1. Nanjing - 南京市农业农村局 链接: https://nyncj.nanjing.gov.cn/ 摘要: 主办单位：南京市农业农村局 支持单位：南京市城市数字治理中心 苏ICP备05004952号-7 网站标识码：3201000026 苏公网安备 32010502010282号 您是本站第 3102997 位访客 2. 法定主动公开内容 | 句容市农业农村局 链接: https://www.jurong.",
+      "supports": "涉及regional_policy_news信息，关联实体包括南京、句容、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_policy_news_4105117478694636616",
+        "doc_id": "江苏句容政策新闻",
+        "chunk_id": "regional_policy_news_4105117478694636616",
+        "file_name": "江苏句容政策新闻",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_3",
+      "type": "document",
+      "label": "江苏句容市场收购信息",
+      "detail": "https://www.jurong.gov.cn/jurong/dzswjnc/202409/5757e94ff122444db77cb18c8167e5e2.shtml",
+      "source_type": "web_search",
+      "doc_id": "江苏句容市场收购信息",
+      "file_name": "江苏句容市场收购信息",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_3",
+      "type": "retrieved_chunk",
+      "label": "江苏句容市场收购信息",
+      "detail": "江苏句容市场收购信息 1. 电子商务进农村综合示范专栏 | 句容市人民政府 链接: https://www.jurong.gov.cn/jurong/dzswjnc/202409/5757e94ff122444db77cb18c8167e5e2.",
+      "evidence_id": "E3",
+      "doc_name": "江苏句容市场收购信息",
+      "file_name": "江苏句容市场收购信息",
+      "doc_id": "江苏句容市场收购信息",
+      "chunk_id": "regional_market_signal_4775719930968629875",
+      "title": "regional_market_signal",
+      "section": "regional_market_signal",
+      "page": null,
+      "raw_text": "江苏句容市场收购信息 1. 电子商务进农村综合示范专栏 | 句容市人民政府 链接: https://www.jurong.gov.cn/jurong/dzswjnc/202409/5757e94ff122444db77cb18c8167e5e2.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "南京",
+        "句容",
+        "农业局"
+      ],
+      "snippet": "江苏句容市场收购信息 1. 电子商务进农村综合示范专栏 | 句容市人民政府 链接: https://www.jurong.gov.cn/jurong/dzswjnc/202409/5757e94ff122444db77cb18c8167e5e2.",
+      "supports": "涉及regional_market_signal信息，关联实体包括南京、句容、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_market_signal_4775719930968629875",
+        "doc_id": "江苏句容市场收购信息",
+        "chunk_id": "regional_market_signal_4775719930968629875",
+        "file_name": "江苏句容市场收购信息",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_4",
+      "type": "document",
+      "label": "本地助农与电商渠道",
+      "detail": "https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm",
+      "source_type": "web_search",
+      "doc_id": "本地助农与电商渠道",
+      "file_name": "本地助农与电商渠道",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_4",
+      "type": "retrieved_chunk",
+      "label": "本地助农与电商渠道",
+      "detail": "本地助农与电商渠道 1. 福地云选 / 句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家句容运营中心 链接: https://www.chinacoop.gov.",
+      "evidence_id": "E4",
+      "doc_name": "本地助农与电商渠道",
+      "file_name": "本地助农与电商渠道",
+      "doc_id": "本地助农与电商渠道",
+      "chunk_id": "regional_ecommerce_channel_6688207735615503435",
+      "title": "regional_ecommerce_channel",
+      "section": "regional_ecommerce_channel",
+      "page": null,
+      "raw_text": "本地助农与电商渠道 1. 福地云选 / 句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家句容运营中心 链接: https://www.chinacoop.gov.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "南京",
+        "句容",
+        "农业局"
+      ],
+      "snippet": "本地助农与电商渠道 1. 福地云选 / 句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家句容运营中心 链接: https://www.chinacoop.gov.",
+      "supports": "涉及regional_ecommerce_channel信息，关联实体包括南京、句容、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_ecommerce_channel_6688207735615503435",
+        "doc_id": "本地助农与电商渠道",
+        "chunk_id": "regional_ecommerce_channel_6688207735615503435",
+        "file_name": "本地助农与电商渠道",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_5",
+      "type": "document",
+      "label": "jurong_young_talent_competition_brief.md",
+      "detail": "data\\raw\\delivery_expansion_20260523\\docs_for_ingest\\jurong_young_talent_competition_brief.md",
+      "source_type": "document",
+      "doc_id": "jurong_young_talent_competition_brief.md",
+      "file_name": "jurong_young_talent_competition_brief.md",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_10",
+      "type": "entity",
+      "label": "??",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_11",
+      "type": "entity",
+      "label": "??????",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_12",
+      "type": "entity",
+      "label": "????",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_5",
+      "type": "retrieved_chunk",
+      "label": "jurong_young_talent_competition_brief.md",
+      "detail": "# 2026 年句容市“福地青年英才”创业大赛知识包 本知识包依据《句人社〔2026〕17 号：关于举办 2026 年句容市“福地青年英才”创业大赛的通知》整理，用于 AgriKB 的参赛定位、问答约束、创业计划书生成和答辩准备。 ## 大赛主题 福地“句”才，共创“容”光。 ## 举办单位 主办单位为中共句容市委人才工作领导小组办公室、句容市人力资源和社会保障局。",
+      "evidence_id": "E5",
+      "doc_name": "jurong_young_talent_competition_brief.md",
+      "file_name": "jurong_young_talent_competition_brief.md",
+      "doc_id": "jurong_young_talent_competition_brief.md",
+      "chunk_id": "jurong_young_talent_competition_252cec3f0a",
+      "title": "jurong_competition_brief",
+      "section": "jurong_competition_brief",
+      "page": null,
+      "raw_text": "# 2026 年句容市“福地青年英才”创业大赛知识包 本知识包依据《句人社〔2026〕17 号：关于举办 2026 年句容市“福地青年英才”创业大赛的通知》整理，用于 AgriKB 的参赛定位、问答约束、创业计划书生成和答辩准备。 ## 大赛主题 福地“句”才，共创“容”光。 ## 举办单位 主办单位为中共句容市委人才工作领导小组办公室、句容市人力资源和社会保障局。",
+      "score": 1.2692,
+      "source_type": "document",
+      "entities": [
+        "??",
+        "??????",
+        "????"
+      ],
+      "snippet": "# 2026 年句容市“福地青年英才”创业大赛知识包 本知识包依据《句人社〔2026〕17 号：关于举办 2026 年句容市“福地青年英才”创业大赛的通知》整理，用于 AgriKB 的参赛定位、问答约束、创业计划书生成和答辩准备。 ## 大赛主题 福地“句”才，共创“容”光。 ## 举办单位 主办单位为中共句容市委人才工作领导小组办公室、句容市人力资源和社会保障局。",
+      "supports": "涉及jurong_competition_brief信息，关联实体包括??、??????、????、???",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "jurong_young_talent_competition_252cec3f0a",
+        "doc_id": "jurong_young_talent_competition_brief.md",
+        "chunk_id": "jurong_young_talent_competition_252cec3f0a",
+        "file_name": "jurong_young_talent_competition_brief.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.2692,
+        "confidence": 1.2692,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_6",
+      "type": "document",
+      "label": "new_farmer_policy_pack.md",
+      "detail": "data\\raw\\delivery_expansion_20260523\\docs_for_ingest\\new_farmer_policy_pack.md",
+      "source_type": "document",
+      "doc_id": "new_farmer_policy_pack.md",
+      "file_name": "new_farmer_policy_pack.md",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_13",
+      "type": "entity",
+      "label": "新农人",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_14",
+      "type": "entity",
+      "label": "高素质农民",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_15",
+      "type": "entity",
+      "label": "新型职业农民",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_6",
+      "type": "retrieved_chunk",
+      "label": "new_farmer_policy_pack.md",
+      "detail": "# 新农人 / 高素质农民政策文件包 本包内嵌官方政策页面与公报 PDF，供农业局、培训机构、合作社和企业做政策问答与培训材料检索。 ## gov_2025_high_quality_farmer_training.html - 来源: https://www.gov.cn/zhengce/zhengceku/202506/content_7026209.",
+      "evidence_id": "E6",
+      "doc_name": "new_farmer_policy_pack.md",
+      "file_name": "new_farmer_policy_pack.md",
+      "doc_id": "new_farmer_policy_pack.md",
+      "chunk_id": "new_farmer_policy_pack_5f3c1727ad",
+      "title": "new_farmer_policy_pack",
+      "section": "new_farmer_policy_pack",
+      "page": null,
+      "raw_text": "# 新农人 / 高素质农民政策文件包 本包内嵌官方政策页面与公报 PDF，供农业局、培训机构、合作社和企业做政策问答与培训材料检索。 ## gov_2025_high_quality_farmer_training.html - 来源: https://www.gov.cn/zhengce/zhengceku/202506/content_7026209.",
+      "score": 0.7156,
+      "source_type": "document",
+      "entities": [
+        "新农人",
+        "高素质农民",
+        "新型职业农民"
+      ],
+      "snippet": "# 新农人 / 高素质农民政策文件包 本包内嵌官方政策页面与公报 PDF，供农业局、培训机构、合作社和企业做政策问答与培训材料检索。 ## gov_2025_high_quality_farmer_training.html - 来源: https://www.gov.cn/zhengce/zhengceku/202506/content_7026209.",
+      "supports": "涉及new_farmer_policy_pack信息，关联实体包括新农人、高素质农民、新型职业农民、政策",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "new_farmer_policy_pack_5f3c1727ad",
+        "doc_id": "new_farmer_policy_pack.md",
+        "chunk_id": "new_farmer_policy_pack_5f3c1727ad",
+        "file_name": "new_farmer_policy_pack.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.7156,
+        "confidence": 0.7156,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_7",
+      "type": "document",
+      "label": "new_farmer_icon_catalog.md",
+      "detail": "data\\raw\\delivery_expansion_20260523\\docs_for_ingest\\new_farmer_icon_catalog.md",
+      "source_type": "document",
+      "doc_id": "new_farmer_icon_catalog.md",
+      "file_name": "new_farmer_icon_catalog.md",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_16",
+      "type": "entity",
+      "label": "图标",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_17",
+      "type": "entity",
+      "label": "政策",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_7",
+      "type": "retrieved_chunk",
+      "label": "new_farmer_icon_catalog.md",
+      "detail": "# 新农人图标内嵌目录 图标为本项目内嵌 SVG，覆盖交付版首页和政策资料入口。 - 新农人: web/assets/new-farmer-icons/new_farmer.svg - 政策: web/assets/new-farmer-icons/policy.svg - 作物: web/assets/new-farmer-icons/crop.svg - 行情: web/assets/new-farmer-icons/market.",
+      "evidence_id": "E7",
+      "doc_name": "new_farmer_icon_catalog.md",
+      "file_name": "new_farmer_icon_catalog.md",
+      "doc_id": "new_farmer_icon_catalog.md",
+      "chunk_id": "new_farmer_icon_catalog_fdd837fcdc",
+      "title": "new_farmer_icon_pack",
+      "section": "new_farmer_icon_pack",
+      "page": null,
+      "raw_text": "# 新农人图标内嵌目录 图标为本项目内嵌 SVG，覆盖交付版首页和政策资料入口。 - 新农人: web/assets/new-farmer-icons/new_farmer.svg - 政策: web/assets/new-farmer-icons/policy.svg - 作物: web/assets/new-farmer-icons/crop.svg - 行情: web/assets/new-farmer-icons/market.",
+      "score": 0.467,
+      "source_type": "document",
+      "entities": [
+        "新农人",
+        "图标",
+        "政策"
+      ],
+      "snippet": "# 新农人图标内嵌目录 图标为本项目内嵌 SVG，覆盖交付版首页和政策资料入口。 - 新农人: web/assets/new-farmer-icons/new_farmer.svg - 政策: web/assets/new-farmer-icons/policy.svg - 作物: web/assets/new-farmer-icons/crop.svg - 行情: web/assets/new-farmer-icons/market.",
+      "supports": "涉及new_farmer_icon_pack信息，关联实体包括新农人、图标、政策、作物",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "new_farmer_icon_catalog_fdd837fcdc",
+        "doc_id": "new_farmer_icon_catalog.md",
+        "chunk_id": "new_farmer_icon_catalog_fdd837fcdc",
+        "file_name": "new_farmer_icon_catalog.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.467,
+        "confidence": 0.467,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:doc_8",
+      "type": "document",
+      "label": "台湾有机农业开放资料_COA_OpenData.csv",
+      "detail": "data\\raw\\public_agriculture_sources\\user_supplied\\COA_OpenData.csv",
+      "source_type": "document",
+      "doc_id": "台湾有机农业开放资料_COA_OpenData",
+      "file_name": "台湾有机农业开放资料_COA_OpenData.csv",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_18",
+      "type": "entity",
+      "label": "有机农业",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_19",
+      "type": "entity",
+      "label": "有機農業",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ent_20",
+      "type": "entity",
+      "label": "作物",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:ev_8",
+      "type": "retrieved_chunk",
+      "label": "台湾有机农业开放资料_COA_OpenData.csv",
+      "detail": "苗栗縣 有机农业主体数: 367 主要产品: 根莖菜 166; 其他 144; 大漿果 115; 果菜 114; 瓜菜 114; 小漿果 106; 短期葉菜 100; 柑桔 100; 自產農產加工品 94; 包葉菜 83; 雜糧 81; 花菜 69 主要验证机构: 國立中興大學 113; 慈心有機驗證股份有限公司 48; 財團法人國際美育自然生態基金會 43; 財團法人和諧有機農業基金會 27; 采園生態驗證有限公司 26; 安心國際驗...",
+      "evidence_id": "E8",
+      "doc_name": "台湾有机农业开放资料_COA_OpenData.csv",
+      "file_name": "台湾有机农业开放资料_COA_OpenData.csv",
+      "doc_id": "台湾有机农业开放资料_COA_OpenData",
+      "chunk_id": "台湾有机农业开放资料_COA_OpenData_0016_eaf66a6e",
+      "title": "taiwan_county_profile",
+      "section": "taiwan_county_profile",
+      "page": null,
+      "raw_text": "苗栗縣 有机农业主体数: 367 主要产品: 根莖菜 166; 其他 144; 大漿果 115; 果菜 114; 瓜菜 114; 小漿果 106; 短期葉菜 100; 柑桔 100; 自產農產加工品 94; 包葉菜 83; 雜糧 81; 花菜 69 主要验证机构: 國立中興大學 113; 慈心有機驗證股份有限公司 48; 財團法人國際美育自然生態基金會 43; 財團法人和諧有機農業基金會 27; 采園生態驗證有限公司 26; 安心國際驗...",
+      "score": 0.4649,
+      "source_type": "document",
+      "entities": [
+        "有机农业",
+        "有機農業",
+        "作物"
+      ],
+      "snippet": "苗栗縣 有机农业主体数: 367 主要产品: 根莖菜 166; 其他 144; 大漿果 115; 果菜 114; 瓜菜 114; 小漿果 106; 短期葉菜 100; 柑桔 100; 自產農產加工品 94; 包葉菜 83; 雜糧 81; 花菜 69 主要验证机构: 國立中興大學 113; 慈心有機驗證股份有限公司 48; 財團法人國際美育自然生態基金會 43; 財團法人和諧有機農業基金會 27; 采園生態驗證有限公司 26; 安心國際驗...",
+      "supports": "涉及taiwan_county_profile信息，关联实体包括有机农业、有機農業、作物、驗證",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "台湾有机农业开放资料_COA_OpenData_0016_eaf66a6e",
+        "doc_id": "台湾有机农业开放资料_COA_OpenData",
+        "chunk_id": "台湾有机农业开放资料_COA_OpenData_0016_eaf66a6e",
+        "file_name": "台湾有机农业开放资料_COA_OpenData.csv",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.4649,
+        "confidence": 0.4649,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_15e332e2ea",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "**先干什么** 今天湿度大、后面三天连雨，上午把熟果抢着摘完，按大小分三级。",
+      "text": "**先干什么** 今天湿度大、后面三天连雨，上午把熟果抢着摘完，按大小分三级。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_15e332e2ea_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_d47541b4da",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "特级果立刻上\"福地云选\"和供销e家发南京；",
+      "text": "特级果立刻上\"福地云选\"和供销e家发南京；",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E2,E3,E4",
+        "confidence": 0.48,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_8219855682",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "小果联系本地电商做社区团购。",
+      "text": "小果联系本地电商做社区团购。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E2,E3,E4",
+        "confidence": 0.48,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_ebeb972b36",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "下午把明天要发的货全部预冷打包，雨大了物流会慢。",
+      "text": "下午把明天要发的货全部预冷打包，雨大了物流会慢。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_ebeb972b36_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_deb64f6e10",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "**政策与产业扶持** 句容市政府正推进\"电子商务进农村综合示范\"，市农业农村局持续公开惠农政策。",
+      "text": "**政策与产业扶持** 句容市政府正推进\"电子商务进农村综合示范\"，市农业农村局持续公开惠农政策。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E2",
+        "E3",
+        "E4",
+        "E6"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E2,E3,E4,E6",
+        "confidence": 0.48,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_ef5028ea8b",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "2026年\"福地青年英才\"创业大赛（福地\"句\"才，共创\"容\"光）由市委人才办和市人社局联合主办，对数智农业项目有专项扶持，合作社和新农人主体可积极申报，把草莓产销数字化方案转化为政策红利，助力乡村全面振兴。",
+      "text": "2026年\"福地青年英才\"创业大赛（福地\"句\"才，共创\"容\"光）由市委人才办和市人社局联合主办，对数智农业项目有专项扶持，合作社和新农人主体可积极申报，把草莓产销数字化方案转化为政策红利，助力乡村全面振兴。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E2,E3,E4,E5",
+        "confidence": 0.48,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_0efa1c2023",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "**市场/收购/电商渠道** 本地已形成\"福地云选+供销e家句容运营中心\"双线渠道，市农业农村局还计划打造本地特色蔬菜品牌。",
+      "text": "**市场/收购/电商渠道** 本地已形成\"福地云选+供销e家句容运营中心\"双线渠道，市农业农村局还计划打造本地特色蔬菜品牌。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E2,E3,E4",
+        "confidence": 0.48,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    },
+    {
+      "id": "q_f2c01686da02:claim_181548619e",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "借鉴台湾苗栗县浆果全渠道分销经验，建议句容草莓走\"节前礼盒+日常鲜食+加工果\"分级路线：大果直供南京都市圈高端社区，中小果通过电商进农村示范网点走量。",
+      "text": "借鉴台湾苗栗县浆果全渠道分销经验，建议句容草莓走\"节前礼盒+日常鲜食+加工果\"分级路线：大果直供南京都市圈高端社区，中小果通过电商进农村示范网点走量。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E2,E3,E4",
+        "confidence": 0.48,
+        "created_at": "2026-05-24T04:08:06"
+      },
+      "query_id": "q_f2c01686da02",
+      "session_id": "a8b34f6eeca544c698f78ad5af7aeefc"
+    }
+  ],
+  "edges": [
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_1",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_2",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_3",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_3",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_4",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_4",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_5",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_5",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_6",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_6",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_1->q_f2c01686da02:ev_1",
+      "source": "q_f2c01686da02:doc_1",
+      "target": "q_f2c01686da02:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_4->q_f2c01686da02:ev_1",
+      "source": "q_f2c01686da02:ent_4",
+      "target": "q_f2c01686da02:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_5->q_f2c01686da02:ev_1",
+      "source": "q_f2c01686da02:ent_5",
+      "target": "q_f2c01686da02:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_6->q_f2c01686da02:ev_1",
+      "source": "q_f2c01686da02:ent_6",
+      "target": "q_f2c01686da02:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_7",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_7",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_8",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_8",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_9",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_9",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_2->q_f2c01686da02:ev_2",
+      "source": "q_f2c01686da02:doc_2",
+      "target": "q_f2c01686da02:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_7->q_f2c01686da02:ev_2",
+      "source": "q_f2c01686da02:ent_7",
+      "target": "q_f2c01686da02:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_8->q_f2c01686da02:ev_2",
+      "source": "q_f2c01686da02:ent_8",
+      "target": "q_f2c01686da02:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_9->q_f2c01686da02:ev_2",
+      "source": "q_f2c01686da02:ent_9",
+      "target": "q_f2c01686da02:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_3->q_f2c01686da02:ev_3",
+      "source": "q_f2c01686da02:doc_3",
+      "target": "q_f2c01686da02:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_7->q_f2c01686da02:ev_3",
+      "source": "q_f2c01686da02:ent_7",
+      "target": "q_f2c01686da02:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_8->q_f2c01686da02:ev_3",
+      "source": "q_f2c01686da02:ent_8",
+      "target": "q_f2c01686da02:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_9->q_f2c01686da02:ev_3",
+      "source": "q_f2c01686da02:ent_9",
+      "target": "q_f2c01686da02:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_4->q_f2c01686da02:ev_4",
+      "source": "q_f2c01686da02:doc_4",
+      "target": "q_f2c01686da02:ev_4",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_7->q_f2c01686da02:ev_4",
+      "source": "q_f2c01686da02:ent_7",
+      "target": "q_f2c01686da02:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_8->q_f2c01686da02:ev_4",
+      "source": "q_f2c01686da02:ent_8",
+      "target": "q_f2c01686da02:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_9->q_f2c01686da02:ev_4",
+      "source": "q_f2c01686da02:ent_9",
+      "target": "q_f2c01686da02:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_10",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_10",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_11",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_11",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_12",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_12",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_5->q_f2c01686da02:ev_5",
+      "source": "q_f2c01686da02:doc_5",
+      "target": "q_f2c01686da02:ev_5",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_10->q_f2c01686da02:ev_5",
+      "source": "q_f2c01686da02:ent_10",
+      "target": "q_f2c01686da02:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_11->q_f2c01686da02:ev_5",
+      "source": "q_f2c01686da02:ent_11",
+      "target": "q_f2c01686da02:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_12->q_f2c01686da02:ev_5",
+      "source": "q_f2c01686da02:ent_12",
+      "target": "q_f2c01686da02:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_13",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_13",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_14",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_14",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_15",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_15",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_6->q_f2c01686da02:ev_6",
+      "source": "q_f2c01686da02:doc_6",
+      "target": "q_f2c01686da02:ev_6",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_13->q_f2c01686da02:ev_6",
+      "source": "q_f2c01686da02:ent_13",
+      "target": "q_f2c01686da02:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_14->q_f2c01686da02:ev_6",
+      "source": "q_f2c01686da02:ent_14",
+      "target": "q_f2c01686da02:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_15->q_f2c01686da02:ev_6",
+      "source": "q_f2c01686da02:ent_15",
+      "target": "q_f2c01686da02:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_16",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_16",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_17",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_17",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_7->q_f2c01686da02:ev_7",
+      "source": "q_f2c01686da02:doc_7",
+      "target": "q_f2c01686da02:ev_7",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_13->q_f2c01686da02:ev_7",
+      "source": "q_f2c01686da02:ent_13",
+      "target": "q_f2c01686da02:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_16->q_f2c01686da02:ev_7",
+      "source": "q_f2c01686da02:ent_16",
+      "target": "q_f2c01686da02:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_17->q_f2c01686da02:ev_7",
+      "source": "q_f2c01686da02:ent_17",
+      "target": "q_f2c01686da02:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_18",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_18",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_19",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_19",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:mentions:q_f2c01686da02->q_f2c01686da02:ent_20",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:ent_20",
+      "type": "mentions"
+    },
+    {
+      "id": "q_f2c01686da02:contains:q_f2c01686da02:doc_8->q_f2c01686da02:ev_8",
+      "source": "q_f2c01686da02:doc_8",
+      "target": "q_f2c01686da02:ev_8",
+      "type": "contains"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_18->q_f2c01686da02:ev_8",
+      "source": "q_f2c01686da02:ent_18",
+      "target": "q_f2c01686da02:ev_8",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_19->q_f2c01686da02:ev_8",
+      "source": "q_f2c01686da02:ent_19",
+      "target": "q_f2c01686da02:ev_8",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:retrieves:q_f2c01686da02:ent_20->q_f2c01686da02:ev_8",
+      "source": "q_f2c01686da02:ent_20",
+      "target": "q_f2c01686da02:ev_8",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_f2c01686da02:qualifies:q_f2c01686da02:claim_15e332e2ea_prior->q_f2c01686da02:claim_15e332e2ea",
+      "source": "q_f2c01686da02:claim_15e332e2ea_prior",
+      "target": "q_f2c01686da02:claim_15e332e2ea",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_15e332e2ea",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_15e332e2ea",
+      "type": "answers"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_2->q_f2c01686da02:claim_d47541b4da",
+      "source": "q_f2c01686da02:ev_2",
+      "target": "q_f2c01686da02:claim_d47541b4da",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_3->q_f2c01686da02:claim_d47541b4da",
+      "source": "q_f2c01686da02:ev_3",
+      "target": "q_f2c01686da02:claim_d47541b4da",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_4->q_f2c01686da02:claim_d47541b4da",
+      "source": "q_f2c01686da02:ev_4",
+      "target": "q_f2c01686da02:claim_d47541b4da",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_d47541b4da",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_d47541b4da",
+      "type": "answers"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_2->q_f2c01686da02:claim_8219855682",
+      "source": "q_f2c01686da02:ev_2",
+      "target": "q_f2c01686da02:claim_8219855682",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_3->q_f2c01686da02:claim_8219855682",
+      "source": "q_f2c01686da02:ev_3",
+      "target": "q_f2c01686da02:claim_8219855682",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_4->q_f2c01686da02:claim_8219855682",
+      "source": "q_f2c01686da02:ev_4",
+      "target": "q_f2c01686da02:claim_8219855682",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_8219855682",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_8219855682",
+      "type": "answers"
+    },
+    {
+      "id": "q_f2c01686da02:qualifies:q_f2c01686da02:claim_ebeb972b36_prior->q_f2c01686da02:claim_ebeb972b36",
+      "source": "q_f2c01686da02:claim_ebeb972b36_prior",
+      "target": "q_f2c01686da02:claim_ebeb972b36",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_ebeb972b36",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_ebeb972b36",
+      "type": "answers"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_2->q_f2c01686da02:claim_deb64f6e10",
+      "source": "q_f2c01686da02:ev_2",
+      "target": "q_f2c01686da02:claim_deb64f6e10",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_3->q_f2c01686da02:claim_deb64f6e10",
+      "source": "q_f2c01686da02:ev_3",
+      "target": "q_f2c01686da02:claim_deb64f6e10",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_4->q_f2c01686da02:claim_deb64f6e10",
+      "source": "q_f2c01686da02:ev_4",
+      "target": "q_f2c01686da02:claim_deb64f6e10",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_6->q_f2c01686da02:claim_deb64f6e10",
+      "source": "q_f2c01686da02:ev_6",
+      "target": "q_f2c01686da02:claim_deb64f6e10",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_deb64f6e10",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_deb64f6e10",
+      "type": "answers"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_2->q_f2c01686da02:claim_ef5028ea8b",
+      "source": "q_f2c01686da02:ev_2",
+      "target": "q_f2c01686da02:claim_ef5028ea8b",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_3->q_f2c01686da02:claim_ef5028ea8b",
+      "source": "q_f2c01686da02:ev_3",
+      "target": "q_f2c01686da02:claim_ef5028ea8b",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_4->q_f2c01686da02:claim_ef5028ea8b",
+      "source": "q_f2c01686da02:ev_4",
+      "target": "q_f2c01686da02:claim_ef5028ea8b",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_5->q_f2c01686da02:claim_ef5028ea8b",
+      "source": "q_f2c01686da02:ev_5",
+      "target": "q_f2c01686da02:claim_ef5028ea8b",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_ef5028ea8b",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_ef5028ea8b",
+      "type": "answers"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_2->q_f2c01686da02:claim_0efa1c2023",
+      "source": "q_f2c01686da02:ev_2",
+      "target": "q_f2c01686da02:claim_0efa1c2023",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_3->q_f2c01686da02:claim_0efa1c2023",
+      "source": "q_f2c01686da02:ev_3",
+      "target": "q_f2c01686da02:claim_0efa1c2023",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_4->q_f2c01686da02:claim_0efa1c2023",
+      "source": "q_f2c01686da02:ev_4",
+      "target": "q_f2c01686da02:claim_0efa1c2023",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_0efa1c2023",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_0efa1c2023",
+      "type": "answers"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_2->q_f2c01686da02:claim_181548619e",
+      "source": "q_f2c01686da02:ev_2",
+      "target": "q_f2c01686da02:claim_181548619e",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_3->q_f2c01686da02:claim_181548619e",
+      "source": "q_f2c01686da02:ev_3",
+      "target": "q_f2c01686da02:claim_181548619e",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:supports:q_f2c01686da02:ev_4->q_f2c01686da02:claim_181548619e",
+      "source": "q_f2c01686da02:ev_4",
+      "target": "q_f2c01686da02:claim_181548619e",
+      "type": "supports"
+    },
+    {
+      "id": "q_f2c01686da02:answers:q_f2c01686da02->q_f2c01686da02:claim_181548619e",
+      "source": "q_f2c01686da02",
+      "target": "q_f2c01686da02:claim_181548619e",
+      "type": "answers"
+    }
+  ],
+  "turns": [
+    {
+      "query_id": "q_f2c01686da02",
+      "query": "请给江苏句容农户说明今天草莓怎么卖，要带政策、天气和渠道判断。",
+      "answer": "**先干什么** 今天湿度大、后面三天连雨，上午把熟果抢着摘完，按大小分三级。特级果立刻上\"福地云选\"和供销e家发南京；小果联系本地电商做社区团购。下午把明天要发的货全部预冷打包，雨大了物流会慢。 **政策与产业扶持** 句容市政府正推进\"电子商务进农村综合示范\"，市农业农村局持续公开惠农政策。2026年\"福地青年英才\"创业大赛（福地\"句\"才，共创\"容\"光）由市委人才办和市人社局联合主办，对数智农业项目有专项扶持，合作社和新农人主体可积极申报，把草莓产销数字化方案转化为政策红利，助力乡村全面振兴。 **市场/收购/电商渠道** 本地已形成\"福地云选+供销e家句容运营中心\"双线渠道，市农业农村局还计划打造本地特色蔬菜品牌。借鉴台湾苗栗县浆果全渠道分销经验，建议句容草莓走\"节前礼盒+日常鲜食+加工果\"分级路线：大果直供南京都市圈高端社区，中小果通过电商进农村示范网点走量。 **气象环境提醒** 句容当前26.5°C、湿度84%，未来三天将迎明显降水（29.9mm→12.5mm→22.4mm），最高温逼近30°C。高湿高热叠加降雨，草莓灰霉病和果实软化风险陡增，必须缩短田间滞留时间，采收后2小时内进预冷；同时关注物流延误，南京方向订单建议上午发车。 **台湾数据依据与缺口** 台湾开放数据显示苗栗县有机浆果种植主体密集、验证体系成熟，可为句容草莓绿色认证和品牌化提供参照。但当前数据缺少句容本地当日地头收购价、批发市场实时行情及冷链运力饱和度，建议下阶段接入江苏省农产品价格监测平台和南京众彩物流数据，补齐产销闭环。",
+      "created_at": "2026-05-24T04:08:06",
+      "claim_ids": [
+        "q_f2c01686da02:claim_15e332e2ea",
+        "q_f2c01686da02:claim_d47541b4da",
+        "q_f2c01686da02:claim_8219855682",
+        "q_f2c01686da02:claim_ebeb972b36",
+        "q_f2c01686da02:claim_deb64f6e10",
+        "q_f2c01686da02:claim_ef5028ea8b",
+        "q_f2c01686da02:claim_0efa1c2023",
+        "q_f2c01686da02:claim_181548619e"
+      ]
+    }
+  ],
+  "last_anchor_id": "q_f2c01686da02:claim_181548619e",
+  "source_types": {
+    "document": "来自当前知识库文档 chunk 的证据",
+    "web_search": "来自真实联网搜索结果；未配置搜索时不会伪造",
+    "model_prior": "来自模型内置知识或通用推理，不是文档证据",
+    "inferred": "由多个文档证据综合推理得到",
+    "unsupported": "没有可靠证据支持或证据不足"
+  }
+}

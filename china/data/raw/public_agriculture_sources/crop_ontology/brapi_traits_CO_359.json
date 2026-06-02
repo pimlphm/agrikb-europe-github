@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 268,
+            "totalPages": 27
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_359:0000097",
+            "traitId": "CO_359:0000097",
+            "name": "Plant hardiness",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000100"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000041",
+            "traitId": "CO_359:0000041",
+            "name": "Salinity tolerance",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000102",
+                "CO_359:0000115",
+                "CO_359:0000117"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000014",
+            "traitId": "CO_359:0000014",
+            "name": "Drought susceptibility",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000104"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000105",
+            "traitId": "CO_359:0000105",
+            "name": "High soil acidity susceptibility",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000107"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000108",
+            "traitId": "CO_359:0000108",
+            "name": "High temperature susceptibility",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000110"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000111",
+            "traitId": "CO_359:0000111",
+            "name": "Low temperature susceptibility",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000113"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000118",
+            "traitId": "CO_359:0000118",
+            "name": "Waterlogging susceptibility",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000120"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000121",
+            "traitId": "CO_359:0000121",
+            "name": "Waterlogging tolerance",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000124"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000002",
+            "traitId": "CO_359:0000002",
+            "name": "Achene moisture content",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000126",
+                "CO_359:0000166"
+            ]
+        },
+        {
+            "traitDbId": "CO_359:0000007",
+            "traitId": "CO_359:0000007",
+            "name": "Achene weight",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_359:0000128",
+                "CO_359:0000130",
+                "CO_359:0000132",
+                "CO_359:0000134",
+                "CO_359:0000179"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,556 @@
+{
+  "session_id": "53a86b34cc844bce97ee9f2907d62230",
+  "created_at": "2026-05-25T08:34:38",
+  "updated_at": "2026-05-25T08:34:38",
+  "title": "草莓大棚监测台今天看什么",
+  "summary": "2026-05-25T08:34:38 用户关注：草莓大棚监测台今天看什么；系统结论：一句话建议：今天进棚先看湿度表，超70%先通风再补磷钾肥。 今日先做 1. 查棚内湿度。目标控制在60%-70%，超过上限立即开小风口或启动内循环风机。 2. 看花果长势。若叶片偏嫩绿、果柄细长，说明氮肥偏高，应减氮增磷钾；若果小色淡，补微量元素。 3. 巡病斑。重点翻查底层老叶和近地表果，发现白粉或灰霉病斑立即摘除病组织并带出棚外。 为什么这样判断 今年...",
+  "temporary_memory": [
+    {
+      "id": "mem_4b7b68007b",
+      "text": "本轮关注 草莓大棚监测台今、天看什么、一句话建议、今天进棚先看湿度、先通风再补磷钾肥；已形成结论：一句话建议：今天进棚先看湿度表，超70%先通风再补磷钾肥。",
+      "created_at": "2026-05-25T08:34:38",
+      "updated_at": "2026-05-25T08:34:38",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q_8c005b83b31a",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "草莓大棚监测台今天看什么",
+      "source_type": "query",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:ent_1",
+      "type": "entity",
+      "label": "草莓大棚监测台今天看什么",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:doc_1",
+      "type": "document",
+      "label": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "detail": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "source_type": "document",
+      "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+      "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:ev_1",
+      "type": "retrieved_chunk",
+      "label": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "detail": "“花果期是草莓产量提升和品质塑造的核心阶段，病虫害防控和水肥管理直接决定最终的收成和口感。”培训现场，技术专家结合多年草莓种植研究经验，围绕花果期常见病害识别、绿色防控技术、水肥配比方案等内容展开系统讲解。通过图文结合的方式，详细拆解了白粉病、灰霉病等高发病害的发病特征与防治要点，针对花果期需肥特点，给出了“少量多次、氮磷钾均衡”的水肥管理建议，强调“需控制氮肥用量，增施磷钾肥和微量元素肥，确保植株营养供应与生长需求匹配”。",
+      "evidence_id": "E1",
+      "doc_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+      "chunk_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0005",
+      "title": "action",
+      "section": "action",
+      "page": null,
+      "raw_text": "“花果期是草莓产量提升和品质塑造的核心阶段，病虫害防控和水肥管理直接决定最终的收成和口感。”培训现场，技术专家结合多年草莓种植研究经验，围绕花果期常见病害识别、绿色防控技术、水肥配比方案等内容展开系统讲解。通过图文结合的方式，详细拆解了白粉病、灰霉病等高发病害的发病特征与防治要点，针对花果期需肥特点，给出了“少量多次、氮磷钾均衡”的水肥管理建议，强调“需控制氮肥用量，增施磷钾肥和微量元素肥，确保植株营养供应与生长需求匹配”。",
+      "score": 1.267,
+      "source_type": "document",
+      "entities": [
+        "草莓大棚监测台今天看什么"
+      ],
+      "snippet": "“花果期是草莓产量提升和品质塑造的核心阶段，病虫害防控和水肥管理直接决定最终的收成和口感。”培训现场，技术专家结合多年草莓种植研究经验，围绕花果期常见病害识别、绿色防控技术、水肥配比方案等内容展开系统讲解。通过图文结合的方式，详细拆解了白粉病、灰霉病等高发病害的发病特征与防治要点，针对花果期需肥特点，给出了“少量多次、氮磷钾均衡”的水肥管理建议，强调“需控制氮肥用量，增施磷钾肥和微量元素肥，确保植株营养供应与生长需求匹配”。",
+      "supports": "提供action类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0005",
+        "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+        "chunk_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0005",
+        "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.267,
+        "confidence": 1.267,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:doc_2",
+      "type": "document",
+      "label": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "detail": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "source_type": "document",
+      "doc_id": "51_科技Buff叠满_白兔草莓御寒稳丰收",
+      "file_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:ev_2",
+      "type": "retrieved_chunk",
+      "label": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "detail": "# 科技Buff叠满 白兔草莓御寒稳丰收 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 市融媒体中心 - 日期: 2026-01-21 08:43 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202601/7aebe90470a147d29125b354655b7eb1.",
+      "evidence_id": "E2",
+      "doc_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "file_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+      "doc_id": "51_科技Buff叠满_白兔草莓御寒稳丰收",
+      "chunk_id": "51_科技Buff叠满_白兔草莓御寒稳丰收_0001",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "# 科技Buff叠满 白兔草莓御寒稳丰收 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 市融媒体中心 - 日期: 2026-01-21 08:43 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202601/7aebe90470a147d29125b354655b7eb1.",
+      "score": 1.0893,
+      "source_type": "document",
+      "entities": [
+        "草莓大棚监测台今天看什么"
+      ],
+      "snippet": "# 科技Buff叠满 白兔草莓御寒稳丰收 - 类型: 江苏句容本地农业产业报道 - 栏目: 乡镇动态 - 来源: 市融媒体中心 - 日期: 2026-01-21 08:43 - 原文链接: https://www.jurong.gov.cn/jurong/xzdt/202601/7aebe90470a147d29125b354655b7eb1.",
+      "supports": "提供evidence类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "51_科技Buff叠满_白兔草莓御寒稳丰收_0001",
+        "doc_id": "51_科技Buff叠满_白兔草莓御寒稳丰收",
+        "chunk_id": "51_科技Buff叠满_白兔草莓御寒稳丰收_0001",
+        "file_name": "51_科技Buff叠满_白兔草莓御寒稳丰收.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.0893,
+        "confidence": 1.0893,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:doc_3",
+      "type": "document",
+      "label": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "detail": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "source_type": "document",
+      "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+      "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:ev_3",
+      "type": "retrieved_chunk",
+      "label": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "detail": "受前期气候条件影响，今年白兔镇草莓整体生长进程较去年提早10至15天，目前已全面谢蕾开花，后续需重点做好营养供应和环境调控。“花果期植株养分消耗大，既要避免脱肥导致果实畸形，也要防止氮肥过量造成徒长，同时要控制棚内湿度在60%至70%，减少病害发生风险。”李金凤说。",
+      "evidence_id": "E3",
+      "doc_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+      "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+      "chunk_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0007",
+      "title": "cause",
+      "section": "cause",
+      "page": null,
+      "raw_text": "受前期气候条件影响，今年白兔镇草莓整体生长进程较去年提早10至15天，目前已全面谢蕾开花，后续需重点做好营养供应和环境调控。“花果期植株养分消耗大，既要避免脱肥导致果实畸形，也要防止氮肥过量造成徒长，同时要控制棚内湿度在60%至70%，减少病害发生风险。”李金凤说。",
+      "score": 1.0317,
+      "source_type": "document",
+      "entities": [
+        "草莓大棚监测台今天看什么"
+      ],
+      "snippet": "受前期气候条件影响，今年白兔镇草莓整体生长进程较去年提早10至15天，目前已全面谢蕾开花，后续需重点做好营养供应和环境调控。“花果期植株养分消耗大，既要避免脱肥导致果实畸形，也要防止氮肥过量造成徒长，同时要控制棚内湿度在60%至70%，减少病害发生风险。”李金凤说。",
+      "supports": "提供cause类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0007",
+        "doc_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航",
+        "chunk_id": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航_0007",
+        "file_name": "36_5000亩白兔草莓迎花果期_专家下田为优质丰产保驾护航.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.0317,
+        "confidence": 1.0317,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_73405e37a7",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "一句话建议：今天进棚先看湿度表，超70%先通风再补磷钾肥。",
+      "text": "一句话建议：今天进棚先看湿度表，超70%先通风再补磷钾肥。",
+      "source_type": "document",
+      "confidence": 0.76,
+      "warning": null,
+      "supporting_evidence_ids": [
+        "E3"
+      ],
+      "provenance": {
+        "source_type": "document",
+        "source_id": "E3",
+        "confidence": 0.76,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_cc3ad9c2d4",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "今日先做",
+      "text": "今日先做",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_cc3ad9c2d4_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_819df95ea6",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_819df95ea6_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_8b673396ea",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "查棚内湿度。",
+      "text": "查棚内湿度。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_8b673396ea_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_d24fd99b18",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "目标控制在60%-70%，超过上限立即开小风口或启动内循环风机。",
+      "text": "目标控制在60%-70%，超过上限立即开小风口或启动内循环风机。",
+      "source_type": "document",
+      "confidence": 0.76,
+      "warning": null,
+      "supporting_evidence_ids": [
+        "E3"
+      ],
+      "provenance": {
+        "source_type": "document",
+        "source_id": "E3",
+        "confidence": 0.76,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_0b0a917802",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_0b0a917802_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_c984218ac8",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "看花果长势。",
+      "text": "看花果长势。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_c984218ac8_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_1fcbb4766e",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "若叶片偏嫩绿、果柄细长，说明氮肥偏高，应减氮增磷钾；",
+      "text": "若叶片偏嫩绿、果柄细长，说明氮肥偏高，应减氮增磷钾；",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:34:38"
+      },
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    },
+    {
+      "id": "q_8c005b83b31a:claim_1fcbb4766e_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_8c005b83b31a",
+      "session_id": "53a86b34cc844bce97ee9f2907d62230"
+    }
+  ],
+  "edges": [
+    {
+      "id": "q_8c005b83b31a:mentions:q_8c005b83b31a->q_8c005b83b31a:ent_1",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_8c005b83b31a:contains:q_8c005b83b31a:doc_1->q_8c005b83b31a:ev_1",
+      "source": "q_8c005b83b31a:doc_1",
+      "target": "q_8c005b83b31a:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_8c005b83b31a:retrieves:q_8c005b83b31a:ent_1->q_8c005b83b31a:ev_1",
+      "source": "q_8c005b83b31a:ent_1",
+      "target": "q_8c005b83b31a:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_8c005b83b31a:contains:q_8c005b83b31a:doc_2->q_8c005b83b31a:ev_2",
+      "source": "q_8c005b83b31a:doc_2",
+      "target": "q_8c005b83b31a:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_8c005b83b31a:retrieves:q_8c005b83b31a:ent_1->q_8c005b83b31a:ev_2",
+      "source": "q_8c005b83b31a:ent_1",
+      "target": "q_8c005b83b31a:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_8c005b83b31a:contains:q_8c005b83b31a:doc_3->q_8c005b83b31a:ev_3",
+      "source": "q_8c005b83b31a:doc_3",
+      "target": "q_8c005b83b31a:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_8c005b83b31a:retrieves:q_8c005b83b31a:ent_1->q_8c005b83b31a:ev_3",
+      "source": "q_8c005b83b31a:ent_1",
+      "target": "q_8c005b83b31a:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_8c005b83b31a:supports:q_8c005b83b31a:ev_3->q_8c005b83b31a:claim_73405e37a7",
+      "source": "q_8c005b83b31a:ev_3",
+      "target": "q_8c005b83b31a:claim_73405e37a7",
+      "type": "supports"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_73405e37a7",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_73405e37a7",
+      "type": "answers"
+    },
+    {
+      "id": "q_8c005b83b31a:qualifies:q_8c005b83b31a:claim_cc3ad9c2d4_prior->q_8c005b83b31a:claim_cc3ad9c2d4",
+      "source": "q_8c005b83b31a:claim_cc3ad9c2d4_prior",
+      "target": "q_8c005b83b31a:claim_cc3ad9c2d4",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_cc3ad9c2d4",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_cc3ad9c2d4",
+      "type": "answers"
+    },
+    {
+      "id": "q_8c005b83b31a:qualifies:q_8c005b83b31a:claim_819df95ea6_prior->q_8c005b83b31a:claim_819df95ea6",
+      "source": "q_8c005b83b31a:claim_819df95ea6_prior",
+      "target": "q_8c005b83b31a:claim_819df95ea6",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_819df95ea6",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_819df95ea6",
+      "type": "answers"
+    },
+    {
+      "id": "q_8c005b83b31a:qualifies:q_8c005b83b31a:claim_8b673396ea_prior->q_8c005b83b31a:claim_8b673396ea",
+      "source": "q_8c005b83b31a:claim_8b673396ea_prior",
+      "target": "q_8c005b83b31a:claim_8b673396ea",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_8b673396ea",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_8b673396ea",
+      "type": "answers"
+    },
+    {
+      "id": "q_8c005b83b31a:supports:q_8c005b83b31a:ev_3->q_8c005b83b31a:claim_d24fd99b18",
+      "source": "q_8c005b83b31a:ev_3",
+      "target": "q_8c005b83b31a:claim_d24fd99b18",
+      "type": "supports"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_d24fd99b18",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_d24fd99b18",
+      "type": "answers"
+    },
+    {
+      "id": "q_8c005b83b31a:qualifies:q_8c005b83b31a:claim_0b0a917802_prior->q_8c005b83b31a:claim_0b0a917802",
+      "source": "q_8c005b83b31a:claim_0b0a917802_prior",
+      "target": "q_8c005b83b31a:claim_0b0a917802",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_0b0a917802",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_0b0a917802",
+      "type": "answers"
+    },
+    {
+      "id": "q_8c005b83b31a:qualifies:q_8c005b83b31a:claim_c984218ac8_prior->q_8c005b83b31a:claim_c984218ac8",
+      "source": "q_8c005b83b31a:claim_c984218ac8_prior",
+      "target": "q_8c005b83b31a:claim_c984218ac8",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_c984218ac8",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_c984218ac8",
+      "type": "answers"
+    },
+    {
+      "id": "q_8c005b83b31a:qualifies:q_8c005b83b31a:claim_1fcbb4766e_prior->q_8c005b83b31a:claim_1fcbb4766e",
+      "source": "q_8c005b83b31a:claim_1fcbb4766e_prior",
+      "target": "q_8c005b83b31a:claim_1fcbb4766e",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_8c005b83b31a:answers:q_8c005b83b31a->q_8c005b83b31a:claim_1fcbb4766e",
+      "source": "q_8c005b83b31a",
+      "target": "q_8c005b83b31a:claim_1fcbb4766e",
+      "type": "answers"
+    }
+  ],
+  "turns": [
+    {
+      "query_id": "q_8c005b83b31a",
+      "query": "草莓大棚监测台今天看什么",
+      "answer": "一句话建议：今天进棚先看湿度表，超70%先通风再补磷钾肥。\n\n今日先做\n\n1. 查棚内湿度。目标控制在60%-70%，超过上限立即开小风口或启动内循环风机。\n2. 看花果长势。若叶片偏嫩绿、果柄细长，说明氮肥偏高，应减氮增磷钾；若果小色淡，补微量元素。\n3. 巡病斑。重点翻查底层老叶和近地表果，发现白粉或灰霉病斑立即摘除病组织并带出棚外。\n\n为什么这样判断\n\n今年白兔镇草莓生长进程比去年提早10至15天，目前已全面进入谢蕾开花阶段。花果期养分消耗大，脱肥会致畸形果，氮肥过量又造成徒长，因此水肥要\"少量多次、氮磷钾均衡\"。\n同时，灰霉病和白粉病是高发风险，棚内湿度是发病开关。先控湿、再调肥、后查病，顺序不能颠倒。\n\n市场与渠道\n\n白兔草莓正值花果期，优质果春节前上市价格最高。建议今天同步联系本地收购商或电商冷链仓，确认分级标准和日收购量，避免集中上市压价。\n\n风险提醒\n\n1. 天气风险 近期昼夜温差大，棚内湿度波动剧烈，清晨结露最易诱发病害。\n2. 操作风险：通风降温时防止冷风直吹花果，避免\"闪苗\"。\n3. 数据缺口：当前未接入实时气象站和土壤墒情传感器，建议补装或手动记录温湿度日志。\n\n下一步\n\n1. 上传今日棚内温湿度照片，知识库可比对历史病害高发区间。\n2. 查询\"白兔草莓花果期水肥配比\"详细方案，获取微量元素具体用量。\n3. 关注句容市农业农村局近期培训通知，争取专家下乡巡诊名额。",
+      "created_at": "2026-05-25T08:34:38",
+      "claim_ids": [
+        "q_8c005b83b31a:claim_73405e37a7",
+        "q_8c005b83b31a:claim_cc3ad9c2d4",
+        "q_8c005b83b31a:claim_819df95ea6",
+        "q_8c005b83b31a:claim_8b673396ea",
+        "q_8c005b83b31a:claim_d24fd99b18",
+        "q_8c005b83b31a:claim_0b0a917802",
+        "q_8c005b83b31a:claim_c984218ac8",
+        "q_8c005b83b31a:claim_1fcbb4766e"
+      ]
+    }
+  ],
+  "last_anchor_id": "q_8c005b83b31a:claim_1fcbb4766e",
+  "source_types": {
+    "document": "来自当前知识库文档 chunk 的证据",
+    "web_search": "来自真实联网搜索结果；未配置搜索时不会伪造",
+    "model_prior": "来自模型内置知识或通用推理，不是文档证据",
+    "inferred": "由多个文档证据综合推理得到",
+    "unsupported": "没有可靠证据支持或证据不足"
+  }
+}

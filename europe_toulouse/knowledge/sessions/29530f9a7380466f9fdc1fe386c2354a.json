@@ -1,0 +1,689 @@
+{
+  "session_id": "29530f9a7380466f9fdc1fe386c2354a",
+  "created_at": "2026-06-02T13:07:13",
+  "updated_at": "2026-06-02T13:07:13",
+  "title": "Toulouse agriculture pilot: list thre...",
+  "summary": "2026-06-02T13:07:13 用户关注：Toulouse agriculture pilot: list three practical advisory checks for today.；系统结论：One-sentence recommendation: Make a small evidence-based move first, then verify local policy, weather, and procurement terms. Do first 1. Identify the crop, sales window, target...",
+  "temporary_memory": [
+    {
+      "id": "mem_c844ee4f1d",
+      "text": "本轮关注 Toulouse、agriculture、pilot、list、three、practical",
+      "created_at": "2026-06-02T13:07:13",
+      "updated_at": "2026-06-02T13:07:13",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q_a9d2389001f1",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "Toulouse agriculture pilot: list three practical advisory checks for today.",
+      "source_type": "query",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_1",
+      "type": "entity",
+      "label": "Toulouse",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_2",
+      "type": "entity",
+      "label": "agriculture",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_3",
+      "type": "entity",
+      "label": "pilot",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:doc_1",
+      "type": "document",
+      "label": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "detail": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "source_type": "document",
+      "doc_id": "fao_climate_smart_agriculture_sourcebook",
+      "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_4",
+      "type": "entity",
+      "label": "CSA",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_5",
+      "type": "entity",
+      "label": "REDD",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ev_1",
+      "type": "retrieved_chunk",
+      "label": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "detail": "sessments and decision making 480 17.3 Str ategies for knowledge sharing and effective learning 481 Str engthe...",
+      "evidence_id": "E1",
+      "doc_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "doc_id": "fao_climate_smart_agriculture_sourcebook",
+      "chunk_id": "fao_climate_smart_agriculture_sourcebook_4718",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "sessments and decision making 480 17.3 Str ategies for knowledge sharing and effective learning 481 Str engthe...",
+      "score": 1.066,
+      "source_type": "document",
+      "entities": [
+        "CSA",
+        "REDD"
+      ],
+      "snippet": "sessments and decision making 480 17.3 Str ategies for knowledge sharing and effective learning 481 Str engthe...",
+      "supports": "涉及evidence信息，关联实体包括CSA、REDD",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "fao_climate_smart_agriculture_sourcebook_4718",
+        "doc_id": "fao_climate_smart_agriculture_sourcebook",
+        "chunk_id": "fao_climate_smart_agriculture_sourcebook_4718",
+        "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.066,
+        "confidence": 1.066,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:doc_2",
+      "type": "document",
+      "label": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "detail": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "source_type": "document",
+      "doc_id": "fao_climate_smart_agriculture_sourcebook",
+      "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_6",
+      "type": "entity",
+      "label": "MODULE",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_7",
+      "type": "entity",
+      "label": "US",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ent_8",
+      "type": "entity",
+      "label": "GHG",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ev_2",
+      "type": "retrieved_chunk",
+      "label": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "detail": "8 European Commission, 2013. 399 MODULE 14: Financing Climate-smart agriculture Fund currently has 41 projects...",
+      "evidence_id": "E2",
+      "doc_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "doc_id": "fao_climate_smart_agriculture_sourcebook",
+      "chunk_id": "fao_climate_smart_agriculture_sourcebook_4009",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "8 European Commission, 2013. 399 MODULE 14: Financing Climate-smart agriculture Fund currently has 41 projects...",
+      "score": 1.0593,
+      "source_type": "document",
+      "entities": [
+        "MODULE",
+        "US",
+        "GHG"
+      ],
+      "snippet": "8 European Commission, 2013. 399 MODULE 14: Financing Climate-smart agriculture Fund currently has 41 projects...",
+      "supports": "涉及evidence信息，关联实体包括MODULE、US、GHG、CSA",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "fao_climate_smart_agriculture_sourcebook_4009",
+        "doc_id": "fao_climate_smart_agriculture_sourcebook",
+        "chunk_id": "fao_climate_smart_agriculture_sourcebook_4009",
+        "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.0593,
+        "confidence": 1.0593,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:doc_3",
+      "type": "document",
+      "label": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "detail": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "source_type": "document",
+      "doc_id": "fao_climate_smart_agriculture_sourcebook",
+      "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:ev_3",
+      "type": "retrieved_chunk",
+      "label": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "detail": "251 List of Tables Table 10.1 Ov erview of practical options for reducing vulnerability in fisheries and aquac...",
+      "evidence_id": "E3",
+      "doc_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+      "doc_id": "fao_climate_smart_agriculture_sourcebook",
+      "chunk_id": "fao_climate_smart_agriculture_sourcebook_2399",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "251 List of Tables Table 10.1 Ov erview of practical options for reducing vulnerability in fisheries and aquac...",
+      "score": 1.05,
+      "source_type": "document",
+      "entities": [
+        "Toulouse"
+      ],
+      "snippet": "251 List of Tables Table 10.1 Ov erview of practical options for reducing vulnerability in fisheries and aquac...",
+      "supports": "提供evidence类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "fao_climate_smart_agriculture_sourcebook_2399",
+        "doc_id": "fao_climate_smart_agriculture_sourcebook",
+        "chunk_id": "fao_climate_smart_agriculture_sourcebook_2399",
+        "file_name": "fao_climate_smart_agriculture_sourcebook.pdf",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.05,
+        "confidence": 1.05,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_810a4e1f79",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "One-sentence recommendation: Make a small evidence-based move first, then verify local policy, weather, and procurement terms.",
+      "text": "One-sentence recommendation: Make a small evidence-based move first, then verify local policy, weather, and procurement terms.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_810a4e1f79_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_559184cb3b",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "Do first",
+      "text": "Do first",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_559184cb3b_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_ac2f421e3c",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_ac2f421e3c_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_ff8021eb1b",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "Identify the crop, sales window, target buyer, and delivery place before committing volume.",
+      "text": "Identify the crop, sales window, target buyer, and delivery place before committing volume.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_ff8021eb1b_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_4001c9c44c",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_4001c9c44c_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_bb7575679e",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "Use the retrieved evidence to check whether policy, market, logistics, or weather conditions fit the current location.",
+      "text": "Use the retrieved evidence to check whether policy, market, logistics, or weather conditions fit the current location.",
+      "source_type": "document",
+      "confidence": 0.76,
+      "warning": null,
+      "supporting_evidence_ids": [
+        "E2"
+      ],
+      "provenance": {
+        "source_type": "document",
+        "source_id": "E2",
+        "confidence": 0.76,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_4c4bd1c782",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "Why this judgment Retrieved evidence points to: 涉及evidence信息，关联实体包括CSA、REDD;",
+      "text": "Why this judgment Retrieved evidence points to: 涉及evidence信息，关联实体包括CSA、REDD;",
+      "source_type": "inferred",
+      "confidence": 0.78,
+      "warning": null,
+      "supporting_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "provenance": {
+        "source_type": "inferred",
+        "source_id": "E1,E2",
+        "confidence": 0.78,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    },
+    {
+      "id": "q_a9d2389001f1:claim_4b9ddb8403",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "涉及evidence信息，关联实体包括MODULE、US、GHG、CSA;",
+      "text": "涉及evidence信息，关联实体包括MODULE、US、GHG、CSA;",
+      "source_type": "inferred",
+      "confidence": 0.78,
+      "warning": null,
+      "supporting_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "provenance": {
+        "source_type": "inferred",
+        "source_id": "E1,E2",
+        "confidence": 0.78,
+        "created_at": "2026-06-02T13:07:12"
+      },
+      "query_id": "q_a9d2389001f1",
+      "session_id": "29530f9a7380466f9fdc1fe386c2354a"
+    }
+  ],
+  "edges": [
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_1",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_2",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_3",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_3",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_4",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_4",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_5",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_5",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:contains:q_a9d2389001f1:doc_1->q_a9d2389001f1:ev_1",
+      "source": "q_a9d2389001f1:doc_1",
+      "target": "q_a9d2389001f1:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_a9d2389001f1:retrieves:q_a9d2389001f1:ent_4->q_a9d2389001f1:ev_1",
+      "source": "q_a9d2389001f1:ent_4",
+      "target": "q_a9d2389001f1:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_a9d2389001f1:retrieves:q_a9d2389001f1:ent_5->q_a9d2389001f1:ev_1",
+      "source": "q_a9d2389001f1:ent_5",
+      "target": "q_a9d2389001f1:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_6",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_6",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_7",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_7",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:mentions:q_a9d2389001f1->q_a9d2389001f1:ent_8",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:ent_8",
+      "type": "mentions"
+    },
+    {
+      "id": "q_a9d2389001f1:contains:q_a9d2389001f1:doc_2->q_a9d2389001f1:ev_2",
+      "source": "q_a9d2389001f1:doc_2",
+      "target": "q_a9d2389001f1:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_a9d2389001f1:retrieves:q_a9d2389001f1:ent_6->q_a9d2389001f1:ev_2",
+      "source": "q_a9d2389001f1:ent_6",
+      "target": "q_a9d2389001f1:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_a9d2389001f1:retrieves:q_a9d2389001f1:ent_7->q_a9d2389001f1:ev_2",
+      "source": "q_a9d2389001f1:ent_7",
+      "target": "q_a9d2389001f1:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_a9d2389001f1:retrieves:q_a9d2389001f1:ent_8->q_a9d2389001f1:ev_2",
+      "source": "q_a9d2389001f1:ent_8",
+      "target": "q_a9d2389001f1:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_a9d2389001f1:contains:q_a9d2389001f1:doc_3->q_a9d2389001f1:ev_3",
+      "source": "q_a9d2389001f1:doc_3",
+      "target": "q_a9d2389001f1:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_a9d2389001f1:retrieves:q_a9d2389001f1:ent_1->q_a9d2389001f1:ev_3",
+      "source": "q_a9d2389001f1:ent_1",
+      "target": "q_a9d2389001f1:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_a9d2389001f1:qualifies:q_a9d2389001f1:claim_810a4e1f79_prior->q_a9d2389001f1:claim_810a4e1f79",
+      "source": "q_a9d2389001f1:claim_810a4e1f79_prior",
+      "target": "q_a9d2389001f1:claim_810a4e1f79",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_810a4e1f79",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_810a4e1f79",
+      "type": "answers"
+    },
+    {
+      "id": "q_a9d2389001f1:qualifies:q_a9d2389001f1:claim_559184cb3b_prior->q_a9d2389001f1:claim_559184cb3b",
+      "source": "q_a9d2389001f1:claim_559184cb3b_prior",
+      "target": "q_a9d2389001f1:claim_559184cb3b",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_559184cb3b",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_559184cb3b",
+      "type": "answers"
+    },
+    {
+      "id": "q_a9d2389001f1:qualifies:q_a9d2389001f1:claim_ac2f421e3c_prior->q_a9d2389001f1:claim_ac2f421e3c",
+      "source": "q_a9d2389001f1:claim_ac2f421e3c_prior",
+      "target": "q_a9d2389001f1:claim_ac2f421e3c",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_ac2f421e3c",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_ac2f421e3c",
+      "type": "answers"
+    },
+    {
+      "id": "q_a9d2389001f1:qualifies:q_a9d2389001f1:claim_ff8021eb1b_prior->q_a9d2389001f1:claim_ff8021eb1b",
+      "source": "q_a9d2389001f1:claim_ff8021eb1b_prior",
+      "target": "q_a9d2389001f1:claim_ff8021eb1b",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_ff8021eb1b",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_ff8021eb1b",
+      "type": "answers"
+    },
+    {
+      "id": "q_a9d2389001f1:qualifies:q_a9d2389001f1:claim_4001c9c44c_prior->q_a9d2389001f1:claim_4001c9c44c",
+      "source": "q_a9d2389001f1:claim_4001c9c44c_prior",
+      "target": "q_a9d2389001f1:claim_4001c9c44c",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_4001c9c44c",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_4001c9c44c",
+      "type": "answers"
+    },
+    {
+      "id": "q_a9d2389001f1:supports:q_a9d2389001f1:ev_2->q_a9d2389001f1:claim_bb7575679e",
+      "source": "q_a9d2389001f1:ev_2",
+      "target": "q_a9d2389001f1:claim_bb7575679e",
+      "type": "supports"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_bb7575679e",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_bb7575679e",
+      "type": "answers"
+    },
+    {
+      "id": "q_a9d2389001f1:supports:q_a9d2389001f1:ev_1->q_a9d2389001f1:claim_4c4bd1c782",
+      "source": "q_a9d2389001f1:ev_1",
+      "target": "q_a9d2389001f1:claim_4c4bd1c782",
+      "type": "supports"
+    },
+    {
+      "id": "q_a9d2389001f1:supports:q_a9d2389001f1:ev_2->q_a9d2389001f1:claim_4c4bd1c782",
+      "source": "q_a9d2389001f1:ev_2",
+      "target": "q_a9d2389001f1:claim_4c4bd1c782",
+      "type": "supports"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_4c4bd1c782",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_4c4bd1c782",
+      "type": "answers"
+    },
+    {
+      "id": "q_a9d2389001f1:supports:q_a9d2389001f1:ev_1->q_a9d2389001f1:claim_4b9ddb8403",
+      "source": "q_a9d2389001f1:ev_1",
+      "target": "q_a9d2389001f1:claim_4b9ddb8403",
+      "type": "supports"
+    },
+    {
+      "id": "q_a9d2389001f1:supports:q_a9d2389001f1:ev_2->q_a9d2389001f1:claim_4b9ddb8403",
+      "source": "q_a9d2389001f1:ev_2",
+      "target": "q_a9d2389001f1:claim_4b9ddb8403",
+      "type": "supports"
+    },
+    {
+      "id": "q_a9d2389001f1:answers:q_a9d2389001f1->q_a9d2389001f1:claim_4b9ddb8403",
+      "source": "q_a9d2389001f1",
+      "target": "q_a9d2389001f1:claim_4b9ddb8403",
+      "type": "answers"
+    }
+  ],
+  "turns": [
+    {
+      "query_id": "q_a9d2389001f1",
+      "query": "Toulouse agriculture pilot: list three practical advisory checks for today.",
+      "answer": "One-sentence recommendation: Make a small evidence-based move first, then verify local policy, weather, and procurement terms. Do first\n1. Identify the crop, sales window, target buyer, and delivery place before committing volume.\n2. Use the retrieved evidence to check whether policy, market, logistics, or weather conditions fit the current location. Why this judgment Retrieved evidence points to: 涉及evidence信息，关联实体包括CSA、REDD; 涉及evidence信息，关联实体包括MODULE、US、GHG、CSA; 提供evidence类证据，可用于支撑回答中的事实依据. Market and channels Start with a small batch, confirm price, grading, packaging, settlement date, and cold-chain or ordinary delivery requirements with the buyer. Next step Refresh live search or upload the latest local notice, quotation, contract, or field record if the decision needs formal execution.",
+      "created_at": "2026-06-02T13:07:13",
+      "claim_ids": [
+        "q_a9d2389001f1:claim_810a4e1f79",
+        "q_a9d2389001f1:claim_559184cb3b",
+        "q_a9d2389001f1:claim_ac2f421e3c",
+        "q_a9d2389001f1:claim_ff8021eb1b",
+        "q_a9d2389001f1:claim_4001c9c44c",
+        "q_a9d2389001f1:claim_bb7575679e",
+        "q_a9d2389001f1:claim_4c4bd1c782",
+        "q_a9d2389001f1:claim_4b9ddb8403"
+      ]
+    }
+  ],
+  "last_anchor_id": "q_a9d2389001f1:claim_4b9ddb8403",
+  "source_types": {
+    "document": "来自当前知识库文档 chunk 的证据",
+    "web_search": "来自真实联网搜索结果；未配置搜索时不会伪造",
+    "model_prior": "来自模型内置知识或通用推理，不是文档证据",
+    "inferred": "由多个文档证据综合推理得到",
+    "unsupported": "没有可靠证据支持或证据不足"
+  }
+}

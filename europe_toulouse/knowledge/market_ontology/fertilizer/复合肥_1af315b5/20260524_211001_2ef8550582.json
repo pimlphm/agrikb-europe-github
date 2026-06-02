@@ -1,0 +1,138 @@
+{
+  "record_id": "market:fertilizer:复合肥_1af315b5:20260524_211001:2ef8550582",
+  "created_at": "2026-05-24T21:10:01",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:fertilizer:复合肥_1af315b5:20260524_211001:2ef8550582",
+    "@type": "agri:FertilizerMarketObservation",
+    "ontology_class": {
+      "class": "agri:FertilizerMarketObservation",
+      "broader": "agri:AgriculturalInput",
+      "label": "肥料农资"
+    },
+    "product": {
+      "@id": "agri:product_复合肥_1af315b5",
+      "name": "复合肥",
+      "broader": "agri:AgriculturalInput"
+    },
+    "category": {
+      "@id": "agri:category_fertilizer_2fa688b4",
+      "id": "fertilizer",
+      "name": "肥料农资"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-24 21:10:01",
+    "decision": "复合肥暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。",
+    "price_rows": [],
+    "sources": [
+      {
+        "title": "肥料价格与农资行情公开检索",
+        "url": "https://www.moa.gov.cn/",
+        "snippet": "复合肥价格受原料、运输、季节备肥影响较大，建议对比本地农资门店、供销社和公开行情。",
+        "source": "公开农资信息",
+        "date": "",
+        "source_type": "curated_public_source"
+      },
+      {
+        "title": "936443068_121405785 2025年下半年受进出口国内因素影响，我国复合肥价格行情走势分析！_利...",
+        "url": "https://www.sohu.com/a/936443068_121405785",
+        "snippet": "Sep 19, 2025 · 咱们把下半年的 复 合肥 需求想象成一场接力赛，第一棒是秋天的小麦肥，第二棒是冬储肥，最后一棒是果树蔬菜这些经济作物，三棒跑完，差不多就把全年四成的量给消化掉了。 说到 价格 ，下半年整体节奏用四个字概括：先蹲后跳，…",
+        "source": "sohu.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "fuhefei 复合肥价格行情|最新复合肥行情|复合肥价格-火爆农化招商网【1988.TV...",
+        "url": "http://fert.1988.tv/fuhefei/",
+        "snippet": "5 days ago · 1988.TV火爆农化招商网 复 合肥 价格 专栏,提供最新 复 合肥 价格 、中国 复 合肥 价格行情 ,包括史丹利 复 合肥 价格、洋丰复 合肥 价格、撒可富复 合肥 价格、鲁西复 合肥 报价等山东 复 合肥 价格 走势。",
+        "source": "fert.1988.tv",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "全国农产品批发市场价格信息系统 全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "1 day ago · 首页 价格 指数 价格行情 价格 报送 分析报告 新闻资讯 市场简介 农产品展示",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "858 最新复合肥、磷肥、钾肥价格行情！",
+        "url": "https://www.fuwu.com/articles/858",
+        "snippet": "Sep 3, 2025 · 复 合肥 市场 价格 整体稳定，主流企业以执行前期订单为主，秋季肥市场推进仍显缓慢。 原料方面，尿素市场稳中震荡，一铵、钾肥价格持稳， 复 合肥 成本整体波动有限，对价格形成支撑。 下游 采购 按需跟进，谨慎观望。",
+        "source": "fuwu.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "fuhefei 复合肥_价格行情_中肥网",
+        "url": "http://fert.cn/fuhefei/",
+        "snippet": "推荐品牌 金沂蒙 国投罗钾 中海油 东北丰掺混肥料 东北丰复合肥料 东北丰掺混肥料 有机无机复混肥料 (III型) 东北丰复合肥料 星王复合肥料高浓度硫酸钾型 产销动态 企业动态 . 江苏 阿波罗 复合肥 产销动态 . 云图控股 复合肥 产销动态 . 山东某厂1 复合肥 产销动态 . 云南云田肥业 复合肥 产销动态 . 湖北 ...",
+        "source": "fert.cn",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "price 肥料行情_中国复合肥网",
+        "url": "https://www.cnfhf.com/html/list-price.html",
+        "snippet": "国内尿素市场分析 国内尿素市场呈现出复杂而独特的发展态势 [ 氮 肥 ] 2025-10-31 22:41:10 尿素 价格 再陷拉锯，下游抵触情绪升温！ 最新工厂 报价 当前阶段，市场进入博弈期—— 工厂想挺价，下游不愿接盘； 价格 走弱预期虽有，但跌幅或不会太大。",
+        "source": "cnfhf.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "复合肥暂无稳定价格表，已找到公开来源线索，适合先询价再决策。",
+      "advice": [
+        "至少比三家报价",
+        "核对品牌规格和批号",
+        "优先选择可开票渠道"
+      ],
+      "risk": "农资采购要核对登记证、有效期、售后和配送范围，避免只比单价。",
+      "action": "今天先把肥料农资的规格和用量列清。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "复合肥暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_复合肥_1af315b5",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_fertilizer_2fa688b4"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260524_211001:2ef8550582",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_复合肥_1af315b5"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260524_211001:2ef8550582",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260524_211001:2ef8550582",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:fertilizer:复合肥_1af315b5:20260524_211001:2ef8550582",
+        "predicate": "agri:hasDecision",
+        "object": "复合肥暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+      }
+    ]
+  }
+}

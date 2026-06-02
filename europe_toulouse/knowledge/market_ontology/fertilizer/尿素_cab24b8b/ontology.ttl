@@ -1,0 +1,96 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> a agri:FertilizerMarketObservation ;
+  agri:observesProduct <agri:product_尿素_cab24b8b> ;
+  agri:hasMarketCategory <agri:category_fertilizer_2fa688b4> ;
+  agri:observedAt "2026-05-25 09:52:39" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "尿素已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。" .
+
+<agri:product_尿素_cab24b8b> a agri:AgriculturalThing ;
+  schema:name "尿素" .
+
+<agri:category_fertilizer_2fa688b4> a agri:MarketCategory ;
+  schema:name "肥料农资" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:1> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "2000.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "福建" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:2> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "1750.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "广东" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:3> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "2200.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "河南" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:4> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "1650.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "湖北" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:5> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "2500.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "江苏" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:6> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "1850.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "山东" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:7> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "2000.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "上海" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:8> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "1750.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "肥料农资" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:9> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "1800.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "肥料农资" ;
+  agri:sourceName "m.chemicalbook.com" ;
+  agri:sourceUrl "https://m.chemicalbook.com/priceindex_cb5853861.htm" .
+
+<market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7:price:10> a agri:PriceObservation ;
+  agri:belongsTo <market:fertilizer:尿素_cab24b8b:20260525_095239:bb521866d7> ;
+  agri:priceValue "1600.00" ;
+  agri:priceUnit "元/吨" ;
+  agri:marketName "肥料农资" ;
+  agri:sourceName "ymt.com" ;
+  agri:sourceUrl "https://www.ymt.com/supply/65924337" .

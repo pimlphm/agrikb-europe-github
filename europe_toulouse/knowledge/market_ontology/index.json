@@ -1,0 +1,110 @@
+{
+  "ontology": "agrikb-market-ontology-v1",
+  "root": "knowledge/market_ontology",
+  "updated_at": "2026-06-02T13:06:28",
+  "record_count": 112,
+  "categories": [
+    {
+      "category": "produce",
+      "category_name": "农产品行情",
+      "products": {
+        "草莓": {
+          "product": "草莓",
+          "latest_file": "knowledge/market_ontology/produce/草莓_54658e47/latest.json",
+          "ttl_file": "knowledge/market_ontology/produce/草莓_54658e47/ontology.ttl",
+          "updated_at": "2026-05-25 17:24:17"
+        },
+        "大葱": {
+          "product": "大葱",
+          "latest_file": "knowledge/market_ontology/produce/大葱_e3aebe28/latest.json",
+          "ttl_file": "knowledge/market_ontology/produce/大葱_e3aebe28/ontology.ttl",
+          "updated_at": "2026-05-25 09:52:22"
+        },
+        "水蜜桃": {
+          "product": "水蜜桃",
+          "latest_file": "knowledge/market_ontology/produce/水蜜桃_dbbcbba1/latest.json",
+          "ttl_file": "knowledge/market_ontology/produce/水蜜桃_dbbcbba1/ontology.ttl",
+          "updated_at": "2026-05-25 09:52:32"
+        },
+        "grape": {
+          "product": "grape",
+          "latest_file": "knowledge/market_ontology/produce/grape_bc8a2f8c/latest.json",
+          "ttl_file": "knowledge/market_ontology/produce/grape_bc8a2f8c/ontology.ttl",
+          "updated_at": "2026-06-02 13:06:28"
+        }
+      },
+      "record_count": 94
+    },
+    {
+      "category": "fertilizer",
+      "category_name": "肥料农资",
+      "products": {
+        "尿素": {
+          "product": "尿素",
+          "latest_file": "knowledge/market_ontology/fertilizer/尿素_cab24b8b/latest.json",
+          "ttl_file": "knowledge/market_ontology/fertilizer/尿素_cab24b8b/ontology.ttl",
+          "updated_at": "2026-05-25 09:52:39"
+        },
+        "复合肥": {
+          "product": "复合肥",
+          "latest_file": "knowledge/market_ontology/fertilizer/复合肥_1af315b5/latest.json",
+          "ttl_file": "knowledge/market_ontology/fertilizer/复合肥_1af315b5/ontology.ttl",
+          "updated_at": "2026-05-25 09:52:42"
+        }
+      },
+      "record_count": 6
+    },
+    {
+      "category": "machinery",
+      "category_name": "农机装备",
+      "products": {
+        "拖拉机": {
+          "product": "拖拉机",
+          "latest_file": "knowledge/market_ontology/machinery/拖拉机_4ae62652/latest.json",
+          "ttl_file": "knowledge/market_ontology/machinery/拖拉机_4ae62652/ontology.ttl",
+          "updated_at": "2026-05-25 09:52:51"
+        }
+      },
+      "record_count": 3
+    },
+    {
+      "category": "seed",
+      "category_name": "种子种苗",
+      "products": {
+        "草莓苗": {
+          "product": "草莓苗",
+          "latest_file": "knowledge/market_ontology/seed/草莓苗_0e2ff007/latest.json",
+          "ttl_file": "knowledge/market_ontology/seed/草莓苗_0e2ff007/ontology.ttl",
+          "updated_at": "2026-05-25 09:52:55"
+        }
+      },
+      "record_count": 3
+    },
+    {
+      "category": "pesticide",
+      "category_name": "农药植保",
+      "products": {
+        "杀菌剂": {
+          "product": "杀菌剂",
+          "latest_file": "knowledge/market_ontology/pesticide/杀菌剂_15744bd6/latest.json",
+          "ttl_file": "knowledge/market_ontology/pesticide/杀菌剂_15744bd6/ontology.ttl",
+          "updated_at": "2026-05-25 09:53:01"
+        }
+      },
+      "record_count": 3
+    },
+    {
+      "category": "feed",
+      "category_name": "饲料养殖",
+      "products": {
+        "玉米饲料": {
+          "product": "玉米饲料",
+          "latest_file": "knowledge/market_ontology/feed/玉米饲料_195dad43/latest.json",
+          "ttl_file": "knowledge/market_ontology/feed/玉米饲料_195dad43/ontology.ttl",
+          "updated_at": "2026-05-25 09:53:07"
+        }
+      },
+      "record_count": 3
+    }
+  ]
+}

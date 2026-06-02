@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 354,
+            "totalPages": 36
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_321:0001662",
+            "traitId": "CO_321:0001662",
+            "name": "Above ground biomass nitrogen content",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001702"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000084",
+            "traitId": "CO_321:0000084",
+            "name": "Ant damage",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001046"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000982",
+            "traitId": "CO_321:0000982",
+            "name": "Anther extrusion",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001482",
+                "CO_321:0001483"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000085",
+            "traitId": "CO_321:0000085",
+            "name": "Aphid damage",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001049",
+                "CO_321:0001050"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000086",
+            "traitId": "CO_321:0000086",
+            "name": "Armyworm damage",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001051"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000932",
+            "traitId": "CO_321:0000932",
+            "name": "Bacterial leaf blight severity",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001438",
+                "CO_321:0001054"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000933",
+            "traitId": "CO_321:0000933",
+            "name": "Barley Helminthosporium leaf stripe incidence",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001057",
+                "CO_321:0001058",
+                "CO_321:0001056"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000692",
+            "traitId": "CO_321:0000692",
+            "name": "Barley leaf rust coefficient of infection",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001059"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000647",
+            "traitId": "CO_321:0000647",
+            "name": "Barley leaf rust severity",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001061",
+                "CO_321:0001062"
+            ]
+        },
+        {
+            "traitDbId": "CO_321:0000710",
+            "traitId": "CO_321:0000710",
+            "name": "Barley scald severity",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_321:0001439",
+                "CO_321:0001065",
+                "CO_321:0001064"
+            ]
+        }
+    ]
+}

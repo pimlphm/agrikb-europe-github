@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 273,
+            "totalPages": 28
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_330:0000000",
+            "traitId": "CO_330:0000000",
+            "name": "Plant growth habit",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000223"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000003",
+            "traitId": "CO_330:0000003",
+            "name": "Flowering degree",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000224",
+                "CO_330:0000620"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000006",
+            "traitId": "CO_330:0000006",
+            "name": "Corolla shape",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000225"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000009",
+            "traitId": "CO_330:0000009",
+            "name": "Inflorescence number",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000226"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000012",
+            "traitId": "CO_330:0000012",
+            "name": "Main inflorescence flower number",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000227"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000015",
+            "traitId": "CO_330:0000015",
+            "name": "Anther pigmentation",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000228"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000018",
+            "traitId": "CO_330:0000018",
+            "name": "Pistil pigmentation",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000229"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000021",
+            "traitId": "CO_330:0000021",
+            "name": "Fruit shape",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000230"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000024",
+            "traitId": "CO_330:0000024",
+            "name": "Fruit color",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000231"
+            ]
+        },
+        {
+            "traitDbId": "CO_330:0000027",
+            "traitId": "CO_330:0000027",
+            "name": "Pedicel color",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_330:0000232"
+            ]
+        }
+    ]
+}

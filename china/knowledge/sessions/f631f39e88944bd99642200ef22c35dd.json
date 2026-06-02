@@ -1,0 +1,1096 @@
+{
+  "session_id": "f631f39e88944bd99642200ef22c35dd",
+  "created_at": "2026-05-25T08:31:38",
+  "updated_at": "2026-05-25T08:31:38",
+  "title": "解释草莓营销策略，结合江苏句容天气、市场渠道和政策机会",
+  "summary": "2026-05-25T08:31:38 用户关注：解释草莓营销策略，结合江苏句容天气、市场渠道和政策机会；系统结论：一句话建议：趁今明两天无雨，抢采八成熟草莓，分级后直发镇江批发市场，同步在\"福地云选\"上架预售。 今日先做 1. 抢采与分级。今明降水为0mm，气温28℃左右，适合采收。只采八成熟果，按大小、色泽分三级，减少次果混装。 2. 防潮装车。箱底垫高、加防潮内衬，避免露水入箱。车程44分钟、51.9公里，短途运输可先用冷藏车或加装冰瓶。 3. 双线挂牌。一车直发...",
+  "temporary_memory": [
+    {
+      "id": "mem_7ef24af5db",
+      "text": "本轮关注 解释草莓营销策略、结合江苏句容天气、市场渠道和政策机、江苏句容、气象、环境",
+      "created_at": "2026-05-25T08:31:38",
+      "updated_at": "2026-05-25T08:31:38",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "q_24b32a1d3f16",
+      "type": "query",
+      "label": "用户问题",
+      "detail": "解释草莓营销策略，结合江苏句容天气、市场渠道和政策机会",
+      "source_type": "query",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_1",
+      "type": "entity",
+      "label": "解释草莓营销策略",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_2",
+      "type": "entity",
+      "label": "结合江苏句容天气",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_3",
+      "type": "entity",
+      "label": "市场渠道和政策机会",
+      "detail": "来自问题关键词",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_1",
+      "type": "document",
+      "label": "江苏句容实时气象环境",
+      "detail": "https://open-meteo.com/",
+      "source_type": "web_search",
+      "doc_id": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_4",
+      "type": "entity",
+      "label": "江苏句容",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_5",
+      "type": "entity",
+      "label": "气象",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_6",
+      "type": "entity",
+      "label": "环境",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_1",
+      "type": "retrieved_chunk",
+      "label": "江苏句容实时气象环境",
+      "detail": "产地: 江苏镇江 / 江苏句容 当前温度: 27.2摄氏度；相对湿度: 89%；降水: 0mm；风速: 2.1km/h。 未来最高温: 29.9摄氏度、30.1摄氏度、28摄氏度、29.5摄氏度、28.1摄氏度、27.9摄氏度等；最低温: 23.5摄氏度、23.4摄氏度、21.9摄氏度、22.3摄氏度、19.6摄氏度、16.4摄氏度等；未来降水量: 27.7mm、26.9mm、0mm、0mm、0mm、0mm等。",
+      "evidence_id": "E1",
+      "doc_name": "江苏句容实时气象环境",
+      "file_name": "江苏句容实时气象环境",
+      "doc_id": "江苏句容实时气象环境",
+      "chunk_id": "regional_weather_605426604991254184",
+      "title": "regional_weather",
+      "section": "regional_weather",
+      "page": null,
+      "raw_text": "产地: 江苏镇江 / 江苏句容 当前温度: 27.2摄氏度；相对湿度: 89%；降水: 0mm；风速: 2.1km/h。 未来最高温: 29.9摄氏度、30.1摄氏度、28摄氏度、29.5摄氏度、28.1摄氏度、27.9摄氏度等；最低温: 23.5摄氏度、23.4摄氏度、21.9摄氏度、22.3摄氏度、19.6摄氏度、16.4摄氏度等；未来降水量: 27.7mm、26.9mm、0mm、0mm、0mm、0mm等。",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "气象",
+        "环境"
+      ],
+      "snippet": "产地: 江苏镇江 / 江苏句容 当前温度: 27.2摄氏度；相对湿度: 89%；降水: 0mm；风速: 2.1km/h。 未来最高温: 29.9摄氏度、30.1摄氏度、28摄氏度、29.5摄氏度、28.1摄氏度、27.9摄氏度等；最低温: 23.5摄氏度、23.4摄氏度、21.9摄氏度、22.3摄氏度、19.6摄氏度、16.4摄氏度等；未来降水量: 27.7mm、26.9mm、0mm、0mm、0mm、0mm等。",
+      "supports": "涉及regional_weather信息，关联实体包括江苏句容、气象、环境、气候",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_weather_605426604991254184",
+        "doc_id": "江苏句容实时气象环境",
+        "chunk_id": "regional_weather_605426604991254184",
+        "file_name": "江苏句容实时气象环境",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_2",
+      "type": "document",
+      "label": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "detail": "https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=31.94869%2C119.1655%3B32.21086%2C119.45508",
+      "source_type": "web_search",
+      "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_7",
+      "type": "entity",
+      "label": "镇江农产品批发市场",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_8",
+      "type": "entity",
+      "label": "物流",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_2",
+      "type": "retrieved_chunk",
+      "label": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "detail": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 27.8摄氏度；降水 0.8mm；风速 7.8km/h。 预计运输距离: 51.9km；预计车程: 44分钟；路线来源: OSRM实时路线估算。 经营提示: 产地有明显降雨，优先抢采耐损耗低的成熟果菜，发往镇江农产品批发市场前先做分级和防潮包装。 路线策略: 雨前抢采，避开强降雨装车；加防潮内衬，箱底垫高，减少露水入箱；",
+      "evidence_id": "E2",
+      "doc_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+      "chunk_id": "regional_route_market_811187172954034990",
+      "title": "regional_route_market",
+      "section": "regional_route_market",
+      "page": null,
+      "raw_text": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 27.8摄氏度；降水 0.8mm；风速 7.8km/h。 预计运输距离: 51.9km；预计车程: 44分钟；路线来源: OSRM实时路线估算。 经营提示: 产地有明显降雨，优先抢采耐损耗低的成熟果菜，发往镇江农产品批发市场前先做分级和防潮包装。 路线策略: 雨前抢采，避开强降雨装车；加防潮内衬，箱底垫高，减少露水入箱；",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "物流"
+      ],
+      "snippet": "产地: 江苏镇江 / 江苏句容 目标市场: 镇江农产品批发市场 市场天气: 温度 27.8摄氏度；降水 0.8mm；风速 7.8km/h。 预计运输距离: 51.9km；预计车程: 44分钟；路线来源: OSRM实时路线估算。 经营提示: 产地有明显降雨，优先抢采耐损耗低的成熟果菜，发往镇江农产品批发市场前先做分级和防潮包装。 路线策略: 雨前抢采，避开强降雨装车；加防潮内衬，箱底垫高，减少露水入箱；",
+      "supports": "涉及regional_route_market信息，关联实体包括江苏句容、镇江农产品批发市场、物流、收购",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_route_market_811187172954034990",
+        "doc_id": "江苏句容到镇江农产品批发市场运输与市场态势",
+        "chunk_id": "regional_route_market_811187172954034990",
+        "file_name": "江苏句容到镇江农产品批发市场运输与市场态势",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_3",
+      "type": "document",
+      "label": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "detail": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%B1%9F%E8%8B%8F%E5%8F%A5%E5%AE%B9+%E9%95%87%E6%B1%9F%E5%86%9C%E4%BA%A7%E5%93%81%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA+%E5%86%9C%E4%BA%A7%E5%93%81+%E5%86%B7%E9%93%BE%E7%89%A9%E6%B5%81+%E9%85%8D%E9%80%81",
+      "source_type": "web_search",
+      "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_9",
+      "type": "entity",
+      "label": "冷链",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_3",
+      "type": "retrieved_chunk",
+      "label": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "detail": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https://s.1688.com/selloffer/offer_search.",
+      "evidence_id": "E3",
+      "doc_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+      "chunk_id": "regional_logistics_supplier_8661267500123746170",
+      "title": "regional_logistics_supplier",
+      "section": "regional_logistics_supplier",
+      "page": null,
+      "raw_text": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https://s.1688.com/selloffer/offer_search.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "冷链"
+      ],
+      "snippet": "冷链物流供应商筛选结果 1. 1688冷链物流服务商公开检索 平台: 1688；联系方式: 平台在线联系/询价 服务: 需核实是否覆盖江苏句容至镇江农产品批发市场，服务关键词：冷链、冷藏、农产品、配送 来源: https://s.1688.com/selloffer/offer_search.",
+      "supports": "涉及regional_logistics_supplier信息，关联实体包括江苏句容、镇江农产品批发市场、冷链、供应商",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_logistics_supplier_8661267500123746170",
+        "doc_id": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+        "chunk_id": "regional_logistics_supplier_8661267500123746170",
+        "file_name": "江苏句容到镇江农产品批发市场冷链供应商筛选",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_4",
+      "type": "document",
+      "label": "江苏句容政策与产业扶持",
+      "detail": "http://pfsc.agri.cn/",
+      "source_type": "web_search",
+      "doc_id": "江苏句容政策与产业扶持",
+      "file_name": "江苏句容政策与产业扶持",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ent_10",
+      "type": "entity",
+      "label": "农业局",
+      "detail": "来自证据实体",
+      "source_type": "entity",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_4",
+      "type": "retrieved_chunk",
+      "label": "江苏句容政策与产业扶持",
+      "detail": "江苏句容政策与产业扶持 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "evidence_id": "E4",
+      "doc_name": "江苏句容政策与产业扶持",
+      "file_name": "江苏句容政策与产业扶持",
+      "doc_id": "江苏句容政策与产业扶持",
+      "chunk_id": "regional_policy_news_2044762136135574550",
+      "title": "regional_policy_news",
+      "section": "regional_policy_news",
+      "page": null,
+      "raw_text": "江苏句容政策与产业扶持 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "江苏句容政策与产业扶持 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "supports": "涉及regional_policy_news信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_policy_news_2044762136135574550",
+        "doc_id": "江苏句容政策与产业扶持",
+        "chunk_id": "regional_policy_news_2044762136135574550",
+        "file_name": "江苏句容政策与产业扶持",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_5",
+      "type": "document",
+      "label": "镇江农产品批发市场市场收购信息",
+      "detail": "http://pfsc.agri.cn/",
+      "source_type": "web_search",
+      "doc_id": "镇江农产品批发市场市场收购信息",
+      "file_name": "镇江农产品批发市场市场收购信息",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_5",
+      "type": "retrieved_chunk",
+      "label": "镇江农产品批发市场市场收购信息",
+      "detail": "镇江农产品批发市场市场收购信息 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "evidence_id": "E5",
+      "doc_name": "镇江农产品批发市场市场收购信息",
+      "file_name": "镇江农产品批发市场市场收购信息",
+      "doc_id": "镇江农产品批发市场市场收购信息",
+      "chunk_id": "regional_market_signal_6165767478615814688",
+      "title": "regional_market_signal",
+      "section": "regional_market_signal",
+      "page": null,
+      "raw_text": "镇江农产品批发市场市场收购信息 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "镇江农产品批发市场市场收购信息 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "supports": "涉及regional_market_signal信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_market_signal_6165767478615814688",
+        "doc_id": "镇江农产品批发市场市场收购信息",
+        "chunk_id": "regional_market_signal_6165767478615814688",
+        "file_name": "镇江农产品批发市场市场收购信息",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_6",
+      "type": "document",
+      "label": "本地物流与冷链渠道",
+      "detail": "http://pfsc.agri.cn/",
+      "source_type": "web_search",
+      "doc_id": "本地物流与冷链渠道",
+      "file_name": "本地物流与冷链渠道",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_6",
+      "type": "retrieved_chunk",
+      "label": "本地物流与冷链渠道",
+      "detail": "本地物流与冷链渠道 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "evidence_id": "E6",
+      "doc_name": "本地物流与冷链渠道",
+      "file_name": "本地物流与冷链渠道",
+      "doc_id": "本地物流与冷链渠道",
+      "chunk_id": "regional_logistics_signal_7790242117122119715",
+      "title": "regional_logistics_signal",
+      "section": "regional_logistics_signal",
+      "page": null,
+      "raw_text": "本地物流与冷链渠道 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "本地物流与冷链渠道 1. 全国农产品批发市场价格信息系统 链接: http://pfsc.agri.cn/ 摘要: 农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。 2. 重点农产品市场信息平台 链接: https://ncpscxx.moa.gov.cn/ 摘要: 农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。 3. 中国价格信息网-农产品 链接: https://jgjc.ndrc.gov.",
+      "supports": "涉及regional_logistics_signal信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_logistics_signal_7790242117122119715",
+        "doc_id": "本地物流与冷链渠道",
+        "chunk_id": "regional_logistics_signal_7790242117122119715",
+        "file_name": "本地物流与冷链渠道",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_7",
+      "type": "document",
+      "label": "本地助农与电商渠道",
+      "detail": "https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm",
+      "source_type": "web_search",
+      "doc_id": "本地助农与电商渠道",
+      "file_name": "本地助农与电商渠道",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_7",
+      "type": "retrieved_chunk",
+      "label": "本地助农与电商渠道",
+      "detail": "本地助农与电商渠道 1. 福地云选 / 江苏句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，江苏句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与江苏句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家江苏句容运营中心 链接: https://www.chinacoop.gov.",
+      "evidence_id": "E7",
+      "doc_name": "本地助农与电商渠道",
+      "file_name": "本地助农与电商渠道",
+      "doc_id": "本地助农与电商渠道",
+      "chunk_id": "regional_ecommerce_channel_6982239499386485115",
+      "title": "regional_ecommerce_channel",
+      "section": "regional_ecommerce_channel",
+      "page": null,
+      "raw_text": "本地助农与电商渠道 1. 福地云选 / 江苏句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，江苏句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与江苏句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家江苏句容运营中心 链接: https://www.chinacoop.gov.",
+      "score": 0.64,
+      "source_type": "web_search",
+      "entities": [
+        "江苏句容",
+        "镇江农产品批发市场",
+        "农业局"
+      ],
+      "snippet": "本地助农与电商渠道 1. 福地云选 / 江苏句容本地农产品电商 链接: https://www.moa.gov.cn/xw/qg/202103/t20210310_6363371.htm 摘要: 农业农村部信息显示，江苏句容以电商平台助农帮销，曾策划茅山长青节、华阳福桃文化节等活动，并计划与江苏句容市农业农村局合作打造本地特色蔬菜品牌。 2. 供销 e 家江苏句容运营中心 链接: https://www.chinacoop.gov.",
+      "supports": "涉及regional_ecommerce_channel信息，关联实体包括江苏句容、镇江农产品批发市场、农业局、助农",
+      "provenance": {
+        "source_type": "web_search",
+        "source_id": "regional_ecommerce_channel_6982239499386485115",
+        "doc_id": "本地助农与电商渠道",
+        "chunk_id": "regional_ecommerce_channel_6982239499386485115",
+        "file_name": "本地助农与电商渠道",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 0.64,
+        "confidence": 0.64,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:doc_8",
+      "type": "document",
+      "label": "54_江苏_句容_草莓产业推介活动举行.md",
+      "detail": "54_江苏_句容_草莓产业推介活动举行.md",
+      "source_type": "document",
+      "doc_id": "54_江苏_句容_草莓产业推介活动举行",
+      "file_name": "54_江苏_句容_草莓产业推介活动举行.md",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:ev_8",
+      "type": "retrieved_chunk",
+      "label": "54_江苏_句容_草莓产业推介活动举行.md",
+      "detail": "# 江苏（句容）草莓产业推介活动举行 - 类型: 江苏句容本地农业产业报道 - 栏目: 今日句容 - 来源: 市融媒体中心 - 日期: 2024-12-31 08:38 - 原文链接: https://www.jurong.gov.cn/jurong/jrjr/202412/ea2c800ef2654fef95d7cdb46514ec28.",
+      "evidence_id": "E8",
+      "doc_name": "54_江苏_句容_草莓产业推介活动举行.md",
+      "file_name": "54_江苏_句容_草莓产业推介活动举行.md",
+      "doc_id": "54_江苏_句容_草莓产业推介活动举行",
+      "chunk_id": "54_江苏_句容_草莓产业推介活动举行_0001",
+      "title": "evidence",
+      "section": "evidence",
+      "page": null,
+      "raw_text": "# 江苏（句容）草莓产业推介活动举行 - 类型: 江苏句容本地农业产业报道 - 栏目: 今日句容 - 来源: 市融媒体中心 - 日期: 2024-12-31 08:38 - 原文链接: https://www.jurong.gov.cn/jurong/jrjr/202412/ea2c800ef2654fef95d7cdb46514ec28.",
+      "score": 1.2174,
+      "source_type": "document",
+      "entities": [
+        "解释草莓营销策略"
+      ],
+      "snippet": "# 江苏（句容）草莓产业推介活动举行 - 类型: 江苏句容本地农业产业报道 - 栏目: 今日句容 - 来源: 市融媒体中心 - 日期: 2024-12-31 08:38 - 原文链接: https://www.jurong.gov.cn/jurong/jrjr/202412/ea2c800ef2654fef95d7cdb46514ec28.",
+      "supports": "提供evidence类证据，可用于支撑回答中的事实依据",
+      "provenance": {
+        "source_type": "document",
+        "source_id": "54_江苏_句容_草莓产业推介活动举行_0001",
+        "doc_id": "54_江苏_句容_草莓产业推介活动举行",
+        "chunk_id": "54_江苏_句容_草莓产业推介活动举行_0001",
+        "file_name": "54_江苏_句容_草莓产业推介活动举行.md",
+        "page": null,
+        "url": null,
+        "model": null,
+        "retrieval_score": 1.2174,
+        "confidence": 1.2174,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_8b7dd145c0",
+      "type": "answer_claim",
+      "label": "Claim 1",
+      "detail": "一句话建议：趁今明两天无雨，抢采八成熟草莓，分级后直发镇江批发市场，同步在\"福地云选\"上架预售。",
+      "text": "一句话建议：趁今明两天无雨，抢采八成熟草莓，分级后直发镇江批发市场，同步在\"福地云选\"上架预售。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_8b7dd145c0_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_6103c23d0d",
+      "type": "answer_claim",
+      "label": "Claim 2",
+      "detail": "今日先做",
+      "text": "今日先做",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_6103c23d0d_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_7e156fb03d",
+      "type": "answer_claim",
+      "label": "Claim 3",
+      "detail": "1.",
+      "text": "1.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_7e156fb03d_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_b21789b379",
+      "type": "answer_claim",
+      "label": "Claim 4",
+      "detail": "抢采与分级。",
+      "text": "抢采与分级。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_b21789b379_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_d38668fc79",
+      "type": "answer_claim",
+      "label": "Claim 5",
+      "detail": "今明降水为0mm，气温28℃左右，适合采收。",
+      "text": "今明降水为0mm，气温28℃左右，适合采收。",
+      "source_type": "model_prior",
+      "confidence": 0.48,
+      "warning": "非文档证据：来源不是当前知识库文档 chunk",
+      "supporting_evidence_ids": [
+        "E1"
+      ],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "E1",
+        "confidence": 0.48,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_e3ab485944",
+      "type": "answer_claim",
+      "label": "Claim 6",
+      "detail": "只采八成熟果，按大小、色泽分三级，减少次果混装。",
+      "text": "只采八成熟果，按大小、色泽分三级，减少次果混装。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_e3ab485944_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_9dd5087548",
+      "type": "answer_claim",
+      "label": "Claim 7",
+      "detail": "2.",
+      "text": "2.",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_9dd5087548_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_7d88cf9383",
+      "type": "answer_claim",
+      "label": "Claim 8",
+      "detail": "防潮装车。",
+      "text": "防潮装车。",
+      "source_type": "model_prior",
+      "confidence": 0.42,
+      "warning": "非文档证据：来自模型内置知识或通用推理",
+      "supporting_evidence_ids": [],
+      "provenance": {
+        "source_type": "model_prior",
+        "source_id": "model_prior",
+        "confidence": 0.42,
+        "created_at": "2026-05-25T08:31:38"
+      },
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    },
+    {
+      "id": "q_24b32a1d3f16:claim_7d88cf9383_prior",
+      "type": "model_prior",
+      "label": "非文档证据",
+      "detail": "非文档证据：来自模型内置知识或通用推理",
+      "source_type": "model_prior",
+      "query_id": "q_24b32a1d3f16",
+      "session_id": "f631f39e88944bd99642200ef22c35dd"
+    }
+  ],
+  "edges": [
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_1",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_1",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_2",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_2",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_3",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_3",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_4",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_4",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_5",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_5",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_6",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_6",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_1->q_24b32a1d3f16:ev_1",
+      "source": "q_24b32a1d3f16:doc_1",
+      "target": "q_24b32a1d3f16:ev_1",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_4->q_24b32a1d3f16:ev_1",
+      "source": "q_24b32a1d3f16:ent_4",
+      "target": "q_24b32a1d3f16:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_5->q_24b32a1d3f16:ev_1",
+      "source": "q_24b32a1d3f16:ent_5",
+      "target": "q_24b32a1d3f16:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_6->q_24b32a1d3f16:ev_1",
+      "source": "q_24b32a1d3f16:ent_6",
+      "target": "q_24b32a1d3f16:ev_1",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_7",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_7",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_8",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_8",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_2->q_24b32a1d3f16:ev_2",
+      "source": "q_24b32a1d3f16:doc_2",
+      "target": "q_24b32a1d3f16:ev_2",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_4->q_24b32a1d3f16:ev_2",
+      "source": "q_24b32a1d3f16:ent_4",
+      "target": "q_24b32a1d3f16:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_7->q_24b32a1d3f16:ev_2",
+      "source": "q_24b32a1d3f16:ent_7",
+      "target": "q_24b32a1d3f16:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_8->q_24b32a1d3f16:ev_2",
+      "source": "q_24b32a1d3f16:ent_8",
+      "target": "q_24b32a1d3f16:ev_2",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_9",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_9",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_3->q_24b32a1d3f16:ev_3",
+      "source": "q_24b32a1d3f16:doc_3",
+      "target": "q_24b32a1d3f16:ev_3",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_4->q_24b32a1d3f16:ev_3",
+      "source": "q_24b32a1d3f16:ent_4",
+      "target": "q_24b32a1d3f16:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_7->q_24b32a1d3f16:ev_3",
+      "source": "q_24b32a1d3f16:ent_7",
+      "target": "q_24b32a1d3f16:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_9->q_24b32a1d3f16:ev_3",
+      "source": "q_24b32a1d3f16:ent_9",
+      "target": "q_24b32a1d3f16:ev_3",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:mentions:q_24b32a1d3f16->q_24b32a1d3f16:ent_10",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:ent_10",
+      "type": "mentions"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_4->q_24b32a1d3f16:ev_4",
+      "source": "q_24b32a1d3f16:doc_4",
+      "target": "q_24b32a1d3f16:ev_4",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_4->q_24b32a1d3f16:ev_4",
+      "source": "q_24b32a1d3f16:ent_4",
+      "target": "q_24b32a1d3f16:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_7->q_24b32a1d3f16:ev_4",
+      "source": "q_24b32a1d3f16:ent_7",
+      "target": "q_24b32a1d3f16:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_10->q_24b32a1d3f16:ev_4",
+      "source": "q_24b32a1d3f16:ent_10",
+      "target": "q_24b32a1d3f16:ev_4",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_5->q_24b32a1d3f16:ev_5",
+      "source": "q_24b32a1d3f16:doc_5",
+      "target": "q_24b32a1d3f16:ev_5",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_4->q_24b32a1d3f16:ev_5",
+      "source": "q_24b32a1d3f16:ent_4",
+      "target": "q_24b32a1d3f16:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_7->q_24b32a1d3f16:ev_5",
+      "source": "q_24b32a1d3f16:ent_7",
+      "target": "q_24b32a1d3f16:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_10->q_24b32a1d3f16:ev_5",
+      "source": "q_24b32a1d3f16:ent_10",
+      "target": "q_24b32a1d3f16:ev_5",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_6->q_24b32a1d3f16:ev_6",
+      "source": "q_24b32a1d3f16:doc_6",
+      "target": "q_24b32a1d3f16:ev_6",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_4->q_24b32a1d3f16:ev_6",
+      "source": "q_24b32a1d3f16:ent_4",
+      "target": "q_24b32a1d3f16:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_7->q_24b32a1d3f16:ev_6",
+      "source": "q_24b32a1d3f16:ent_7",
+      "target": "q_24b32a1d3f16:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_10->q_24b32a1d3f16:ev_6",
+      "source": "q_24b32a1d3f16:ent_10",
+      "target": "q_24b32a1d3f16:ev_6",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_7->q_24b32a1d3f16:ev_7",
+      "source": "q_24b32a1d3f16:doc_7",
+      "target": "q_24b32a1d3f16:ev_7",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_4->q_24b32a1d3f16:ev_7",
+      "source": "q_24b32a1d3f16:ent_4",
+      "target": "q_24b32a1d3f16:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_7->q_24b32a1d3f16:ev_7",
+      "source": "q_24b32a1d3f16:ent_7",
+      "target": "q_24b32a1d3f16:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_10->q_24b32a1d3f16:ev_7",
+      "source": "q_24b32a1d3f16:ent_10",
+      "target": "q_24b32a1d3f16:ev_7",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:contains:q_24b32a1d3f16:doc_8->q_24b32a1d3f16:ev_8",
+      "source": "q_24b32a1d3f16:doc_8",
+      "target": "q_24b32a1d3f16:ev_8",
+      "type": "contains"
+    },
+    {
+      "id": "q_24b32a1d3f16:retrieves:q_24b32a1d3f16:ent_1->q_24b32a1d3f16:ev_8",
+      "source": "q_24b32a1d3f16:ent_1",
+      "target": "q_24b32a1d3f16:ev_8",
+      "type": "retrieves"
+    },
+    {
+      "id": "q_24b32a1d3f16:qualifies:q_24b32a1d3f16:claim_8b7dd145c0_prior->q_24b32a1d3f16:claim_8b7dd145c0",
+      "source": "q_24b32a1d3f16:claim_8b7dd145c0_prior",
+      "target": "q_24b32a1d3f16:claim_8b7dd145c0",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_8b7dd145c0",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_8b7dd145c0",
+      "type": "answers"
+    },
+    {
+      "id": "q_24b32a1d3f16:qualifies:q_24b32a1d3f16:claim_6103c23d0d_prior->q_24b32a1d3f16:claim_6103c23d0d",
+      "source": "q_24b32a1d3f16:claim_6103c23d0d_prior",
+      "target": "q_24b32a1d3f16:claim_6103c23d0d",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_6103c23d0d",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_6103c23d0d",
+      "type": "answers"
+    },
+    {
+      "id": "q_24b32a1d3f16:qualifies:q_24b32a1d3f16:claim_7e156fb03d_prior->q_24b32a1d3f16:claim_7e156fb03d",
+      "source": "q_24b32a1d3f16:claim_7e156fb03d_prior",
+      "target": "q_24b32a1d3f16:claim_7e156fb03d",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_7e156fb03d",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_7e156fb03d",
+      "type": "answers"
+    },
+    {
+      "id": "q_24b32a1d3f16:qualifies:q_24b32a1d3f16:claim_b21789b379_prior->q_24b32a1d3f16:claim_b21789b379",
+      "source": "q_24b32a1d3f16:claim_b21789b379_prior",
+      "target": "q_24b32a1d3f16:claim_b21789b379",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_b21789b379",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_b21789b379",
+      "type": "answers"
+    },
+    {
+      "id": "q_24b32a1d3f16:supports:q_24b32a1d3f16:ev_1->q_24b32a1d3f16:claim_d38668fc79",
+      "source": "q_24b32a1d3f16:ev_1",
+      "target": "q_24b32a1d3f16:claim_d38668fc79",
+      "type": "supports"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_d38668fc79",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_d38668fc79",
+      "type": "answers"
+    },
+    {
+      "id": "q_24b32a1d3f16:qualifies:q_24b32a1d3f16:claim_e3ab485944_prior->q_24b32a1d3f16:claim_e3ab485944",
+      "source": "q_24b32a1d3f16:claim_e3ab485944_prior",
+      "target": "q_24b32a1d3f16:claim_e3ab485944",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_e3ab485944",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_e3ab485944",
+      "type": "answers"
+    },
+    {
+      "id": "q_24b32a1d3f16:qualifies:q_24b32a1d3f16:claim_9dd5087548_prior->q_24b32a1d3f16:claim_9dd5087548",
+      "source": "q_24b32a1d3f16:claim_9dd5087548_prior",
+      "target": "q_24b32a1d3f16:claim_9dd5087548",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_9dd5087548",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_9dd5087548",
+      "type": "answers"
+    },
+    {
+      "id": "q_24b32a1d3f16:qualifies:q_24b32a1d3f16:claim_7d88cf9383_prior->q_24b32a1d3f16:claim_7d88cf9383",
+      "source": "q_24b32a1d3f16:claim_7d88cf9383_prior",
+      "target": "q_24b32a1d3f16:claim_7d88cf9383",
+      "type": "qualifies"
+    },
+    {
+      "id": "q_24b32a1d3f16:answers:q_24b32a1d3f16->q_24b32a1d3f16:claim_7d88cf9383",
+      "source": "q_24b32a1d3f16",
+      "target": "q_24b32a1d3f16:claim_7d88cf9383",
+      "type": "answers"
+    }
+  ],
+  "turns": [
+    {
+      "query_id": "q_24b32a1d3f16",
+      "query": "解释草莓营销策略，结合江苏句容天气、市场渠道和政策机会",
+      "answer": "一句话建议：趁今明两天无雨，抢采八成熟草莓，分级后直发镇江批发市场，同步在\"福地云选\"上架预售。\n\n今日先做\n\n1. 抢采与分级。今明降水为0mm，气温28℃左右，适合采收。只采八成熟果，按大小、色泽分三级，减少次果混装。\n2. 防潮装车。箱底垫高、加防潮内衬，避免露水入箱。车程44分钟、51.9公里，短途运输可先用冷藏车或加装冰瓶。\n3. 双线挂牌。一车直发镇江农产品批发市场；另一批同步在\"福地云选\"和供销e家江苏句容运营中心上架，借茅山长青节、华阳福桃文化节的品牌余热做引流。\n\n为什么这样判断\n\n句容草莓产业推介活动已于2024年底由市融媒体中心报道，说明本地草莓已成区域品牌，具备向镇江批发市场批量供货和电商溢价的基础。未来第三天起有27mm左右降雨，雨前抢采可降低裂果和灰霉风险。\n当前相对湿度89%，采收后必须通风预冷，不能闷堆。\n\n市场与渠道\n\n镇江农产品批发市场是51.9公里内的核心收购端，可通过农业农村部全国农产品批发市场价格信息系统实时查价议价。\n冷链方面，1688平台有可询价服务商，但需核实是否覆盖句容至镇江线路，建议优先联系本地已有合作关系的司机，避免临时找车耽误早市。\n电商端，\"福地云选\"是句容市农业农村局合作的本地助农平台，适合打\"句容草莓\"地理标志概念，对接市民采摘游和礼盒预售。\n\n风险提醒\n\n1. 天气窗口窄。第三天起降水27.7mm，雨后高温高湿易诱发病害，抢采期只有今明两天。\n2. 价格波动。批发市场价格需每日核验，建议出货前半小时查询农业农村部价格信息系统，避免低价抛售。\n3. 冷链缺口。证据中1688服务商尚未确认覆盖句容，若无法保证冷藏，应缩减单次出货量、增加频次，或改用泡沫箱加冰瓶过渡。\n\n下一步\n\n1. 打开全国农产品批发市场价格信息系统，查今日草莓均价，作为议价基准。\n2. 联系\"福地云选\"运营人员，确认上架所需资质照片和当日截单时间。\n3. 在供销e家江苏句容运营中心后台更新库存，测试从\"下单—采摘—装车—送达批发市场\"全流程时效，为大赛项目积累可追溯的运营数据。",
+      "created_at": "2026-05-25T08:31:38",
+      "claim_ids": [
+        "q_24b32a1d3f16:claim_8b7dd145c0",
+        "q_24b32a1d3f16:claim_6103c23d0d",
+        "q_24b32a1d3f16:claim_7e156fb03d",
+        "q_24b32a1d3f16:claim_b21789b379",
+        "q_24b32a1d3f16:claim_d38668fc79",
+        "q_24b32a1d3f16:claim_e3ab485944",
+        "q_24b32a1d3f16:claim_9dd5087548",
+        "q_24b32a1d3f16:claim_7d88cf9383"
+      ]
+    }
+  ],
+  "last_anchor_id": "q_24b32a1d3f16:claim_7d88cf9383",
+  "source_types": {
+    "document": "来自当前知识库文档 chunk 的证据",
+    "web_search": "来自真实联网搜索结果；未配置搜索时不会伪造",
+    "model_prior": "来自模型内置知识或通用推理，不是文档证据",
+    "inferred": "由多个文档证据综合推理得到",
+    "unsupported": "没有可靠证据支持或证据不足"
+  }
+}

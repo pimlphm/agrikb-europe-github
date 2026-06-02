@@ -1,0 +1,92 @@
+# AGROVOC 农业多语言控制词表
+
+来源链接: https://interoperable-europe.ec.europa.eu/collection/eu-semantic-interoperability-catalogue/solution/agrovoc-thesaurus
+
+AGROVOC 是 FAO 维护的农业多语言控制词表。此知识库保存了 Interoperable Europe 入口页、RDF 导出页，以及 AGROVOC 官方 latestAgrovoc Core RDF ZIP 原始包。
+
+## 接入方式
+- 原始包: data/raw/public_agriculture_sources/agrovoc/agrovoc_core.rdf.zip
+- 解包 RDF/XML: data/raw/public_agriculture_sources/agrovoc/agrovoc_core.rdf
+- 检索摘要: 已抽取 2500 个概念样例为 CSV，便于本地知识库索引和快速预览
+
+## 概念样例
+- 方法: 方法 / methods / Método / méthode | http://aims.fao.org/aos/agrovoc/c_4788
+- 设计: 设计 / design / Diseño / conception | http://aims.fao.org/aos/agrovoc/c_2208
+- 家畜饲养方法: 家畜饲养方法 / animal husbandry methods / Método de crianza / méthode d'élevage | http://aims.fao.org/aos/agrovoc/c_433
+- 隔离技术: 隔离技术 / isolation techniques / Técnica de aislamiento / technique de l'isolement | http://aims.fao.org/aos/agrovoc/c_3965
+- 繁殖控制: 繁殖控制 / reproduction control / Reproducción dirigida / maîtrise de la reproduction | http://aims.fao.org/aos/agrovoc/c_27596
+- 畜禽舍: 畜禽舍 / animal housing / Alojamiento del animal / logement des animaux | http://aims.fao.org/aos/agrovoc/c_432
+- 畜牧设备: 畜牧设备 / animal husbandry equipment / Equipo de crianza / matériel d'élevage | http://aims.fao.org/aos/agrovoc/c_25746
+- 阉割: 阉割 / castration / Castración / castration | http://aims.fao.org/aos/agrovoc/c_1375
+- 断角术: 断角术 / dehorning / Descorne / écornage | http://aims.fao.org/aos/agrovoc/c_6075
+- 遮荫: 遮荫 / shading / Umbría / ombrage | http://aims.fao.org/aos/agrovoc/c_7020
+- 性别诊断: 性别诊断 / sex diagnosis / Diagnóstico del sexo / sexage | http://aims.fao.org/aos/agrovoc/c_14228
+- 生长控制: 生长控制 / growth control / Control del crecimiento / contrôle de croissance | http://aims.fao.org/aos/agrovoc/c_15980
+- 标记: 标记 / marking / Marcado / marquage | http://aims.fao.org/aos/agrovoc/c_25756
+- 饲养技术: 饲养技术 / rearing techniques / Técnica de crianza / technique d'élevage | http://aims.fao.org/aos/agrovoc/c_26813
+- 饲养系统: 饲养系统 / rearing systems / Sistema de cría / système d'élevage | http://aims.fao.org/aos/agrovoc/c_29461
+- 诱导泌乳: 诱导泌乳 / induced lactation / Lactación inducida / induction de la lactation | http://aims.fao.org/aos/agrovoc/c_32674
+- 催情补饲: 催情补饲 / flushing / Flushing / flushing | http://aims.fao.org/aos/agrovoc/c_35112
+- 采精: 采精 / semen collection / Recolección de semen / récolte de sperme | http://aims.fao.org/aos/agrovoc/c_36922
+- 人工授精: 人工授精 / artificial insemination / Inseminación artificial / insémination artificielle | http://aims.fao.org/aos/agrovoc/c_638
+- 精液: 精液 / semen / Semen / sperme | http://aims.fao.org/aos/agrovoc/c_6961
+- 体外受精: 体外受精 / in vitro fertilization / Fecundación in vitro / fécondation in vitro | http://aims.fao.org/aos/agrovoc/c_27558
+- 精液保存: 精液保存 / semen preservation / Conservación del semen / conservation du sperme | http://aims.fao.org/aos/agrovoc/c_6962
+- 隔离管理: 隔离管理 / barrier husbandry / Crianza protegida / élevage protégé | http://aims.fao.org/aos/agrovoc/c_828
+- 人工孵化: 人工孵化 / egg incubation / Incubación de huevos / accouvage | http://aims.fao.org/aos/agrovoc/c_2497
+- 粗放饲养: 粗放饲养 / extensive husbandry / Ganadería extensiva / élevage extensif | http://aims.fao.org/aos/agrovoc/c_2764
+- 畜牧: 畜牧 / pastoralism / Pastoralismo / pastoralisme | http://aims.fao.org/aos/agrovoc/c_16144
+- 放牧饲养: 放牧饲养 / free range husbandry / Crianza libre / élevage en liberté | http://aims.fao.org/aos/agrovoc/c_3087
+- 游牧农业: 游牧农业 / nomadic husbandry / Cría de animales nómada / élevage nomade | http://aims.fao.org/aos/agrovoc/c_12844
+- 饲养场: 饲养场 / feedlots / Feedlot / feedlot | http://aims.fao.org/aos/agrovoc/c_2842
+- 剪毛: 剪毛 / shearing / Esquileo / tonte | http://aims.fao.org/aos/agrovoc/c_2971
+- 羊毛: 羊毛 / wool / Lana / laine | http://aims.fao.org/aos/agrovoc/c_8436
+- 剪刀: 剪刀 / clippers / Esquiladora / tondeuse pour animaux | http://aims.fao.org/aos/agrovoc/c_26182
+- 地面饲养: 地面饲养 / floor husbandry / Crianza en el suelo / élevage au sol | http://aims.fao.org/aos/agrovoc/c_2981
+- 厚垫草饲养: 厚垫草饲养 / deep litter husbandry / Crianza en cama profunda / élevage sur litière profonde | http://aims.fao.org/aos/agrovoc/c_2150
+- 条缝地板饲养: 条缝地板饲养 / slatted floor husbandry / Crianza en suelo emparrillado / élevage sur caillebotis | http://aims.fao.org/aos/agrovoc/c_14328
+- 漏缝地板: 漏缝地板 / slatted floors / Suelo emparrillado / caillebotis | http://aims.fao.org/aos/agrovoc/c_25685
+- 集约化管理: 集约化管理 / intensive husbandry / Crianza intensiva / élevage intensif | http://aims.fao.org/aos/agrovoc/c_3907
+- 笼养: 笼养 / battery husbandry / Crianza en batería / élevage en batterie | http://aims.fao.org/aos/agrovoc/c_844
+- 大规模饲养: 大规模饲养 / large-scale husbandry / Crianza en gran escala / élevage à grande échelle | http://aims.fao.org/aos/agrovoc/c_4194
+- 挤乳: 挤乳 / milking / Ordeño / traite des animaux | http://aims.fao.org/aos/agrovoc/c_4835
+- 挤奶工具: 挤奶工具 / milking facilities / Instalación de ordeño / installation de traite | http://aims.fao.org/aos/agrovoc/c_25735
+- 人工挤乳: 人工挤乳 / hand milking / Ordeño a mano / traite à la main | http://aims.fao.org/aos/agrovoc/c_11450
+- 越冬: 越冬 / overwintering / Invernación / hivernation | http://aims.fao.org/aos/agrovoc/c_5460
+- 天气控制: 天气控制 / weather control / Control meteorológico / maîtrise du temps | http://aims.fao.org/aos/agrovoc/c_8339
+- 防霜: 防霜 / frost protection / Protección contra la helada / protection contre les gelées | http://aims.fao.org/aos/agrovoc/c_25709
+- 舍内越冬: 舍内越冬 / inwintering / Estabulación invernal / hivernage | http://aims.fao.org/aos/agrovoc/c_11824
+- 家畜越冬: 家畜越冬 / livestock overwintering / Protección invernal del ganado / hivernage du bétail | http://aims.fao.org/aos/agrovoc/c_29041
+- 击昏: 击昏 / stunning / Atronamiento / assommage | http://aims.fao.org/aos/agrovoc/c_7475
+- 迁移性放牧: 迁移性放牧 / transhumance / Trashumancia / transhumance | http://aims.fao.org/aos/agrovoc/c_7866
+- 迁徙: 迁徙 / migration / Migración / migration | http://aims.fao.org/aos/agrovoc/c_4822
+- 动物迁移: 动物迁移 / animal migration / Migración animal / migration animale | http://aims.fao.org/aos/agrovoc/c_32926
+- 游牧: 游牧 / nomadism / Nomadismo / nomadisme | http://aims.fao.org/aos/agrovoc/c_16142
+- 电刺激采精: 电刺激采精 / electroejaculation / Electroeyaculación / électroéjaculation | http://aims.fao.org/aos/agrovoc/c_10572
+- 射精: 射精 / ejaculation / Eyaculación / éjaculation | http://aims.fao.org/aos/agrovoc/c_2507
+- 妊娠诊断: 妊娠诊断 / pregnancy diagnosis / Diagnosis de la gestación / diagnostic de gestation | http://aims.fao.org/aos/agrovoc/c_16017
+- 直肠检查: 直肠检查 / rectal palpation / Palpación rectal / palpation rectale | http://aims.fao.org/aos/agrovoc/c_36585
+- 诊断: 诊断 / diagnosis / Diagnóstico / diagnostic | http://aims.fao.org/aos/agrovoc/c_2238
+- 装蹄: 装蹄 / shoeing / Herrado / ferrage | http://aims.fao.org/aos/agrovoc/c_24900
+- 蹄: 蹄 / hooves / Casco (animal) / sabot | http://aims.fao.org/aos/agrovoc/c_3658
+- 家畜保定: 家畜保定 / restraint of animals / Confinamiento / contention | http://aims.fao.org/aos/agrovoc/c_25751
+- 厩舍饲: 厩舍饲 / stabling / Estabulación / stabulation | http://aims.fao.org/aos/agrovoc/c_25809
+- 厩舍: 厩舍 / stables / Cuadra / écurie | http://aims.fao.org/aos/agrovoc/c_7356
+- 强制换羽: 强制换羽 / forced moulting / Muda forzada / mue forcée | http://aims.fao.org/aos/agrovoc/c_32452
+- 脱毛: 脱毛 / moulting / Muda / mue | http://aims.fao.org/aos/agrovoc/c_4957
+- 产蛋性能: 产蛋性能 / laying performance / Desempeño en la postura / performance de ponte | http://aims.fao.org/aos/agrovoc/c_4234
+- 体外受孕: 体外受孕 / in vitro insemination / Inseminación in vitro / insémination in vitro | http://aims.fao.org/aos/agrovoc/c_34938
+- 发情探测: 发情探测 / oestrus detection / Detección del estro / détection de l'oestrus | http://aims.fao.org/aos/agrovoc/c_35694
+- 施用方法: 施用方法 / application methods / Método de aplicación / méthode d'application | http://aims.fao.org/aos/agrovoc/c_542
+- 施用设备: 施用设备 / application equipment / Equipo de aplicación / matériel d'application | http://aims.fao.org/aos/agrovoc/c_37293
+- 空中喷药: 空中喷药 / aerial application / Aplicación aérea / épandage aérien | http://aims.fao.org/aos/agrovoc/c_155
+- 喷施: 喷施 / spraying / Pulverización / pulvérisation | http://aims.fao.org/aos/agrovoc/c_7334
+- 撒施: 撒施 / broadcasting / Distribución a voleo / application à la volée | http://aims.fao.org/aos/agrovoc/c_1101
+- 浸渍: 浸渍 / dipping / Inmersión / immersion | http://aims.fao.org/aos/agrovoc/c_2316
+- 浸泡: 浸泡 / soaking / Remojo / trempage | http://aims.fao.org/aos/agrovoc/c_7127
+- 喷粉: 喷粉 / dusting / Espolvoreado / poudrage | http://aims.fao.org/aos/agrovoc/c_2418
+- 喷粉器: 喷粉器 / dusters / Espolvoreador / poudreuse | http://aims.fao.org/aos/agrovoc/c_2417
+- 叶面喷施: 叶面喷施 / foliar application / Aplicación foliar / application foliaire | http://aims.fao.org/aos/agrovoc/c_3008
+- 熏蒸: 熏蒸 / fumigation / Fumigación / fumigation | http://aims.fao.org/aos/agrovoc/c_3142
+- 薰剂类: 薰剂类 / fumigants / Fumigante / fumigant | http://aims.fao.org/aos/agrovoc/c_3141
+- 熏蒸消毒设备: 熏蒸消毒设备 / fumigation equipment / Equipo de fumigación / matériel de fumigation | http://aims.fao.org/aos/agrovoc/c_3143

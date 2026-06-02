@@ -1,0 +1,567 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 399,
+            "totalPages": 40
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_320:0000625",
+            "name": "AP_Lab_1to9",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": "AP",
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "IRIS:161, SES:22",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000092",
+                "name": "Abortion pattern",
+                "class": "Phenological",
+                "description": "Describes the stage at which pollen grains abort in male sterile lines.",
+                "synonyms": "abortion stage",
+                "mainAbbreviation": "AP",
+                "alternativeAbbreviations": null,
+                "entity": "Pollen",
+                "attribute": "Abortion pattern",
+                "status": null,
+                "xref": "TO:0000218, IRIS:1023"
+            },
+            "method": {
+                "methodDbId": "CO_320:0000330",
+                "name": "Abortion pattern estimation",
+                "class": "Estimation",
+                "description": "Collect florets and fix in 3:1 Acetic acid:alcohol solution. Squeeze out pollen grains under a drop of acetocarmine stain, observe under a microscope at 10x10 magnification, and estimate the predominant staining behavior and number of nuclei visible",
+                "formula": null,
+                "reference": "IRIS:161, SES:22"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000331",
+                "name": "abortion pattern scale",
+                "dataType": "Nominal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= Pollen free (TGMS line, e.g. Norin PL12)",
+                        "2=",
+                        "3= Abortion at uni-nucleate stage of pollen (CMS-WA type)",
+                        "4=",
+                        "5= Abortion at binucleate stage of pollen (CMS-HL type)",
+                        "6=",
+                        "7= Abortion at trinucleate stage of pollen (CMS-boro type)",
+                        "8=",
+                        "9= Abortion at later stage: pollen grains look like fertile pollen (518A cytoplasm from O. nivara)"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000626",
+            "name": "AlkInj_Est_1to9",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": "ALK",
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "IRIS:348, SES:70",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000055",
+                "name": "Alkali injury",
+                "class": "Abiotic stress",
+                "description": "The extent to which plant growth is adversely affected in alkaline soils",
+                "synonyms": "Alkali tolerance",
+                "mainAbbreviation": "AlkInj",
+                "alternativeAbbreviations": null,
+                "entity": "Alkali",
+                "attribute": "Injury",
+                "status": null,
+                "xref": "TO:0000481, IRIS:1202"
+            },
+            "method": {
+                "methodDbId": "CO_320:0000516",
+                "name": "Alkali injury assessment",
+                "class": "Estimation",
+                "description": "Observe growth in alkaline soil in relation to standard resistant and susceptible checks. Since some soil problems are very heterogenous in the field, several replications may be needed to obtain reliable scores.",
+                "formula": null,
+                "reference": "IRIS:348, SES:70"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000917",
+                "name": "alkali injury scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= Growth and tillering nearly normal",
+                        "3= Growth nearly normal but there is some reduction in tillering and some leaves discolored",
+                        "5= Growth and tillering reduced, most leaves discolored, only a few elongating",
+                        "7= Growth completely ceases, mostleaves dry, some plants dying",
+                        "9= Almost all plants dead or dying"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000627",
+            "name": "AmyCt_Meas_Pct",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": "AMY",
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": "Standard CIAT, FLAR",
+            "xref": "SES:130",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000102",
+                "name": "Amylose content",
+                "class": "Quality",
+                "description": "Amylose content of milled rice as a proportion or percentage of the total amount of rice",
+                "synonyms": null,
+                "mainAbbreviation": "AmyCt",
+                "alternativeAbbreviations": null,
+                "entity": "Milled caryopsis",
+                "attribute": "amylose content",
+                "status": null,
+                "xref": "TO:0000196, IRIS:1251"
+            },
+            "method": {
+                "methodDbId": "CO_320:0000329",
+                "name": "Amylose content - NIRS",
+                "class": "Computation",
+                "description": "Take a milled rice NIR spectrum and predict the amylose content using chemiometrics.",
+                "formula": null,
+                "reference": "SES:130"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000908",
+                "name": "%",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000628",
+            "name": "AnCo_Est_1to2",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": "ANCO",
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "RD:7.4.4",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000894",
+                "name": "Anther colour",
+                "class": "Morphological",
+                "description": "Colour of anther",
+                "synonyms": null,
+                "mainAbbreviation": "AnCo",
+                "alternativeAbbreviations": null,
+                "entity": "Anther",
+                "attribute": "Colour",
+                "status": null,
+                "xref": "TO:0000187"
+            },
+            "method": {
+                "methodDbId": "CO_320:0000517",
+                "name": "Anther colour examination",
+                "class": "Estimation",
+                "description": "Using a hand lens, examine the colour of the anthers when the florets are open (between 09:00 and 14:00 during anthesis). Compare against a colour chart or colour-accurate photographs of references. Use 3-digit scale codes for common scoring system across all colour traits",
+                "formula": null,
+                "reference": "RD:7.4.4"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000918",
+                "name": "anther colour scale",
+                "dataType": "Nominal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= 030= Yellow",
+                        "2= 050= Brown"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000629",
+            "name": "AnLt_Av_mm",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": "AL",
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "IRIS:603, RD:7.4.3",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000150",
+                "name": "Anther length",
+                "class": "Morphological",
+                "description": "Anther length",
+                "synonyms": null,
+                "mainAbbreviation": "AnLt",
+                "alternativeAbbreviations": null,
+                "entity": "Anther",
+                "attribute": "Length",
+                "status": null,
+                "xref": "TO:0000531, IRIS:1537"
+            },
+            "method": {
+                "methodDbId": "CO_320:0000220",
+                "name": "Anther length measurement",
+                "class": "Computation",
+                "description": "Measure five anthers exposed at anthesis and calculate their average",
+                "formula": null,
+                "reference": "IRIS:603, RD:7.4.3"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000221",
+                "name": "mm",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000630",
+            "name": "BApAnth_ImmatEst_0to7",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": null,
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "RD:7.4.7, UPOV:22",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000895",
+                "name": "Anthocyanin below apiculus",
+                "class": "Morphological",
+                "description": "Intensity of purple colour attributable to anthocyanin on the area just below the apiculus of the lemma",
+                "synonyms": null,
+                "mainAbbreviation": "BApAnth",
+                "alternativeAbbreviations": null,
+                "entity": "Lemma below apiculus",
+                "attribute": "Anthocyanin content",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_320:0000518",
+                "name": "Anthocyanin below apiculus examination immature",
+                "class": "Estimation",
+                "description": "Examine the colour of the area just below the apiculus of immature lemmas and estimate the intensity of any purple colour attributable to anthocyanin",
+                "formula": null,
+                "reference": "RD:7.4.7, UPOV:22"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000919",
+                "name": "anthocyanin below apiculus scale immature",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very weak",
+                        "3= Weak",
+                        "5= Medium",
+                        "7= Strong"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000631",
+            "name": "BApAnth_MatEst_0to7",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": null,
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "RD:7.5.7, UPOV:49",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000895",
+                "name": "Anthocyanin below apiculus",
+                "class": "Morphological",
+                "description": "Intensity of purple colour attributable to anthocyanin on the area just below the apiculus of the lemma",
+                "synonyms": null,
+                "mainAbbreviation": "BApAnth",
+                "alternativeAbbreviations": null,
+                "entity": "Lemma below apiculus",
+                "attribute": "Anthocyanin content",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_320:0000519",
+                "name": "Anthocyanin below apiculus examination mature",
+                "class": "Estimation",
+                "description": "Examine the colour of the area just below the apiculus of mature lemmas and estimate the intensity of any purple colour attributable to anthocyanin",
+                "formula": null,
+                "reference": "RD:7.5.7, UPOV:49"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000920",
+                "name": "anthocyanin below apiculus scale mature",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very weak",
+                        "3= Weak",
+                        "5= Medium",
+                        "7= Strong",
+                        "9= very strong"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000632",
+            "name": "ApAnth_ImmatEst_0to9",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": null,
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "UPOV:23",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000896",
+                "name": "Apiculus anthocyanin",
+                "class": "Morphological",
+                "description": "Intensity of purple colour attributable to anthocyanin on the apiculus of the lemma",
+                "synonyms": null,
+                "mainAbbreviation": "ApAnth",
+                "alternativeAbbreviations": null,
+                "entity": "Apiculus of lemma",
+                "attribute": "Anthocyanin content",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_320:0000520",
+                "name": "Immature apiculus anthocyanin examination",
+                "class": "Estimation",
+                "description": "Examine the intensity of any purple colour attributable to anthocyanin on the apiculus of immature lemmas",
+                "formula": null,
+                "reference": "UPOV:23"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000921",
+                "name": "immature apiculus anthocyanin scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very weak",
+                        "3= Weak",
+                        "5= Medium",
+                        "7= Strong",
+                        "9= very strong"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000633",
+            "name": "ApAnth_MatEst_0to9",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": null,
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "UPOV:50",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000896",
+                "name": "Apiculus anthocyanin",
+                "class": "Morphological",
+                "description": "Intensity of purple colour attributable to anthocyanin on the apiculus of the lemma",
+                "synonyms": null,
+                "mainAbbreviation": "ApAnth",
+                "alternativeAbbreviations": null,
+                "entity": "Apiculus of lemma",
+                "attribute": "Anthocyanin content",
+                "status": null,
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_320:0000521",
+                "name": "Mature apiculus anthocyanin examination",
+                "class": "Estimation",
+                "description": "Examine the apiculus of mature lemmas and estimate the intensity of any purple colour attributable to anthocyanin",
+                "formula": null,
+                "reference": "UPOV:50"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000922",
+                "name": "mature apiculus anthocyanin scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "0= Absent",
+                        "1= Very weak",
+                        "3= Weak",
+                        "5= Medium",
+                        "7= Strong",
+                        "9= very strong"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_320:0000634",
+            "name": "ApCol_ImmatEst_UPOV1to6",
+            "ontologyDbId": "CO_320",
+            "ontologyName": "Rice",
+            "synonyms": "APC",
+            "contextOfUse": null,
+            "growthStage": null,
+            "status": null,
+            "xref": "UPOV:37",
+            "institution": "IRRI",
+            "scientist": "Jeffrey Detras",
+            "date": null,
+            "language": "EN",
+            "crop": "Rice",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_320:0000037",
+                "name": "Apiculus color",
+                "class": "Morphological",
+                "description": "Color of the apiculus of the lemma",
+                "synonyms": null,
+                "mainAbbreviation": "ApCol",
+                "alternativeAbbreviations": null,
+                "entity": "Apiculus of lemma",
+                "attribute": "Colour",
+                "status": null,
+                "xref": "TO:0000140, IRIS:1086"
+            },
+            "method": {
+                "methodDbId": "CO_320:0000426",
+                "name": "Immature apiculus color examination",
+                "class": "Estimation",
+                "description": "Examine the colour of the apiculus of immature lemmas against a colour chart or colour-accurate photographs of references",
+                "formula": null,
+                "reference": "IRIS:654, RD:7.4.6, UPOV:37"
+            },
+            "scale": {
+                "scaleDbId": "CO_320:0000427",
+                "name": "immature apiculus color UPOV scale",
+                "dataType": "Nominal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1= white",
+                        "2= yellowish",
+                        "3= brown",
+                        "4= red",
+                        "5= purple",
+                        "6= black"
+                    ]
+                }
+            }
+        }
+    ]
+}

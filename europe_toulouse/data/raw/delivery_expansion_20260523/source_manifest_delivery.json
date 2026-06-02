@@ -1,0 +1,189 @@
+[
+  {
+    "source": "taiwan_daily_agricultural_product_prices",
+    "url": "https://data.gov.tw/dataset/8066",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_daily_agricultural_product_prices.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 472889,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "source": "taiwan_daily_agricultural_product_prices",
+    "url": "https://data.moa.gov.tw/Service/OpenData/FromM/FarmTransData.aspx?FOTT=CSV&IsTransData=1&UnitId=037",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_daily_agricultural_product_prices.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 555848,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "source": "taiwan_crop_unified_codes",
+    "url": "https://data.gov.tw/dataset/166558",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_crop_unified_codes.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 464178,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "source": "taiwan_crop_unified_codes",
+    "url": "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=xVOXUErUYXJK&FOTT=CSV&IsTransData=1",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_crop_unified_codes.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 518543,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "source": "taiwan_traceable_organic_products",
+    "url": "https://data.gov.tw/dataset/126472",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_traceable_organic_products.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 465092,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "source": "taiwan_traceable_organic_products",
+    "url": "https://data.moa.gov.tw/Service/OpenData/FromM/TAPData.aspx?FOTT=CSV&IsTransData=1&UnitId=H44",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_traceable_organic_products.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 125899,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "source": "taiwan_main_agricultural_import_export",
+    "url": "https://data.gov.tw/dataset/93697",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_main_agricultural_import_export.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 461755,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "source": "taiwan_main_agricultural_import_export",
+    "url": "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=5QqP1CW9W7cA&FOTT=CSV&IsTransData=1",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_main_agricultural_import_export.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 20906,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "source": "taiwan_major_ag_products_production",
+    "url": "https://data.gov.tw/dataset/96378",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_major_ag_products_production.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 462961,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "source": "taiwan_major_ag_products_production",
+    "url": "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=ESYIKDB7CpoR&FOTT=CSV&IsTransData=1",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_major_ag_products_production.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 72366,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "source": "taiwan_ag_income_price_index",
+    "url": "https://data.gov.tw/dataset/95728",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_ag_income_price_index.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 457543,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "source": "taiwan_ag_income_price_index",
+    "url": "https://data.moa.gov.tw/Service/OpenData/TransService.aspx?UnitId=rKPQ7cUySIaY&FOTT=CSV&IsTransData=1",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\taiwan_ag_income_price_index.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 284,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "source": "faostat_crops_livestock_normalized.zip",
+    "url": "https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\faostat_crops_livestock_normalized.zip",
+    "ok": true,
+    "status": 200,
+    "bytes": 33921825,
+    "content_type": "application/x-zip-compressed"
+  },
+  {
+    "source": "world_bank_agriculture_value_added_usd.zip",
+    "url": "https://api.worldbank.org/v2/en/indicator/NV.AGR.TOTL.CD?downloadformat=csv",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\world_bank_agriculture_value_added_usd.zip",
+    "ok": true,
+    "status": 200,
+    "bytes": 112701,
+    "content_type": "application/zip"
+  },
+  {
+    "source": "world_bank_agriculture_value_added_percent_gdp.zip",
+    "url": "https://api.worldbank.org/v2/en/indicator/NV.AGR.TOTL.ZS?downloadformat=csv",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\world_bank_agriculture_value_added_percent_gdp.zip",
+    "ok": true,
+    "status": 200,
+    "bytes": 113116,
+    "content_type": "application/zip"
+  },
+  {
+    "source": "nasa_power_taipei_ag_weather_2025.csv",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M,RH2M,PRECTOTCORR,ALLSKY_SFC_SW_DWN&community=AG&longitude=121.5654&latitude=25.0330&start=20250101&end=20251231&format=CSV",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\nasa_power_taipei_ag_weather_2025.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 12511,
+    "content_type": "text/csv"
+  },
+  {
+    "source": "nasa_power_beijing_ag_weather_2025.csv",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=T2M,RH2M,PRECTOTCORR,ALLSKY_SFC_SW_DWN&community=AG&longitude=116.4074&latitude=39.9042&start=20250101&end=20251231&format=CSV",
+    "path": "data\\raw\\delivery_expansion_20260523\\open_data\\nasa_power_beijing_ag_weather_2025.csv",
+    "ok": true,
+    "status": 200,
+    "bytes": 12210,
+    "content_type": "text/csv"
+  },
+  {
+    "source": "gov_2025_high_quality_farmer_training.html",
+    "url": "https://www.gov.cn/zhengce/zhengceku/202506/content_7026209.htm",
+    "path": "data\\raw\\delivery_expansion_20260523\\policy_documents\\gov_2025_high_quality_farmer_training.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 44383,
+    "content_type": "text/html"
+  },
+  {
+    "source": "moa_2024_reply_high_quality_farmers.html",
+    "url": "https://www.moa.gov.cn/govpublic/ncshsycjs/202408/t20240802_6460213.htm",
+    "path": "data\\raw\\delivery_expansion_20260523\\policy_documents\\moa_2024_reply_high_quality_farmers.html",
+    "ok": true,
+    "status": 200,
+    "bytes": 92253,
+    "content_type": "text/html"
+  },
+  {
+    "source": "moe_new_professional_farmer_training_plan.html",
+    "url": "https://www.moe.gov.cn/srcsite/A07/s7055/201403/t20140321_166571.html",
+    "path": "data\\raw\\delivery_expansion_20260523\\policy_documents\\moe_new_professional_farmer_training_plan.html",
+    "ok": false,
+    "error": "HTTPError: 403 Client Error: Forbidden for url: http://www.moe.gov.cn/srcsite/A07/s7055/201403/t20140321_166571.html"
+  },
+  {
+    "source": "moa_2025_bulletin_high_quality_farmer.pdf",
+    "url": "https://www.moa.gov.cn/nybgb/2025/202506/202507/P020250702370443551450.pdf",
+    "path": "data\\raw\\delivery_expansion_20260523\\policy_documents\\moa_2025_bulletin_high_quality_farmer.pdf",
+    "ok": true,
+    "status": 200,
+    "bytes": 2614286,
+    "content_type": "application/pdf"
+  }
+]

@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#2f7d52" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="data:," />
+    <title>AgriKB 数智新农人经营中枢</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="./style.css?v=20260525agri93" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="session-sidebar" aria-label="历史对话">
+        <div class="session-sidebar-header">
+          <div>
+            <p class="eyebrow">对话记录</p>
+            <h2>历史对话</h2>
+          </div>
+          <div class="session-actions">
+            <button id="newSessionButton" class="secondary-button" type="button">新对话</button>
+            <button id="clearSessionsButton" class="secondary-button danger" type="button">清空</button>
+          </div>
+        </div>
+        <div id="sessionMemorySummary" class="session-memory-summary">点任意一条历史对话，可继续接着问。</div>
+        <section class="left-feature-card" aria-label="功能入口">
+          <div class="left-feature-head">
+            <div>
+              <p class="eyebrow">功能入口</p>
+              <h2>看板演示</h2>
+            </div>
+          </div>
+          <div class="left-feature-grid">
+            <button type="button" class="left-feature-button" data-showcase-feature="policy"><img src="./assets/new-farmer-icons/policy.svg" alt="" />新农人政策</button>
+            <button type="button" class="left-feature-button" data-showcase-feature="platform"><img src="./assets/new-farmer-icons/traceability.svg" alt="" />数智中台</button>
+            <button type="button" class="left-feature-button" data-showcase-feature="intelligence"><img src="./assets/new-farmer-icons/market.svg" alt="" />资讯聚合</button>
+            <button type="button" class="left-feature-button" data-showcase-feature="benchmark"><img src="./assets/new-farmer-icons/bureau.svg" alt="" />竞品对标</button>
+            <button type="button" class="left-feature-button" data-showcase-feature="competition"><img src="./assets/new-farmer-icons/bureau.svg" alt="" />创业大赛</button>
+            <button type="button" class="left-feature-button" data-showcase-feature="market"><img src="./assets/new-farmer-icons/market.svg" alt="" />农产品行情</button>
+            <button type="button" class="left-feature-button" data-showcase-feature="weather"><img src="./assets/new-farmer-icons/weather.svg" alt="" />农业气象</button>
+            <button type="button" class="left-feature-button" data-showcase-feature="traceability"><img src="./assets/new-farmer-icons/traceability.svg" alt="" />质量溯源</button>
+            <button type="button" class="left-feature-button is-primary" data-showcase-feature="crop"><img src="./assets/new-farmer-icons/crop.svg" alt="" />大棚监测</button>
+          </div>
+        </section>
+        <div id="sessionList" class="session-list" aria-live="polite"></div>
+        <section class="policy-sidebar-card" aria-label="政策解读与维权咨询">
+          <div class="policy-sidebar-head">
+            <div>
+              <p class="eyebrow">政策解读</p>
+              <h2>政策与维权</h2>
+            </div>
+            <button id="refreshPolicyIntelligence" class="secondary-button" type="button">刷新</button>
+          </div>
+          <div class="policy-action-grid" aria-label="政策和维权快捷提问">
+            <button type="button" data-policy-query="请结合江苏句容农业场景，用清晰步骤说明新农人、合作社或家庭农场如何判断自己能不能申报补贴，应该先问哪个部门、准备哪些材料、怎么避免错过时间。">补贴能不能申</button>
+            <button type="button" data-policy-query="请结合江苏句容农业经营场景，说明农资质量纠纷、收购压价、拖欠货款、合同不清、补贴未到账时，应该如何依法维权、先联系谁、保留哪些证据。">权益受损怎么办</button>
+            <button type="button" data-policy-query="请按农民和新农人能执行的方式，列出咨询农业政策、维权投诉、项目申报、农产品质量安全问题时，需要准备的材料清单和一句话表达模板。">材料怎么准备</button>
+          </div>
+          <div class="policy-contact-list" aria-label="有关部门电话">
+            <a href="tel:12345"><b>12345</b><span>江苏政务服务便民热线</span></a>
+            <a href="tel:12316"><b>12316</b><span>农业公益服务与投诉举报</span></a>
+            <a href="tel:051184435001"><b>0511-84435001</b><span>镇江农业农村科技教育咨询</span></a>
+            <a href="tel:051188882393"><b>0511-88882393</b><span>镇江乡村产业与信息咨询</span></a>
+          </div>
+          <div class="policy-link-list" aria-label="官方政策入口">
+            <a href="https://www.jurong.gov.cn/" target="_blank" rel="noopener">江苏句容市人民政府</a>
+            <a href="https://www.jurong.gov.cn/jurong/zqdh/zqdh.shtml" target="_blank" rel="noopener">江苏句容政府部门入口</a>
+            <a href="https://zj.jszwfw.gov.cn/" target="_blank" rel="noopener">镇江政务服务</a>
+            <a href="https://nynct.jiangsu.gov.cn/index.html" target="_blank" rel="noopener">江苏省农业农村厅</a>
+            <a href="https://www.jszwfw.gov.cn/" target="_blank" rel="noopener">江苏政务服务</a>
+            <a href="https://12345.jszwfw.gov.cn/cns-bmfw-wsbsdt/index/pages/appeal/step2.html?type=2" target="_blank" rel="noopener">12345 在线诉求</a>
+          </div>
+          <div id="policyIntelligenceList" class="policy-intelligence-list" aria-live="polite">正在整理政策和咨询入口...</div>
+        </section>
+      </aside>
+
+      <section class="conversation-panel" aria-label="对话记录">
+        <header class="hero">
+          <div class="app-command-bar" aria-label="常用菜单">
+            <button id="openFilePanel" class="command-button" type="button">文件</button>
+            <button id="openSettingsPanel" class="command-button" type="button">设置</button>
+          </div>
+          <p class="eyebrow">2026 江苏句容“福地青年英才”数智信息 × 新农人</p>
+          <h1 class="brand-title"><span class="brand-mark">AgriKB</span><span>数智新农人经营中枢</span></h1>
+          <div class="policy-banner" aria-label="三农政策定位">
+            <span>党关注“三农”</span>
+            <strong>服务乡村全面振兴，助力强农惠农富农</strong>
+          </div>
+          <section id="competitionHeadlineBoard" class="competition-headline-board" aria-label="福地青年英才农业创业头条">
+            <div class="competition-headline-head">
+              <div>
+                <strong>福地青年英才农业创业头条</strong>
+                <span id="competitionHeadlineMeta">正在聚合农业、技术、人才、招商和新媒体信息</span>
+              </div>
+              <button id="refreshCompetitionHeadlines" class="secondary-button" type="button">刷新</button>
+            </div>
+            <div id="competitionTrendCard" class="competition-trend-card">正在生成趋势分析...</div>
+            <div id="competitionHeadlineCategories" class="competition-headline-categories">
+              <div class="competition-loading">正在抓取专题头条...</div>
+            </div>
+          </section>
+          <div class="farmer-quick-panel" aria-label="农民一键问">
+            <button class="big-farmer-action" type="button" data-feature="farmer_today">今日安排</button>
+            <button class="big-farmer-action" type="button" data-feature="farmer_sell">销售渠道</button>
+            <button class="big-farmer-action" type="button" data-feature="farmer_subsidy">补贴申报</button>
+            <button class="big-farmer-action" type="button" data-feature="farmer_risk">天气风险</button>
+          </div>
+        </header>
+
+        <section id="featureWorkbench" class="feature-workbench" aria-live="polite"></section>
+        <div id="messages" class="messages" aria-live="polite"></div>
+      </section>
+
+      <aside class="control-panel" aria-label="农业问答与知识图谱">
+        <section class="composer-card">
+          <section id="localLivePanel" class="local-live-panel" aria-label="江苏句容实时天气与农业资讯">
+            <div class="local-live-head">
+              <strong id="weatherPanelTitle">江苏句容实时提醒</strong>
+              <button id="refreshLocalLive" class="secondary-button" type="button">刷新</button>
+            </div>
+            <div class="local-weather-row">
+              <span id="liveTemperature">气温加载中</span>
+              <span id="liveWeatherRisk">正在同步天气</span>
+            </div>
+            <div class="weather-location-switcher" aria-label="天气位置切换">
+              <label>
+                <span>天气位置</span>
+                <input id="weatherLocationInput" list="locationPresetList" type="text" value="江苏句容" />
+              </label>
+              <div>
+                <button id="applyWeatherLocation" class="secondary-button" type="button">更新天气</button>
+                <button id="openWeatherMapPicker" class="geo-map-button" type="button">地图选择</button>
+              </div>
+            </div>
+            <div id="weatherHorizonGrid" class="weather-horizon-grid" aria-label="多时间尺度天气预报"></div>
+            <div class="geo-switcher" aria-label="产地与目标市场">
+              <div class="geo-detect-row">
+                <span id="ipLocationStatus">IP定位待检测</span>
+                <button id="detectIpLocation" class="secondary-button" type="button">使用IP定位</button>
+              </div>
+              <div class="geo-input-grid">
+                <label>
+                  <span>本地市场/产地</span>
+                  <input id="productionLocationInput" list="locationPresetList" type="text" value="江苏句容" />
+                  <button id="openProductionMapPicker" class="geo-map-button" type="button">地图选择</button>
+                </label>
+                <label>
+                  <span>目标市场</span>
+                  <input id="marketLocationInput" list="marketPresetList" type="text" value="镇江农产品批发市场" />
+                  <button id="openMarketMapPicker" class="geo-map-button" type="button">地图选择</button>
+                </label>
+                <button id="applyLocationContext" class="secondary-button" type="button">更新两地态势</button>
+              </div>
+              <datalist id="locationPresetList">
+                <option value="江苏句容"></option>
+                <option value="镇江"></option>
+                <option value="常州"></option>
+                <option value="苏州"></option>
+                <option value="上海"></option>
+                <option value="杭州"></option>
+              </datalist>
+              <datalist id="marketPresetList">
+                <option value="镇江农产品批发市场"></option>
+                <option value="常州凌家塘农副产品批发市场"></option>
+                <option value="苏州南环桥市场"></option>
+                <option value="上海西郊国际农产品交易中心"></option>
+                <option value="杭州农副产品物流中心"></option>
+              </datalist>
+            </div>
+            <div id="mapPickerOverlay" class="map-picker-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="mapPickerTitle">
+              <div class="map-picker-dialog">
+                <div class="map-picker-header">
+                  <div>
+                    <strong id="mapPickerTitle">地图选择位置</strong>
+                    <span id="mapPickerHint">点击地图确定位置</span>
+                  </div>
+                  <button id="closeMapPicker" class="icon-button" type="button" aria-label="关闭地图选择">×</button>
+                </div>
+                <div class="map-picker-search">
+                  <input id="mapPickerSearch" type="search" placeholder="输入乡镇、园区、批发市场名称" />
+                  <button id="mapPickerSearchButton" class="secondary-button" type="button">定位</button>
+                </div>
+                <div id="mapPickerCanvas" class="map-picker-canvas" aria-label="地图选点"></div>
+                <div class="map-picker-footer">
+                  <span id="mapPickerCoord">尚未选择</span>
+                  <button id="confirmMapPicker" type="button" disabled>使用这个位置</button>
+                </div>
+              </div>
+            </div>
+            <div id="routeMarketPanel" class="route-market-panel" aria-label="两地路线与市场物流">等待两地路线和市场信息同步。</div>
+            <section class="market-price-panel" aria-label="市场行情与农资价格查询">
+              <div class="market-price-head">
+                <strong>行情与农资查询</strong>
+                <button id="refreshMarketPrice" class="secondary-button" type="button">查询</button>
+              </div>
+              <div class="market-price-controls">
+                <label>
+                  <span>查询类别</span>
+                  <select id="marketPriceCategory">
+                    <option value="produce">农产品行情</option>
+                    <option value="fertilizer">肥料农资</option>
+                    <option value="machinery">农机装备</option>
+                    <option value="seed">种子种苗</option>
+                    <option value="pesticide">农药植保</option>
+                    <option value="feed">饲料养殖</option>
+                  </select>
+                </label>
+                <label>
+                  <span>常用品名</span>
+                  <select id="marketPricePreset"></select>
+                </label>
+                <label>
+                  <span>自己输入</span>
+                  <input id="marketPriceInput" list="marketProductPresetList" type="text" value="草莓" />
+                </label>
+                <datalist id="marketProductPresetList"></datalist>
+              </div>
+              <div id="marketPriceDecision" class="market-price-decision">选择品类和品名后查询价格。</div>
+              <div id="marketPriceInsight" class="market-price-insight">点表格里的品名，可查看行情小结和实时建议。</div>
+              <div class="market-price-table-wrap">
+                <table class="market-price-table">
+                  <thead>
+                    <tr>
+                      <th>品名</th>
+                      <th>市场</th>
+                      <th>价格</th>
+                      <th>变化</th>
+                      <th>日期</th>
+                      <th>来源</th>
+                    </tr>
+                  </thead>
+                  <tbody id="marketPriceRows">
+                    <tr><td colspan="6">等待查询。</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div id="marketPriceSources" class="market-price-sources"></div>
+            </section>
+            <div class="local-news-ticker" aria-label="本地农业新闻滚动">
+              <div id="localNewsTrack" class="local-news-track">正在加载本地农业新闻、天气和收购信息...</div>
+            </div>
+            <div id="localNewsList" class="local-news-list" aria-label="本地农业资讯列表">
+              <div class="local-news-empty">正在整理本地农业资讯...</div>
+            </div>
+          </section>
+          <div class="tool-shortcuts" aria-label="常用农业工具">
+            <button class="feature-action" type="button" data-feature="policy" data-showcase-feature="policy"><img src="./assets/new-farmer-icons/policy.svg" alt="" />新农人政策</button>
+            <button class="feature-action" type="button" data-feature="platform" data-showcase-feature="platform"><img src="./assets/new-farmer-icons/traceability.svg" alt="" />数智中台</button>
+            <button class="feature-action" type="button" data-feature="intelligence" data-showcase-feature="intelligence"><img src="./assets/new-farmer-icons/market.svg" alt="" />资讯聚合</button>
+            <button class="feature-action" type="button" data-feature="benchmark" data-showcase-feature="benchmark"><img src="./assets/new-farmer-icons/bureau.svg" alt="" />竞品对标</button>
+            <button class="feature-action" type="button" data-feature="competition" data-showcase-feature="competition"><img src="./assets/new-farmer-icons/bureau.svg" alt="" />创业大赛</button>
+            <button class="feature-action" type="button" data-feature="market" data-showcase-feature="market"><img src="./assets/new-farmer-icons/market.svg" alt="" />农产品行情</button>
+            <button class="feature-action" type="button" data-feature="weather" data-showcase-feature="weather"><img src="./assets/new-farmer-icons/weather.svg" alt="" />农业气象</button>
+            <button class="feature-action" type="button" data-feature="traceability" data-showcase-feature="traceability"><img src="./assets/new-farmer-icons/traceability.svg" alt="" />质量溯源</button>
+            <button class="feature-action" type="button" data-feature="crop" data-showcase-feature="crop"><img src="./assets/new-farmer-icons/crop.svg" alt="" />大棚监测</button>
+          </div>
+          <form id="chatForm" class="composer floating-composer">
+            <label for="queryInput">向农业知识库提问</label>
+            <div
+              id="dropzone"
+              class="dropzone"
+              tabindex="0"
+              aria-label="上传农业资料，支持 PDF、Word、表格、PPT、压缩包等文件"
+              title="上传农业资料，支持 PDF、Word、表格、PPT、压缩包等文件"
+            >
+              <input id="fileInput" type="file" multiple accept=".pdf,.doc,.docx,.txt,.md,.markdown,.csv,.xlsx,.xls,.pptx,.json,.yaml,.yml,.xml,.html,.htm,.zip" />
+              <strong aria-hidden="true">+</strong>
+              <span>上传</span>
+            </div>
+            <textarea
+              id="queryInput"
+              name="query"
+              rows="4"
+              placeholder="请输入今天要判断的生产、销售、政策或天气问题，例如：草莓今天适合采收和销售吗？能申请哪些补贴？"
+            ></textarea>
+            <label class="search-switch-card" for="webSearchToggle">
+              <span class="switch-copy">
+                <strong>联网搜索</strong>
+                <small>打开后会实时查政策、天气、行情、收购和助农渠道；关闭则只用本地知识库。</small>
+              </span>
+              <span class="switch-control">
+                <input id="webSearchToggle" type="checkbox" checked />
+                <span class="switch-track" aria-hidden="true"><span></span></span>
+              </span>
+            </label>
+            <div class="model-workbench composer-model" aria-label="模型切换">
+              <div class="model-workbench-main">
+                <span class="model-status-dot" aria-hidden="true"></span>
+                <div>
+                  <small class="model-kicker">新农人助手</small>
+                  <strong id="modelActiveName">新农人助手</strong>
+                </div>
+              </div>
+              <div class="model-controls">
+                <select id="modelSelect" aria-label="选择回答模型">
+                  <option value="">使用新农人助手</option>
+                </select>
+                <button id="refreshModelsButton" class="secondary-button" type="button" aria-label="刷新模型">刷新</button>
+                <button id="applyModelButton" class="secondary-button" type="button" disabled>切换</button>
+              </div>
+              <small id="modelStatusText">默认使用新农人助手，也可选择本地备用模型</small>
+            </div>
+            <div class="voice-toolbar speech-playback-toolbar hidden" aria-label="回答朗读">
+              <button id="speakLastButton" class="secondary-button" type="button" disabled>朗读</button>
+              <button id="stopSpeechButton" class="secondary-button" type="button" disabled>停朗读</button>
+              <label class="speech-rate-control" for="speechRateInput">
+                <span>语速</span>
+                <input id="speechRateInput" type="range" min="0.6" max="1.8" step="0.05" value="0.95" />
+                <strong id="speechRateLabel">0.95x</strong>
+              </label>
+              <span id="voiceStatus">朗读就绪</span>
+            </div>
+            <button id="sendButton" type="submit" title="发送并生成答案" aria-label="发送并生成答案">↑</button>
+            <div class="upload-status-row">
+              <button id="cancelUploadButton" class="secondary-button hidden" type="button">中断上传</button>
+              <span id="uploadStatus">等待文件上传</span>
+            </div>
+          </form>
+        </section>
+
+        <section class="tree-card">
+          <div class="tree-header">
+            <div>
+              <p class="eyebrow">农业知识空间</p>
+              <h2>经营因果图</h2>
+            </div>
+            <div class="tree-header-actions">
+              <button id="toggleTreePanel" class="secondary-button" type="button" aria-expanded="false">展开</button>
+              <button id="refreshTree" type="button">刷新</button>
+            </div>
+          </div>
+
+          <div class="tree-toolbar">
+            <input id="treeSearch" class="tree-search" type="search" placeholder="搜索作物、性状、认证主体、数据源或文档" />
+            <div class="view-toggle" role="tablist" aria-label="农业知识图谱视图">
+              <button id="treeListMode" class="mode-button active" type="button">因果</button>
+              <button id="treeGraphMode" class="mode-button" type="button">来源图</button>
+              <button id="treeMapMode" class="mode-button" type="button">树状</button>
+            </div>
+            <div class="visual-actions" aria-label="知识视图工具">
+              <button id="freezeVisual" class="secondary-button" type="button">冻结</button>
+              <button id="exportVisual" class="secondary-button" type="button">导出</button>
+              <button id="screenshotVisual" class="secondary-button" type="button">截图</button>
+              <button id="openDynamicGraph" class="secondary-button" type="button">大图谱</button>
+              <button id="downloadHdGraph" class="secondary-button" type="button">高清图</button>
+              <button id="downloadWordReport" class="secondary-button" type="button">报告</button>
+              <button id="resetKnowledge" class="secondary-button danger" type="button">重置农业知识树</button>
+            </div>
+          </div>
+
+          <div id="treeSummary" class="tree-summary">等待农业知识图谱加载</div>
+          <div id="simpleCausalMap" class="simple-causal-map" aria-label="经营因果与利害关系"></div>
+          <div id="tree" class="tree" role="tree"></div>
+          <div id="treeGraph" class="tree-graph hidden" aria-label="动态知识图谱">
+            <div class="graph-toolbar">
+              <div class="graph-status">
+                <span id="graphStats">等待图谱生成</span>
+                <span id="graphViewportLabel">100%</span>
+              </div>
+              <div class="graph-controls" aria-label="图谱视野控制">
+                <button id="graphZoomOut" class="graph-control-button" type="button" title="缩小" aria-label="缩小">-</button>
+                <button id="graphZoomIn" class="graph-control-button" type="button" title="放大" aria-label="放大">+</button>
+                <button id="graphFit" class="graph-control-button wide" type="button" title="适配视野" aria-label="适配视野">适配</button>
+                <button id="graphZoomReset" class="graph-control-button wide" type="button" title="重置视野" aria-label="重置视野">重置</button>
+                <button id="graphExpand" class="graph-control-button wide" type="button" title="展开画布" aria-label="展开画布">大画布</button>
+              </div>
+              <div class="graph-legend" aria-label="图例">
+                <span><i class="legend-root"></i>农业总览</span>
+                <span><i class="legend-doc"></i>数据源</span>
+                <span><i class="legend-type"></i>主题</span>
+                <span><i class="legend-entity"></i>农业概念</span>
+                <span><i class="legend-chunk"></i>依据</span>
+                <span><i class="legend-inferred"></i>综合判断</span>
+                <span><i class="legend-prior"></i>补充说明</span>
+                <span><i class="legend-unsupported"></i>待核实</span>
+              </div>
+            </div>
+            <svg id="treeGraphSvg" role="img" aria-label="农业知识图谱"></svg>
+            <div id="graphDetail" class="graph-detail">点击图谱节点查看详情。</div>
+          </div>
+          <div id="treeMap" class="tree-map hidden" aria-label="动态可扩展树状图">
+            <div class="tree-map-status">
+              <span id="treeMapStats">等待树状图生成</span>
+              <span id="treeMapHint">点击节点展开或折叠</span>
+            </div>
+            <svg id="treeMapSvg" role="img" aria-label="动态树状图"></svg>
+            <div id="treeMapDetail" class="graph-detail">点击树状图节点查看详情。</div>
+          </div>
+        </section>
+
+        <section class="memory-card">
+          <div class="memory-header">
+            <div>
+              <p class="eyebrow">农业知识记忆</p>
+              <h2>农业规则解释</h2>
+            </div>
+            <div class="memory-actions">
+              <button id="refreshRules" class="secondary-button" type="button">融合规则</button>
+              <button id="exportRules" class="secondary-button" type="button">导出规则</button>
+              <button id="clearRules" class="secondary-button danger" type="button">清空规则</button>
+            </div>
+          </div>
+          <p id="ruleMemorySummary" class="memory-summary">规则会说明为什么、什么时候适用、怎么做，以及执行前需要注意的依据边界。</p>
+          <div id="ruleMemoryList" class="rule-memory-list" aria-live="polite"></div>
+        </section>
+      </aside>
+    </main>
+
+    <div id="filePanelOverlay" class="utility-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="filePanelTitle">
+      <section class="utility-dialog file-dialog">
+        <div class="utility-dialog-head">
+          <div>
+            <p class="eyebrow">文件</p>
+            <h2 id="filePanelTitle">导入导出</h2>
+          </div>
+          <button id="closeFilePanel" class="icon-button" type="button" aria-label="关闭文件面板">×</button>
+        </div>
+        <div class="utility-grid">
+          <button id="fileImportKnowledge" class="utility-tile" type="button"><strong>导入资料</strong><span>PDF、Word、表格、PPT、ZIP</span></button>
+          <button id="fileImportSettings" class="utility-tile" type="button"><strong>导入设置</strong><span>读取本机导出的 JSON 配置</span></button>
+          <button id="fileExportSettings" class="utility-tile" type="button"><strong>导出设置</strong><span>导出脱敏配置，不包含完整密钥</span></button>
+          <button id="fileExportSession" class="utility-tile" type="button"><strong>导出当前对话</strong><span>保存本轮会话和依据图</span></button>
+          <button id="fileExportRules" class="utility-tile" type="button"><strong>导出规则</strong><span>导出农业规则和 AI 解读</span></button>
+          <button id="fileExportGraph" class="utility-tile" type="button"><strong>导出图谱</strong><span>保存当前知识视图 JSON</span></button>
+          <button id="fileExportWord" class="utility-tile" type="button"><strong>导出报告</strong><span>生成 Word 分析报告</span></button>
+          <button id="fileExportAnswer" class="utility-tile" type="button"><strong>导出回答</strong><span>保存最近一次回答 Markdown</span></button>
+        </div>
+        <input id="settingsImportInput" class="hidden" type="file" accept=".json,application/json" />
+      </section>
+    </div>
+
+    <div id="settingsPanelOverlay" class="utility-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="settingsPanelTitle">
+      <section class="utility-dialog settings-dialog">
+        <div class="utility-dialog-head">
+          <div>
+            <p class="eyebrow">设置</p>
+            <h2 id="settingsPanelTitle">模型与常用设置</h2>
+          </div>
+          <button id="closeSettingsPanel" class="icon-button" type="button" aria-label="关闭设置">×</button>
+        </div>
+        <div class="settings-form">
+          <div class="settings-section-title">后台回答模型</div>
+          <label>
+            <span>默认模型后端</span>
+            <select id="settingsBackend">
+              <option value="auto">自动选择</option>
+              <option value="kimi_cli">新农人助手 Coding</option>
+              <option value="openai_compatible">OpenAI 兼容 API</option>
+              <option value="ollama">本地 Ollama</option>
+            </select>
+          </label>
+          <label>
+            <span>后台 API 地址</span>
+            <input id="settingsBaseUrl" type="url" placeholder="https://api.kimi.com/coding/v1" />
+          </label>
+          <label>
+            <span>后台模型名称</span>
+            <input id="settingsModel" type="text" placeholder="kimi-for-coding" />
+          </label>
+          <label>
+            <span>后台 API Key</span>
+            <input id="settingsApiKey" type="password" autocomplete="off" placeholder="留空则不修改已有密钥" />
+          </label>
+
+          <div class="settings-section-title">前端/备用模型</div>
+          <label>
+            <span>前端 API 地址</span>
+            <input id="settingsFrontendBaseUrl" type="url" placeholder="默认跟随后台 API 地址" />
+          </label>
+          <label>
+            <span>前端模型名称</span>
+            <input id="settingsFrontendModel" type="text" placeholder="默认跟随后台模型" />
+          </label>
+          <label>
+            <span>前端 API Key</span>
+            <input id="settingsFrontendApiKey" type="password" autocomplete="off" placeholder="留空则不修改已有密钥" />
+          </label>
+          <label>
+            <span>本地模型</span>
+            <input id="settingsOllamaModel" type="text" placeholder="qwen2.5:14b" />
+          </label>
+
+          <div class="settings-section-title">常用设置</div>
+          <label>
+            <span>回答语言</span>
+            <select id="settingsLanguage">
+              <option value="auto">自动判断上下文</option>
+              <option value="zh">中文</option>
+              <option value="en">English</option>
+            </select>
+          </label>
+          <label class="settings-check">
+            <input id="settingsShowPrompt" type="checkbox" checked />
+            <span>回答下方显示本次 Prompt</span>
+          </label>
+          <label class="settings-check">
+            <input id="settingsDefaultWebSearch" type="checkbox" checked />
+            <span>默认开启联网搜索</span>
+          </label>
+        </div>
+        <section class="settings-mobile-access" aria-label="手机 Wi-Fi 访问">
+          <div class="settings-mobile-copy">
+            <span>手机端可扫码</span>
+            <strong>同一 Wi-Fi 下打开新农人助手</strong>
+          </div>
+          <div class="settings-mobile-qr-textbox">
+            <img id="settingsMobileQr" src="assets/mobile-wifi-qr.png" alt="手机端访问二维码" />
+            <label>
+              <span>Wi-Fi 访问地址</span>
+              <input id="settingsMobileUrl" type="text" readonly value="http://10.188.88.114:8010/ui/" />
+            </label>
+            <button id="copyMobileUrlButton" class="secondary-button" type="button">复制地址</button>
+          </div>
+        </section>
+        <div id="settingsStatus" class="settings-status">正在读取当前模型配置。</div>
+        <div class="settings-test-actions">
+          <button id="testBackendApiButton" class="secondary-button" type="button">测试后台 Key</button>
+          <button id="testFrontendApiButton" class="secondary-button" type="button">测试前端 Key</button>
+          <button id="testAllApiButton" type="button">全部实测</button>
+        </div>
+        <div id="settingsTestStatus" class="settings-test-status">测试会真实调用模型并返回连通结果，API Key 只做脱敏显示。</div>
+        <div class="utility-actions">
+          <button id="reloadSettingsButton" class="secondary-button" type="button">重新读取</button>
+          <button id="saveSettingsButton" type="button">保存并应用</button>
+        </div>
+      </section>
+    </div>
+
+    <template id="messageTemplate">
+      <article class="message">
+        <div class="message-role"></div>
+        <div class="message-body"></div>
+      </article>
+    </template>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="./app.js?v=20260525agri93"></script>
+  </body>
+</html>

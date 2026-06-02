@@ -1,0 +1,219 @@
+{
+  "record_id": "market:produce:grape_bc8a2f8c:20260602_130426:a88f1cc620",
+  "created_at": "2026-06-02T13:04:26",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:produce:grape_bc8a2f8c:20260602_130426:a88f1cc620",
+    "@type": "agri:ProduceMarketObservation",
+    "ontology_class": {
+      "class": "agri:ProduceMarketObservation",
+      "broader": "agri:AgriculturalProduct",
+      "label": "农产品行情"
+    },
+    "product": {
+      "@id": "agri:product_grape_bc8a2f8c",
+      "name": "grape",
+      "broader": "agri:AgriculturalProduct"
+    },
+    "category": {
+      "@id": "agri:category_produce_432f62c7",
+      "id": "produce",
+      "name": "农产品行情"
+    },
+    "locations": {
+      "production": "Toulouse, Occitanie, France",
+      "market": "Toulouse MIN Occitanie wholesale market"
+    },
+    "observed_at": "2026-06-02 13:04:26",
+    "decision": "暂未筛到grape的官方当日精确价，先看同类品种和来源页，再向目标市场询价。",
+    "price_rows": [
+      {
+        "name": "黄瓜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.3079",
+        "last_price": "3.1854",
+        "change_percent": "3.85",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "冬瓜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "1.9446",
+        "last_price": "1.9008",
+        "change_percent": "2.3",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "南瓜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "2.6635",
+        "last_price": "2.6113",
+        "change_percent": "2",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "茄子",
+        "market": "全国重点批发市场均价",
+        "avg_price": "4.0674",
+        "last_price": "4.0182",
+        "change_percent": "1.22",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "菠菜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "4.7791",
+        "last_price": "4.7223",
+        "change_percent": "1.2",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "平菇",
+        "market": "全国重点批发市场均价",
+        "avg_price": "7.7164",
+        "last_price": "7.6361",
+        "change_percent": "1.05",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "西红柿",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.6836",
+        "last_price": "3.6522",
+        "change_percent": "0.86",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "蒜薹",
+        "market": "全国重点批发市场均价",
+        "avg_price": "6.2347",
+        "last_price": "6.198",
+        "change_percent": "0.59",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      }
+    ],
+    "sources": [
+      {
+        "title": "全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "重点农产品市场信息平台",
+        "url": "https://ncpscxx.moa.gov.cn/",
+        "snippet": "农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "中国价格信息网-农产品",
+        "url": "https://jgjc.ndrc.gov.cn/ncp/index.jhtml",
+        "snippet": "国家发展改革委价格监测相关公开信息入口，提供农产品价格参考。",
+        "source": "政府公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "农业农村部市场与信息化司",
+        "url": "http://www.moa.gov.cn/govpublic/SCYJJXXS/",
+        "snippet": "农业农村部市场与信息化司公开信息，适合查询市场、信息化和产业政策。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "grape当前可见报价约1.9446元/公斤到7.7164元/公斤，以全国重点批发市场均价为主要参考。",
+      "advice": [
+        "先锁定目标市场到货价",
+        "成熟货分级后优先出货",
+        "保留一部分等二次报价"
+      ],
+      "risk": "公开均价不等于成交价，规格、等级、账期和损耗会明显影响收益。",
+      "action": "今天先联系Toulouse MIN Occitanie wholesale market确认收购量。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "暂未筛到grape的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_grape_bc8a2f8c",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_produce_432f62c7"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130426:a88f1cc620",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_grape_bc8a2f8c"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130426:a88f1cc620",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "Toulouse, Occitanie, France"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130426:a88f1cc620",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "Toulouse MIN Occitanie wholesale market"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130426:a88f1cc620",
+        "predicate": "agri:hasDecision",
+        "object": "暂未筛到grape的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+      }
+    ]
+  }
+}

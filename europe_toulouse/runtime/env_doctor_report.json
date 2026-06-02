@@ -1,0 +1,37 @@
+﻿{
+    "generated_at":  "2026-06-02T13:02:10",
+    "root":  "C:\\Users\\weiku\\Documents\\Codex\\2026-05-26\\c-users-weiku-desktop-html\\AgriKB_GUI_Europe_Toulouse",
+    "checks":  [
+
+               ],
+    "repairs":  [
+
+                ],
+    "warnings":  [
+
+                 ],
+    "errors":  [
+
+               ],
+    "blocking":  [
+
+                 ],
+    "selected_python":  "C:\\Users\\weiku\\Documents\\Codex\\2026-05-26\\c-users-weiku-desktop-html\\AgriKB_GUI_Europe_Toulouse\\runtime\\python311\\python.exe",
+    "python_imports_ok":  true,
+    "python_missing_modules":  [
+
+                               ],
+    "env_file_exists":  true,
+    "api_key_configured":  true,
+    "backend_api_key_configured":  true,
+    "frontend_api_key_configured":  true,
+    "key_repairs":  [
+                        "Detected Kimi Coding Plan key and forced bundled Kimi CLI channel."
+                    ],
+    "kimi_cli_exists":  true,
+    "rg_exists":  true,
+    "port_in_use":  false,
+    "port_owner_pid":  null,
+    "kimi_cli_module_exists":  true,
+    "kimi_cli_version":  "kimi, version 1.41.0"
+}

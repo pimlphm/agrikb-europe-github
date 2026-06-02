@@ -1,0 +1,205 @@
+# ==========================================
+#  农业知识库 Agent - 配置文件
+#  修改此文件以适配您的环境
+# ==========================================
+
+# 推理后端选择:
+#   "auto"         - 自动选择：优先 Kimi / OpenAI 兼容 API，再用 Ollama 作为手动备选
+#   "openai_compatible" - Kimi / Moonshot OpenAI 兼容 API（默认交付模式）
+#   "ollama"       - 本地Ollama (CPU/NVIDIA GPU, 开发调试用)
+#   "vllm_ascend"  - 华为昇腾910B NPU (vLLM-Ascend, 生产部署)
+backend: "kimi_cli"
+
+# Optional cloud or intranet OpenAI-compatible backend.
+# Keep real keys in .env, not in this file.
+openai_compatible:
+  base_url: "https://api.kimi.com/coding/v1"
+  api_key: ""
+  model: "kimi-for-coding"
+  embedding_model: ""
+  temperature: 0.18
+  max_tokens: 850
+
+# Kimi Code membership keys are restricted to approved coding-agent clients.
+# The local official `kimi` CLI is used as the safe bridge for this project.
+kimi_cli:
+  executable: "./runtime/kimi/kimi.exe"
+  base_url: "https://api.kimi.com/coding/v1"
+  api_key: ""
+  model: "kimi-for-coding"
+  timeout: 180
+  max_retries: 1
+
+# ---------- Ollama 配置 (本地开发) ----------
+frontend_api:
+  base_url: "https://api.kimi.com/coding/v1"
+  api_key: ""
+  model: "kimi-for-coding"
+
+ollama:
+  base_url: "http://localhost:11434"
+  model: "qwen2.5:14b"
+  temperature: 0.2
+  max_tokens: 900
+  num_ctx: 4096
+  top_p: 0.85
+  keep_alive: "20m"
+
+# ---------- vLLM-Ascend 配置 (昇腾910B部署) ----------
+# 在910B服务器上运行:
+#   docker run ... quay.io/ascend/vllm-ascend:v0.13.0
+#   vllm serve Qwen/Qwen2.5-7B-Instruct --host 0.0.0.0 --port 8000
+#
+# 然后将 backend 改为 "vllm_ascend" 并配置以下参数:
+vllm_ascend:
+  base_url: "http://localhost:8000"          # vLLM服务地址
+  model: "Qwen/Qwen2.5-7B-Instruct"         # HuggingFace模型路径
+  temperature: 0.3
+  max_tokens: 4096
+  api_key: "EMPTY"                           # vLLM默认不需要key
+
+  # === 昇腾910B硬件参数 (用于部署脚本) ===
+  docker_image: "quay.io/ascend/vllm-ascend:v0.13.0"
+  npu_devices: "0"              # 使用的NPU卡号, 多卡用 "0,1,2,3"
+  tensor_parallel_size: 1       # 张量并行数 (多卡时设为卡数)
+  max_model_len: 8192           # 最大上下文长度 (防止OOM)
+  gpu_memory_utilization: 0.9   # 显存利用率
+  dtype: "auto"                 # 数据类型 (auto/float16/bfloat16)
+
+# ---------- 文档配置 ----------
+documents:
+  watch_dir: "./docs"
+  archive_dir: "./docs/archived"
+  supported_formats:
+    - ".pdf"
+    - ".docx"
+    - ".doc"
+    - ".txt"
+    - ".md"
+    - ".xlsx"
+    - ".xls"
+    - ".csv"
+    - ".pptx"
+    - ".html"
+    - ".xml"
+    - ".json"
+    - ".yaml"
+    - ".yml"
+    - ".rst"
+    - ".tex"
+
+# ---------- 知识图谱配置 ----------
+ontology:
+  output_dir: "./ontology"
+  graph_db: "./ontology/knowledge_graph.json"
+  auto_save: true
+
+# ---------- 输出配置 ----------
+output:
+  graph_dir: "./output/graphs"
+  report_dir: "./output/reports"
+
+# ---------- Agent行为配置 ----------
+agent:
+  max_reasoning_steps: 10
+  enable_auto_archive: true
+  archive_check_interval: 300
+
+# ---------- Migration switches for phased RAG rollout ----------
+feature_flags:
+  ENABLE_DENSE_RETRIEVAL: true
+  ENABLE_HYBRID_RETRIEVAL: true
+  ENABLE_RERANKER: true
+  ENABLE_QUERY_REWRITE: true
+  ENABLE_AGENTIC: false
+  ENABLE_RLM: false
+  ENABLE_GRAPH_LAYER: false
+  ENABLE_COMPILED_KNOWLEDGE: false
+  ENABLE_SECURITY_REVIEW: false
+
+versioning:
+  active_index_version: "agrikb-public-sources-20260523"
+  previous_index_version: "rag-v1-current"
+  active_model_version: "moonshot-v1-8k"
+  previous_model_version: "qwen2.5:7b-instruct"
+
+api:
+  host: "127.0.0.1"
+  port: 8010
+  enable_cors: true
+  allowed_origins:
+    - "*"
+
+storage:
+  raw_dir: "./data/raw"
+  processed_dir: "./data/processed"
+  chunk_dir: "./knowledge/chunks"
+  wiki_dir: "./knowledge/wiki"
+  chunk_db: "./knowledge/chunks.db"
+  retrieval_index_dir: "./data/processed/retrieval"
+
+agent_capabilities:
+  memory_dir: "./knowledge/agent_memory"
+  workflow_dir: "./knowledge/agent_workflows"
+  exports_dir: "./runtime/agent_exports"
+
+retrieval:
+  chunk_size: 420
+  chunk_overlap: 80
+  top_k: 6
+  dense_weight: 0.3
+  sparse_weight: 0.7
+  rerank_top_n: 12
+  dense_embedding_dim: 128
+  remote_embeddings: false
+  min_score: 0.02
+  dense_candidate_only: true
+  sparse_candidate_multiplier: 10
+
+answer:
+  max_evidence: 3
+  evidence_excerpt_chars: 110
+
+ingestion:
+  parse_workers: 12
+  db_batch_size: 4000
+  chunk_file_workers: 0
+  write_chunk_json_files: false
+  min_chunk_tokens: 150
+  max_chunk_tokens: 500
+  semantic_boundary_threshold: 0.45
+  enable_wiki_stub: true
+  enable_structured_extraction: true
+
+evaluation:
+  benchmark_path: "./eval/benchmark_queries.json"
+  output_report_dir: "./output/reports/eval"
+  citation_required_by_default: true
+
+# ---------- RLM 递归语言模型配置 ----------
+# 基于论文 "Recursive Language Models" (Zhang et al., 2026)
+# RLM 将超长输入视为环境变量，通过 REPL 编程让 LLM 递归地分析内容
+rlm:
+  max_iterations: 10             # 根 LLM 的最大 REPL 迭代次数
+  max_sub_calls: 30              # 子 LLM 递归调用的最大次数
+  evidence_top_k: 20             # RLM 模式下检索的证据块数量（比常规多）
+  chunk_chars_per_sub_call: 3000 # 每次子 LLM 调用建议处理的字符数
+  stdout_preview_limit: 2000     # REPL stdout 截断阈值
+  # RLM 触发条件: 满足以下任一条件时使用 RLM 代替普通 agentic
+  trigger:
+    min_evidence_chunks: 8       # 检索到的证据块数 >= 此值时触发
+    min_query_complexity: "complex"  # 查询复杂度达到此级别时触发
+    keywords:                    # 包含以下关键词时触发 RLM
+      - "所有文档"
+      - "全部证据"
+      - "综合分析"
+      - "跨文档"
+      - "对比所有"
+      - "cross-document"
+      - "aggregate"
+      - "comprehensive"
+
+orchestrator:
+  log_path: "./orchestrator_log.json"
+  stop_on_failed_gate: true
+  current_phase: 4

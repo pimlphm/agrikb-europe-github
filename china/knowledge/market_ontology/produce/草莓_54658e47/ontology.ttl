@@ -1,0 +1,112 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c> a agri:ProduceMarketObservation ;
+  agri:observesProduct <agri:product_草莓_54658e47> ;
+  agri:hasMarketCategory <agri:category_produce_432f62c7> ;
+  agri:observedAt "2026-05-25 17:24:17" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "暂未筛到草莓的官方当日精确价，先看同类品种和来源页，再向目标市场询价。" .
+
+<agri:product_草莓_54658e47> a agri:AgriculturalThing ;
+  schema:name "草莓" .
+
+<agri:category_produce_432f62c7> a agri:MarketCategory ;
+  schema:name "农产品行情" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:1> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "2.8795" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:2> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "1.7454" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:3> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "5.619" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:4> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "1.4073" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:5> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "15.1815" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:6> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "4.0079" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:7> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "19.1844" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:8> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "3.9407" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "全国重点批发市场均价" ;
+  agri:sourceName "农业农村部信息中心" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:9> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "13.14" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "山西太原丈子头农产品物流园" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:10> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "48.36" ;
+  agri:priceUnit "元/公斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "山西太原丈子头农产品物流园" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:11> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "11.5" ;
+  agri:priceUnit "元/斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "青岛市城阳蔬菜水产品批发市场" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .
+
+<market:produce:草莓_54658e47:20260525_172417:abfed4239c:price:12> a agri:PriceObservation ;
+  agri:belongsTo <market:produce:草莓_54658e47:20260525_172417:abfed4239c> ;
+  agri:priceValue "15" ;
+  agri:priceUnit "元/斤" ;
+  agri:marketName "镇江农产品批发市场" ;
+  agri:sourceName "青岛市城阳蔬菜水产品批发市场" ;
+  agri:sourceUrl "https://pfsc.agri.cn/" .

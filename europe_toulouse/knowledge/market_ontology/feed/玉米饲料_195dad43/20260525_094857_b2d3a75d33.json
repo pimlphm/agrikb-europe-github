@@ -1,0 +1,114 @@
+{
+  "record_id": "market:feed:玉米饲料_195dad43:20260525_094857:b2d3a75d33",
+  "created_at": "2026-05-25T09:48:57",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:feed:玉米饲料_195dad43:20260525_094857:b2d3a75d33",
+    "@type": "agri:FeedMarketObservation",
+    "ontology_class": {
+      "class": "agri:FeedMarketObservation",
+      "broader": "agri:FeedAndBreedingInput",
+      "label": "饲料养殖"
+    },
+    "product": {
+      "@id": "agri:product_玉米饲料_195dad43",
+      "name": "玉米饲料",
+      "broader": "agri:FeedAndBreedingInput"
+    },
+    "category": {
+      "@id": "agri:category_feed_65c3466e",
+      "id": "feed",
+      "name": "饲料养殖"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-25 09:48:57",
+    "decision": "玉米饲料暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。",
+    "price_rows": [],
+    "sources": [
+      {
+        "title": "全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "重点农产品市场信息平台",
+        "url": "https://ncpscxx.moa.gov.cn/",
+        "snippet": "农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "中国价格信息网-农产品",
+        "url": "https://jgjc.ndrc.gov.cn/ncp/index.jhtml",
+        "snippet": "国家发展改革委价格监测相关公开信息入口，提供农产品价格参考。",
+        "source": "政府公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "农业农村部市场与信息化司",
+        "url": "http://www.moa.gov.cn/govpublic/SCYJJXXS/",
+        "snippet": "农业农村部市场与信息化司公开信息，适合查询市场、信息化和产业政策。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "玉米饲料暂无稳定价格表，已找到公开来源线索，适合先询价再决策。",
+      "advice": [
+        "至少比三家报价",
+        "核对品牌规格和批号",
+        "优先选择可开票渠道"
+      ],
+      "risk": "农资采购要核对登记证、有效期、售后和配送范围，避免只比单价。",
+      "action": "今天先把饲料养殖的规格和用量列清。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "玉米饲料暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_玉米饲料_195dad43",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_feed_65c3466e"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260525_094857:b2d3a75d33",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_玉米饲料_195dad43"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260525_094857:b2d3a75d33",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260525_094857:b2d3a75d33",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:feed:玉米饲料_195dad43:20260525_094857:b2d3a75d33",
+        "predicate": "agri:hasDecision",
+        "object": "玉米饲料暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。"
+      }
+    ]
+  }
+}

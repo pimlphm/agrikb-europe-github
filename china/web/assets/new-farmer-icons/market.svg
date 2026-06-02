@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" role="img" aria-label="行情">
+  <rect width="24" height="24" rx="5" fill="#b6852d" opacity="0.12"/>
+  <path d="M4 19h16v2H4v-2Zm1-8h3v6H5v-6Zm5-5h3v11h-3V6Zm5 3h3v8h-3V9Zm3.5-5 2.2 2.2-6.7 6.7-3-3-5.2 5.2-1.4-1.4L11 7.2l3 3L18.5 4Z" fill="#b6852d"/>
+</svg>

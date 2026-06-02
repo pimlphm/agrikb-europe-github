@@ -1,0 +1,11 @@
+version: 0.1
+node_types:
+  - Entity
+  - Relation
+  - Condition
+  - EvidenceType
+edge_types:
+  - causes
+  - associated_with
+  - occurs_in
+  - mitigated_by

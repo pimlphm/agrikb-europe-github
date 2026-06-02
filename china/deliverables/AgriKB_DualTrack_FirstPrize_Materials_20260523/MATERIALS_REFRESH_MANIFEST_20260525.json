@@ -1,0 +1,97 @@
+{
+  "updated_at": "2026-05-25T09:33:35",
+  "version": "V1.3",
+  "scenario": "江苏句容",
+  "materials": [
+    {
+      "name": "01_AgriKB_使用说明书.docx",
+      "size": 39838,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\01_AgriKB_使用说明书.docx"
+    },
+    {
+      "name": "01_AgriKB_使用说明书.md",
+      "size": 4137,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\01_AgriKB_使用说明书.md"
+    },
+    {
+      "name": "02_AgriKB_产品说明书.docx",
+      "size": 40068,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\02_AgriKB_产品说明书.docx"
+    },
+    {
+      "name": "02_AgriKB_产品说明书.md",
+      "size": 4068,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\02_AgriKB_产品说明书.md"
+    },
+    {
+      "name": "03_AgriKB_专利交底书_初稿.docx",
+      "size": 39521,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\03_AgriKB_专利交底书_初稿.docx"
+    },
+    {
+      "name": "03_AgriKB_专利交底书_初稿.md",
+      "size": 4927,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\03_AgriKB_专利交底书_初稿.md"
+    },
+    {
+      "name": "04_AgriKB_软件著作权登记材料_初稿.docx",
+      "size": 39051,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\04_AgriKB_软件著作权登记材料_初稿.docx"
+    },
+    {
+      "name": "04_AgriKB_软件著作权登记材料_初稿.md",
+      "size": 2576,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\04_AgriKB_软件著作权登记材料_初稿.md"
+    },
+    {
+      "name": "05_AgriKB_移动端与硬件部署适配说明.docx",
+      "size": 38403,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\05_AgriKB_移动端与硬件部署适配说明.docx"
+    },
+    {
+      "name": "05_AgriKB_移动端与硬件部署适配说明.md",
+      "size": 1525,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\05_AgriKB_移动端与硬件部署适配说明.md"
+    },
+    {
+      "name": "06_AgriKB_项目介绍书.docx",
+      "size": 39075,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\06_AgriKB_项目介绍书.docx"
+    },
+    {
+      "name": "06_AgriKB_项目介绍书.md",
+      "size": 2731,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\06_AgriKB_项目介绍书.md"
+    },
+    {
+      "name": "07_AgriKB_专利申请书_增强版_20260525.docx",
+      "size": 39521,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\07_AgriKB_专利申请书_增强版_20260525.docx"
+    },
+    {
+      "name": "07_AgriKB_专利申请书_增强版_20260525.md",
+      "size": 4927,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\07_AgriKB_专利申请书_增强版_20260525.md"
+    },
+    {
+      "name": "08_AgriKB_软件著作权申请书_增强版_20260525.docx",
+      "size": 39051,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\08_AgriKB_软件著作权申请书_增强版_20260525.docx"
+    },
+    {
+      "name": "08_AgriKB_软件著作权申请书_增强版_20260525.md",
+      "size": 2576,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\08_AgriKB_软件著作权申请书_增强版_20260525.md"
+    },
+    {
+      "name": "README_材料包索引.md",
+      "size": 1726,
+      "path": "C:\\Users\\weiku\\Desktop\\AgriKB_Final_FirstPrize_Delivery_20260523_200416\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\README_材料包索引.md"
+    }
+  ],
+  "notes": [
+    "Documents were enriched for roadshow, product delivery, patent disclosure, software copyright and trusted-PC deployment.",
+    "API keys are not printed in document body.",
+    "All checked scenario labels use 江苏句容."
+  ]
+}

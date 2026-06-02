@@ -1,0 +1,26 @@
+{
+  "version": "V1.2-investor-tech",
+  "date": "2026-05-25",
+  "pptx": "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\AgriKB_数智新农人经营中枢_路演终版_20260525.pptx",
+  "video": "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\AgriKB_function_demo_recording_20260525.mp4",
+  "slide_count": 22,
+  "screenshots": [
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\01_home_clean_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\02_greenhouse_monitoring_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\03_greenhouse_detail_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\04_information_aggregation_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\05_competition_headlines_no_badges_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\06_market_price_loop_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\07_weather_horizons_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\08_policy_drilldown_v90.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\01_crop_iot_monitoring.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\02_traceability_batch_chain.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\03_digital_platform_dashboard.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\04_policy_drilldown_ai_context.png",
+    "C:\\Users\\weiku\\Desktop\\AgriKB_PublicKnowledge_20260523\\deliverables\\AgriKB_DualTrack_FirstPrize_Materials_20260523\\screenshots_20260525\\05_causal_knowledge_graph.png"
+  ],
+  "notes": [
+    "PPT enriched with ontology data management, experience sedimentation, RLM recursive reasoning, IoT+ field integration, business model, roadmap and latest demo screenshots.",
+    "API key is intentionally not displayed in public-facing materials; runtime configuration remains in local .env."
+  ]
+}

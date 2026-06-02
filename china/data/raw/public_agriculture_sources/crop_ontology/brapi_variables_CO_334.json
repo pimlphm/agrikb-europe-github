@@ -1,0 +1,522 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 379,
+            "totalPages": 38
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "observationVariableDbId": "CO_334:0000008",
+            "name": "sprout_comp_r",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "sprout",
+            "contextOfUse": "Breeding trials",
+            "growthStage": "default",
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000472",
+                "name": "Sprouting",
+                "class": "Agronomic",
+                "description": "Proportion of stakes germinated",
+                "synonyms": "Proportion of germinated stakes",
+                "mainAbbreviation": "sprout",
+                "alternativeAbbreviations": null,
+                "entity": "Germinated stake",
+                "attribute": "Proportion",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010220",
+                "name": "Counting:Sprouting_method",
+                "class": "Computation",
+                "description": "The number of germinated stakes divided by the total number of planted stakes scored one month after planting",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100426",
+                "name": "ratio",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000009",
+            "name": "IVig_IITAVisScg_1to7",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "vigor",
+            "contextOfUse": "Breeding trials",
+            "growthStage": "default",
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000386",
+                "name": "Initial Vigor",
+                "class": "Agronomic",
+                "description": "Initial plant vigor at one month after planting",
+                "synonyms": "Initial plant vigor",
+                "mainAbbreviation": "PlntIVigor",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Initial vigor",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010228",
+                "name": "Visual Rating:Initial Vigor_method",
+                "class": "Estimation",
+                "description": "Trait monitored by observing plant vigor one month after planting",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100434",
+                "name": "7 pt scale",
+                "dataType": "Ordinal",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": [
+                        "1 =",
+                        "2 =",
+                        "3 = Low",
+                        "4 =",
+                        "5 = Intermediate",
+                        "6 =",
+                        "7 = High"
+                    ]
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000010",
+            "name": "NoHvstPlnt_Count_Plnt",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "nohav",
+            "contextOfUse": "Breeding trials",
+            "growthStage": "default",
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000434",
+                "name": "Plant Stands Harvested",
+                "class": "Agronomic",
+                "description": "Number of plant stands harvested",
+                "synonyms": null,
+                "mainAbbreviation": "nohav",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Number",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010284",
+                "name": "Counting:Plant Stands Harvested_method",
+                "class": "Counting",
+                "description": "Count the number of plant stands that are harvested in a plot",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100490",
+                "name": "Plant",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000011",
+            "name": "NoHvstRt_Count_Rt",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "rtno",
+            "contextOfUse": "Breeding trials",
+            "growthStage": "default",
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000452",
+                "name": "Root Number",
+                "class": "Agronomic",
+                "description": "Number of harvested marketable storage roots",
+                "synonyms": "Marketable root number, Root Number - Cassavabase",
+                "mainAbbreviation": "RtNo",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Number",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010285",
+                "name": "Counting:Root Number_method",
+                "class": "Counting",
+                "description": "Count the number of storage root per plot harvest",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100491",
+                "name": "Root",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000012",
+            "name": "RtWt_Wgh_kg",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "rtwt",
+            "contextOfUse": "Breeding trials",
+            "growthStage": "default",
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000493",
+                "name": "Storage root weight",
+                "class": "Agronomic",
+                "description": "Weight of harvested storage root",
+                "synonyms": "Fresh Weight of Storage Root - Cassavabase",
+                "mainAbbreviation": "RtWt",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Weight",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010286",
+                "name": "Measurement :Fresh Weight of Storage Root_method",
+                "class": "Measurement",
+                "description": "Weigh harvested storage roots per plot at harvest",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100492",
+                "name": "kg",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000013",
+            "name": "RtYld_Fresh_tha",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "fyld",
+            "contextOfUse": "Breeding trials",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000456",
+                "name": "Root yield",
+                "class": "Agronomic",
+                "description": "Tuberous root yield",
+                "synonyms": null,
+                "mainAbbreviation": "RtYld",
+                "alternativeAbbreviations": null,
+                "entity": "Tuberous root",
+                "attribute": "Yield",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010329",
+                "name": "Calculation :Fresh Root Yield_method",
+                "class": "Computation",
+                "description": "Calculated as weight of fresh storage roots expressed in tons per hectares per plant at harvest",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100535",
+                "name": "t/ha",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000014",
+            "name": "RtYld_Dry_tha",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "dyld",
+            "contextOfUse": "Breeding trials",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000456",
+                "name": "Root yield",
+                "class": "Agronomic",
+                "description": "Tuberous root yield",
+                "synonyms": null,
+                "mainAbbreviation": "RtYld",
+                "alternativeAbbreviations": null,
+                "entity": "Tuberous root",
+                "attribute": "Yield",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010330",
+                "name": "Calculation :Dry Yield_method",
+                "class": "Computation",
+                "description": "Dry weight of harvested roots derived by multiplying fresh storage root yield by dry matter content expressed in tons per hectares.",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100536",
+                "name": "t/ha",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000016",
+            "name": "ShWt_Meas_kg",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "shtwt",
+            "contextOfUse": "Breeding trials",
+            "growthStage": "default",
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000369",
+                "name": "Fresh Shoot Weight",
+                "class": "Agronomic",
+                "description": "Total fresh weight of harvested foliage and stems",
+                "synonyms": null,
+                "mainAbbreviation": "ShFrWe",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Fresh weight",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010287",
+                "name": "Measurement :Fresh Shoot Weight_method",
+                "class": "Measurement",
+                "description": "Weigh foliage and stems per plot at harvest",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100493",
+                "name": "kg",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000017",
+            "name": "RtYld_FreshAerial_tha",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "tyld",
+            "contextOfUse": "Breeding trials",
+            "growthStage": null,
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000456",
+                "name": "Root yield",
+                "class": "Agronomic",
+                "description": "Tuberous root yield",
+                "synonyms": null,
+                "mainAbbreviation": "RtYld",
+                "alternativeAbbreviations": null,
+                "entity": "Tuberous root",
+                "attribute": "Yield",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010332",
+                "name": "Calculation :Top Yield_method",
+                "class": "Computation",
+                "description": "Calculated as weight of foliage and stems expressed in tons per hectares per plot at harvest",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100538",
+                "name": "t/ha",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        },
+        {
+            "observationVariableDbId": "CO_334:0000018",
+            "name": "PlntH_Meas_cm",
+            "ontologyDbId": "CO_334",
+            "ontologyName": "Cassava",
+            "synonyms": "pltht",
+            "contextOfUse": "Characterization trials",
+            "growthStage": "default",
+            "status": "Recommended",
+            "xref": null,
+            "institution": "IITA",
+            "scientist": "Peter Kulakow Coordinator",
+            "date": null,
+            "language": "EN",
+            "crop": "Cassava",
+            "defaultValue": null,
+            "trait": {
+                "traitDbId": "CO_334:0000432",
+                "name": "Plant Height",
+                "class": "Agronomic",
+                "description": "Height of plant at harvest from ground level to top of canopy",
+                "synonyms": null,
+                "mainAbbreviation": "pltht",
+                "alternativeAbbreviations": null,
+                "entity": null,
+                "attribute": "Height",
+                "status": "Recommended",
+                "xref": null
+            },
+            "method": {
+                "methodDbId": "CO_334:0010303",
+                "name": "Measurement :Plant Height_method",
+                "class": "Measurement",
+                "description": "Measured as height from ground level to the top of canopy at harvest",
+                "formula": null,
+                "reference": "Dixon et al 2010 Fukuda et al 2010"
+            },
+            "scale": {
+                "scaleDbId": "CO_334:0100509",
+                "name": "cm",
+                "dataType": "Numerical",
+                "decimalPlaces": null,
+                "xref": null,
+                "validValues": {
+                    "min": null,
+                    "max": null,
+                    "categories": []
+                }
+            }
+        }
+    ]
+}

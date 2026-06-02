@@ -1,0 +1,58 @@
+nodes:
+  - id: classify
+    role: query_router
+  - id: retrieve
+    role: hybrid_retriever
+  - id: rewrite
+    role: query_rewriter
+  - id: self_check
+    role: citation_guard
+  - id: answer
+    role: grounded_generator
+  # RLM 递归语言模型节点 (基于 Zhang et al., 2026)
+  - id: rlm_init_repl
+    role: repl_initializer
+    description: "将检索证据加载为 REPL 环境变量，不直接填充上下文窗口"
+  - id: rlm_recursive_analyze
+    role: recursive_analyzer
+    description: "LLM 编写代码分块分析证据，递归调用子 LLM 进行语义处理"
+  - id: rlm_aggregate
+    role: result_aggregator
+    description: "汇聚所有子调用结果，通过 REPL 变量组装最终答案"
+
+edges:
+  # 常规流程
+  - from: classify
+    to: retrieve
+    condition: baseline_or_complex
+  - from: retrieve
+    to: self_check
+    condition: evidence_returned
+  - from: self_check
+    to: answer
+    condition: evidence_sufficient
+  - from: self_check
+    to: rewrite
+    condition: evidence_insufficient
+  - from: rewrite
+    to: retrieve
+    condition: retry_under_budget
+  # RLM 流程: 当路由判定为 rlm 模式时走此分支
+  - from: classify
+    to: retrieve
+    condition: rlm_mode_selected
+  - from: retrieve
+    to: rlm_init_repl
+    condition: rlm_evidence_loaded
+  - from: rlm_init_repl
+    to: rlm_recursive_analyze
+    condition: repl_ready
+  - from: rlm_recursive_analyze
+    to: rlm_recursive_analyze
+    condition: more_chunks_to_process
+  - from: rlm_recursive_analyze
+    to: rlm_aggregate
+    condition: all_chunks_processed
+  - from: rlm_aggregate
+    to: answer
+    condition: final_answer_assembled

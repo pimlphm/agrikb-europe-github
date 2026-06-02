@@ -1,0 +1,394 @@
+{
+    "summary CO crops": {
+        "Total number of terms": 24829,
+        "Total number of variables": 8309,
+        "Total number of traits": 6102,
+        "Total number of methods": 6814,
+        "Total number of scales": 3604,
+        "Crops": [
+            "CO_370 Apple",
+            "CO_366 Bambara groundnut",
+            "CO_325 Banana",
+            "CO_323 Barley",
+            "CO_333 Beet Ontology",
+            "CO_371 Blueberry",
+            "CO_345 Brachiaria",
+            "CO_348 Brassica",
+            "CO_334 Cassava",
+            "CO_347 Castor bean",
+            "CO_338 Chickpea",
+            "CO_326 Coconut",
+            "CO_335 Common bean",
+            "CO_358 Cotton",
+            "CO_340 Cowpea",
+            "CO_365 Fababean",
+            "CO_337 Groundnut",
+            "CO_339 Lentil",
+            "CO_322 Maize",
+            "CO_346 Mungbean",
+            "CO_350 Oat",
+            "CO_327 Pearl millet",
+            "CO_341 Pigeonpea",
+            "CO_330 Potato",
+            "CO_367 Quinoa Ontology",
+            "CO_374 Red clover",
+            "CO_320 Rice",
+            "CO_369 Sainfoin",
+            "CO_324 Sorghum",
+            "CO_336 Soybean",
+            "CO_372 Strawberry",
+            "CO_360 Sugar Kelp trait",
+            "CO_359 Sunflower",
+            "CO_331 Sweet Potato",
+            "CO_356 Vitis",
+            "CO_321 Wheat",
+            "CO_357 Woody Plant Ontology",
+            "CO_343 Yam"
+        ],
+        "Number of ontologies": 38
+    },
+    "summary per crop": [
+        {
+            "Ontology ID": "CO_370",
+            "Ontology name": "Apple",
+            "Number of terms": 175,
+            "Number of variables": 53,
+            "Number of traits": 53,
+            "Number of methods": 53,
+            "Number of scales": 11
+        },
+        {
+            "Ontology ID": "CO_366",
+            "Ontology name": "Bambara groundnut",
+            "Number of terms": 540,
+            "Number of variables": 163,
+            "Number of traits": 156,
+            "Number of methods": 159,
+            "Number of scales": 53
+        },
+        {
+            "Ontology ID": "CO_325",
+            "Ontology name": "Banana",
+            "Number of terms": 1238,
+            "Number of variables": 390,
+            "Number of traits": 331,
+            "Number of methods": 338,
+            "Number of scales": 165
+        },
+        {
+            "Ontology ID": "CO_323",
+            "Ontology name": "Barley",
+            "Number of terms": 495,
+            "Number of variables": 148,
+            "Number of traits": 128,
+            "Number of methods": 148,
+            "Number of scales": 63
+        },
+        {
+            "Ontology ID": "CO_333",
+            "Ontology name": "Beet Ontology",
+            "Number of terms": 1071,
+            "Number of variables": 369,
+            "Number of traits": 248,
+            "Number of methods": 335,
+            "Number of scales": 110
+        },
+        {
+            "Ontology ID": "CO_371",
+            "Ontology name": "Blueberry",
+            "Number of terms": 590,
+            "Number of variables": 178,
+            "Number of traits": 161,
+            "Number of methods": 177,
+            "Number of scales": 64
+        },
+        {
+            "Ontology ID": "CO_345",
+            "Ontology name": "Brachiaria",
+            "Number of terms": 245,
+            "Number of variables": 82,
+            "Number of traits": 68,
+            "Number of methods": 56,
+            "Number of scales": 32
+        },
+        {
+            "Ontology ID": "CO_348",
+            "Ontology name": "Brassica",
+            "Number of terms": 423,
+            "Number of variables": 155,
+            "Number of traits": 153,
+            "Number of methods": 84,
+            "Number of scales": 23
+        },
+        {
+            "Ontology ID": "CO_334",
+            "Ontology name": "Cassava",
+            "Number of terms": 1289,
+            "Number of variables": 379,
+            "Number of traits": 285,
+            "Number of methods": 297,
+            "Number of scales": 316
+        },
+        {
+            "Ontology ID": "CO_347",
+            "Ontology name": "Castor bean",
+            "Number of terms": 257,
+            "Number of variables": 75,
+            "Number of traits": 70,
+            "Number of methods": 73,
+            "Number of scales": 32
+        },
+        {
+            "Ontology ID": "CO_338",
+            "Ontology name": "Chickpea",
+            "Number of terms": 351,
+            "Number of variables": 89,
+            "Number of traits": 86,
+            "Number of methods": 85,
+            "Number of scales": 84
+        },
+        {
+            "Ontology ID": "CO_326",
+            "Ontology name": "Coconut",
+            "Number of terms": 717,
+            "Number of variables": 255,
+            "Number of traits": 161,
+            "Number of methods": 241,
+            "Number of scales": 51
+        },
+        {
+            "Ontology ID": "CO_335",
+            "Ontology name": "Common bean",
+            "Number of terms": 635,
+            "Number of variables": 186,
+            "Number of traits": 170,
+            "Number of methods": 170,
+            "Number of scales": 99
+        },
+        {
+            "Ontology ID": "CO_358",
+            "Ontology name": "Cotton",
+            "Number of terms": 1354,
+            "Number of variables": 561,
+            "Number of traits": 178,
+            "Number of methods": 420,
+            "Number of scales": 186
+        },
+        {
+            "Ontology ID": "CO_340",
+            "Ontology name": "Cowpea",
+            "Number of terms": 818,
+            "Number of variables": 224,
+            "Number of traits": 201,
+            "Number of methods": 191,
+            "Number of scales": 194
+        },
+        {
+            "Ontology ID": "CO_365",
+            "Ontology name": "Fababean",
+            "Number of terms": 320,
+            "Number of variables": 94,
+            "Number of traits": 81,
+            "Number of methods": 94,
+            "Number of scales": 43
+        },
+        {
+            "Ontology ID": "CO_337",
+            "Ontology name": "Groundnut",
+            "Number of terms": 571,
+            "Number of variables": 191,
+            "Number of traits": 124,
+            "Number of methods": 159,
+            "Number of scales": 89
+        },
+        {
+            "Ontology ID": "CO_339",
+            "Ontology name": "Lentil",
+            "Number of terms": 273,
+            "Number of variables": 68,
+            "Number of traits": 66,
+            "Number of methods": 66,
+            "Number of scales": 65
+        },
+        {
+            "Ontology ID": "CO_322",
+            "Ontology name": "Maize",
+            "Number of terms": 936,
+            "Number of variables": 368,
+            "Number of traits": 212,
+            "Number of methods": 261,
+            "Number of scales": 85
+        },
+        {
+            "Ontology ID": "CO_346",
+            "Ontology name": "Mungbean",
+            "Number of terms": 301,
+            "Number of variables": 89,
+            "Number of traits": 78,
+            "Number of methods": 73,
+            "Number of scales": 53
+        },
+        {
+            "Ontology ID": "CO_350",
+            "Ontology name": "Oat",
+            "Number of terms": 945,
+            "Number of variables": 328,
+            "Number of traits": 211,
+            "Number of methods": 326,
+            "Number of scales": 71
+        },
+        {
+            "Ontology ID": "CO_327",
+            "Ontology name": "Pearl millet",
+            "Number of terms": 250,
+            "Number of variables": 72,
+            "Number of traits": 69,
+            "Number of methods": 50,
+            "Number of scales": 50
+        },
+        {
+            "Ontology ID": "CO_341",
+            "Ontology name": "Pigeonpea",
+            "Number of terms": 242,
+            "Number of variables": 73,
+            "Number of traits": 62,
+            "Number of methods": 69,
+            "Number of scales": 30
+        },
+        {
+            "Ontology ID": "CO_330",
+            "Ontology name": "Potato",
+            "Number of terms": 1196,
+            "Number of variables": 382,
+            "Number of traits": 273,
+            "Number of methods": 341,
+            "Number of scales": 184
+        },
+        {
+            "Ontology ID": "CO_367",
+            "Ontology name": "Quinoa Ontology",
+            "Number of terms": 156,
+            "Number of variables": 41,
+            "Number of traits": 41,
+            "Number of methods": 41,
+            "Number of scales": 27
+        },
+        {
+            "Ontology ID": "CO_374",
+            "Ontology name": "Red clover",
+            "Number of terms": 99,
+            "Number of variables": 28,
+            "Number of traits": 24,
+            "Number of methods": 28,
+            "Number of scales": 11
+        },
+        {
+            "Ontology ID": "CO_320",
+            "Ontology name": "Rice",
+            "Number of terms": 1448,
+            "Number of variables": 405,
+            "Number of traits": 268,
+            "Number of methods": 364,
+            "Number of scales": 401
+        },
+        {
+            "Ontology ID": "CO_369",
+            "Ontology name": "Sainfoin",
+            "Number of terms": 1,
+            "Number of variables": 1,
+            "Number of traits": 0,
+            "Number of methods": 0,
+            "Number of scales": 0
+        },
+        {
+            "Ontology ID": "CO_324",
+            "Ontology name": "Sorghum",
+            "Number of terms": 938,
+            "Number of variables": 345,
+            "Number of traits": 261,
+            "Number of methods": 233,
+            "Number of scales": 91
+        },
+        {
+            "Ontology ID": "CO_336",
+            "Ontology name": "Soybean",
+            "Number of terms": 351,
+            "Number of variables": 90,
+            "Number of traits": 83,
+            "Number of methods": 85,
+            "Number of scales": 86
+        },
+        {
+            "Ontology ID": "CO_372",
+            "Ontology name": "Strawberry",
+            "Number of terms": 451,
+            "Number of variables": 132,
+            "Number of traits": 98,
+            "Number of methods": 124,
+            "Number of scales": 89
+        },
+        {
+            "Ontology ID": "CO_360",
+            "Ontology name": "Sugar Kelp trait",
+            "Number of terms": 226,
+            "Number of variables": 81,
+            "Number of traits": 68,
+            "Number of methods": 52,
+            "Number of scales": 18
+        },
+        {
+            "Ontology ID": "CO_359",
+            "Ontology name": "Sunflower",
+            "Number of terms": 1097,
+            "Number of variables": 351,
+            "Number of traits": 268,
+            "Number of methods": 337,
+            "Number of scales": 132
+        },
+        {
+            "Ontology ID": "CO_331",
+            "Ontology name": "Sweet Potato",
+            "Number of terms": 1170,
+            "Number of variables": 334,
+            "Number of traits": 281,
+            "Number of methods": 332,
+            "Number of scales": 207
+        },
+        {
+            "Ontology ID": "CO_356",
+            "Ontology name": "Vitis",
+            "Number of terms": 796,
+            "Number of variables": 273,
+            "Number of traits": 219,
+            "Number of methods": 145,
+            "Number of scales": 38
+        },
+        {
+            "Ontology ID": "CO_321",
+            "Ontology name": "Wheat",
+            "Number of terms": 1385,
+            "Number of variables": 519,
+            "Number of traits": 354,
+            "Number of methods": 365,
+            "Number of scales": 139
+        },
+        {
+            "Ontology ID": "CO_357",
+            "Ontology name": "Woody Plant Ontology",
+            "Number of terms": 1160,
+            "Number of variables": 499,
+            "Number of traits": 297,
+            "Number of methods": 218,
+            "Number of scales": 133
+        },
+        {
+            "Ontology ID": "CO_343",
+            "Ontology name": "Yam",
+            "Number of terms": 768,
+            "Number of variables": 238,
+            "Number of traits": 215,
+            "Number of methods": 224,
+            "Number of scales": 79
+        }
+    ]
+}

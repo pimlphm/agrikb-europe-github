@@ -1,0 +1,251 @@
+{
+  "record_id": "market:produce:大葱_e3aebe28:20260525_094755:9b85bf7565",
+  "created_at": "2026-05-25T09:47:55",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:produce:大葱_e3aebe28:20260525_094755:9b85bf7565",
+    "@type": "agri:ProduceMarketObservation",
+    "ontology_class": {
+      "class": "agri:ProduceMarketObservation",
+      "broader": "agri:AgriculturalProduct",
+      "label": "农产品行情"
+    },
+    "product": {
+      "@id": "agri:product_大葱_e3aebe28",
+      "name": "大葱",
+      "broader": "agri:AgriculturalProduct"
+    },
+    "category": {
+      "@id": "agri:category_produce_432f62c7",
+      "id": "produce",
+      "name": "农产品行情"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-25 09:47:55",
+    "decision": "大葱监测价上涨，先问清目标市场到货价，成熟货可优先锁单。",
+    "price_rows": [
+      {
+        "name": "大葱",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.3746",
+        "last_price": "3.3098",
+        "change_percent": "1.96",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "exact",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "大葱",
+        "market": "镇江农产品批发市场",
+        "avg_price": "3.41",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "武山县蔬菜产业发展中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "大葱",
+        "market": "镇江农产品批发市场",
+        "avg_price": "3.63",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "武山县蔬菜产业发展中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "大葱",
+        "market": "镇江农产品批发市场",
+        "avg_price": "2.0",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "宁夏海吉星",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "大葱",
+        "market": "镇江农产品批发市场",
+        "avg_price": "2.8",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "宁夏海吉星",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "大葱",
+        "market": "镇江农产品批发市场",
+        "avg_price": "11.5",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/斤",
+        "date": "2026-05-25",
+        "source": "青岛市城阳蔬菜水产品批发市场",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "大葱",
+        "market": "镇江农产品批发市场",
+        "avg_price": "15",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/斤",
+        "date": "2026-05-25",
+        "source": "青岛市城阳蔬菜水产品批发市场",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "大葱",
+        "market": "镇江农产品批发市场",
+        "avg_price": "0.73",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/斤",
+        "date": "来源页实时信息",
+        "source": "ymt.com",
+        "source_url": "https://www.ymt.com/hangqing/juhe-7298",
+        "match": "exact",
+        "confidence": "公开网页需核实"
+      }
+    ],
+    "sources": [
+      {
+        "title": "甘肃省武山县洛门森源蔬菜果品市场：蔬菜批发价格周动态",
+        "url": "https://pfsc.agri.cn/",
+        "snippet": "本周（5月16日-5月22日），甘肃省武山县周边各类时令蔬菜集中上市，品类丰富，根茎类、茄果类、甘蓝类、叶菜类蔬菜供应充足，整体供求格局稳定。洛门森源蔬菜果品市场监测数据显示，辖区22种蔬菜平均批发价为3.41元/公斤，较上周3.63元/公斤环比下降6.1%，整体菜价呈下行态势。一、价格上涨品类 仅大葱、白萝卜、西芹三类蔬菜价格小幅上行，其中白萝卜涨幅最高，具体环比涨幅：白萝卜7.7%、西芹7.1%、大葱6.25%。二、价格下降品类 多数蔬菜价格回落，甘蓝、青椒降幅最为突出，具体环比降幅：甘蓝、青椒均下降25.0%",
+        "source": "武山县蔬菜产业发展中心",
+        "date": "2026-05-25",
+        "source_type": "pfsc_article"
+      },
+      {
+        "title": "agri - 全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "2026年05月24日 星期日 农历四月初八 下月5日芒种",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "重点农产品市场信息平台",
+        "url": "https://ncpscxx.moa.gov.cn/",
+        "snippet": "5月21日：\"农产品批发价格200指数\"比昨天下降0.09个点。 5月20日：\"农产品批发价格200指数\"比昨天下降0.23个点。 5月19日：\"农产品批发价格200指数\"比昨天下降0.24个点。 5月18日：\"农产品批发价格200指数\"比上周五下降0.45个点。 5月15日：\"农产品批发价格200指数\"比昨天下降0.17个点。 5月14 ...",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "大葱价格行情_今日大葱价格多少钱一斤 _ 一亩田 - Ymt.com",
+        "url": "https://www.ymt.com/hangqing/juhe-7298",
+        "snippet": "一亩田为您提供2026大葱价格行情，今日大葱最新价格0.73元/斤，相比于昨日平稳，还可查询全国价格走势、最新批发报价。",
+        "source": "ymt.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "农产品价格_全国农产品行情_农产品批发价格查询 - 惠农网",
+        "url": "https://m.cnhnb.com/hangqing/",
+        "snippet": "惠农网提供实时精准的农产品价格行情查询功能，用户可以查询全国各地水果蔬菜、畜牧水产、农副产品、苗木花草、农资农机等农产品的价格行情走势，为农产品买卖提供定价依据。",
+        "source": "m.cnhnb.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "大葱求购信息_大葱求购价格_大量收购大葱 - 惠农网",
+        "url": "https://www.cnhnb.com/purchase/dacong-0-0-0-0-1/",
+        "snippet": "惠农网提供最新真实的大葱求购信息,包含扁叶葱、长白大葱、大头葱、分葱、高白大葱、干葱、钢葱、红葱、鸡腿大葱、牛腿大葱各地实时采购商报价,联系方式、大葱求购价格、收购信息等，为大家发现商机促成交易，买卖大葱就上惠农网。",
+        "source": "cnhnb.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "2025年江苏大葱价格行情（产地）_中国江苏大葱网_蔬菜商情网",
+        "url": "http://www.shucai123.com/dacong/jiangsu/p2",
+        "snippet": "中国江苏大葱网是绿果网旗下江苏大葱价格信息网站,为行业农友提供全面的江苏大葱供求信息\\价格信息\\行情分析等信息服务.",
+        "source": "shucai123.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "江苏省大葱今日价格_江苏省大葱价格多少钱一斤-大宗行情中心-曲合期货",
+        "url": "https://www.quheqihuo.com/dz/ncp-c116-r11.html",
+        "snippet": "曲合期货行情中心为您提供全面、及时的行情数据，包括江苏省大葱今日价格,江苏省大葱多少钱一斤,江苏省大葱每日报价等大宗现货行情，为您的投资提供重要依据，助您在第一时间把握投资方向。",
+        "source": "quheqihuo.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "大葱当前可见报价约0.73元/公斤到15元/公斤，以全国重点批发市场均价为主要参考。",
+      "advice": [
+        "先锁定目标市场到货价",
+        "成熟货分级后优先出货",
+        "保留一部分等二次报价"
+      ],
+      "risk": "公开均价不等于成交价，规格、等级、账期和损耗会明显影响收益。",
+      "action": "今天先联系镇江农产品批发市场确认收购量。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "大葱监测价上涨，先问清目标市场到货价，成熟货可优先锁单。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_大葱_e3aebe28",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_produce_432f62c7"
+      },
+      {
+        "subject": "market:produce:大葱_e3aebe28:20260525_094755:9b85bf7565",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_大葱_e3aebe28"
+      },
+      {
+        "subject": "market:produce:大葱_e3aebe28:20260525_094755:9b85bf7565",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:produce:大葱_e3aebe28:20260525_094755:9b85bf7565",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:produce:大葱_e3aebe28:20260525_094755:9b85bf7565",
+        "predicate": "agri:hasDecision",
+        "object": "大葱监测价上涨，先问清目标市场到货价，成熟货可优先锁单。"
+      }
+    ]
+  }
+}

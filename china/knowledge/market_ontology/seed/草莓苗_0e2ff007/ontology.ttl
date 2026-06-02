@@ -1,0 +1,24 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:seed:草莓苗_0e2ff007:20260525_095255:52a7729832> a agri:SeedMarketObservation ;
+  agri:observesProduct <agri:product_草莓苗_0e2ff007> ;
+  agri:hasMarketCategory <agri:category_seed_92713d47> ;
+  agri:observedAt "2026-05-25 09:52:55" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "草莓苗已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。" .
+
+<agri:product_草莓苗_0e2ff007> a agri:AgriculturalThing ;
+  schema:name "草莓苗" .
+
+<agri:category_seed_92713d47> a agri:MarketCategory ;
+  schema:name "种子种苗" .
+
+<market:seed:草莓苗_0e2ff007:20260525_095255:52a7729832:price:1> a agri:PriceObservation ;
+  agri:belongsTo <market:seed:草莓苗_0e2ff007:20260525_095255:52a7729832> ;
+  agri:priceValue "10.09" ;
+  agri:priceUnit "元/斤" ;
+  agri:marketName "种子种苗" ;
+  agri:sourceName "ymt.com" ;
+  agri:sourceUrl "https://www.ymt.com/hangqing/juhe-7252" .

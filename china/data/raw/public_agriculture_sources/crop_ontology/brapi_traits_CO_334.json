@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 285,
+            "totalPages": 29
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_334:0000472",
+            "traitId": "CO_334:0000472",
+            "name": "Sprouting",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000008",
+                "CO_334:0003186"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000386",
+            "traitId": "CO_334:0000386",
+            "name": "Initial Vigor",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000009",
+                "CO_334:0000220"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000434",
+            "traitId": "CO_334:0000434",
+            "name": "Plant Stands Harvested",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000010"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000452",
+            "traitId": "CO_334:0000452",
+            "name": "Root Number",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000011"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000493",
+            "traitId": "CO_334:0000493",
+            "name": "Storage root weight",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000012",
+                "CO_334:0000157",
+                "CO_334:0000158",
+                "CO_334:0000247",
+                "CO_334:0000248"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000456",
+            "traitId": "CO_334:0000456",
+            "name": "Root yield",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000013",
+                "CO_334:0000014",
+                "CO_334:0000017",
+                "CO_334:0000230",
+                "CO_334:0000231",
+                "CO_334:0003185"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000369",
+            "traitId": "CO_334:0000369",
+            "name": "Fresh Shoot Weight",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000016"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000432",
+            "traitId": "CO_334:0000432",
+            "name": "Plant Height",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000018"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000492",
+            "traitId": "CO_334:0000492",
+            "name": "Storage Root Size",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000019",
+                "CO_334:0003189"
+            ]
+        },
+        {
+            "traitDbId": "CO_334:0000491",
+            "traitId": "CO_334:0000491",
+            "name": "Storage Root Shape",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_334:0000020",
+                "CO_334:0003188"
+            ]
+        }
+    ]
+}

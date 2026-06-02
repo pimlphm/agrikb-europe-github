@@ -1,0 +1,24 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03> a agri:MachineryMarketObservation ;
+  agri:observesProduct <agri:product_拖拉机_4ae62652> ;
+  agri:hasMarketCategory <agri:category_machinery_47e69de3> ;
+  agri:observedAt "2026-05-25 09:52:51" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "拖拉机已有公开报价线索，采购前至少比三家，确认品牌、规格、运费和售后。" .
+
+<agri:product_拖拉机_4ae62652> a agri:AgriculturalThing ;
+  schema:name "拖拉机" .
+
+<agri:category_machinery_47e69de3> a agri:MarketCategory ;
+  schema:name "农机装备" .
+
+<market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03:price:1> a agri:PriceObservation ;
+  agri:belongsTo <market:machinery:拖拉机_4ae62652:20260525_095251:0f35faee03> ;
+  agri:priceValue "91400" ;
+  agri:priceUnit "元/台" ;
+  agri:marketName "农机装备" ;
+  agri:sourceName "item.nongji360.com" ;
+  agri:sourceUrl "https://item.nongji360.com/d/52536" .

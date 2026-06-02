@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+    <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S6KL0YNC4T"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-S6KL0YNC4T');
+</script>
+        
+            
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <meta http-equiv="x-ua-compatible" content="ie=edge">
+                <meta name="description" content="Crop Ontology Curation tool">
+                <meta name="author" content="Alliance Bioversity-CIAT">
+            
+            
+                <title>Crop Ontology Curation tool</title>
+            
+                
+                <link rel="shortcut icon" href="https://cropontology.org/cropontology_static/co_ico.ico" />
+            
+
+            
+    <link href="https://cropontology.org/main_library/plugins/fontawesome-free/css/all.min.css" rel="stylesheet">
+<link href="https://cropontology.org/main_library/css/adminlte.css" rel="stylesheet">
+<link href="https://cropontology.org/main_library/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+<link href="https://cropontology.org/main_library/css/cropontology.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+
+            
+
+
+
+        
+    </head>
+    
+        <body  class="hold-transition layout-top-nav">
+        
+<div class="wrapper">
+    
+        
+            <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">
+    <div class="container">
+        
+        <a href="https://cropontology.org/" class="navbar-brand">
+            <img src="https://cropontology.org/cropontology_static/crop_ontology_logo_2.png" alt="AdminLTE Logo" class="crop_ontology-image" style="opacity: .8">
+        </a>
+        
+        
+        <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        
+        
+            <div class="collapse navbar-collapse order-3" id="navbarCollapse">
+    <ul class="navbar-nav">
+        
+            <li class="nav-item dropdown"><a id="id_about" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle">About</a><ul aria-labelledby="id_about" class="dropdown-menu border-0 shadow">
+<li class="nav-item"><a target="_self" href="https://cropontology.org/about" class="nav-link">About the project</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Curators" class="nav-link">Curators</a></li>
+</ul></li>
+<li class="nav-item dropdown"><a id="id_guidelines" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle">Guidelines</a><ul aria-labelledby="id_guidelines" class="dropdown-menu border-0 shadow">
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Workflow" class="nav-link">Workflow</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Guidelines_template" class="nav-link">Guide & Template</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/NewOntology" class="nav-link">New Ontology</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Submit" class="nav-link">New traits</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/CropCodes" class="nav-link">Crop Codes</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Annotation" class="nav-link">Trait Annotation</a></li>
+</ul></li>
+<li class="nav-item dropdown"><a id="id_site help" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle">Site Help</a><ul aria-labelledby="id_site help" class="dropdown-menu border-0 shadow">
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Usershelp" class="nav-link">Site user help</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Curatorhelp" class="nav-link">Curator help</a></li>
+</ul></li>
+<li class="nav-item dropdown"><a id="id_governance" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle">Governance</a><ul aria-labelledby="id_governance" class="dropdown-menu border-0 shadow">
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/MembersAC" class="nav-link">Members of AC</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Advisoryroles" class="nav-link">Roles of AC</a></li>
+</ul></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/api_help" class="nav-link">API</a></li>
+<li class="nav-item dropdown"><a id="id_cop tools" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle">CoP Tools</a><ul aria-labelledby="id_cop tools" class="dropdown-menu border-0 shadow">
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/CoPForum" class="nav-link">CoPForum</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/LinkedIn" class="nav-link">LinkedIn Group</a></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/page/Channel" class="nav-link">Videos</a></li>
+</ul></li>
+<li class="nav-item"><a target="_self" href="https://cropontology.org/feedback" class="nav-link">Contact</a></li>
+<li class="nav-item"><a target="_self" href="" class="nav-link"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+        
+        
+
+        
+    </ul>
+    
+        
+        
+    
+</div>
+        
+        
+            <ul class="order-1 order-md-3 navbar-nav navbar-no-expand ml-auto">
+    
+        <li class="nav-item">
+            <a class="nav-link" href="https://cropontology.org/login">
+                <i class="fas fa-sign-in-alt mr-2"></i> Login
+            </a>
+        </li>
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+</ul>
+        
+    </div>
+</nav>
+        
+        <div class="content-wrapper">
+            
+                <div class="content-header">
+                    
+    <div class="container">
+    <div class="row mb-2">
+        <div class="col-sm-6">
+            <h1 class="m-0 text-dark"> API <br></h1>
+        </div>
+        <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+                <li class="breadcrumb-item"><a href="https://cropontology.org/">Home</a></li>
+                <li class="breadcrumb-item active">API</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+                </div>
+                <div class="content">
+                    
+                        <div class="container">
+                            
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h2>API</h2>
+
+<hr />
+<p style="margin-left:0px">This is the official API for the Ontology Curation Tool. It allows you to programmatically retrieve and interact with Ontology data.</p>
+
+<p style="margin-left:0px">You can send your feedback at&nbsp;helpdesk@cropontology-curationtool.org&nbsp;</p>
+
+<p style="margin-left:0px">&nbsp;</p>
+
+<p style="margin-left:0px"><span style="font-size:16px"><strong><span style="color:#e74c3c">BRAPI&nbsp;calls</span></strong></span></p>
+
+<ul>
+	<li>get all the BRAPI calls implemented
+	<ul>
+		<li><strong>URL</strong>:&nbsp; <em>cropontology.org/brapi/v1/calls</em>&nbsp;</li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Returns</strong>: JSON</li>
+		<li><strong>Example</strong>:&nbsp;<a href="https://cropontology.org/brapi/v1/calls">cropontology.org/brapi/v1/calls&nbsp;</a></li>
+	</ul>
+	</li>
+	<li>get all the CO traits
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/brapi/v1/traits</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Returns</strong>: JSON</li>
+		<li><strong>Example</strong>:&nbsp;<a href="https://cropontology.org/brapi/v1/traits">cropontology.org/brapi/v1/traits</a></li>
+	</ul>
+	</li>
+	<li>get a specific trait
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/brapi/v1/traits/{traitID}</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Returns</strong>: JSON</li>
+		<li><strong>Example</strong>:&nbsp;<a href="https://cropontology.org/brapi/v1/traits/CO_321:0000017">cropontology.org/brapi/v1/traits/CO_321:0000017</a></li>
+	</ul>
+	</li>
+	<li>get all the CO variables
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/brapi/v1/variables</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Returns</strong>: JSON</li>
+		<li><strong>Example</strong>:&nbsp;<a href="https://cropontology.org/brapi/v1/variables">cropontology.org/brapi/v1/variables</a></li>
+	</ul>
+	</li>
+	<li>get a specific variable
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/brapi/v1/variables/{variablesID}</em></li>
+		<li><strong>Method:&nbsp;</strong>GET</li>
+		<li><strong>Returns</strong>: JSON</li>
+		<li><strong>Example</strong>:&nbsp;<a href="https://cropontology.org/brapi/v1/variables/CO_321:0001199">cropontology.org/brapi/v1/variables/CO_321:0001199</a></li>
+	</ul>
+	</li>
+</ul>
+
+<p><span style="font-size:16px"><span style="color:#e74c3c"><strong>BRAPI like calls</strong></span></span></p>
+
+<ul>
+	<li>get all the traits from a given ontology
+	<ul>
+		<li><strong>URL</strong>:&nbsp; <em>cropontology.org</em><em>/brapi/v1/traits/{ontologyID}</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Returns</strong>: JSON</li>
+		<li><strong>Example</strong>: <a href="https://cropontology.org/brapi/v1/traits/CO_334">cropontology.org/brapi/v1/traits/CO_334</a></li>
+	</ul>
+	</li>
+	<li>get all the variables&nbsp;from a given ontology
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/brapi/v1/variables/{ontologyID}</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Example</strong>:&nbsp;<a href="https://cropontology.org/brapi/v1/variables/CO_334">cropontology.org/brapi/v1/variables/CO_334</a></li>
+	</ul>
+	</li>
+</ul>
+
+<p><span style="font-size:16px"><span style="color:#e74c3c"><strong>RDF calls</strong></span></span></p>
+
+<ul>
+	<li>get the owl version of an ontology
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/ontology/{ontologyID}/rdf</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Returns</strong>: OWL (RDF/XML)</li>
+		<li><strong>Example</strong>:&nbsp;<a href="https://ropontology.org/ontology/CO_334/rdf">cropontology.org/ontology/CO_334/rdf</a></li>
+	</ul>
+	</li>
+	<li>get the owl version of a term
+	<ul>
+		<li>URL: <em>cropontology.org/rdf/{term_id}</em></li>
+		<li>Method: GET</li>
+		<li><strong>Returns</strong>: OWL (RDF/XML)</li>
+		<li>Example:&nbsp;<a href="https://cropontology.org/rdf/CO_321:0001199">cropontology.org/rdf/CO_321:0001199</a></li>
+	</ul>
+	</li>
+	<li>get statistics of all ontologies
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/ontos_stats</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Returns</strong>: JSON</li>
+		<li><strong>Example</strong>:&nbsp;&nbsp;<a href="https://cropontology.org/ontos_stats">cropontology.org/ontos_stats</a></li>
+	</ul>
+	</li>
+	<li>get ontology metadata
+	<ul>
+		<li><strong>URL</strong>: <em>cropontology.org/metadata</em></li>
+		<li><strong>Method</strong>: GET</li>
+		<li><strong>Return</strong>: YAML</li>
+		<li><strong>Example</strong>: <a href="https://cropontology.org/metadata">cropontology.org/metadata</a></li>
+	</ul>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="card">
+              <div class="card-header">
+                <h5 class="card-title m-0">API calls</h5>
+              </div>
+              <div class="card-body">
+
+              </div>
+            </div>
+    </div>
+</div>
+
+                        </div>
+                    
+                </div>
+            
+        </div>
+        
+            <footer class="main-footer">
+    <div class="container">
+        <div class="row">
+             <div class="col-md-12" style="text-align: center">
+                 <a href="https://www.integratedbreeding.net/" target="_blank"><img style="height: 65px" src="https://cropontology.org/cropontology_static/logos/IBP.png"></a>
+                 <a href="https://alliancebioversityciat.org//" target="_blank"><img style="height: 65px" src="https://cropontology.org/cropontology_static/logos/Alliance_color.jpg"></a>
+                 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1340112"  target="_blank"><img style="height: 65px" src="https://cropontology.org/cropontology_static/logos/NSF_world.jpg"></a>
+                 <a href="http://www.planteome.org/" target="_blank"><img style="height: 65px" src="https://cropontology.org/cropontology_static/logos/planteome.png"></a>
+                 <a href="https://1000farms.net/" target="_blank"><img style="height: 65px" src="https://cropontology.org/cropontology_static/logos/1000FARMS.jpg"></a>
+             </div>
+         </div>
+         <div class="row">
+         </div>
+    </div>
+</footer>
+        
+    
+</div>
+    
+        <script src="https://cropontology.org/main_library/plugins/jquery/jquery.min.js"></script>
+<script src="https://cropontology.org/main_library/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="https://cropontology.org/main_library/js/plugins/sweetalert/sweetalert.min.js"></script>
+<script src="https://cropontology.org/main_library/js/adminlte.min.js"></script>
+        <script>
+            $(document).ready(function() {
+
+                
+
+
+                var selectedLanguage = readCookie('_LOCALE_');
+                if (selectedLanguage != null)
+                    $('#language').val(selectedLanguage);
+                $("#language").bind('change', function() {
+                    //on change set cookie and...
+                    setCookie('_LOCALE_', this.value, 365);
+                    location.reload();
+                });
+            });
+
+            function setCookie(cookieName, cookieValue, nDays) {
+                var today = new Date();
+                var expire = new Date();
+
+                if (nDays==null || nDays==0)
+                    nDays=1;
+
+                expire.setTime(today.getTime() + 3600000*24*nDays);
+                document.cookie = cookieName+"="+escape(cookieValue) + ";expires="+expire.toGMTString() + ";path=/";
+            }
+
+            function readCookie(name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for(var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            }
+        </script>
+    
+
+
+        </body>
+    
+
+</html>

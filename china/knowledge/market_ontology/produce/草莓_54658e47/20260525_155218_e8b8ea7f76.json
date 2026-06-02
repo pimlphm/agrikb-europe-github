@@ -1,0 +1,279 @@
+{
+  "record_id": "market:produce:草莓_54658e47:20260525_155218:e8b8ea7f76",
+  "created_at": "2026-05-25T15:52:18",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:produce:草莓_54658e47:20260525_155218:e8b8ea7f76",
+    "@type": "agri:ProduceMarketObservation",
+    "ontology_class": {
+      "class": "agri:ProduceMarketObservation",
+      "broader": "agri:AgriculturalProduct",
+      "label": "农产品行情"
+    },
+    "product": {
+      "@id": "agri:product_草莓_54658e47",
+      "name": "草莓",
+      "broader": "agri:AgriculturalProduct"
+    },
+    "category": {
+      "@id": "agri:category_produce_432f62c7",
+      "id": "produce",
+      "name": "农产品行情"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-25 15:52:18",
+    "decision": "暂未筛到草莓的官方当日精确价，先看同类品种和来源页，再向目标市场询价。",
+    "price_rows": [
+      {
+        "name": "西葫芦",
+        "market": "全国重点批发市场均价",
+        "avg_price": "2.8795",
+        "last_price": "2.68",
+        "change_percent": "7.44",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "洋白菜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "1.7454",
+        "last_price": "1.6539",
+        "change_percent": "5.53",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "菠萝",
+        "market": "全国重点批发市场均价",
+        "avg_price": "5.619",
+        "last_price": "5.3269",
+        "change_percent": "5.48",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "大白菜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "1.4073",
+        "last_price": "1.3527",
+        "change_percent": "4.04",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "活鲤鱼",
+        "market": "全国重点批发市场均价",
+        "avg_price": "15.1815",
+        "last_price": "14.77",
+        "change_percent": "2.79",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "茄子",
+        "market": "全国重点批发市场均价",
+        "avg_price": "4.0079",
+        "last_price": "3.9074",
+        "change_percent": "2.57",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "花鲢活鱼",
+        "market": "全国重点批发市场均价",
+        "avg_price": "19.1844",
+        "last_price": "18.7387",
+        "change_percent": "2.38",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "生菜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.9407",
+        "last_price": "3.8522",
+        "change_percent": "2.3",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "草莓",
+        "market": "镇江农产品批发市场",
+        "avg_price": "13.14",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "山西太原丈子头农产品物流园",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "草莓",
+        "market": "镇江农产品批发市场",
+        "avg_price": "48.36",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "山西太原丈子头农产品物流园",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "草莓",
+        "market": "镇江农产品批发市场",
+        "avg_price": "11.5",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/斤",
+        "date": "2026-05-25",
+        "source": "青岛市城阳蔬菜水产品批发市场",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      },
+      {
+        "name": "草莓",
+        "market": "镇江农产品批发市场",
+        "avg_price": "15",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/斤",
+        "date": "2026-05-25",
+        "source": "青岛市城阳蔬菜水产品批发市场",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      }
+    ],
+    "sources": [
+      {
+        "title": "山西太原丈子头农产品物流园：水果价格行情分析",
+        "url": "https://pfsc.agri.cn/",
+        "snippet": "进入本周，虽然天气多变，但市场的反应相对温和，水果均价并未因天气因素出现剧烈波动，整体呈现持平态势。 根据市场信息中心对本周水果价格的监测数据来看：本周（2026年05月18日—2026年05月24日）总体价格持平，平均批发价格为13.14/公斤，较上周13.14元/公斤，环比同等，其中：价格最高的是榴莲，平均批发价格为48.36元/公斤，价格最低的是酥梨，平均批发价格均为3.01元/公斤。在统计的21种主要水果中，7种水果上涨，14种水果下跌。其中：上涨幅度较大的水果是山竹、桃子、哈密瓜，平均批发价格为40.61",
+        "source": "山西太原丈子头农产品物流园",
+        "date": "2026-05-25",
+        "source_type": "pfsc_article"
+      },
+      {
+        "title": "全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "农业农村部相关公开价格入口，可查询全国农产品批发市场价格信息。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "重点农产品市场信息平台",
+        "url": "https://ncpscxx.moa.gov.cn/",
+        "snippet": "农业农村部重点农产品市场信息公开平台，适合核验行情和市场数据。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "中国价格信息网-农产品",
+        "url": "https://jgjc.ndrc.gov.cn/ncp/index.jhtml",
+        "snippet": "国家发展改革委价格监测相关公开信息入口，提供农产品价格参考。",
+        "source": "政府公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "农业农村部市场与信息化司",
+        "url": "http://www.moa.gov.cn/govpublic/SCYJJXXS/",
+        "snippet": "农业农村部市场与信息化司公开信息，适合查询市场、信息化和产业政策。",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "草莓当前可见报价约1.4073元/公斤到48.36元/公斤，以全国重点批发市场均价为主要参考。",
+      "advice": [
+        "先锁定目标市场到货价",
+        "成熟货分级后优先出货",
+        "保留一部分等二次报价"
+      ],
+      "risk": "公开均价不等于成交价，规格、等级、账期和损耗会明显影响收益。",
+      "action": "今天先联系镇江农产品批发市场确认收购量。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "暂未筛到草莓的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_草莓_54658e47",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_produce_432f62c7"
+      },
+      {
+        "subject": "market:produce:草莓_54658e47:20260525_155218:e8b8ea7f76",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_草莓_54658e47"
+      },
+      {
+        "subject": "market:produce:草莓_54658e47:20260525_155218:e8b8ea7f76",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:produce:草莓_54658e47:20260525_155218:e8b8ea7f76",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:produce:草莓_54658e47:20260525_155218:e8b8ea7f76",
+        "predicate": "agri:hasDecision",
+        "object": "暂未筛到草莓的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+      }
+    ]
+  }
+}

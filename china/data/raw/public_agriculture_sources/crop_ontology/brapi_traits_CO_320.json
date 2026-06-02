@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 264,
+            "totalPages": 27
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_320:0000092",
+            "traitId": "CO_320:0000092",
+            "name": "Abortion pattern",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000625"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000055",
+            "traitId": "CO_320:0000055",
+            "name": "Alkali injury",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000626"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000102",
+            "traitId": "CO_320:0000102",
+            "name": "Amylose content",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000627",
+                "CO_320:0001556"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000894",
+            "traitId": "CO_320:0000894",
+            "name": "Anther colour",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000628"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000150",
+            "traitId": "CO_320:0000150",
+            "name": "Anther length",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000629"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000895",
+            "traitId": "CO_320:0000895",
+            "name": "Anthocyanin below apiculus",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000630",
+                "CO_320:0000631"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000896",
+            "traitId": "CO_320:0000896",
+            "name": "Apiculus anthocyanin",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000632",
+                "CO_320:0000633"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000037",
+            "traitId": "CO_320:0000037",
+            "name": "Apiculus color",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000634",
+                "CO_320:0000635",
+                "CO_320:0000636",
+                "CO_320:0000637"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000486",
+            "traitId": "CO_320:0000486",
+            "name": "Apiculus shape",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000638"
+            ]
+        },
+        {
+            "traitDbId": "CO_320:0000487",
+            "traitId": "CO_320:0000487",
+            "name": "Auricle anthocyanin",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_320:0000639"
+            ]
+        }
+    ]
+}

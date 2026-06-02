@@ -1,0 +1,264 @@
+{
+  "record_id": "market:produce:水蜜桃_dbbcbba1:20260524_210940:e71469d06d",
+  "created_at": "2026-05-24T21:09:40",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:produce:水蜜桃_dbbcbba1:20260524_210940:e71469d06d",
+    "@type": "agri:ProduceMarketObservation",
+    "ontology_class": {
+      "class": "agri:ProduceMarketObservation",
+      "broader": "agri:AgriculturalProduct",
+      "label": "农产品行情"
+    },
+    "product": {
+      "@id": "agri:product_水蜜桃_dbbcbba1",
+      "name": "水蜜桃",
+      "broader": "agri:AgriculturalProduct"
+    },
+    "category": {
+      "@id": "agri:category_produce_432f62c7",
+      "id": "produce",
+      "name": "农产品行情"
+    },
+    "locations": {
+      "production": "江苏句容",
+      "market": "镇江农产品批发市场"
+    },
+    "observed_at": "2026-05-24 21:09:40",
+    "decision": "暂未筛到水蜜桃的官方当日精确价，先看同类品种和来源页，再向目标市场询价。",
+    "price_rows": [
+      {
+        "name": "菠菜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "7.8",
+        "last_price": "4.436",
+        "change_percent": "75.83",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "土豆",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.55",
+        "last_price": "2.4987",
+        "change_percent": "42.07",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "南瓜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.75",
+        "last_price": "2.7178",
+        "change_percent": "37.98",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "大白菜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "1.85",
+        "last_price": "1.3527",
+        "change_percent": "36.76",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "白萝卜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "2.35",
+        "last_price": "1.7572",
+        "change_percent": "33.74",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "菜花",
+        "market": "全国重点批发市场均价",
+        "avg_price": "5",
+        "last_price": "3.7832",
+        "change_percent": "32.16",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "白条鸡",
+        "market": "全国重点批发市场均价",
+        "avg_price": "22.05",
+        "last_price": "16.7292",
+        "change_percent": "31.81",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "生姜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "10.2",
+        "last_price": "8.1378",
+        "change_percent": "25.34",
+        "unit": "元/公斤",
+        "date": "2026-05-25",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "水蜜桃",
+        "market": "镇江农产品批发市场",
+        "avg_price": "2.40",
+        "last_price": "",
+        "change_percent": "",
+        "unit": "元/斤",
+        "date": "来源页实时信息",
+        "source": "ymt.com",
+        "source_url": "https://www.ymt.com/hangqing/chandi_detail-8124-26076",
+        "match": "source",
+        "confidence": "公开网页需核实"
+      }
+    ],
+    "sources": [
+      {
+        "title": "济南堤口果品批发市场:本周上市水果及行情分析 (2026.5.11-5.17)",
+        "url": "https://pfsc.agri.cn/",
+        "snippet": "本周天气晴朗，气温在30度左右。伴随着本省瓜果上市期的到来，整体果市价格下调。云南“杨梅”90-150/件，河北“水蜜桃”12.5-16.5/斤。据对本周上市水果的数据。统计显示，上市量环上涨9.85%。 重点监测的20种水果统计数据显示，价格上涨的有4种，分别是：葡萄、橙、耙耙柑、水蜜桃，价格下降的有8种，分别是：西瓜、甜瓜、桃、樱桃、油桃、哈密瓜、荔枝、杏，红果、菠萝、苹果、杨梅、芒果、猕猴桃、草莓、香蕉价格基本持平。水果上市交易特点： 本周，本省瓜果市场份额占有率继续加大。西瓜、甜瓜、香瓜、樱桃、哈密瓜、葡萄",
+        "source": "济南堤口果品批发市场",
+        "date": "2026-05-19",
+        "source_type": "pfsc_article"
+      },
+      {
+        "title": "全国农产品批发市场价格信息系统 全国农产品批发市场价格信息系统",
+        "url": "http://pfsc.agri.cn/",
+        "snippet": "1 day ago · 2026年05月23日 星期六 农历四月初七 下月5日芒种",
+        "source": "农业农村部公开信息",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "c311-r11 江苏省水蜜桃今日价格_江苏省水蜜桃价格多少钱一斤-大宗行情中心-曲合...",
+        "url": "https://www.quheqihuo.com/dz/ncp-c311-r11.html",
+        "snippet": "曲合期货 行情 中心为您提供全面、及时的 行情 数据，包括江苏省 水 蜜 桃 今日 价格 ,江苏省 水 蜜 桃 多少钱一斤,江苏省 水 蜜 桃 每日报价等大宗现货 行情 ，为您的投资提供重要依据，助您在第一时间把握投资方向。",
+        "source": "quheqihuo.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "hangqing 农产品价格_全国农产品行情_农产品批发价格查询 - 惠农网",
+        "url": "https://m.cnhnb.com/hangqing/",
+        "snippet": "惠农网提供实时精准的农产品 价格行情 查询功能，用户可以查询全国各地水果蔬菜、畜牧水产、农副产品、苗木花草、农资农机等农产品的 价格行情 走势，为农产品买卖提供定价依据。",
+        "source": "m.cnhnb.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "chandi_detail-8124-26076 蜜桃价格行情走势 - 一亩田",
+        "url": "https://www.ymt.com/hangqing/chandi_detail-8124-26076",
+        "snippet": "蜜 桃 产地货源 批发 价格行情 当前位置： 全国 行情 蜜 桃 价格行情 蜜 桃 产地 行情 产地货源价格 周边销地批发市场价格 周边产地批发 价格 今日 批发 均价 相比于昨日 平稳 0 - ¥2.40 元/斤 近7天",
+        "source": "ymt.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "11/0/26076 江苏蜜桃批发价格_水果供应_一手便宜货源 _ 一亩田",
+        "url": "https://www.ymt.com/supplylist/tao-11-0-26076",
+        "snippet": "江苏 东海县 ¥1/斤 阳山水 蜜 桃 ，一件代发 ，社区团购，市场批发，不用担心售后 江苏惠山区 ¥3.60/斤 线上接单，专业 电商 代发，公司福利，专业代发 江苏惠山区 ¥1.60/斤 江苏新沂白凤 水 蜜 桃 原产地直供各种渠道 电商 一件代发 江苏新沂市 ¥38/件",
+        "source": "ymt.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "CBAEC3DBCCD2CBAEB9FB 水蜜桃水果价格-最新水蜜桃水果价格、批发报价、价格大全 - 阿里巴巴",
+        "url": "https://www.1688.com/jiage/-CBAEC3DBCCD2CBAEB9FB.html",
+        "snippet": "阿里巴巴为您找到29,369个今日最新的 水蜜桃 水果 价格 , 水蜜桃 水果批发 价格 等 行情 走势,您还可以找市场 价格 、批发 价格 等相关产品的 价格 信息。阿里巴巴也提供相关 水蜜桃 水果供应商的简介，主营产品，图片，销量等全方位信息，为您订购产品提供全方位的 价格 参考。",
+        "source": "1688",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "shuimitao 水蜜桃价格_今日水蜜桃批发多少钱一斤_最新水蜜桃价格走势查询-金投价...",
+        "url": "https://jiage.cngold.org/shuiguo/shuimitao/index.html",
+        "snippet": "May 17, 2026 · 2026-03-05 3月5日今日 水 蜜 桃 价格 多少钱一斤查询 2026-03-04 3月4日今日 水 蜜 桃 价格 多少钱一斤查询 2026-03-03 3月3日今日 水 蜜 桃 价格 多少钱一斤查询 2026-03-02 3月2日今日 水 蜜 桃 价格 多少钱一斤查询 2026-02-28 2月28日今日 水 蜜 桃 价格 多少钱一斤查询",
+        "source": "jiage.cngold.org",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "水蜜桃当前可见报价约1.85元/公斤到22.05元/公斤，以全国重点批发市场均价为主要参考。",
+      "advice": [
+        "先锁定目标市场到货价",
+        "成熟货分级后优先出货",
+        "保留一部分等二次报价"
+      ],
+      "risk": "公开均价不等于成交价，规格、等级、账期和损耗会明显影响收益。",
+      "action": "今天先联系镇江农产品批发市场确认收购量。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "暂未筛到水蜜桃的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_水蜜桃_dbbcbba1",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_produce_432f62c7"
+      },
+      {
+        "subject": "market:produce:水蜜桃_dbbcbba1:20260524_210940:e71469d06d",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_水蜜桃_dbbcbba1"
+      },
+      {
+        "subject": "market:produce:水蜜桃_dbbcbba1:20260524_210940:e71469d06d",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "江苏句容"
+      },
+      {
+        "subject": "market:produce:水蜜桃_dbbcbba1:20260524_210940:e71469d06d",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "镇江农产品批发市场"
+      },
+      {
+        "subject": "market:produce:水蜜桃_dbbcbba1:20260524_210940:e71469d06d",
+        "predicate": "agri:hasDecision",
+        "object": "暂未筛到水蜜桃的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+      }
+    ]
+  }
+}

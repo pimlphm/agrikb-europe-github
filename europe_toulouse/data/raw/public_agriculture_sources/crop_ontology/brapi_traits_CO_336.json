@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 76,
+            "totalPages": 8
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_336:0000204",
+            "traitId": "CO_336:0000204",
+            "name": "Soybean anthracnose",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000321"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000054",
+            "traitId": "CO_336:0000054",
+            "name": "Reaction to Aphis glycines",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000268"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000126",
+            "traitId": "CO_336:0000126",
+            "name": "Beet armyworm",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000292"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000003",
+            "traitId": "CO_336:0000003",
+            "name": "Bacterial Pustule",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000250"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000239",
+            "traitId": "CO_336:0000239",
+            "name": "Cercospora Leaf spot",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000334"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000075",
+            "traitId": "CO_336:0000075",
+            "name": "Chlorosis",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000275"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000129",
+            "traitId": "CO_336:0000129",
+            "name": "Defoliation",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000293"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000201",
+            "traitId": "CO_336:0000201",
+            "name": "Downy mildew",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000320"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000078",
+            "traitId": "CO_336:0000078",
+            "name": "Drought Tolerance",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000276"
+            ]
+        },
+        {
+            "traitDbId": "CO_336:0000072",
+            "traitId": "CO_336:0000072",
+            "name": "Flooding tolerance",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_336:0000274"
+            ]
+        }
+    ]
+}

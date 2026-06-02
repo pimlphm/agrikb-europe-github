@@ -1,0 +1,16 @@
+@prefix agri: <https://agrikb.local/ontology/> .
+@prefix schema: <https://schema.org/> .
+
+<market:feed:玉米饲料_195dad43:20260525_095307:47d330d7ce> a agri:FeedMarketObservation ;
+  agri:observesProduct <agri:product_玉米饲料_195dad43> ;
+  agri:hasMarketCategory <agri:category_feed_65c3466e> ;
+  agri:observedAt "2026-05-25 09:53:07" ;
+  agri:productionLocation "江苏句容" ;
+  agri:marketLocation "镇江农产品批发市场" ;
+  agri:decision "玉米饲料暂无可直接采信的价格表，先打开来源页核实报价，再让系统继续聚合。" .
+
+<agri:product_玉米饲料_195dad43> a agri:AgriculturalThing ;
+  schema:name "玉米饲料" .
+
+<agri:category_feed_65c3466e> a agri:MarketCategory ;
+  schema:name "饲料养殖" .

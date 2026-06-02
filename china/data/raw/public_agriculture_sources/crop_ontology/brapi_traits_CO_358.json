@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 173,
+            "totalPages": 18
+        },
+        "status": [],
+        "datafiles": []
+    },
+    "result": [
+        {
+            "traitDbId": "CO_358:0000077",
+            "traitId": "CO_358:0000077",
+            "name": "Seed kernel content",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000079",
+                "CO_358:0001067"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000080",
+            "traitId": "CO_358:0000080",
+            "name": "Seed coat percent",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000082",
+                "CO_358:0001068"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000009",
+            "traitId": "CO_358:0000009",
+            "name": "Fiber elongation",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000084",
+                "CO_358:0000086",
+                "CO_358:0001069",
+                "CO_358:0001070"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000013",
+            "traitId": "CO_358:0000013",
+            "name": "Fiber mature content",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000088",
+                "CO_358:0000090",
+                "CO_358:0001071"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000014",
+            "traitId": "CO_358:0000014",
+            "name": "Fiber quality score",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000092",
+                "CO_358:0000094",
+                "CO_358:0000096",
+                "CO_358:0000098",
+                "CO_358:0000119",
+                "CO_358:0001072",
+                "CO_358:0001073",
+                "CO_358:0001074",
+                "CO_358:0001075",
+                "CO_358:0001076"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000003",
+            "traitId": "CO_358:0000003",
+            "name": "Boll color",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000101",
+                "CO_358:0000104",
+                "CO_358:0001316"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000004",
+            "traitId": "CO_358:0000004",
+            "name": "Boll shape",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000107",
+                "CO_358:0000110",
+                "CO_358:0000113",
+                "CO_358:0001298"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000114",
+            "traitId": "CO_358:0000114",
+            "name": "Seed number per acre",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000117",
+                "CO_358:0001244"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000016",
+            "traitId": "CO_358:0000016",
+            "name": "Fiber uniformity",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000121",
+                "CO_358:0000129",
+                "CO_358:0001077",
+                "CO_358:0001108"
+            ]
+        },
+        {
+            "traitDbId": "CO_358:0000005",
+            "traitId": "CO_358:0000005",
+            "name": "Boll size",
+            "defaultValue": null,
+            "observationVariables": [
+                "CO_358:0000124",
+                "CO_358:0000127",
+                "CO_358:0001295"
+            ]
+        }
+    ]
+}

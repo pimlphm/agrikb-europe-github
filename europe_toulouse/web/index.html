@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1f6f50" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="data:," />
+    <title>AgriKB Europe Toulouse GUI</title>
+    <link rel="stylesheet" href="./style.css?v=toulouse-20260602" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="side-panel">
+        <div class="brand-block">
+          <span class="kicker">AgriKB Europe</span>
+          <h1>Toulouse Smart Agriculture Hub</h1>
+          <p>Regional advisory GUI for Occitanie crop services, policy checks, weather risk, market signals and traceable farm records.</p>
+        </div>
+
+        <section class="context-card">
+          <h2>Target Region</h2>
+          <dl>
+            <div><dt>Production area</dt><dd>Toulouse, Occitanie, France</dd></div>
+            <div><dt>Market node</dt><dd>Toulouse MIN Occitanie wholesale channel</dd></div>
+            <div><dt>Core users</dt><dd>Advisors, cooperatives, farms, public services</dd></div>
+          </dl>
+        </section>
+
+        <section class="context-card">
+          <h2>European Sources</h2>
+          <div class="source-list">
+            <a href="https://agriculture.ec.europa.eu/" target="_blank" rel="noopener">European Commission DG AGRI</a>
+            <a href="https://eu-cap-network.ec.europa.eu/" target="_blank" rel="noopener">EU CAP Network</a>
+            <a href="https://land.copernicus.eu/" target="_blank" rel="noopener">Copernicus Land Monitoring</a>
+            <a href="https://ec.europa.eu/eurostat/web/agriculture" target="_blank" rel="noopener">Eurostat Agriculture</a>
+            <a href="https://www.efsa.europa.eu/" target="_blank" rel="noopener">EFSA</a>
+            <a href="https://www.franceagrimer.fr/" target="_blank" rel="noopener">FranceAgriMer</a>
+            <a href="https://eur-lex.europa.eu/" target="_blank" rel="noopener">EUR-Lex</a>
+          </div>
+        </section>
+
+        <section class="context-card compact">
+          <h2>Quick Modules</h2>
+          <button class="quick-btn" data-prompt="today">Today plan</button>
+          <button class="quick-btn" data-prompt="cap">CAP and regional support</button>
+          <button class="quick-btn" data-prompt="weather">Weather and crop risk</button>
+          <button class="quick-btn" data-prompt="market">Market route</button>
+          <button class="quick-btn" data-prompt="trace">Traceability</button>
+        </section>
+      </aside>
+
+      <section class="main-panel">
+        <header class="hero">
+          <div>
+            <span class="kicker">Toulouse / Occitanie pilot</span>
+            <h2>Ask one farm-service question. Get policy, weather, market and evidence context.</h2>
+          </div>
+          <div class="status-pill" id="healthStatus">Checking backend...</div>
+        </header>
+
+        <section class="command-grid">
+          <article>
+            <strong>Crop focus</strong>
+            <span>vineyard, sunflower, durum wheat, maize, market vegetables</span>
+          </article>
+          <article>
+            <strong>Service focus</strong>
+            <span>advisory desk, cooperative operations, public service pilot</span>
+          </article>
+          <article>
+            <strong>Review model</strong>
+            <span>human-reviewed answers with source context and caveats</span>
+          </article>
+        </section>
+
+        <section class="chat-card">
+          <div class="chat-card-head">
+            <h2>Advisory Query</h2>
+            <label class="toggle">
+              <input id="webSearchToggle" type="checkbox" checked />
+              <span>Live web search</span>
+            </label>
+          </div>
+          <textarea id="queryInput" rows="5">For a cooperative near Toulouse, what should be checked today before harvesting and selling market vegetables: weather risk, available channels, CAP-related notes, and traceability records?</textarea>
+          <div class="action-row">
+            <button id="askButton" type="button">Ask AgriKB</button>
+            <button id="clearButton" class="secondary" type="button">Clear answer</button>
+          </div>
+        </section>
+
+        <section class="answer-card">
+          <div class="section-title">
+            <h2>Answer</h2>
+            <span id="answerMeta">Waiting for a query.</span>
+          </div>
+          <div id="answerOutput" class="answer-output">Choose a quick module or ask your own Toulouse agriculture question.</div>
+        </section>
+      </section>
+
+      <aside class="right-panel">
+        <section class="context-card">
+          <div class="section-title">
+            <h2>Live Toulouse Context</h2>
+            <button id="refreshLiveButton" class="secondary small" type="button">Refresh</button>
+          </div>
+          <div class="field-stack">
+            <label>Weather location <input id="weatherLocationInput" value="Toulouse, Occitanie, France" /></label>
+            <label>Production location <input id="productionLocationInput" value="Toulouse, Occitanie, France" /></label>
+            <label>Market location <input id="marketLocationInput" value="Toulouse MIN Occitanie wholesale market" /></label>
+          </div>
+          <div id="liveContextOutput" class="data-output">Live context has not been loaded yet.</div>
+        </section>
+
+        <section class="context-card">
+          <div class="section-title">
+            <h2>Market Check</h2>
+            <button id="marketButton" class="secondary small" type="button">Check</button>
+          </div>
+          <label class="field">Product
+            <select id="productSelect">
+              <option value="grape">grape</option>
+              <option value="sunflower">sunflower</option>
+              <option value="durum wheat">durum wheat</option>
+              <option value="maize">maize</option>
+              <option value="tomato">tomato</option>
+              <option value="lettuce">lettuce</option>
+            </select>
+          </label>
+          <div id="marketOutput" class="data-output">Select a product and run a market check.</div>
+        </section>
+
+        <section class="context-card">
+          <h2>Knowledge Graph</h2>
+          <div id="knowledgeOutput" class="data-output">Knowledge graph status will appear here after startup.</div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="./app.js?v=toulouse-20260602"></script>
+  </body>
+</html>

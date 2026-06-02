@@ -1,0 +1,243 @@
+{
+  "record_id": "market:produce:grape_bc8a2f8c:20260602_130400:b0230799c2",
+  "created_at": "2026-06-02T13:04:00",
+  "ontology_version": "agrikb-market-ontology-v1",
+  "node": {
+    "@context": {
+      "agri": "https://agrikb.local/ontology/",
+      "schema": "https://schema.org/",
+      "product": "agri:product",
+      "category": "agri:category",
+      "market": "agri:market",
+      "source": "agri:source"
+    },
+    "@id": "market:produce:grape_bc8a2f8c:20260602_130400:b0230799c2",
+    "@type": "agri:ProduceMarketObservation",
+    "ontology_class": {
+      "class": "agri:ProduceMarketObservation",
+      "broader": "agri:AgriculturalProduct",
+      "label": "农产品行情"
+    },
+    "product": {
+      "@id": "agri:product_grape_bc8a2f8c",
+      "name": "grape",
+      "broader": "agri:AgriculturalProduct"
+    },
+    "category": {
+      "@id": "agri:category_produce_432f62c7",
+      "id": "produce",
+      "name": "农产品行情"
+    },
+    "locations": {
+      "production": "Toulouse, Occitanie, France",
+      "market": "Toulouse MIN Occitanie wholesale market"
+    },
+    "observed_at": "2026-06-02 13:04:00",
+    "decision": "暂未筛到grape的官方当日精确价，先看同类品种和来源页，再向目标市场询价。",
+    "price_rows": [
+      {
+        "name": "黄瓜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.3079",
+        "last_price": "3.1854",
+        "change_percent": "3.85",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "冬瓜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "1.9446",
+        "last_price": "1.9008",
+        "change_percent": "2.3",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "南瓜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "2.6635",
+        "last_price": "2.6113",
+        "change_percent": "2",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "茄子",
+        "market": "全国重点批发市场均价",
+        "avg_price": "4.0674",
+        "last_price": "4.0182",
+        "change_percent": "1.22",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "菠菜",
+        "market": "全国重点批发市场均价",
+        "avg_price": "4.7791",
+        "last_price": "4.7223",
+        "change_percent": "1.2",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "平菇",
+        "market": "全国重点批发市场均价",
+        "avg_price": "7.7164",
+        "last_price": "7.6361",
+        "change_percent": "1.05",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "西红柿",
+        "market": "全国重点批发市场均价",
+        "avg_price": "3.6836",
+        "last_price": "3.6522",
+        "change_percent": "0.86",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      },
+      {
+        "name": "蒜薹",
+        "market": "全国重点批发市场均价",
+        "avg_price": "6.2347",
+        "last_price": "6.198",
+        "change_percent": "0.59",
+        "unit": "元/公斤",
+        "date": "2026-06-02",
+        "source": "农业农村部信息中心",
+        "source_url": "https://pfsc.agri.cn/",
+        "match": "related",
+        "confidence": "官方监测"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Le Grand Marché de Toulouse - Tous vos services en un clic",
+        "url": "https://www.lgm-mintoulouse.com/",
+        "snippet": "",
+        "source": "lgm-mintoulouse.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "Fresh Grape global wholesale market price today - Tridge",
+        "url": "https://www.tridge.com/intelligences/grape/price",
+        "snippet": "",
+        "source": "tridge.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "Global Fresh Grape Price | Tridge",
+        "url": "https://dir.tridge.com/prices/fresh-grape",
+        "snippet": "",
+        "source": "dir.tridge.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "Grape Prices, Production and Trade in Europe | Fresh-Market.info",
+        "url": "https://www.fresh-market.info/fruitsandvegetables/fruits/table-grapes",
+        "snippet": "",
+        "source": "fresh-market.info",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "default EURAZEO ANNOUNCES THE SALE OF 22 HOTELS BY GRAPE HOSPITALITY",
+        "url": "https://www.eurazeo.com/sites/default/files/2024-10/Grape%20Hospitality_22%20hotels%20disposal_press%20release%20EN.pdf",
+        "snippet": "Among the Real Estate strategy, Eurazeo announces that its 70%-owned subsidiary, Grape Hospitality, has successfully sold a portfolio of 22 hotels located in France .",
+        "source": "eurazeo.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "Grape Hospitality Grape Groupe hôtelier France et Europe",
+        "url": "https://grape-hospitality.com/",
+        "snippet": "6 days ago · Grape Hospitality est opérateur, propriétaire et gestionnaire d’une centaine d’hôtels et de 80 restaurants dans 8 pays européens, représentant plus de 8 000 chambres.",
+        "source": "grape-hospitality.com",
+        "date": "",
+        "source_type": "web_search"
+      },
+      {
+        "title": "22-hotels Grape Hospitality sold 22 hotels in",
+        "url": "https://europe-re.com/grape-hospitality-sold-22-hotels-in-france/73551",
+        "snippet": "Oct 4, 2024 · Grape Hospitality, owned by Eurazeo, has sold 22 hotels in France to focus on upscale segments across Europe.",
+        "source": "europe-re.com",
+        "date": "",
+        "source_type": "web_search"
+      }
+    ],
+    "ai_insight": {
+      "summary": "grape当前可见报价约1.9446元/公斤到7.7164元/公斤，以全国重点批发市场均价为主要参考。",
+      "advice": [
+        "先锁定目标市场到货价",
+        "成熟货分级后优先出货",
+        "保留一部分等二次报价"
+      ],
+      "risk": "公开均价不等于成交价，规格、等级、账期和损耗会明显影响收益。",
+      "action": "今天先联系Toulouse MIN Occitanie wholesale market确认收购量。",
+      "confidence": "基于公开行情和来源摘要",
+      "status": "ready_on_click",
+      "provider": "点击品名后调用新农人助手实时建议",
+      "decision": "暂未筛到grape的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+    },
+    "relationships": [
+      {
+        "subject": "agri:product_grape_bc8a2f8c",
+        "predicate": "agri:hasMarketCategory",
+        "object": "agri:category_produce_432f62c7"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130400:b0230799c2",
+        "predicate": "agri:observesProduct",
+        "object": "agri:product_grape_bc8a2f8c"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130400:b0230799c2",
+        "predicate": "agri:observedFromProductionLocation",
+        "object": "Toulouse, Occitanie, France"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130400:b0230799c2",
+        "predicate": "agri:targetsMarketLocation",
+        "object": "Toulouse MIN Occitanie wholesale market"
+      },
+      {
+        "subject": "market:produce:grape_bc8a2f8c:20260602_130400:b0230799c2",
+        "predicate": "agri:hasDecision",
+        "object": "暂未筛到grape的官方当日精确价，先看同类品种和来源页，再向目标市场询价。"
+      }
+    ]
+  }
+}

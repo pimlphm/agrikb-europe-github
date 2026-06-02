@@ -1,4 +1,33 @@
-node_modules/
+# Secrets and local credentials
+.env
+**/.env
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Python caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+tmp/
+temp/
+
+# OS/editor noise
 .DS_Store
 Thumbs.db
-*.log
+Desktop.ini
+.vscode/
+.idea/
